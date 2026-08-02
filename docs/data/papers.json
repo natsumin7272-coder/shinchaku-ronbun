@@ -1,1 +1,378 @@
-[]
+[
+  {
+    "pmid": "42542309",
+    "doi": "10.1016/j.actbio.2026.07.063",
+    "category": "カテーテル新技術",
+    "title_en": "Engineering Multifunctional Catheters with a Nitric Oxide-Releasing Ciprofloxacin Conjugate to Combat Thrombosis and Infection.",
+    "title_ja": "血栓症や感染症と戦うために、一酸化窒素放出シプロフロキサシン複合体を使用した多機能カテーテルを設計します。",
+    "authors": "Parker Myddelton, Kumar Sumit, Martinez Isabel, Pinon Vicente D, Lancaster Meghan, Schmiedt Chad, Brisbois Elizabeth J, Handa Hitesh",
+    "journal": "Acta biomaterialia",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-01",
+    "study_design": "in vitro研究",
+    "purpose": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。医療機器の急速な進歩にも関わらず、感染症と血栓症は引き続き機器の機能と完全性に対して大きな課題となっています。",
+    "methods": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。重要性の表明: 生体材料設計の進歩にも関わらず、カテーテル関連の血栓症と感染症はデバイスの故障と患者の罹患率の主な要因として依然として存在しており、二重機能の抗血栓形成と抗菌介入の重要な必要性が浮き彫りになっています。",
+    "results": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。 NO の放出により、SR-SNAP-CIP は in vitro で血小板接着を約 45% 減少させることができました。 14 日間の in vivo ウサギ カテーテル モデルの後、SR-SNAP-CIP はカテーテルおよび周囲の静脈上の血栓領域の大幅な減少 (約 84%) を示しました。さらに、SR-SNAP-CIP カテーテルは、付着した S の 92% 減少を示しました。",
+    "conclusion": "得られたプラットフォームは、細胞適合性および血液適合性を維持しながら、インビトロでの抗菌性能を実証しました。さらに、これらの抗菌効果と抗血栓効果は 14 日間の in vivo ウサギ カテーテル モデルでも持続し、臨床応用の強力な可能性を示しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Indwelling medical devices, such as intravenous and urinary catheters, have significantly enhanced patient care and greatly improved treatment outcomes. Despite rapid advances in medical devices, infection and thrombosis continue to pose major challenges to device functionality and integrity. Given that current treatments often involve systemic administration of antibiotics and anticoagulants, there is an urgent need for medical devices that are inherently antibacterial and antithrombotic. We explore the chemical conjugation of the nitric oxide (NO) donor S-nitroso-N-acetylpenicillamine (SNAP) with the fluoroquinolone-based, broad-spectrum antibiotic Ciprofloxacin (CIP). The combination strategy integrates the directed antibacterial activity of CIP with the antithrombotic and antibiofilm properties of NO. Furthermore, the conjugate molecule (SNAP-CIP) was incorporated into silicone rubber (SR) for catheter fabrication (SR-SNAP-CIP). SR-SNAP-CIP demonstrated NO-release for 14 days while remaining biocompatible. The NO release allowed SR-SNAP-CIP to reduce platelet adhesion in vitro by ∼45%. The dual-action material exhibited antibacterial properties when tested in vitro for bacterial adhesion (24 h and 14-day CDC bioreactor), planktonic viability, and biofilm biomass accumulation against S. aureus, and E. coli. To assess bacterial migration across the skin barrier, an ex vivo skin translocation model was performed, which showed no bacterial migration on the SR-SNAP-CIP catheter. After the 14-day in vivo rabbit catheter model, SR-SNAP-CIP showed a significant reduction (∼84%) in thrombus area on the catheter and surrounding vein. Furthermore, SR-SNAP-CIP catheters showed a 92% reduction in adhered S. aureus. Overall, SR-SNAP-CIP demonstrated a combination of technologies, harnessing the antibacterial potential of CIP and the antibiofilm and antithrombotic properties of NO. STATEMENT OF SIGNIFICANCE: Despite advancements in biomaterial design, catheter-associated thrombosis and infection persist as primary drivers of device failure and patient morbidity, highlighting the critical need for dual-functioning anti-thrombogenic and antimicrobial interventions. Materials capable of addressing both challenges simultaneously are vital to the development of next-generation, hemocompatible catheter biomaterials. In this work, we present the incorporation of a nitric oxide (NO)-releasing ciprofloxacin conjugate molecule into a polymer platform to achieve extended NO release and robust antiplatelet activity. The resulting platform demonstrated antibacterial performance in vitro, while remaining cyto- and hemo-compatible. Furthermore, these antibacterial and antithrombotic effects were sustained in a 14-day in vivo rabbit catheter model, indicating strong potential for clinical translation.",
+    "abstract_ja": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。医療機器の急速な進歩にも関わらず、感染症と血栓症は引き続き機器の機能と完全性に対して大きな課題となっています。現在の治療には抗生物質や抗凝固剤の全身投与が含まれることが多いため、本質的に抗菌性と抗血栓性を備えた医療機器が緊急に必要とされています。私たちは、一酸化窒素 (NO) 供与体である S-ニトロソ-N-アセチルペニシラミン (SNAP) と、フルオロキノロンベースの広域抗生物質シプロフロキサシン (CIP) との化学的結合を探索します。この組み合わせ戦略は、CIP の指向性抗菌活性と NO の抗血栓性および抗バイオフィルム特性を統合します。さらに、カテーテル作製用のシリコーンゴム（SR）に複合体分子（SNAP-CIP）を組み込んだ（SR-SNAP-CIP）。 SR-SNAP-CIP は、生体適合性を維持しながら 14 日間 NO 放出を実証しました。 NO の放出により、SR-SNAP-CIP は in vitro で血小板接着を約 45% 減少させることができました。このデュアルアクション材料は、細菌付着 (24 時間および 14 日間の CDC バイオリアクター)、浮遊生物の生存率、および黄色ブドウ球菌および大腸菌に対するバイオフィルム バイオマス蓄積について in vitro で試験した場合、抗菌特性を示しました。皮膚バリアを通過する細菌の移動を評価するために、ex vivo 皮膚移行モデルを実行しましたが、SR-SNAP-CIP カテーテル上では細菌の移動は示されませんでした。 14 日間の in vivo ウサギ カテーテル モデルの後、SR-SNAP-CIP はカテーテルおよび周囲の静脈上の血栓領域の大幅な減少 (約 84%) を示しました。さらに、SR-SNAP-CIP カテーテルは、付着した黄色ブドウ球菌の 92% 減少を示しました。全体として、SR-SNAP-CIP は、CIP の抗菌能力と NO の抗バイオフィルムおよび抗血栓特性を利用する技術の組み合わせを実証しました。重要性の表明: 生体材料設計の進歩にも関わらず、カテーテル関連の血栓症と感染症はデバイスの故障と患者の罹患率の主な要因として依然として存在しており、二重機能の抗血栓形成と抗菌介入の重要な必要性が浮き彫りになっています。両方の課題に同時に対処できる材料は、次世代の血液適合性カテーテル生体材料の開発に不可欠です。この研究では、一酸化窒素 (NO) 放出性シプロフロキサシン複合体分子をポリマープラットフォームに組み込んで、持続的な NO 放出と強力な抗血小板活性を達成することを紹介します。得られたプラットフォームは、細胞適合性および血液適合性を維持しながら、インビトロでの抗菌性能を実証しました。さらに、これらの抗菌効果と抗血栓効果は 14 日間の in vivo ウサギ カテーテル モデルでも持続し、臨床応用の強力な可能性を示しています。",
+    "detail_methods": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。重要性の表明: 生体材料設計の進歩にも関わらず、カテーテル関連の血栓症と感染症はデバイスの故障と患者の罹患率の主な要因として依然として存在しており、二重機能の抗血栓形成と抗菌介入の重要な必要性が浮き彫りになっています。",
+    "detail_results": "静脈カテーテルや導尿カテーテルなどの留置医療機器は、患者ケアを大幅に強化し、治療結果を大幅に改善しました。 NO の放出により、SR-SNAP-CIP は in vitro で血小板接着を約 45% 減少させることができました。 14 日間の in vivo ウサギ カテーテル モデルの後、SR-SNAP-CIP はカテーテルおよび周囲の静脈上の血栓領域の大幅な減少 (約 84%) を示しました。さらに、SR-SNAP-CIP カテーテルは、付着した S の 92% 減少を示しました。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "45%",
+        "source": "The NO release allowed SR-SNAP-CIP to reduce platelet adhesion in vitro by ∼45%."
+      },
+      {
+        "item": "割合",
+        "value": "84%",
+        "source": "After the 14-day in vivo rabbit catheter model, SR-SNAP-CIP showed a significant reduction (∼84%) in thrombus area on the catheter and surrounding vein."
+      },
+      {
+        "item": "割合",
+        "value": "92%",
+        "source": "Furthermore, SR-SNAP-CIP catheters showed a 92% reduction in adhered S."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542309/",
+    "doi_url": "https://doi.org/10.1016/j.actbio.2026.07.063",
+    "created_at": "2026-08-02T06:34:29.779860+00:00"
+  },
+  {
+    "pmid": "42540543",
+    "doi": "10.7759/cureus.111893",
+    "category": "カテーテル新技術",
+    "title_en": "Medical Device-Associated Infections in Intensive Care Settings: Biofilms, Multidrug-Resistant Pathogens, and Prevention Strategies.",
+    "title_ja": "集中治療環境における医療機器関連感染症: バイオフィルム、多剤耐性病原体、および予防戦略。",
+    "authors": "Fakir Anam A, Patil Satish R, Mane Priyanka M",
+    "journal": "Cureus",
+    "publication_date": "2026-07-01",
+    "entry_date": "2026-08-01",
+    "study_design": "動物実験",
+    "purpose": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。人工呼吸器、中心静脈カテーテル、尿道カテーテルなどの侵襲的医療機器の使用は、かなりの数の HAI に関連しています。",
+    "methods": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。",
+    "results": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。人工呼吸器、中心静脈カテーテル、尿道カテーテルなどの侵襲的医療機器の使用は、かなりの数の HAI に関連しています。人工呼吸器関連肺炎、中心線関連血流感染症、およびカテーテル関連尿路感染症は、医療 DAI の最も一般的な形態です。これらの感染症により、入院期間が長くなり、医療費が高額になることがよくあります。",
+    "conclusion": "カルバペネム耐性や拡張スペクトルのβ-ラクタマーゼ産生などのメカニズムにより、治療はさらに複雑になります。世界保健機関は、優先リストの中で、MDR 病原体に緊急に対処する必要性を強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "A large percentage of healthcare-associated infections (HAIs) are medical device-associated infections (DAIs), which significantly raise patient morbidity, mortality, and medical costs. The use of invasive medical devices such as ventilators, central venous catheters, and urinary catheters is linked to a significant number of HAIs. Reports from the World Health Organization and extensive epidemiological studies highlight the pervasive effects of HAIs, particularly in resource-constrained environments. Ventilator-associated pneumonia, central line-associated bloodstream infections, and catheter-associated urinary tract infections are the most common forms of medical DAIs. These infections frequently result in longer hospital stays and more expensive medical care. Longer device use and inadequate aseptic procedures increase the risk of infection. Furthermore, because implant-related infections are recurrent and persistent, they present additional treatment challenges. One of the main causes of medical DAIs is biofilm formation. Biofilms are structured groups of microorganisms encased in an extracellular matrix that enhances their survival and resistance. Adhesion, maturation, and dispersion are the stages of biofilm formation that lead to persistent infections. These biofilms offer defense against the immune system and antibiotics. Staphylococcus aureus, Pseudomonas aeruginosa, Acinetobacter baumannii, and Klebsiella pneumoniae are common pathogens linked to DAIs; many of these pathogens exhibit multidrug resistance (MDR). Mechanisms such as carbapenem resistance and extended-spectrum β-lactamase production complicate treatment even more. On its priority list, the World Health Organization emphasizes the urgent need to address MDR pathogens.",
+    "abstract_ja": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。人工呼吸器、中心静脈カテーテル、尿道カテーテルなどの侵襲的医療機器の使用は、かなりの数の HAI に関連しています。世界保健機関からの報告書と広範な疫学研究は、特に資源に制約のある環境における HAI の広範な影響を浮き彫りにしています。人工呼吸器関連肺炎、中心線関連血流感染症、およびカテーテル関連尿路感染症は、医療 DAI の最も一般的な形態です。これらの感染症により、入院期間が長くなり、医療費が高額になることがよくあります。装置の使用時間が長くなったり、無菌手順が不十分だと、感染のリスクが高まります。さらに、インプラント関連の感染症は再発し、持続するため、さらなる治療上の課題が生じます。医療用 DAI の主な原因の 1 つはバイオフィルムの形成です。バイオフィルムは、微生物の生存と抵抗力を強化する細胞外マトリックスに包まれた構造化された微生物のグループです。接着、成熟、および分散は、持続感染を引き起こすバイオフィルム形成の段階です。これらのバイオフィルムは、免疫系や抗生物質に対する防御を提供します。黄色ブドウ球菌、緑膿菌、アシネトバクター バウマンニ、および肺炎桿菌は、DAI に関連する一般的な病原体です。これらの病原体の多くは多剤耐性 (MDR) を示します。カルバペネム耐性や拡張スペクトルのβ-ラクタマーゼ産生などのメカニズムにより、治療はさらに複雑になります。世界保健機関は、優先リストの中で、MDR 病原体に緊急に対処する必要性を強調しています。",
+    "detail_methods": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。",
+    "detail_results": "医療関連感染 (HAI) の大部分は医療機器関連感染 (DAI) であり、患者の罹患率、死亡率、および医療費を大幅に増加させます。人工呼吸器、中心静脈カテーテル、尿道カテーテルなどの侵襲的医療機器の使用は、かなりの数の HAI に関連しています。人工呼吸器関連肺炎、中心線関連血流感染症、およびカテーテル関連尿路感染症は、医療 DAI の最も一般的な形態です。これらの感染症により、入院期間が長くなり、医療費が高額になることがよくあります。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42540543/",
+    "doi_url": "https://doi.org/10.7759/cureus.111893",
+    "created_at": "2026-08-02T06:34:50.766518+00:00"
+  },
+  {
+    "pmid": "42536531",
+    "doi": "10.1097/MD.0000000000049971",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Pathogen distribution and risk factors for nosocomial infections in the operating room: A case-control study.",
+    "title_ja": "手術室における病原体の分布と院内感染の危険因子: 症例対照研究。",
+    "authors": "Yin Hongsheng, Wu Weiqin",
+    "journal": "Medicine",
+    "publication_date": "2026-07-31",
+    "entry_date": "2026-07-31",
+    "study_design": "症例対照研究",
+    "purpose": "院内感染は依然として術後の罹患率と入院期間の長期化の主な原因であり、抗菌薬への曝露と耐性の選択に寄与しています。 2025年1月から12月までに手術室で治療を受けた連続手術患者を対象に、遡及的症例対照研究が実施された。サンプルには、事前に定義された研究期間中のすべての適格な感染例と、1:1 の比率で選択された同時期の対照が含まれていました。",
+    "methods": "2025年1月から12月までに手術室で治療を受けた連続手術患者を対象に、遡及的症例対照研究が実施された。サンプルには、事前に定義された研究期間中のすべての適格な感染例と、1:1 の比率で選択された同時期の対照が含まれていました。症例は、疾病管理予防センターおよび全米医療安全ネットワークの定義を使用して判断された術後院内感染を発症した患者でした。対照は、院内感染のない同時期の手術患者であった。 56 例中 44 例 (78.6%) で培養陽性が確認され、手術部位および呼吸器サンプルからの検体レベルの収量が最も高かった。",
+    "results": "Risk factors were assessed using univariate and multivariable logistic regression, with odds ratios and 95% confidence intervals. 56 例中 44 例 (78.6%) で培養陽性が確認され、手術部位および呼吸器サンプルからの検体レベルの収量が最も高かった。 Among 56 non-duplicate isolates, Gram-negative bacteria predominated (58.9%), followed by Gram-positive bacteria (32.1%) and fungi (8.9%); pathogen profiles differed by syndrome, with pneumonia largely caused by Gram-negative bacteria.多変量解析では、慢性閉塞性肺疾患、術前入院期間の延長、術前の尿カテーテル挿入、血清アルブミンの低下、手術時間の延長、術中低体温が感染リスクと独立して関連していた。",
+    "conclusion": "多変量解析では、慢性閉塞性肺疾患、術前入院期間の延長、術前の尿カテーテル挿入、血清アルブミンの低下、手術時間の延長、術中低体温が感染リスクと独立して関連していた。手術室関連の院内感染は症候群特異的な病原体の分布を示し、宿主の脆弱性と修正可能な周術期曝露の両方に関連しており、統合された予防および予測戦略を裏付けています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Nosocomial infections remain a leading cause of postoperative morbidity and prolonged hospitalization, and they contribute to antimicrobial exposure and resistance selection. A retrospective case-control study was conducted among consecutive surgical patients treated in the operating room between January and December 2025; the sample comprised all eligible infected cases during the predefined study period and contemporaneous controls selected at a 1:1 ratio. Cases were patients who developed a postoperative nosocomial infection adjudicated using the Centers for Disease Control and Prevention and National Healthcare Safety Network definitions; controls were contemporaneous surgical patients without a nosocomial infection. Data were extracted from electronic clinical, anesthesia, operating room, laboratory, and microbiology systems. Group comparisons used Welch's t test, Mann-Whitney U test, chi-square test, or Fisher's exact test. Risk factors were assessed using univariate and multivariable logistic regression, with odds ratios and 95% confidence intervals. Culture positivity was identified in 44 of 56 cases (78.6%), with the highest specimen-level yield from operative-site and respiratory samples. Among 56 non-duplicate isolates, Gram-negative bacteria predominated (58.9%), followed by Gram-positive bacteria (32.1%) and fungi (8.9%); pathogen profiles differed by syndrome, with pneumonia largely caused by Gram-negative bacteria. In multivariable analysis, chronic obstructive pulmonary disease, longer preoperative length of stay, preoperative urinary catheterization, lower serum albumin, prolonged operative time, and intraoperative hypothermia were independently associated with infection risk. Operating room-associated nosocomial infections demonstrated syndrome-specific pathogen distributions and were linked to both host vulnerability and modifiable perioperative exposures, supporting integrated prevention and predictive strategies.",
+    "abstract_ja": "院内感染は依然として術後の罹患率と入院期間の長期化の主な原因であり、抗菌薬への曝露と耐性の選択に寄与しています。 2025年1月から12月までに手術室で治療を受けた連続手術患者を対象に、遡及的症例対照研究が実施された。サンプルには、事前に定義された研究期間中のすべての適格な感染例と、1:1 の比率で選択された同時期の対照が含まれていました。症例は、疾病管理予防センターおよび全米医療安全ネットワークの定義を使用して判断された術後院内感染を発症した患者でした。対照は、院内感染のない同時期の手術患者であった。データは、電子臨床システム、麻酔システム、手術室、実験室、微生物学システムから抽出されました。グループ比較には、ウェルチの t 検定、マン-ホイットニーの U 検定、カイ二乗検定、またはフィッシャーの直接確率検定を使用しました。リスク因子は、オッズ比と 95% 信頼区間を使用して、単変量および多変量のロジスティック回帰を使用して評価されました。 56 例中 44 例 (78.6%) で培養陽性が確認され、手術部位および呼吸器サンプルからの検体レベルの収量が最も高かった。重複しない分離株 56 株のうち、グラム陰性菌 (58.9%) が優勢で、次にグラム陽性菌 (32.1%)、真菌 (8.9%) でした。病原体プロファイルは症候群によって異なり、肺炎は主にグラム陰性菌によって引き起こされます。多変量解析では、慢性閉塞性肺疾患、術前入院期間の延長、術前の尿カテーテル挿入、血清アルブミンの低下、手術時間の延長、術中低体温が感染リスクと独立して関連していた。手術室関連の院内感染は症候群特異的な病原体の分布を示し、宿主の脆弱性と修正可能な周術期曝露の両方に関連しており、統合された予防および予測戦略を裏付けています。",
+    "detail_methods": "2025年1月から12月までに手術室で治療を受けた連続手術患者を対象に、遡及的症例対照研究が実施された。サンプルには、事前に定義された研究期間中のすべての適格な感染例と、1:1 の比率で選択された同時期の対照が含まれていました。症例は、疾病管理予防センターおよび全米医療安全ネットワークの定義を使用して判断された術後院内感染を発症した患者でした。対照は、院内感染のない同時期の手術患者であった。 56 例中 44 例 (78.6%) で培養陽性が確認され、手術部位および呼吸器サンプルからの検体レベルの収量が最も高かった。",
+    "detail_results": "リスク因子は、オッズ比と 95% 信頼区間を使用して、単変量および多変量のロジスティック回帰を使用して評価されました。 56 例中 44 例 (78.6%) で培養陽性が確認され、手術部位および呼吸器サンプルからの検体レベルの収量が最も高かった。重複しない分離株 56 株のうち、グラム陰性菌 (58.9%) が優勢で、次にグラム陽性菌 (32.1%)、真菌 (8.9%) でした。病原体プロファイルは症候群によって異なり、肺炎は主にグラム陰性菌によって引き起こされます。多変量解析では、慢性閉塞性肺疾患、術前入院期間の延長、術前の尿カテーテル挿入、血清アルブミンの低下、手術時間の延長、術中低体温が感染リスクと独立して関連していた。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Risk factors were assessed using univariate and multivariable logistic regression, with odds ratios and 95% confidence intervals."
+      },
+      {
+        "item": "割合",
+        "value": "78.6%",
+        "source": "Culture positivity was identified in 44 of 56 cases (78.6%), with the highest specimen-level yield from operative-site and respiratory samples."
+      },
+      {
+        "item": "割合",
+        "value": "58.9%",
+        "source": "Among 56 non-duplicate isolates, Gram-negative bacteria predominated (58.9%), followed by Gram-positive bacteria (32.1%) and fungi (8.9%); pathogen profiles differed by syndrome, with pneumonia largely caused by Gram-negative bacteria."
+      },
+      {
+        "item": "割合",
+        "value": "32.1%",
+        "source": "Among 56 non-duplicate isolates, Gram-negative bacteria predominated (58.9%), followed by Gram-positive bacteria (32.1%) and fungi (8.9%); pathogen profiles differed by syndrome, with pneumonia largely caused by Gram-negative bacteria."
+      },
+      {
+        "item": "割合",
+        "value": "8.9%",
+        "source": "Among 56 non-duplicate isolates, Gram-negative bacteria predominated (58.9%), followed by Gram-positive bacteria (32.1%) and fungi (8.9%); pathogen profiles differed by syndrome, with pneumonia largely caused by Gram-negative bacteria."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42536531/",
+    "doi_url": "https://doi.org/10.1097/MD.0000000000049971",
+    "created_at": "2026-08-02T06:33:59.475793+00:00"
+  },
+  {
+    "pmid": "42535026",
+    "doi": "10.3389/fcimb.2026.1853826",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Multi-habitat microbiome profiling identifies habitat-dependent alterations and complementary discriminatory information in urolithiasis.",
+    "title_ja": "複数生息地マイクロバイオームプロファイリングにより、尿路結石症における生息地依存の変化と補完的な識別情報が特定されます。",
+    "authors": "Jia Zhentao, Peng Yujiao, Jiang Shuangjian, Tang Yiming, Yin Hening, Huang Lijuan, Li Pengju, Mo Chengqiang, Wu Rongpei",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-07-31",
+    "study_design": "動物実験",
+    "purpose": "尿路結石症は、個々の解剖学的ニッチにおける微生物の変化と関連しています。しかし、泌尿器、腸、口腔の生息環境全体にわたる微生物の特徴が、共通の、部位固有の、または相補的な疾患関連情報を表すかどうかは、依然として不明である。この研究は、尿路結石症に関連する複数生息地マイクロバイオームの変化を特徴づけ、統合された複数部位プロファイリングが内部で交差検証された疾患関連微生物情報を捕捉するかどうかを評価することを目的としました。",
+    "methods": "80 人の結石者 (SF) と 40 人の健康な対照 (HC) から唾液、クリーンキャッチ中流尿、および糞便サンプルを収集し、16S rRNA 遺伝子配列決定を使用してプロファイリングしました。品質管理後の最終分析データセットは、101 件の尿サンプル、117 件の糞便サンプル、および 120 件の唾液サンプルで構成され、98 人の参加者が完全な 3 つの生息地プロファイルに貢献しました。生息地固有のアルファおよびベータの多様性、分類学的変化、および探索的な推定ネットワークと予測機能プロファイルが評価されました。ランダムフォレストモデルは、単一および複数生息地の微生物の特徴からの内部識別情報を調べるために、繰り返しネストされた層化相互検証を使用して評価されました。",
+    "results": "尿路結石症は、統計的に検出可能な、3 つの生息地すべてにわたる微生物群集構造のわずかな違いと関連しており、PERMANOVA の効果サイズは小さく、分散には大きな違いがありました。 SF からの糞便サンプルは、偽発見率補正後 (すべて q = 0.022)、HC よりも低い Sobs、Chao1、および ACE 指数を含む濃厚性の大幅な低下を示しましたが、尿および唾液のアルファ多様性は広範な損失を示さなかった。分類学的変化は生息地に依存していた。唾液では最も広範な共変量に強い属レベルの候補セットが得られ、糞便では安定したHCが豊富な属の数が減少し、その濃度が低下し、尿では候補の関連性が同定されたが、尿の低バイオマス性と陰性対照の欠如のため、前向きの汚染管理された検証が必要であった。対応する参加者において、複合生息地マイクロバイオームモデルは、受信者動作特性曲線下面積 0.865 (95% CI、0.839-0.886) を達成し、年齢、性別、BMI に基づく限定された臨床のみのモデル (AUC、0.738、デルタ AUC、0.128、95% CI、0.026-0.229) を上回りました。最良の単一生息地マイクロバイオーム モデルに対する改善は、統計的に決定的ではありませんでした。外部状況分析により、KiSMi における部分的な泌尿器コミュニティレベルのサポートと、広範な共変量調整後の逆ではあるが FDR 非有意な NHANES 口腔リッチネス関連性が提供され、調和された前向き検証がサポートされました。",
+    "conclusion": "これらの発見は、尿路結石症における生息地依存のマイクロバイオームの変化を特定し、統合された複数生息地プロファイリングが限られた臨床ベースラインを超えて疾患に関連する微生物情報を捕捉することを示しています。糞便濃度の低下、広範囲の唾液共変量耐性候補、生物学的に近位の尿候補、および外部コンテキストシグナルの組み合わせは、将来の機構研究およびトランスレーショナル研究のための貴重な枠組みとして、複数部位の同時プロファイリングをサポートします。厳密な低バイオマス管理、包括的な曝露メタデータ、直接的な機能測定、および事前に指定された独立した検証による前向き研究が保証されています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urolithiasis",
+      "microbiome"
+    ],
+    "abstract_en": "BACKGROUND: Urolithiasis has been associated with microbial alterations in individual anatomical niches; however, whether microbial signatures across urinary, intestinal, and oral habitats represent shared, site-specific, or complementary disease-associated information remains unclear. This study aimed to characterize multi-habitat microbiome alterations associated with urolithiasis and to evaluate whether integrated multi-site profiling captures internally cross-validated disease-associated microbial information.\nMETHODS: Salivary, clean-catch midstream urinary, and fecal samples were collected from 80 stone formers (SF) and 40 healthy controls (HC) and profiled using 16S rRNA gene sequencing. After quality control, the final analytical dataset comprised 101 urinary, 117 fecal, and 120 salivary samples, with 98 participants contributing complete three-habitat profiles. Habitat-specific alpha- and beta-diversity, taxonomic alterations, and exploratory inferred-network and predicted-functional profiles were evaluated. Random forest models were assessed using repeated nested stratified cross-validation to examine internal discriminatory information from single- and multi-habitat microbial features.\nRESULTS: Urolithiasis was associated with statistically detectable but modest differences in microbial community structure across all three habitats, with small PERMANOVA effect sizes and significant dispersion differences. Fecal samples from SF showed significantly reduced richness, including lower Sobs, Chao1, and ACE indices than HC after false discovery rate correction (all q = 0.022), whereas urinary and salivary alpha-diversity did not show broad loss. Taxonomic alterations were habitat dependent: saliva yielded the broadest covariate-robust genus-level candidate set, feces showed fewer stable HC-enriched genera alongside reduced richness, and urinary candidate associations were identified but require prospective contamination-controlled validation because of the low-biomass nature of urine and the absence of negative controls. In matched participants, the combined multi-habitat microbiome model achieved an area under the receiver operating characteristic curve of 0.865 (95% CI, 0.839-0.886), exceeding the limited clinical-only model based on age, sex, and body mass index (AUC, 0.738; delta-AUC, 0.128; 95% CI, 0.026-0.229). Improvement over the best single-habitat microbiome model was not statistically conclusive. External contextual analyses provided partial urinary community-level support in KiSMi and an inverse but FDR-non-significant NHANES oral-richness association after extensive covariate adjustment, supporting harmonized prospective validation.\nCONCLUSIONS: These findings identify habitat-dependent microbiome alterations in urolithiasis and show that integrated multi-habitat profiling captures disease-associated microbial information beyond a limited clinical baseline. The combination of reduced fecal richness, broad salivary covariate-robust candidates, biologically proximal urinary candidates, and external contextual signals supports simultaneous multi-site profiling as a valuable framework for future mechanistic and translational studies. Prospective studies with rigorous low-biomass controls, comprehensive exposure metadata, direct functional measurements, and prespecified independent validation are warranted.",
+    "abstract_ja": "背景: 尿路結石症は、個々の解剖学的ニッチにおける微生物の変化と関連している。しかし、泌尿器、腸、口腔の生息環境全体にわたる微生物の特徴が、共通の、部位固有の、または相補的な疾患関連情報を表すかどうかは、依然として不明である。この研究は、尿路結石症に関連する複数生息地マイクロバイオームの変化を特徴づけ、統合された複数部位プロファイリングが内部で交差検証された疾患関連微生物情報を捕捉するかどうかを評価することを目的としました。\n方法: 80 人の結石者 (SF) と 40 人の健康な対照 (HC) から唾液、クリーンキャッチ中流尿、および糞便サンプルを収集し、16S rRNA 遺伝子配列決定を使用してプロファイリングしました。品質管理後の最終分析データセットは、101 件の尿サンプル、117 件の糞便サンプル、および 120 件の唾液サンプルで構成され、98 人の参加者が完全な 3 つの生息地プロファイルに貢献しました。生息地固有のアルファおよびベータの多様性、分類学的変化、および探索的な推定ネットワークと予測機能プロファイルが評価されました。ランダムフォレストモデルは、単一および複数生息地の微生物の特徴からの内部識別情報を調べるために、繰り返しネストされた層化相互検証を使用して評価されました。\n結果: 尿路結石症は、3 つの生息地すべてにわたる微生物群集構造における統計的に検出可能なわずかな差異と関連しており、PERMANOVA 効果サイズは小さく、分散には有意な差異が見られました。 SF からの糞便サンプルは、偽発見率補正後 (すべて q = 0.022)、HC よりも低い Sobs、Chao1、および ACE 指数を含む濃厚性の大幅な低下を示しましたが、尿および唾液のアルファ多様性は広範な損失を示さなかった。分類学的変化は生息地に依存していた。唾液では最も広範な共変量に強い属レベルの候補セットが得られ、糞便では安定したHCが豊富な属の数が減少し、その濃度が低下し、尿では候補の関連性が同定されたが、尿の低バイオマス性と陰性対照の欠如のため、前向きの汚染管理された検証が必要であった。対応する参加者において、複合生息地マイクロバイオームモデルは、受信者動作特性曲線下面積 0.865 (95% CI、0.839-0.886) を達成し、年齢、性別、BMI に基づく限定された臨床のみのモデル (AUC、0.738、デルタ AUC、0.128、95% CI、0.026-0.229) を上回りました。最良の単一生息地マイクロバイオーム モデルに対する改善は、統計的に決定的ではありませんでした。外部状況分析により、KiSMi における部分的な泌尿器コミュニティレベルのサポートと、広範な共変量調整後の逆ではあるが FDR 非有意な NHANES 口腔リッチネス関連性が提供され、調和された前向き検証がサポートされました。\n結論：これらの発見は、尿路結石症における生息地依存のマイクロバイオームの変化を特定し、統合された複数生息地プロファイリングにより、限られた臨床ベースラインを超えて疾患に関連する微生物情報を捕捉することを示しています。糞便濃度の低下、広範囲の唾液共変量耐性候補、生物学的に近位の尿候補、および外部コンテキストシグナルの組み合わせは、将来の機構研究およびトランスレーショナル研究のための貴重な枠組みとして、複数部位の同時プロファイリングをサポートします。厳密な低バイオマス管理、包括的な曝露メタデータ、直接的な機能測定、および事前に指定された独立した検証による前向き研究が保証されています。",
+    "detail_methods": "80 人の結石者 (SF) と 40 人の健康な対照 (HC) から唾液、クリーンキャッチ中流尿、および糞便サンプルを収集し、16S rRNA 遺伝子配列決定を使用してプロファイリングしました。品質管理後の最終分析データセットは、101 件の尿サンプル、117 件の糞便サンプル、および 120 件の唾液サンプルで構成され、98 人の参加者が完全な 3 つの生息地プロファイルに貢献しました。生息地固有のアルファおよびベータの多様性、分類学的変化、および探索的な推定ネットワークと予測機能プロファイルが評価されました。ランダムフォレストモデルは、単一および複数生息地の微生物の特徴からの内部識別情報を調べるために、繰り返しネストされた層化相互検証を使用して評価されました。",
+    "detail_results": "尿路結石症は、統計的に検出可能な、3 つの生息地すべてにわたる微生物群集構造のわずかな違いと関連しており、PERMANOVA の効果サイズは小さく、分散には大きな違いがありました。 SF からの糞便サンプルは、偽発見率補正後 (すべて q = 0.022)、HC よりも低い Sobs、Chao1、および ACE 指数を含む濃厚性の大幅な低下を示しましたが、尿および唾液のアルファ多様性は広範な損失を示さなかった。分類学的変化は生息地に依存していた。唾液では最も広範な共変量に強い属レベルの候補セットが得られ、糞便では安定したHCが豊富な属の数が減少し、その濃度が低下し、尿では候補の関連性が同定されたが、尿の低バイオマス性と陰性対照の欠如のため、前向きの汚染管理された検証が必要であった。対応する参加者において、複合生息地マイクロバイオームモデルは、受信者動作特性曲線下面積 0.865 (95% CI、0.839-0.886) を達成し、年齢、性別、BMI に基づく限定された臨床のみのモデル (AUC、0.738、デルタ AUC、0.128、95% CI、0.026-0.229) を上回りました。最良の単一生息地マイクロバイオーム モデルに対する改善は、統計的に決定的ではありませんでした。外部状況分析により、KiSMi における部分的な泌尿器コミュニティレベルのサポートと、広範な共変量調整後の逆ではあるが FDR 非有意な NHANES 口腔リッチネス関連性が提供され、調和された前向き検証がサポートされました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "98 participants",
+        "source": "After quality control, the final analytical dataset comprised 101 urinary, 117 fecal, and 120 salivary samples, with 98 participants contributing complete three-habitat profiles."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In matched participants, the combined multi-habitat microbiome model achieved an area under the receiver operating characteristic curve of 0.865 (95% CI, 0.839-0.886), exceeding the limited clinical-only model based on age, sex, and body mass index (AUC, 0.738; delta-AUC, 0.128; 95% CI, 0.026-0.229)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 0",
+        "source": "In matched participants, the combined multi-habitat microbiome model achieved an area under the receiver operating characteristic curve of 0.865 (95% CI, 0.839-0.886), exceeding the limited clinical-only model based on age, sex, and body mass index (AUC, 0.738; delta-AUC, 0.128; 95% CI, 0.026-0.229)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42535026/",
+    "doi_url": "https://doi.org/10.3389/fcimb.2026.1853826",
+    "created_at": "2026-08-02T06:34:15.201924+00:00"
+  },
+  {
+    "pmid": "42537208",
+    "doi": "10.1097/JU.0000000000005237",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Microplastics in Urinary Calculi: Evidence from Human Urinary Stones.",
+    "title_ja": "尿路結石中のマイクロプラスチック: ヒトの尿路結石からの証拠。",
+    "authors": "Carrier Kelsea, Garcia Marcus, Campen Matthew J, Patil Sakshi, El Hayek Eliane, Kotulski Jillian, Davis Michael",
+    "journal": "The Journal of urology",
+    "publication_date": "2026-07-31",
+    "entry_date": "2026-07-31",
+    "study_design": "動物実験",
+    "purpose": "マイクロプラスチックとナノプラスチックは遍在する環境汚染物質であり、尿や腎臓組織などの人間の組織に存在することが記録されています。マイクロプラスチックが尿路結石症に取り込まれるかどうかはこれまで調査されていなかった。私たちは、ヒトの尿石中のマイクロプラスチックの存在とポリマー組成を決定することを目的としました。",
+    "methods": "ニューメキシコ大学病院で術中に13人の患者から腎臓結石と膀胱結石が採取された。他の方法で廃棄された石の破片は、汚染が管理された条件下で水酸化カリウムで消化され、その後超遠心分離されてマイクロプラスチックが分離されました。ポリマーの同定は、12 種類のポリマー標準を対象とした熱分解ガスクロマトグラフィー質量分析を使用して実行されました。品質管理には、汚染を排除するためのブランクと手順基準が含まれていました。",
+    "results": "マイクロプラスチックは 100% (13/13) の検体で確認され、各検体には定量限界 (LOQ) を超えて定量された少なくとも 1 つのポリマーが含まれていました。検出限界 (LOD) と LOQ の間の追加のポリマー検出により、すべてのサンプルにわたってマイクロプラスチックが存在することがさらに裏付けられました。ポリエチレン、ポリエチレンテレフタレート、ポリ塩化ビニル、ナイロン 6、およびスチレンブタジエンゴムがすべてのサンプルで一貫して検出されました。すべての石には複数の種類のポリマーが含まれており、不均一な取り込みが示唆されています。検出率は尿および腎組織の研究で以前に報告されたものを上回っており、結石マトリックスに対するマイクロプラスチックおよびナノプラスチックの潜在的な親和性を示しています。",
+    "conclusion": "この研究は、ヒトの尿路結石症におけるマイクロプラスチックの最初の証拠を提供します。一般的な環境ポリマーが一貫して検出されたことは、マイクロプラスチックとナノプラスチックが核形成基質として機能するか、石の結晶化中に閉じ込められる可能性があるという仮説を裏付けています。尿路結石症の世界的な有病率の上昇を考慮すると、これらの発見は、環境プラスチックへの曝露が結石の発症の新たな原因であることを示唆しており、泌尿器疾患の地球の健康決定要因を調査することの重要性を強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis"
+    ],
+    "abstract_en": "PURPOSE: Microplastics and nanoplastics are ubiquitous environmental contaminants with documented presence in human tissues, including urine and renal tissue. Whether microplastics become incorporated into urolithiasis has not been previously explored. We aimed to determine the presence and polymer composition of microplastics in human urinary stones.\nMATERIALS AND METHODS: Renal and bladder calculi from thirteen patients were collected intraoperatively at the University of New Mexico Hospital. Stone debris, otherwise discarded, underwent potassium hydroxide digestion followed by ultracentrifugation for microplastics isolation under contamination-controlled conditions. Polymer identification was performed using pyrolysis gas chromatography-mass spectrometry targeting twelve polymer standards. Quality controls included blanks and procedural standards to exclude contamination.\nRESULTS: Microplastics were identified in 100% (13/13) of specimens, with each specimen containing at least one polymer quantified above the limit of quantification (LOQ). Additional polymer detections between the limit of detection (LOD) and LOQ further supported the presence of microplastics across all samples. Polyethylene, polyethylene terephthalate, polyvinyl chloride, nylon 6, and styrene-butadiene rubber were consistently detected across all samples. All stones contained multiple polymer types, suggesting heterogeneous incorporation. Detection rates exceeded those previously reported in urine and renal tissue studies, indicating a potential affinity of microplastics and nanoplastics for stone matrices.\nCONCLUSIONS: This study provides the first evidence of microplastics within human urolithiasis. The consistent detection of common environmental polymers supports the hypothesis that microplastics and nanoplastics may act as nucleation substrates or become entrapped during stone crystallization. Given the rising global prevalence of urolithiasis, these findings implicate environmental plastic exposure as a novel contributor to stone pathogenesis and underscore the importance of investigating planetary health determinants of urologic disease.",
+    "abstract_ja": "目的: マイクロプラスチックとナノプラスチックは遍在する環境汚染物質であり、尿や腎臓組織を含む人間の組織に存在することが記録されています。マイクロプラスチックが尿路結石症に取り込まれるかどうかはこれまで調査されていなかった。私たちは、ヒトの尿石中のマイクロプラスチックの存在とポリマー組成を決定することを目的としました。\n材料と方法: 13 人の患者からの腎結石と膀胱結石がニューメキシコ大学病院で術中に収集されました。他の方法で廃棄された石の破片は、汚染が管理された条件下で水酸化カリウムで消化され、その後超遠心分離されてマイクロプラスチックが分離されました。ポリマーの同定は、12 種類のポリマー標準を対象とした熱分解ガスクロマトグラフィー質量分析を使用して実行されました。品質管理には、汚染を排除するためのブランクと手順基準が含まれていました。\n結果: マイクロプラスチックは 100% (13/13) の検体で同定され、各検体には定量限界 (LOQ) を超えて定量された少なくとも 1 つのポリマーが含まれていました。検出限界 (LOD) と LOQ の間の追加のポリマー検出により、すべてのサンプルにわたってマイクロプラスチックが存在することがさらに裏付けられました。ポリエチレン、ポリエチレンテレフタレート、ポリ塩化ビニル、ナイロン 6、およびスチレンブタジエンゴムがすべてのサンプルで一貫して検出されました。すべての石には複数の種類のポリマーが含まれており、不均一な取り込みが示唆されています。検出率は尿および腎組織の研究で以前に報告されたものを上回っており、結石マトリックスに対するマイクロプラスチックおよびナノプラスチックの潜在的な親和性を示しています。\n結論: この研究は、ヒトの尿路結石症におけるマイクロプラスチックの最初の証拠を提供します。一般的な環境ポリマーが一貫して検出されたことは、マイクロプラスチックとナノプラスチックが核形成基質として機能するか、石の結晶化中に閉じ込められる可能性があるという仮説を裏付けています。尿路結石症の世界的な有病率の上昇を考慮すると、これらの発見は、環境プラスチックへの曝露が結石の発症の新たな原因であることを示唆しており、泌尿器疾患の地球の健康決定要因を調査することの重要性を強調しています。",
+    "detail_methods": "ニューメキシコ大学病院で術中に13人の患者から腎臓結石と膀胱結石が採取された。他の方法で廃棄された石の破片は、汚染が管理された条件下で水酸化カリウムで消化され、その後超遠心分離されてマイクロプラスチックが分離されました。ポリマーの同定は、12 種類のポリマー標準を対象とした熱分解ガスクロマトグラフィー質量分析を使用して実行されました。品質管理には、汚染を排除するためのブランクと手順基準が含まれていました。",
+    "detail_results": "マイクロプラスチックは 100% (13/13) の検体で確認され、各検体には定量限界 (LOQ) を超えて定量された少なくとも 1 つのポリマーが含まれていました。検出限界 (LOD) と LOQ の間の追加のポリマー検出により、すべてのサンプルにわたってマイクロプラスチックが存在することがさらに裏付けられました。ポリエチレン、ポリエチレンテレフタレート、ポリ塩化ビニル、ナイロン 6、およびスチレンブタジエンゴムがすべてのサンプルで一貫して検出されました。すべての石には複数の種類のポリマーが含まれており、不均一な取り込みが示唆されています。検出率は尿および腎組織の研究で以前に報告されたものを上回っており、結石マトリックスに対するマイクロプラスチックおよびナノプラスチックの潜在的な親和性を示しています。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "RESULTS: Microplastics were identified in 100% (13/13) of specimens, with each specimen containing at least one polymer quantified above the limit of quantification (LOQ)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42537208/",
+    "doi_url": "https://doi.org/10.1097/JU.0000000000005237",
+    "created_at": "2026-08-02T06:34:21.689526+00:00"
+  },
+  {
+    "pmid": "42536069",
+    "doi": "10.1111/sdi.70042",
+    "category": "カテーテル新技術",
+    "title_en": "Antimicrobial Glucose Chlorhexidine Dressings vs. Sterile Dressings in Preventing Catheter-Related Infections During Continuous Renal Replacement Therapy: A Randomized Controlled Trial.",
+    "title_ja": "持続腎代替療法中のカテーテル関連感染症の予防における抗菌性グルコースクロルヘキシジンドレッシングと滅菌ドレッシングの比較：ランダム化対照試験。",
+    "authors": "Zhang Xuemei, Wang Fang, Zheng Yi, Sun Xiankun, Lin Li, Tang Xue, Chen Zhiwen, Zhang Ling",
+    "journal": "Seminars in dialysis",
+    "publication_date": "2026-07-31",
+    "entry_date": "2026-07-31",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "カテーテル関連血流感染症 (CRBSI) は、持続腎代替療法 (CRRT) を受けている重症患者、特にトンネル型カテーテルを使用していない患者における合併症の主な原因です。これらの感染症は、入院期間の延長、費用の増加、患者の転帰の悪化につながる可能性があります。 CRBSI を予防するために滅菌包帯が一般的に使用されますが、クロルヘキシジンを含む抗菌包帯などの抗菌包帯はより良い保護を提供する可能性があります。この研究は、CRRT を受けている患者における CRBSI の予防における抗菌性グルコース クロルヘキシジン包帯と滅菌包帯の有効性を比較することを目的としました。",
+    "methods": "前向きのランダム化対照単盲検研究が実施されました。すべての参加者はグループ割り当てを知らされなかった。我々は、2022年9月から2023年11月までに四川大学西中国病院の集中治療室（ICU）に入院し、持続腎代替療法（CRRT）を受ける前に血管カテーテル留置が予定されていた患者を登録した。参加者は、乱数表によって介入グループ (グルコース クロルヘキシジン抗菌包帯を受け取る) または対照グループ (無菌包帯を受け取る) のいずれかにランダムに割り当てられました。ガイドラインに従って、グルコースクロルヘキシジン抗菌群では 7 日ごとに、滅菌包帯群では 48 時間ごとに包帯を交換しました。ドレッシングが丸まったり、緩んだり、目に見えて汚れたりした場合は、すぐに交換しました。主要アウトカムは、カテーテル挿入部位の局所感染率、カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、および病院死亡率であった。",
+    "results": "合計520人の患者がスクリーニングされ、最終的に410人の患者が研究に参加し、各グループ(グルコースクロルヘキシジン抗菌包帯群および無菌包帯群)に205人の患者が含まれた。カテーテル挿入部位における局所感染の発生率は、滅菌包帯群で40.0%であり、グルコースクロルヘキシジン抗菌包帯群で報告された15.6%よりも有意に高かった(p < 0.001)。介入グループの合計 CRBSI 率 (6.3%) は、対照グループ (13.7%) よりも有意に低かった (p = 0.014)。カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、または入院死亡率に関して、2つのグループ間に有意差は見つかりませんでした（p > 0.05）。 Cox 比例ハザード モデルは、対照群の患者は介入群の患者よりも時間の経過とともに局所感染症および CRBSI のリスクが大幅に高いことを示唆しました。",
+    "conclusion": "グルコースクロルヘキシジン抗菌包帯は、カテーテル挿入部位の感染症と全体的な CRBSI 発生率を大幅に減少させ、CRRT を受けている患者の感染予防における臨床的価値を示しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Catheter-related bloodstream infections (CRBSIs) are a major cause of complications in critically ill patients receiving continuous renal replacement therapy (CRRT), especially those with nontunneled catheters. These infections can lead to longer hospital stays, higher costs, and worse patient outcomes. Although sterile dressings are commonly used to prevent CRBSIs, antimicrobial dressings, such as those containing chlorhexidine, may offer better protection. This study aimed to compare the effectiveness of antimicrobial glucose chlorhexidine dressings and sterile dressings in preventing CRBSIs in patients receiving CRRT.\nMETHODS: A prospective, randomized controlled, single-blind study was conducted. All participants were kept blinded to group assignment. We enrolled patients admitted to the Intensive Care Unit (ICU) of West China Hospital, Sichuan University between September 2022 and November 2023 who were scheduled for vascular catheter placement before receiving continuous renal replacement therapy (CRRT). The participants were randomly allocated to either the intervention group (receiving glucose chlorhexidine antimicrobial dressing) or the control group (receiving sterile dressing) via a random number table. The dressing was changed every 7 days for the glucose chlorhexidine antimicrobial group and every 48 h for the sterile dressing group, in accordance with the guideline. Dressings were replaced immediately if they became rolled, loose, or visibly soiled. The primary outcomes were the local infection rate at the catheter insertion site, suspected catheter-related bloodstream infections (CRBSIs), incidence of CRBSIs, length of hospital stay, ICU stay duration, and hospital mortality rates.\nRESULTS: A total of 520 patients were screened, and 410 patients were ultimately included in the study, with 205 patients in each group (glucose chlorhexidine antimicrobial dressing group and sterile dressing group). The incidence of local infection at the catheter insertion site was 40.0% in the sterile dressing group, which was significantly greater than the 15.6% reported in the glucose chlorhexidine antimicrobial dressing group (p < 0.001). The total CRBSI rate in the intervention group was significantly lower (6.3%) than that in the control group (13.7%) (p = 0.014). No significant differences were found between the two groups in terms of suspected catheter-related bloodstream infections (CRBSIs), CRBSI incidence, length of hospital stay, ICU stay duration, or hospital mortality rates (p > 0.05). The Cox proportional hazards model suggested that patients in the control group were at a substantially greater risk of local infections and CRBSIs over time than those in the intervention group.\nCONCLUSION: Glucose chlorhexidine antimicrobial dressings significantly reduce catheter insertion site infections and overall CRBSI incidence, demonstrating their clinical value in preventing infection in patients receiving CRRT.",
+    "abstract_ja": "背景: カテーテル関連血流感染症 (CRBSI) は、持続腎代替療法 (CRRT) を受けている重症患者、特にトンネルなしカテーテルを使用している患者における合併症の主な原因である。これらの感染症は、入院期間の延長、費用の増加、患者の転帰の悪化につながる可能性があります。 CRBSI を予防するために滅菌包帯が一般的に使用されますが、クロルヘキシジンを含む抗菌包帯などの抗菌包帯はより良い保護を提供する可能性があります。この研究は、CRRT を受けている患者における CRBSI の予防における抗菌性グルコース クロルヘキシジン包帯と滅菌包帯の有効性を比較することを目的としました。\n方法:前向きランダム化対照単盲検研究が実施されました。すべての参加者はグループ割り当てを知らされなかった。我々は、2022年9月から2023年11月までに四川大学西中国病院の集中治療室（ICU）に入院し、持続腎代替療法（CRRT）を受ける前に血管カテーテル留置が予定されていた患者を登録した。参加者は、乱数表によって介入グループ (グルコース クロルヘキシジン抗菌包帯を受け取る) または対照グループ (無菌包帯を受け取る) のいずれかにランダムに割り当てられました。ガイドラインに従って、グルコースクロルヘキシジン抗菌群では 7 日ごとに、滅菌包帯群では 48 時間ごとに包帯を交換しました。ドレッシングが丸まったり、緩んだり、目に見えて汚れたりした場合は、すぐに交換しました。主要アウトカムは、カテーテル挿入部位の局所感染率、カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、および病院死亡率であった。\n結果：合計520人の患者がスクリーニングされ、最終的に410人の患者が研究に参加し、各グループ（グルコースクロルヘキシジン抗菌包帯群と無菌包帯群）に205人の患者が含まれた。カテーテル挿入部位における局所感染の発生率は、滅菌包帯群で40.0%であり、グルコースクロルヘキシジン抗菌包帯群で報告された15.6%よりも有意に高かった(p < 0.001)。介入グループの合計 CRBSI 率 (6.3%) は、対照グループ (13.7%) よりも有意に低かった (p = 0.014)。カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、または入院死亡率に関して、2つのグループ間に有意差は見つかりませんでした（p > 0.05）。 Cox 比例ハザード モデルは、対照群の患者は介入群の患者よりも時間の経過とともに局所感染症および CRBSI のリスクが大幅に高いことを示唆しました。\n結論：グルコースクロルヘキシジン抗菌包帯は、カテーテル挿入部位の感染症と全体的なCRBSI発生率を大幅に減少させ、CRRTを受けている患者の感染予防における臨床的価値を示しています。",
+    "detail_methods": "前向きのランダム化対照単盲検研究が実施されました。すべての参加者はグループ割り当てを知らされなかった。我々は、2022年9月から2023年11月までに四川大学西中国病院の集中治療室（ICU）に入院し、持続腎代替療法（CRRT）を受ける前に血管カテーテル留置が予定されていた患者を登録した。参加者は、乱数表によって介入グループ (グルコース クロルヘキシジン抗菌包帯を受け取る) または対照グループ (無菌包帯を受け取る) のいずれかにランダムに割り当てられました。ガイドラインに従って、グルコースクロルヘキシジン抗菌群では 7 日ごとに、滅菌包帯群では 48 時間ごとに包帯を交換しました。ドレッシングが丸まったり、緩んだり、目に見えて汚れたりした場合は、すぐに交換しました。主要アウトカムは、カテーテル挿入部位の局所感染率、カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、および病院死亡率であった。",
+    "detail_results": "合計520人の患者がスクリーニングされ、最終的に410人の患者が研究に参加し、各グループ(グルコースクロルヘキシジン抗菌包帯群および無菌包帯群)に205人の患者が含まれた。カテーテル挿入部位における局所感染の発生率は、滅菌包帯群で40.0%であり、グルコースクロルヘキシジン抗菌包帯群で報告された15.6%よりも有意に高かった(p < 0.001)。介入グループの合計 CRBSI 率 (6.3%) は、対照グループ (13.7%) よりも有意に低かった (p = 0.014)。カテーテル関連血流感染症（CRBSI）の疑い、CRBSIの発生率、入院期間、ICU滞在期間、または入院死亡率に関して、2つのグループ間に有意差は見つかりませんでした（p > 0.05）。 Cox 比例ハザード モデルは、対照群の患者は介入群の患者よりも時間の経過とともに局所感染症および CRBSI のリスクが大幅に高いことを示唆しました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "520 patients",
+        "source": "RESULTS: A total of 520 patients were screened, and 410 patients were ultimately included in the study, with 205 patients in each group (glucose chlorhexidine antimicrobial dressing group and sterile dressing group)."
+      },
+      {
+        "item": "対象数",
+        "value": "410 patients",
+        "source": "RESULTS: A total of 520 patients were screened, and 410 patients were ultimately included in the study, with 205 patients in each group (glucose chlorhexidine antimicrobial dressing group and sterile dressing group)."
+      },
+      {
+        "item": "対象数",
+        "value": "205 patients",
+        "source": "RESULTS: A total of 520 patients were screened, and 410 patients were ultimately included in the study, with 205 patients in each group (glucose chlorhexidine antimicrobial dressing group and sterile dressing group)."
+      },
+      {
+        "item": "割合",
+        "value": "40.0%",
+        "source": "The incidence of local infection at the catheter insertion site was 40.0% in the sterile dressing group, which was significantly greater than the 15.6% reported in the glucose chlorhexidine antimicrobial dressing group (p < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "15.6%",
+        "source": "The incidence of local infection at the catheter insertion site was 40.0% in the sterile dressing group, which was significantly greater than the 15.6% reported in the glucose chlorhexidine antimicrobial dressing group (p < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "6.3%",
+        "source": "The total CRBSI rate in the intervention group was significantly lower (6.3%) than that in the control group (13.7%) (p = 0.014)."
+      },
+      {
+        "item": "割合",
+        "value": "13.7%",
+        "source": "The total CRBSI rate in the intervention group was significantly lower (6.3%) than that in the control group (13.7%) (p = 0.014)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "The incidence of local infection at the catheter insertion site was 40.0% in the sterile dressing group, which was significantly greater than the 15.6% reported in the glucose chlorhexidine antimicrobial dressing group (p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.014",
+        "source": "The total CRBSI rate in the intervention group was significantly lower (6.3%) than that in the control group (13.7%) (p = 0.014)."
+      },
+      {
+        "item": "P値",
+        "value": "p > 0.05",
+        "source": "No significant differences were found between the two groups in terms of suspected catheter-related bloodstream infections (CRBSIs), CRBSI incidence, length of hospital stay, ICU stay duration, or hospital mortality rates (p > 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42536069/",
+    "doi_url": "https://doi.org/10.1111/sdi.70042",
+    "created_at": "2026-08-02T06:34:37.365251+00:00"
+  },
+  {
+    "pmid": "42535642",
+    "doi": "10.1080/17460913.2026.2707866",
+    "category": "カテーテル新技術",
+    "title_en": "Empirical antibiotic use in nonsurgical patients with indwelling urinary catheters: a systematic review.",
+    "title_ja": "尿道カテーテルが留置されている非外科的患者における抗生物質の経験的使用：系統的レビュー。",
+    "authors": "Felsypremila Gnanasekaran, Kumaraguru Mahalakshmi, Geminiganesan Sangeetha, Saikia Ankita, Nirmal Latha, Boopalan Deenadayalan, Sridharan Shreya, Muthu M S",
+    "journal": "Future microbiology",
+    "publication_date": "2026-07-31",
+    "entry_date": "2026-07-31",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "この系統的レビューは、尿道カテーテル留置術（IUC）を有する非手術患者におけるカテーテル関連尿路感染症（UTI）およびカテーテル関連無症候性細菌尿の予防/解決に対する、抗生物質の投与なしまたは代替レジメンと比較した経験的な抗生物質の効果を評価することを目的としました。",
+    "methods": "5 つのデータベースにわたって文献検索が実行されました。証拠の合成は、メタ分析を使用しない合成ガイドライン (SWiM) に準拠しました。",
+    "results": "4,907 人の参加者が参加した 4 つの研究が分析されました。カテーテル関連尿路感染症の細菌学的分解能はさまざまで、治療群（メロペネム）と未治療群の間に有意差は示されず（p > 0.05）、ホスホマイシンでは最大53.6％の除去を達成しました。重要なことに、尿培養陽性の反復率は抗生物質群間で異なり(p = 0.000)、ホスホマイシン群での再発率が最も高かった。臨床転帰を調査した 2 つの研究では、抗生物質群間に有意差は報告されませんでした。",
+    "conclusion": "効果の全体的な方向性は、抗生物質群間に有意差がないこと、または非カルバペネム療法を支持する結果のいずれかを示しました。 IUC患者のカテーテル関連感染症の解消に対する経験的抗生物質療法の効果について最終的な結論を出すには、証拠がまだ不十分である。\nPROSPERO プロトコル登録: https://www.crd.york.ac.uk/prospero/ 識別子は CRD420251062752 です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "AIM: This systematic review aimed to assess the effect of empirical antibiotics in comparison with no antibiotics or alternative regimens on the prevention/resolution of catheter-associated urinary tract infection (UTIs) and catheter-associated asymptomatic bacteriuria among nonsurgical patients with indwelling urinary catheters (IUCs).\nMATERIALS AND METHODS: A literature search was performed across five databases. Evidence synthesis adhered to the Synthesis Without Meta-analysis guidelines (SWiM).\nRESULTS: Four studies involving 4,907 participants were analyzed. The bacteriological resolution of catheter-associated UTIs varied, showing no significant difference between the treated group (meropenem) and the untreated group (p > 0.05), and achieving up to 53.6% clearance with fosfomycin. Significantly, the rate of repeat positive urine cultures differed between the antibiotic groups (p = 0.000), with the highest recurrence in the fosfomycin group. Two studies examining clinical outcomes reported no significant differences between the antibiotic groups.\nCONCLUSION: The overall direction of effect indicated either no significant difference between antibiotic groups or outcomes favoring non-carbapenem therapy. The evidence remains insufficient for definitive conclusions on the effect of empirical antibiotic therapy on the resolution of catheter-associated infection among persons with IUC.\nPROSPERO PROTOCOL REGISTRATION: https://www.crd.york.ac.uk/prospero/ identifier is CRD420251062752.",
+    "abstract_ja": "目的: この体系的レビューは、尿道カテーテル留置術 (IUC) を有する非手術患者におけるカテーテル関連尿路感染症 (UTI) およびカテーテル関連無症候性細菌尿の予防/解決に対する、抗生物質なしまたは代替レジメンと比較した経験的抗生物質の効果を評価することを目的としました。\n材料と方法: 5 つのデータベースにわたって文献検索が実行されました。証拠の合成は、メタ分析を使用しない合成ガイドライン (SWiM) に準拠しました。\n結果: 4,907 人の参加者が参加した 4 つの研究が分析されました。カテーテル関連尿路感染症の細菌学的分解能はさまざまで、治療群（メロペネム）と未治療群の間に有意差は示されず（p > 0.05）、ホスホマイシンでは最大53.6％の除去を達成しました。重要なことに、尿培養陽性の反復率は抗生物質群間で異なり(p = 0.000)、ホスホマイシン群での再発率が最も高かった。臨床転帰を調査した 2 つの研究では、抗生物質群間に有意差は報告されませんでした。\n結論: 効果の全体的な方向性は、抗生物質群間に有意差がないこと、または非カルバペネム療法を支持する結果のいずれかを示しました。 IUC患者のカテーテル関連感染症の解消に対する経験的抗生物質療法の効果について最終的な結論を出すには、証拠がまだ不十分である。\nPROSPERO プロトコル登録: https://www.crd.york.ac.uk/prospero/ 識別子は CRD420251062752 です。",
+    "detail_methods": "5 つのデータベースにわたって文献検索が実行されました。証拠の合成は、メタ分析を使用しない合成ガイドライン (SWiM) に準拠しました。",
+    "detail_results": "4,907 人の参加者が参加した 4 つの研究が分析されました。カテーテル関連尿路感染症の細菌学的分解能はさまざまで、治療群（メロペネム）と未治療群の間に有意差は示されず（p > 0.05）、ホスホマイシンでは最大53.6％の除去を達成しました。重要なことに、尿培養陽性の反復率は抗生物質群間で異なり(p = 0.000)、ホスホマイシン群での再発率が最も高かった。臨床転帰を調査した 2 つの研究では、抗生物質群間に有意差は報告されませんでした。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "907 participants",
+        "source": "RESULTS: Four studies involving 4,907 participants were analyzed."
+      },
+      {
+        "item": "割合",
+        "value": "53.6%",
+        "source": "The bacteriological resolution of catheter-associated UTIs varied, showing no significant difference between the treated group (meropenem) and the untreated group (p > 0.05), and achieving up to 53.6% clearance with fosfomycin."
+      },
+      {
+        "item": "P値",
+        "value": "p > 0.05",
+        "source": "The bacteriological resolution of catheter-associated UTIs varied, showing no significant difference between the treated group (meropenem) and the untreated group (p > 0.05), and achieving up to 53.6% clearance with fosfomycin."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.000",
+        "source": "Significantly, the rate of repeat positive urine cultures differed between the antibiotic groups (p = 0.000), with the highest recurrence in the fosfomycin group."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42535642/",
+    "doi_url": "https://doi.org/10.1080/17460913.2026.2707866",
+    "created_at": "2026-08-02T06:34:44.802119+00:00"
+  },
+  {
+    "pmid": "42526539",
+    "doi": "10.1016/j.fjurol.2026.103172",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Optimal Duration of Urethral Catheterization in ThuLEP: A Randomized Prospective Pilot Study.",
+    "title_ja": "ThuLEP における尿道カテーテル挿入の最適期間: ランダム化された前向きパイロット研究。",
+    "authors": "Gómez-Luque Miguel Ángel, Campanario-Pérez Rubén, Curbelo-Ascanio Nadia María, Argüelles-Salido Enrique, García-Sánchez Cristina, Medina-López Rafael Antonio",
+    "journal": "The French journal of urology",
+    "publication_date": "2026-07-29",
+    "entry_date": "2026-07-29",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "はじめに: 前立腺良性閉塞 (BPO) による下部尿路症状 (LUTS) は、高齢の男性によく見られます。 TURP やレーザー核出などの外科的介入は、薬剤抵抗性の BPO に対する確立された治療法です。",
+    "methods": "これまでの研究では、選択された患者において HoLEP 後に同日にカテーテル抜去が可能であることが裏付けられています。この研究は、ThuLEP 後の 24 時間のカテーテル挿入と 72 時間のカテーテル挿入の結果を比較することを目的としています。材料と方法：このランダム化された前向きパイロット研究は、将来の確認試験のための予備証拠を生成することを目的として、術後の排尿動態（Qmax）の観点から、24時間のカテーテル挿入が72時間のカテーテル挿入と同等の結果をもたらすかどうかを調査するように設計されました。",
+    "results": "群間で臨床的に有意な差は観察されなかった。術後合併症は 7 例で発生し、尿漏れ、血尿、急性尿閉を含む、24 時間群で 1 例、72 時間群で 6 例でした。",
+    "conclusion": "ThuLEP後24時間の早期カテーテル抜去は、このコホートにおける標準的な72時間プロトコールと同等の排尿機能および患者報告の転帰をもたらすと思われる。これらの予備的な発見は、早期のカテーテル抜去の実現可能性を裏付け、将来の確認試験の基礎を提供します。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Lower urinary tract symptoms (LUTS) from benign prostatic obstruction (BPO) are common in aging men. Surgical interventions such as TURP and laser enucleation are established treatments for drug-refractory BPO. Holmium laser enucleation (HoLEP) has demonstrated favorable long-term safety and efficacy with shorter hospitalization and catheterization times compared to standard TURP. Thulium laser enucleation (ThuLEP) emerges as an effective and safe option, potentially offering advantages including reduced blood loss and shorter catheterization periods compared to TURP. Postoperative catheterization duration following laser enucleation varies among institutions, with an increasing trend toward early catheter removal. Previous studies support the feasibility of same-day catheter removal after HoLEP in selected patients. This study aims to compare outcomes of 24-hour versus 72-hour catheterization following ThuLEP.\nMATERIAL AND METHODS: This randomized prospective pilot study was designed to explore whether 24-hour catheterization yields comparable outcomes to 72-hour catheterization in terms of postoperative voiding dynamics (Qmax), with the aim of generating preliminary evidence for future confirmatory trials. Patients were randomly assigned preoperatively to catheter removal at 24 hours (Group 1) or 72 hours (Group 2). Validated questionnaires (SF-36, ICIQ-SF, IPSS) were administered preoperatively, before discharge, and at follow-up, with uroflowmetry performed. A total of 42 patients (21 per group) were included.\nRESULTS: No clinically significant differences were observed between groups. Postoperative complications occurred in 7 cases: 1 in the 24-hour group and 6 in the 72-hour group, including urinary leakage, hematuria, and acute urinary retention.\nCONCLUSION: Early catheter removal at 24 hours following ThuLEP appears to yield comparable urinary function and patient-reported outcomes to the standard 72-hour protocol in this cohort. These preliminary findings support the feasibility of early catheter removal and provide a basis for future confirmatory trials.",
+    "abstract_ja": "はじめに: 前立腺良性閉塞 (BPO) による下部尿路症状 (LUTS) は、高齢の男性によく見られます。 TURP やレーザー核出などの外科的介入は、薬剤抵抗性の BPO に対する確立された治療法です。ホルミウムレーザー核出術 (HoLEP) は、標準的な TURP と比較して入院とカテーテル治療の時間が短く、長期的な安全性と有効性が良好であることが実証されています。ツリウムレーザー核出術 (ThuLEP) は効果的かつ安全な選択肢として浮上しており、TURP と比較して失血量の減少やカテーテル挿入期間の短縮などの利点が得られる可能性があります。レーザー摘出後​​の術後カテーテル挿入期間は施設によって異なり、早期にカテーテルを除去する傾向が増加しています。これまでの研究では、選択された患者において HoLEP 後に同日にカテーテル抜去が可能であることが裏付けられています。この研究は、ThuLEP 後の 24 時間のカテーテル挿入と 72 時間のカテーテル挿入の結果を比較することを目的としています。\n材料と方法：このランダム化された前向きパイロット研究は、将来の確認試験のための予備証拠を生成することを目的として、術後の排尿動態（Qmax）の観点から、24時間のカテーテル挿入が72時間のカテーテル挿入と同等の結果をもたらすかどうかを調査するように設計されました。患者は術前に、24 時間後 (グループ 1) または 72 時間後 (グループ 2) にカテーテルを除去する群に無作為に割り当てられました。有効なアンケート（SF-36、ICIQ-SF、IPSS）が術前、退院前、および追跡調査時に実施され、尿流量測定も行われました。合計 42 人の患者 (各グループ 21 人) が含まれました。\n結果: グループ間で臨床的に有意な差は観察されませんでした。術後合併症は 7 例で発生し、尿漏れ、血尿、急性尿閉を含む、24 時間群で 1 例、72 時間群で 6 例でした。\n結論：このコホートでは、ThuLEP 後 24 時間の早期カテーテル抜去により、標準的な 72 時間プロトコールと同等の排尿機能と患者報告の転帰が得られるようです。これらの予備的な発見は、早期のカテーテル抜去の実現可能性を裏付け、将来の確認試験の基礎を提供します。",
+    "detail_methods": "これまでの研究では、選択された患者において HoLEP 後に同日にカテーテル抜去が可能であることが裏付けられています。この研究は、ThuLEP 後の 24 時間のカテーテル挿入と 72 時間のカテーテル挿入の結果を比較することを目的としています。材料と方法：このランダム化された前向きパイロット研究は、将来の確認試験のための予備証拠を生成することを目的として、術後の排尿動態（Qmax）の観点から、24時間のカテーテル挿入が72時間のカテーテル挿入と同等の結果をもたらすかどうかを調査するように設計されました。",
+    "detail_results": "群間で臨床的に有意な差は観察されなかった。術後合併症は 7 例で発生し、尿漏れ、血尿、急性尿閉を含む、24 時間群で 1 例、72 時間群で 6 例でした。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "42 patients",
+        "source": "A total of 42 patients (21 per group) were included."
+      },
+      {
+        "item": "オッズ比",
+        "value": "or 72",
+        "source": "Patients were randomly assigned preoperatively to catheter removal at 24 hours (Group 1) or 72 hours (Group 2)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42526539/",
+    "doi_url": "https://doi.org/10.1016/j.fjurol.2026.103172",
+    "created_at": "2026-08-02T06:34:07.289012+00:00"
+  }
+]
