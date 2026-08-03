@@ -1,5 +1,76 @@
 [
   {
+    "pmid": "42542567",
+    "doi": "10.22037/uj.v23i00.8573",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Assessing the Relationship between Gut Microbiota and Kidney Stones: A Two-Sample Mendelian Randomization Analysis.",
+    "title_ja": "腸内微生物叢と腎臓結石の関係の評価: 2 サンプルのメンデルランダム化分析。",
+    "authors": "Wang Suchun, Cui Yankang, Fang Bo, Shen Tianyi, Xue Song, Ge Jingping, Wang Zijie, Zhou Shuigen",
+    "journal": "Urology journal",
+    "publication_date": "2026-07-28",
+    "entry_date": "2026-08-02",
+    "study_design": "動物実験",
+    "purpose": "腸内微生物叢が腎結石症（KSD）のリスクと関連しているという証拠は増えているが、因果関係が存在するかどうかは依然として不明である。私たちはメンデルランダム化（MR）法を使用して、腸内細菌叢とKSDリスクの間の潜在的な因果関係を評価しました。",
+    "methods": "腸内細菌叢の遺伝ツール変数は、18,340 人の参加者を対象としたゲノムワイド関連研究 (GWAS) から特定されました。 KSD の要約統計量は、484,598 人の症例と 480,873 人の正常対照を含む GWAS から得られました。主な分析方法として逆分散重み付け (IVW) 法を使用しました。  結果の堅牢性をテストするために、加重中央値法、MR-Egger 回帰、MR 多面発現残差合計と外れ値テストをさらに実行しました。最後に、逆因果関係の可能性を評価するために逆 MR 分析が実行されました。",
+    "results": "我々は、4つの細菌形質とKSDのリスクとの間に示唆的な関連性を特定した（オッズ比（OR）：0.82、95％信頼区間（CI）：0.69-0.98、クラスについてはp=0.032。レンティスファリア；OR：0.79、95％CI：0.66-0.96、属についてはp=0.018。オシリバクター；ビクティバラ目については OR：0.82、95% CI：0.68-0.98、p=0.034、Olsenella 属では OR：1.26、95% CI：1.03-1.53、p=0.022）。これらの細菌の形質に対する感度分析の結果は一貫していました。逆 MR 分析では、KSD とこれら 4 つの細菌形質の間に統計的に有意な関連性は見つかりませんでした。",
+    "conclusion": "私たちの体系的な分析は、4つの腸内微生物叢分類群（分類群を含む）間の潜在的な因果関係を支持する証拠を提供します。レンティスファエリア属。オシリバクター、命令。ビクティバラ目と属。オルセネラ）とKSDのリスク。腸内細菌叢が KSD の発症にどのような影響を与えるかを実証するには、さらなる研究が必要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "BACKGROUND: There is increasing evidence that gut microbiota is associated with the risk of kidney stones diseases (KSD), but whether a causal relationship exists remains unclear. We used the Mendelian randomization (MR) method to assess the potential causal relationship between gut microbiota and KSD risk.\nMETHODS: Genetic tool variables for the gut microbiota were identified from a genome-wide association study (GWAS) of 18340 participants. Summary statistics for KSD were derived from GWAS, including 484,598 cases and 480,873 normal controls. We used the inverse variance weighting (IVW) method as the primary analysis method.  To test the robustness of our results, we further performed the weighted-median method, MR-Egger regression, and MR pleiotropy residual sum and outlier test. Finally, reverse MR analysis was performed to evaluate the possibility of reverse causation.\nRESULTS: We identified suggestive associations between four bacterial traits and the risk of KSD (odds ratio (OR): 0.82, 95% confidence interval (CI): 0.69-0.98, p= 0.032 for class. Lentisphaeria； OR：0.79, 95% CI：0.66-0.96, p=0.018 for genus. Oscillibacter； OR：0.82, 95% CI：0.68-0.98, p=0.034 for order. Victivallales； OR：1.26, 95% CI：1.03-1.53, p=0.022 for genus. Olsenella). The results of sensitivity analyses for these bacterial traits were consistent. We did not find statistically significant associations between KSD and these four bacterial traits in the reverse MR analysis.\nCONCLUSION: Our systematic analysis provides evidence supporting a potential causal relationship between four gut microbiota taxa （including class. Lentisphaeria, genus. Oscillibacter, order. Victivallales and genus. Olsenella）and KSD risk. More studies are needed to demonstrate how gut microbiota influences KSD development.",
+    "abstract_ja": "背景: 腸内細菌叢が腎結石症 (KSD) のリスクと関連しているという証拠は増えているが、因果関係が存在するかどうかは依然として不明である。私たちはメンデルランダム化（MR）法を使用して、腸内細菌叢とKSDリスクの間の潜在的な因果関係を評価しました。\n方法: 腸内細菌叢の遺伝ツール変数は、18,340 人の参加者を対象としたゲノムワイド関連研究 (GWAS) から特定されました。 KSD の要約統計量は、484,598 人の症例と 480,873 人の正常対照を含む GWAS から得られました。主な分析方法として逆分散重み付け (IVW) 法を使用しました。  結果の堅牢性をテストするために、加重中央値法、MR-Egger 回帰、MR 多面発現残差合計と外れ値テストをさらに実行しました。最後に、逆因果関係の可能性を評価するために逆 MR 分析が実行されました。\n結果：4つの細菌形質とKSDのリスクとの間の示唆的な関連性を特定した（オッズ比（OR）：0.82、95％信頼区間（CI）：0.69-0.98、クラスについてはp=0.032。レンティスファリア；OR：0.79、95％CI：0.66-0.96、属についてはp=0.018）。 Oscillibacter；OR：0.82、95% CI：0.68-0.98、Victivallales については p=0.034、Olsenella 属については OR：1.26、95% CI：1.03-1.53、p=0.022）。これらの細菌の形質に対する感度分析の結果は一貫していました。逆 MR 分析では、KSD とこれら 4 つの細菌形質の間に統計的に有意な関連性は見つかりませんでした。\n結論: 私たちの体系的な分析は、腸内微生物叢の 4 つの分類群 (クラスを含む) の間の潜在的な因果関係を裏付ける証拠を提供します。レンティスファエリア属。オシリバクター、命令。ビクティバラ目と属。オルセネラ）とKSDのリスク。腸内細菌叢が KSD の発症にどのような影響を与えるかを実証するには、さらなる研究が必要です。",
+    "detail_methods": "腸内細菌叢の遺伝ツール変数は、18,340 人の参加者を対象としたゲノムワイド関連研究 (GWAS) から特定されました。 KSD の要約統計量は、484,598 人の症例と 480,873 人の正常対照を含む GWAS から得られました。主な分析方法として逆分散重み付け (IVW) 法を使用しました。  結果の堅牢性をテストするために、加重中央値法、MR-Egger 回帰、MR 多面発現残差合計と外れ値テストをさらに実行しました。最後に、逆因果関係の可能性を評価するために逆 MR 分析が実行されました。",
+    "detail_results": "我々は、4つの細菌形質とKSDのリスクとの間に示唆的な関連性を特定した（オッズ比（OR）：0.82、95％信頼区間（CI）：0.69-0.98、クラスについてはp=0.032。レンティスファリア；OR：0.79、95％CI：0.66-0.96、属についてはp=0.018。オシリバクター；ビクティバラ目については OR：0.82、95% CI：0.68-0.98、p=0.034、Olsenella 属では OR：1.26、95% CI：1.03-1.53、p=0.022）。これらの細菌の形質に対する感度分析の結果は一貫していました。逆 MR 分析では、KSD とこれら 4 つの細菌形質の間に統計的に有意な関連性は見つかりませんでした。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "18340 participants",
+        "source": "METHODS: Genetic tool variables for the gut microbiota were identified from a genome-wide association study (GWAS) of 18340 participants."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: We identified suggestive associations between four bacterial traits and the risk of KSD (odds ratio (OR): 0.82, 95% confidence interval (CI): 0.69-0.98, p= 0.032 for class."
+      },
+      {
+        "item": "P値",
+        "value": "p= 0.032",
+        "source": "RESULTS: We identified suggestive associations between four bacterial traits and the risk of KSD (odds ratio (OR): 0.82, 95% confidence interval (CI): 0.69-0.98, p= 0.032 for class."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.018",
+        "source": "Lentisphaeria； OR：0.79, 95% CI：0.66-0.96, p=0.018 for genus."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.034",
+        "source": "Oscillibacter； OR：0.82, 95% CI：0.68-0.98, p=0.034 for order."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.022",
+        "source": "Victivallales； OR：1.26, 95% CI：1.03-1.53, p=0.022 for genus."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI：0",
+        "source": "Lentisphaeria； OR：0.79, 95% CI：0.66-0.96, p=0.018 for genus."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI：1",
+        "source": "Victivallales； OR：1.26, 95% CI：1.03-1.53, p=0.022 for genus."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42542567/",
+    "doi_url": "https://doi.org/10.22037/uj.v23i00.8573",
+    "created_at": "2026-08-03T08:52:21.598301+00:00"
+  },
+  {
     "pmid": "42542309",
     "doi": "10.1016/j.actbio.2026.07.063",
     "category": "カテーテル新技術",
