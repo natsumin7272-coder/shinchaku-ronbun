@@ -1,5 +1,205 @@
 [
   {
+    "pmid": "42551161",
+    "doi": "10.1016/j.colsurfb.2026.116029",
+    "category": "カテーテル新技術",
+    "title_en": "Bioinspired gallol-modified chitosan coating for improved tissue adhesion and in vivo catheter fixation.",
+    "title_ja": "生体からインスピレーションを得たガロール修飾キトサンコーティングにより、組織接着と生体内カテーテルの固定が向上します。",
+    "authors": "Hyun Da Han, Hong Yo Bin, Shin Hyun Ho, Jin Eun-Jung, Park Jun Seok, Ryu Ji Hyun",
+    "journal": "Colloids and surfaces. B, Biointerfaces",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-04",
+    "study_design": "動物実験",
+    "purpose": "カテーテルの変位と不適切な固定は、埋め込み型医療機器において依然として大きな課題であり、多くの場合、機器の移動、介入の繰り返し、および治療効果の低下につながります。縫合、機械的固定、接着包帯などのさまざまな固定方法が開発されていますが、湿った生理学的条件下で適切な固定耐久性を維持することは依然として課題です。",
+    "methods": "縫合、機械的固定、接着包帯などのさまざまな固定方法が開発されていますが、湿った生理学的条件下で適切な固定耐久性を維持することは依然として課題です。この研究では、カテーテル固定用にカテーテル表面にガロール修飾キトサン (CHI-G) を使用した生体由来の接着コーティングを開発します。組織学的分析、血液学的および生化学的評価、またはウサギの皮膚刺激性試験において、CHI-G コーティングされたカテーテルの全身毒性は検出されませんでした。",
+    "results": "カテーテルの変位と不適切な固定は、埋め込み型医療機器において依然として大きな課題であり、多くの場合、機器の移動、介入の繰り返し、および治療効果の低下につながります。 CHI-G コーティングされたカテーテル表面は、水接触角の減少とともに親水性の向上を示しました (コーティングされていない対照では 84.9±2.8°、CHI-G_L では 74.4±5.2°、CHI-G_H では 66.3±1.9°)。動物実験では、カテーテル表面のCHI-Gコーティングにより固定耐久性が大幅に向上しました。",
+    "conclusion": "組織学的分析、血液学的および生化学的評価、またはウサギの皮膚刺激性試験において、CHI-G コーティングされたカテーテルの全身毒性は検出されませんでした。したがって、CHI-G 接着コーティングは、移植可能な材料とカテーテルを固定するための効果的な生体影響を受けた表面改質アプローチとなります。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Catheter displacement and inadequate fixation remain significant challenges in implantable medical devices, often leading to device migration, repeated interventions, and reduced therapeutic effectiveness. Although various securement methods, such as suturing, mechanical anchoring, and adhesive dressings, have been developed, maintaining adequate fixation durability under wet physiological conditions remains a challenge. This study develops a bioinspired adhesive coating using gallol-modified chitosan (CHI-G) on catheter surfaces for catheter fixation. Two types of CHI-G-coated catheters with low (3-5 μm, CHI-G_L) and high (7-9 μm, CHI-G_H) coating thicknesses were prepared by repeated dehydration cycles of CHI-G. CHI-G-coated catheter surfaces demonstrated enhanced hydrophilicity with a decrease in water contact angles (84.9 ± 2.8 ° for the uncoated control, 74.4 ± 5.2 ° for CHI-G_L, and 66.3 ± 1.9 ° for CHI-G_H). In addition, CHI-G-coated catheter surfaces exhibited excellent adhesion forces (33.1 ± 9.3 kPa for CHI-G_H and 10.6 ± 5.7 kPa for CHI-G_L, respectively) compared to that of unmodified surfaces (2.2 ± 0.8 kPa). In animal experiments, the CHI-G coating on catheter surfaces significantly improved fixation durability. No systemic toxicity of the CHI-G-coated catheter was detected in histological analysis, hematological and biochemical assessments, or rabbit skin irritation tests. Thus, the CHI-G adhesive coating represents an effective bioinspired surface-modification approach for the fixation of implantable materials and catheters.",
+    "abstract_ja": "カテーテルの変位と不適切な固定は、埋め込み型医療機器において依然として大きな課題であり、多くの場合、機器の移動、介入の繰り返し、および治療効果の低下につながります。縫合、機械的固定、接着包帯などのさまざまな固定方法が開発されていますが、湿った生理学的条件下で適切な固定耐久性を維持することは依然として課題です。この研究では、カテーテル固定用にカテーテル表面にガロール修飾キトサン (CHI-G) を使用した生体由来の接着コーティングを開発します。 CHI-Gの脱水サイクルを繰り返すことにより、薄い(3〜5μm、CHI-G_L)コーティング厚と厚い(7〜9μm、CHI-G_H)コーティング厚さの2種類のCHI-Gコーティングカテーテルを調製した。 CHI-G コーティングされたカテーテル表面は、水接触角の減少とともに親水性の向上を示しました (コーティングされていない対照では 84.9±2.8°、CHI-G_L では 74.4±5.2°、CHI-G_H では 66.3±1.9°)。さらに、CHI-Gでコーティングされたカテーテル表面は、未修飾の表面（2.2±0.8kPa）と比較して、優れた接着力（それぞれCHI-G_Hで33.1±9.3kPa、CHI-G_Lで10.6±5.7kPa）を示しました。動物実験では、カテーテル表面のCHI-Gコーティングにより固定耐久性が大幅に向上しました。組織学的分析、血液学的および生化学的評価、またはウサギの皮膚刺激性試験において、CHI-G コーティングされたカテーテルの全身毒性は検出されませんでした。したがって、CHI-G 接着コーティングは、移植可能な材料とカテーテルを固定するための効果的な生体影響を受けた表面改質アプローチとなります。",
+    "detail_methods": "縫合、機械的固定、接着包帯などのさまざまな固定方法が開発されていますが、湿った生理学的条件下で適切な固定耐久性を維持することは依然として課題です。この研究では、カテーテル固定用にカテーテル表面にガロール修飾キトサン (CHI-G) を使用した生体由来の接着コーティングを開発します。組織学的分析、血液学的および生化学的評価、またはウサギの皮膚刺激性試験において、CHI-G コーティングされたカテーテルの全身毒性は検出されませんでした。",
+    "detail_results": "カテーテルの変位と不適切な固定は、埋め込み型医療機器において依然として大きな課題であり、多くの場合、機器の移動、介入の繰り返し、および治療効果の低下につながります。 CHI-G コーティングされたカテーテル表面は、水接触角の減少とともに親水性の向上を示しました (コーティングされていない対照では 84.9±2.8°、CHI-G_L では 74.4±5.2°、CHI-G_H では 66.3±1.9°)。動物実験では、カテーテル表面のCHI-Gコーティングにより固定耐久性が大幅に向上しました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42551161/",
+    "doi_url": "https://doi.org/10.1016/j.colsurfb.2026.116029",
+    "created_at": "2026-08-05T06:41:55.076293+00:00"
+  },
+  {
+    "pmid": "42549340",
+    "doi": "10.1093/ehjcr/ytag542",
+    "category": "カテーテル新技術",
+    "title_en": "Safety of pulsed-field ablation combined with IVUS-guided pulmonary vein stenting during atrial fibrillation ablation: a case report.",
+    "title_ja": "心房細動アブレーション中の IVUS 誘導肺静脈ステント留置術と組み合わせたパルスフィールドアブレーションの安全性: 症例報告。",
+    "authors": "Jadczyk Tomasz, Caratti di Lanzacco Lorenzo, Jarman Julian, Hill Jonathan, Markides Vias",
+    "journal": "European heart journal. Case reports",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-04",
+    "study_design": "動物実験",
+    "purpose": "肺静脈狭窄 (PVS) は、まれではありますが、心房細動 (AF) アブレーションの重篤な合併症です。ステント移植を伴う血管形成術は、重度の PVS の標準治療です。しかし、再狭窄と再閉塞は依然として頻繁に発生する課題です。肺静脈隔離のための新しい非熱的アブレーション法であるパルスフィールドアブレーション（PFA）は、構造的損傷が最小限に抑えられるため、以前に狭窄した肺静脈を伴う複雑なやり直し処置に特に適しており、より安全である可能性があります。\n症例の概要: 50歳の男性は、2023年2月に高周波を使用した肺静脈隔離術を受けました。数か月後、彼は息切れを発症し、コンピューター断層撮影スキャンにより、左下肺静脈(LIPV)と正常な冠状動脈の狭窄が示されました。不整脈も再発していました。 2024 年 3 月、脳保護装置を in situ で装着し、LIPV のきつい狭窄を事前拡張した後、8 × 19 mm Omnilink Elite (Abbott) ステントが展開され、良好な血管造影結果が得られました。 LIPV を除くすべての肺静脈の再接続が高周波エネルギーで行われましたが、狭窄によるさらなる問題を引き起こすことを恐れて LIPV は治療されませんでした。彼は 2024 年 12 月に検査を受け、息切れはなくなりましたが、動悸が再発しました。 2025年の春までに彼は息切れもするようになり、最初のステント留置後エドキサバンとクロピドグレルの投与を続けたにもかかわらず、画像検査で左下葉の灌流が低下したLIPVステントの亜全閉塞が示された。 2025 年 5 月、彼は事前拡張後に 7 mm 薬剤溶出バルーンを使用した血管内超音波 (IVUS) ガイド下バルーン血管形成術を受けるために入院し、ステントの開存性を回復することに成功しました。次に、カテーテルがステントに直接接触するのを避けて、以前にステントを留置した LIPV の周囲を含むすべての肺静脈に対して PFA を実行しました。処置と回復は順調で、患者の症状は著しく改善した。 2026 年 4 月時点では不整脈は発生していませんでした (約 1 年間の追跡調査)。\n考察: この症例は、AF アブレーション関連の PVS 管理の複雑さを浮き彫りにし、血行再建の指導における IVUS の役割を強調しています。また、ステント留置された肺静脈付近での PFA (特に Varipulse™、J&J MedTech) の安全性も実証し、追加の構造的損傷を最小限に抑えながら効果的な電気的絶縁を実現します。",
+    "methods": "背景: 肺静脈狭窄 (PVS) は、まれではありますが、心房細動 (AF) アブレーションの重篤な合併症です。処置と回復は順調で、患者の症状は著しく改善した。",
+    "results": "2024 年 3 月、脳保護装置を in situ で装着し、LIPV のきつい狭窄を事前拡張した後、8 × 19 mm Omnilink Elite (Abbott) ステントが展開され、良好な血管造影結果が得られました。",
+    "conclusion": "考察: この症例は、AF アブレーション関連の PVS 管理の複雑さを浮き彫りにし、血行再建の指導における IVUS の役割を強調しています。また、ステント留置された肺静脈付近での PFA (特に Varipulse™、J&J MedTech) の安全性も実証し、追加の構造的損傷を最小限に抑えながら効果的な電気的絶縁を実現します。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Pulmonary vein stenosis (PVS) is an uncommon but serious complication of atrial fibrillation (AF) ablation. Angioplasty with stent implantation is the standard treatment for severe PVS; however, restenosis and re-occlusion remain frequent challenges. Pulsed-field ablation (PFA), a novel non-thermal ablation modality for pulmonary vein isolation, causes minimal structural damage and may therefore be particularly suitable and safer for complex redo procedures involving previously stenosed pulmonary veins.\nCASE SUMMARY: A 50-year-old man underwent pulmonary vein isolation using radiofrequency in February 2023. A few months later, he developed breathlessness, and a computed tomography scan showed a stenosis of the left inferior pulmonary vein (LIPV) and normal coronary arteries. He also had recurrent arrhythmias. In March 2024, with a cerebral protection device in situ and following pre-dilatation of a tight stenosis of the LIPV, an 8 × 19 mm Omnilink Elite (Abbott) stent was deployed with a good angiographic result. Reconnections of all pulmonary veins except the LIPV were targeted with radiofrequency energy but the LIPV was not treated for fear of causing further problems with stenosis.He was reviewed in December 2024 and was free from breathlessness but had recurrent palpitations. By spring 2025, he had also become breathless, and imaging showed subtotal occlusion of the LIPV stent with reduced perfusion of the left lower lobe despite continuation of edoxaban and clopidogrel after initial stenting. In May 2025, he was admitted for intravascular ultrasound (IVUS)-guided balloon angioplasty with a 7-mm drug-eluting balloon following pre-dilatation, which successfully restored stent patency. PFA was then performed on all pulmonary veins, including around the previously stented LIPV, avoiding direct catheter contact with the stent. The procedure and recovery were uneventful, and the patient's symptoms improved markedly. He remained free from arrhythmias in April 2026 (∼1 year follow-up).\nDISCUSSION: This case highlights the complexity of managing AF ablation-related PVS and underscores the role of IVUS in guiding revascularization. It also demonstrates the safety of PFA (in particular Varipulse™, J&J MedTech) near a stented pulmonary vein, achieving effective electrical isolation with minimal additional structural injury.",
+    "abstract_ja": "背景: 肺静脈狭窄 (PVS) は、まれではありますが、心房細動 (AF) アブレーションの重篤な合併症です。ステント移植を伴う血管形成術は、重度の PVS の標準治療です。しかし、再狭窄と再閉塞は依然として頻繁に発生する課題です。肺静脈隔離のための新しい非熱的アブレーション法であるパルスフィールドアブレーション（PFA）は、構造的損傷が最小限に抑えられるため、以前に狭窄した肺静脈を伴う複雑なやり直し処置に特に適しており、より安全である可能性があります。\n症例の概要: 50歳の男性は、2023年2月に高周波を使用した肺静脈隔離術を受けました。数か月後、彼は息切れを発症し、コンピューター断層撮影スキャンにより、左下肺静脈(LIPV)と正常な冠状動脈の狭窄が示されました。不整脈も再発していました。 2024 年 3 月、脳保護装置を in situ で装着し、LIPV のきつい狭窄を事前拡張した後、8 × 19 mm Omnilink Elite (Abbott) ステントが展開され、良好な血管造影結果が得られました。 LIPV を除くすべての肺静脈の再接続が高周波エネルギーで行われましたが、狭窄によるさらなる問題を引き起こすことを恐れて LIPV は治療されませんでした。彼は 2024 年 12 月に検査を受け、息切れはなくなりましたが、動悸が再発しました。 2025年の春までに彼は息切れもするようになり、最初のステント留置後エドキサバンとクロピドグレルの投与を続けたにもかかわらず、画像検査で左下葉の灌流が低下したLIPVステントの亜全閉塞が示された。 2025 年 5 月、彼は事前拡張後に 7 mm 薬剤溶出バルーンを使用した血管内超音波 (IVUS) ガイド下バルーン血管形成術を受けるために入院し、ステントの開存性を回復することに成功しました。次に、カテーテルがステントに直接接触するのを避けて、以前にステントを留置した LIPV の周囲を含むすべての肺静脈に対して PFA を実行しました。処置と回復は順調で、患者の症状は著しく改善した。 2026 年 4 月時点では不整脈は発生していませんでした (約 1 年間の追跡調査)。\n考察: この症例は、AF アブレーション関連の PVS 管理の複雑さを浮き彫りにし、血行再建の指導における IVUS の役割を強調しています。また、ステント留置された肺静脈付近での PFA (特に Varipulse™、J&J MedTech) の安全性も実証し、追加の構造的損傷を最小限に抑えながら効果的な電気的絶縁を実現します。",
+    "detail_methods": "背景: 肺静脈狭窄 (PVS) は、まれではありますが、心房細動 (AF) アブレーションの重篤な合併症です。処置と回復は順調で、患者の症状は著しく改善した。",
+    "detail_results": "2024 年 3 月、脳保護装置を in situ で装着し、LIPV のきつい狭窄を事前拡張した後、8 × 19 mm Omnilink Elite (Abbott) ステントが展開され、良好な血管造影結果が得られました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42549340/",
+    "doi_url": "https://doi.org/10.1093/ehjcr/ytag542",
+    "created_at": "2026-08-05T06:41:58.137473+00:00"
+  },
+  {
+    "pmid": "42548991",
+    "doi": "10.53045/jprs.2025-0059",
+    "category": "カテーテル新技術",
+    "title_en": "The TOMAX Procedure for Penile Sensory Reconstruction in a Patient with Spina Bifida.",
+    "title_ja": "二分脊椎患者における陰茎感覚再建のための TOMAX 手術。",
+    "authors": "Sakuraba Minoru, Onodera Aya, Mitsuhashi Nobuyuki, Sone Itaru, Hakozaki Takaya, Honda Takayuki",
+    "journal": "Journal of plastic and reconstructive surgery",
+    "publication_date": "2026-07-27",
+    "entry_date": "2026-08-04",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "私たちは日本における二分脊椎患者における陰茎感覚再建の最初の症例を報告します。 27 歳の男性が、二分脊椎による会陰部の先天性感覚障害を患っていました。",
+    "methods": "私たちは日本における二分脊椎患者における陰茎感覚再建の最初の症例を報告します。 1年間の追跡調査で、患者はSemmes-Weinsteinテストで青いフィラメントを検出できた。 TOMAX 手術は、二分脊椎患者の感覚を回復させ、生活の質を向上させることができます。",
+    "results": "",
+    "conclusion": "1年間の追跡調査で、患者はSemmes-Weinsteinテストで青いフィラメントを検出できた。 TOMAX 手術は、二分脊椎患者の感覚を回復させ、生活の質を向上させることができます。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "We report the first case of penile sensory reconstruction in a patient with spina bifida in Japan. A 27-year-old man presented with congenital sensory loss in the perineal region owing to spina bifida. His myelomeningocele was repaired immediately after birth. He was unable to recognize bladder fullness and required urinary self-catheterization. Emotional erection and ejaculation were possible, and his gait was normal. We elected to perform the TOMAX procedure (i.e., TO MAXimize sensation, sexuality, and quality of life) to reconstruct penile sensation. Microsurgical sensory nerve anastomosis between the ilioinguinal nerve and the dorsal nerve of the penis was performed bilaterally under general anesthesia. No complications occurred. Penile sensation was noted 3 months after surgery. At the 1-year follow-up, the patient could detect the blue filament on Semmes-Weinstein testing. The TOMAX procedure can provide sensory recovery in patients with spina bifida and improve their quality of life.",
+    "abstract_ja": "私たちは日本における二分脊椎患者における陰茎感覚再建の最初の症例を報告します。 27 歳の男性が、二分脊椎による会陰部の先天性感覚障害を患っていました。彼の脊髄髄膜瘤は出生後すぐに修復されました。彼は膀胱の充満を認識できず、自己導尿が必要でした。感情的な勃起と射精は可能であり、彼の歩行は正常でした。私たちは、陰茎の感覚を再構築するために TOMAX 手順 (つまり、感覚、性的指向、生活の質を最大化する) を実行することを選択しました。腸骨鼠径神経と陰茎背神経の間の顕微手術感覚神経吻合術を全身麻酔下で両側に実施した。合併症は発生しませんでした。手術後３ヶ月で陰茎の感覚が認められた。 1年間の追跡調査で、患者はSemmes-Weinsteinテストで青いフィラメントを検出できた。 TOMAX 手術は、二分脊椎患者の感覚を回復させ、生活の質を向上させることができます。",
+    "detail_methods": "私たちは日本における二分脊椎患者における陰茎感覚再建の最初の症例を報告します。 1年間の追跡調査で、患者はSemmes-Weinsteinテストで青いフィラメントを検出できた。 TOMAX 手術は、二分脊椎患者の感覚を回復させ、生活の質を向上させることができます。",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42548991/",
+    "doi_url": "https://doi.org/10.53045/jprs.2025-0059",
+    "created_at": "2026-08-05T06:42:00.900715+00:00"
+  },
+  {
+    "pmid": "42548781",
+    "doi": "10.3389/fped.2026.1893910",
+    "category": "カテーテル新技術",
+    "title_en": "Gram-negative bloodstream infections in pediatric patients: antimicrobial resistance and factors associated with mortality.",
+    "title_ja": "小児患者におけるグラム陰性血流感染症：抗菌薬耐性と死亡率に関連する要因。",
+    "authors": "Akar Asuman, Pişirici Mustafa",
+    "journal": "Frontiers in pediatrics",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-04",
+    "study_design": "後ろ向き研究",
+    "purpose": "グラム陰性血流感染症 (BSI) は、小児患者、特に重症の小児における重大な罹患率と死亡率に関連しています。グラム陰性病原体の抗菌薬耐性の増加により、経験的な治療戦略はさらに複雑になり、治療の選択肢は限られています。この研究は、グラム陰性 BSI の小児患者における抗菌薬耐性パターンと死亡率に関連する要因を評価することを目的としました。",
+    "methods": "この後ろ向きコホート研究には、2022年1月から2025年9月までに三次医療センターで診断された、検査室でグラム陰性BSIと診断された0～18歳の小児患者が含まれた。人口統計学的特徴、侵襲的処置、検査所見、抗菌薬感受性プロファイル、治療関連の変数、および臨床転帰が分析されました。全死因院内死亡に関連する要因は、探索的多変数ロジスティック回帰モデルを使用して評価されました。",
+    "results": "合計252人の小児患者が対象となった。クレブシエラ属(46.4%) およびアシネトバクター属 spp. (28.6%) が最も頻繁に分離された病原体でした。ゲンタマイシン (58.3%)、シプロフロキサシン (57.1%)、イミペネム (56.0%)、およびメロペネム (48.4%) で高い耐性率が観察されました。セフタジジム-アビバクタム耐性は研究年と有意に関連していた(p = 0.008)。全体的な全原因の院内死亡率は 31.7% でした。以前のメロペネム曝露と血液培養採取後の抗菌治療の変更は、死亡率の上昇と関連していた。改訂された多変数モデルでは、中心静脈カテーテルの使用 (調整済み OR=13.58、95% CI: 5.02-36.60)、血小板減少症 (調整済み OR=4.82、95% CI: 2.10-11.02)、完全非経口栄養 (調整済み OR=4.83、95% CI: 2.09-11.13）、機械換気（調整後 OR=3.74、95% CI: 1.41-9.97）、およびメロペネム耐性（調整後 OR=3.00、95% CI: 1.28-7.03）は、独立して死亡率と関連した。",
+    "conclusion": "小児患者におけるグラム陰性BSIは、実質的な抗菌薬耐性とかなりの全死因院内死亡率と関連していた。分子特性評価が行われていないため、セフタジジム-アビバクタム耐性の増加は慎重に解釈される必要があります。継続的な地域監視、抗菌管理、および感染予防戦略は、特に高リスクの新生児および小児集中治療人口において重要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Gram-negative bloodstream infections (BSIs) are associated with substantial morbidity and mortality in pediatric patients, particularly among critically ill children. Increasing antimicrobial resistance among Gram-negative pathogens has further complicated empirical treatment strategies and limited therapeutic options. This study aimed to evaluate antimicrobial resistance patterns and factors associated with mortality in pediatric patients with Gram-negative BSIs.\nMETHODS: This retrospective cohort study included pediatric patients aged 0-18 years with laboratory-confirmed Gram-negative BSIs diagnosed between January 2022 and September 2025 at a tertiary care center. Demographic characteristics, invasive procedures, laboratory findings, antimicrobial susceptibility profiles, treatment-related variables, and clinical outcomes were analyzed. Factors associated with all-cause in-hospital mortality were evaluated using an exploratory multivariable logistic regression model.\nRESULTS: A total of 252 pediatric patients were included. Klebsiella spp. (46.4%) and Acinetobacter spp. (28.6%) were the most frequently isolated pathogens. High resistance rates were observed for gentamicin (58.3%), ciprofloxacin (57.1%), imipenem (56.0%), and meropenem (48.4%). Ceftazidime-avibactam resistance was significantly associated with study year (p = 0.008). The overall all-cause in-hospital mortality rate was 31.7%. Prior meropenem exposure and antimicrobial treatment modification after blood culture collection were associated with higher mortality. In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality.\nCONCLUSIONS: Gram-negative BSIs in pediatric patients were associated with substantial antimicrobial resistance and considerable all-cause in-hospital mortality. The increase in ceftazidime-avibactam resistance should be interpreted cautiously because molecular characterization was not performed. Continuous local surveillance, antimicrobial stewardship, and infection prevention strategies are important, particularly in high-risk neonatal and pediatric intensive care populations.",
+    "abstract_ja": "背景: グラム陰性血流感染症 (BSI) は、小児患者、特に重症の小児のかなりの罹患率と死亡率に関連しています。グラム陰性病原体の抗菌薬耐性の増加により、経験的な治療戦略はさらに複雑になり、治療の選択肢は限られています。この研究は、グラム陰性 BSI の小児患者における抗菌薬耐性パターンと死亡率に関連する要因を評価することを目的としました。\n方法：この後ろ向きコホート研究には、2022年1月から2025年9月までに三次医療センターで診断された、検査室でグラム陰性BSIと診断された0～18歳の小児患者が含まれた。人口統計学的特徴、侵襲的処置、検査所見、抗菌薬感受性プロファイル、治療関連の変数、および臨床転帰が分析されました。全死因院内死亡に関連する要因は、探索的多変数ロジスティック回帰モデルを使用して評価されました。\n結果: 合計 252 人の小児患者が対象となりました。クレブシエラ属(46.4%) およびアシネトバクター属 spp. (28.6%) が最も頻繁に分離された病原体でした。ゲンタマイシン (58.3%)、シプロフロキサシン (57.1%)、イミペネム (56.0%)、およびメロペネム (48.4%) で高い耐性率が観察されました。セフタジジム-アビバクタム耐性は研究年と有意に関連していた(p = 0.008)。全体的な全原因の院内死亡率は 31.7% でした。以前のメロペネム曝露と血液培養採取後の抗菌治療の変更は、死亡率の上昇と関連していた。改訂された多変数モデルでは、中心静脈カテーテルの使用 (調整済み OR=13.58、95% CI: 5.02-36.60)、血小板減少症 (調整済み OR=4.82、95% CI: 2.10-11.02)、完全非経口栄養 (調整済み OR=4.83、95% CI: 2.09-11.13）、機械換気（調整後 OR=3.74、95% CI: 1.41-9.97）、およびメロペネム耐性（調整後 OR=3.00、95% CI: 1.28-7.03）は、独立して死亡率と関連した。\n結論: 小児患者におけるグラム陰性 BSI は、実質的な抗菌薬耐性とかなりの全死因院内死亡率と関連していた。分子特性評価が行われていないため、セフタジジム-アビバクタム耐性の増加は慎重に解釈される必要があります。継続的な地域監視、抗菌管理、および感染予防戦略は、特に高リスクの新生児および小児集中治療人口において重要です。",
+    "detail_methods": "この後ろ向きコホート研究には、2022年1月から2025年9月までに三次医療センターで診断された、検査室でグラム陰性BSIと診断された0～18歳の小児患者が含まれた。人口統計学的特徴、侵襲的処置、検査所見、抗菌薬感受性プロファイル、治療関連の変数、および臨床転帰が分析されました。全死因院内死亡に関連する要因は、探索的多変数ロジスティック回帰モデルを使用して評価されました。",
+    "detail_results": "合計252人の小児患者が対象となった。クレブシエラ属(46.4%) およびアシネトバクター属 spp. (28.6%) が最も頻繁に分離された病原体でした。ゲンタマイシン (58.3%)、シプロフロキサシン (57.1%)、イミペネム (56.0%)、およびメロペネム (48.4%) で高い耐性率が観察されました。セフタジジム-アビバクタム耐性は研究年と有意に関連していた(p = 0.008)。全体的な全原因の院内死亡率は 31.7% でした。以前のメロペネム曝露と血液培養採取後の抗菌治療の変更は、死亡率の上昇と関連していた。改訂された多変数モデルでは、中心静脈カテーテルの使用 (調整済み OR=13.58、95% CI: 5.02-36.60)、血小板減少症 (調整済み OR=4.82、95% CI: 2.10-11.02)、完全非経口栄養 (調整済み OR=4.83、95% CI: 2.09-11.13）、機械換気（調整後 OR=3.74、95% CI: 1.41-9.97）、およびメロペネム耐性（調整後 OR=3.00、95% CI: 1.28-7.03）は、独立して死亡率と関連した。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "46.4%",
+        "source": "(46.4%) and Acinetobacter spp."
+      },
+      {
+        "item": "割合",
+        "value": "28.6%",
+        "source": "(28.6%) were the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "58.3%",
+        "source": "High resistance rates were observed for gentamicin (58.3%), ciprofloxacin (57.1%), imipenem (56.0%), and meropenem (48.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "57.1%",
+        "source": "High resistance rates were observed for gentamicin (58.3%), ciprofloxacin (57.1%), imipenem (56.0%), and meropenem (48.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "56.0%",
+        "source": "High resistance rates were observed for gentamicin (58.3%), ciprofloxacin (57.1%), imipenem (56.0%), and meropenem (48.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "48.4%",
+        "source": "High resistance rates were observed for gentamicin (58.3%), ciprofloxacin (57.1%), imipenem (56.0%), and meropenem (48.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "31.7%",
+        "source": "The overall all-cause in-hospital mortality rate was 31.7%."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.008",
+        "source": "Ceftazidime-avibactam resistance was significantly associated with study year (p = 0.008)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 5",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 2",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 1",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR=13.58",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR=4.82",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR=4.83",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR=3.74",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR=3.00",
+        "source": "In the revised multivariable model, central venous catheter use (adjusted OR=13.58, 95% CI: 5.02-36.60), thrombocytopenia (adjusted OR=4.82, 95% CI: 2.10-11.02), total parenteral nutrition (adjusted OR=4.83, 95% CI: 2.09-11.13), mechanical ventilation (adjusted OR=3.74, 95% CI: 1.41-9.97), and meropenem resistance (adjusted OR=3.00, 95% CI: 1.28-7.03) were independently associated with mortality."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42548781/",
+    "doi_url": "https://doi.org/10.3389/fped.2026.1893910",
+    "created_at": "2026-08-05T06:42:05.032418+00:00"
+  },
+  {
     "pmid": "42542567",
     "doi": "10.22037/uj.v23i00.8573",
     "category": "尿路結石・細菌叢",
