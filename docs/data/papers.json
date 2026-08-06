@@ -1,5 +1,153 @@
 [
   {
+    "pmid": "42553589",
+    "doi": "10.3389/fvets.2026.1851840",
+    "category": "PICRUSt2・機能予測",
+    "title_en": "Eicosanoid-immunometabotypes reveal genotypic links to cervicovaginal pH in progestagen synchronised South African Dohne Merino ewes.",
+    "title_ja": "エイコサノイド免疫メタボタイプにより、プロゲスターゲンと同期した南アフリカのドーネメリノ雌羊における子宮頸膣部の pH との遺伝子型の関連が明らかになりました。",
+    "authors": "Shingange Rimbilana, Webb Edward Cottington, Wooding Madelien, Visser Carina",
+    "journal": "Frontiers in veterinary science",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-05",
+    "study_design": "動物実験",
+    "purpose": "代謝産物は、血液、尿、頸膣分泌物などのさまざまな体液から検出できます。頸膣液には色や pH などの独特の特徴があり、これらは雌羊の根本的な健康状態と、特にストレスを経験した後の恒常性の維持に注力する関連する代謝および内分泌プロセスによって影響を受けます。",
+    "methods": "",
+    "results": "",
+    "conclusion": "SNPSは、粘膜の炎症性シグナル伝達、上皮の完全性、および代謝ストレス反応を制御する遺伝子にマッピングされており、遺伝的変異が装置による子宮頸膣恒常性の破壊と相互作用して、スポンジ処置を受けた雌羊の膣pHが著しく高くなるという生物学的に妥当なメカニズムを提供する。この研究は、家畜生産に関連する表現型の代謝型の継続的な堅牢な特徴付けを提唱し、羊の生殖粘膜環境内の調節の重要な軸としてpHを組み込むことによって免疫代謝の概念的枠組みを前進させます。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "PICRUSt2・機能予測に関連し、特に「kegg」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "kegg"
+    ],
+    "abstract_en": "Metabolites can be detected in various bodily fluids such as blood, urine and cervicovaginal secretions. Cervicovaginal fluid has distinct characteristics such as colour and pH that are affected by the underlying health of an ewe and her associated metabolic and endocrine processes dedicated towards maintaining homeostasis particularly after stress is experienced. This study profiled distinct metabolomic phenotypes defined by the pattern and abundance of eicosanoid mediators that reflect the underlying state of Dohne Merino ewes' immune activation and metabolic regulation based on their comparative cervicovaginal metabolome and pH before and after the administration of an intravaginal pessary using high resolution liquid chromatography mass spectrometry. Further, single nucleotide polymorphisms (SNPs) were analysed using genome-wide association analysis (GWAS) to correlate genomic effects of cervicovaginal pH. Twenty ewes were allocated to each treatment group defined by a CIDR-, sponge- or injection-based estrus synchronisation protocol and their cervicovaginal fluid sampled using FLOQSwabs. This study matched three features to metabolites of the KEGG Ovis aries eicosanoid synthesis and breakdown pathway and found a significant effect of sampling point, prior to and after pessary administration, on cervicovaginal pH (p < 0.05). Sponge-based estrus synchronisation significantly increased cervicovaginal pH compared to the CIDR-based group (p < 0.05) but not compared to the control group (p > 0.05), where CIDR-based and control group ewes did not differ significantly from each other (p > 0.05). Ten SNPs were correlated to cervicovaginal pH with GWAS results visualised using Manhattan, QQ, principal component analysis and volcano plots where effect sizes (β) ranged from -0.5 to 1.5, minor allele frequencies (MAF) from 0.23 to 0.49 and the genomic inflation factor λ was 1.053. SNPSs were mapped to genes regulating mucosal inflammatory signalling, epithelial integrity, and metabolic stress responses, offering a biologically plausible mechanism through which genetic variation interacts with device-induced disruptions to cervicovaginal homeostasis to produce significantly higher vaginal pH in sponge-treated ewes. This study advocates for the continued robust characterisation of metabotypes for phenotypes relevant to livestock production and advances the conceptual framework of immunometabolism by incorporating pH as a critical axis of regulation within reproductive mucosal environments of ewes.",
+    "abstract_ja": "代謝産物は、血液、尿、頸膣分泌物などのさまざまな体液から検出できます。頸膣液には色や pH などの独特の特徴があり、これらは雌羊の根本的な健康状態と、特にストレスを経験した後の恒常性の維持に注力する関連する代謝および内分泌プロセスによって影響を受けます。この研究では、高分解能液体クロマトグラフィー質量分析を使用して、膣内ペッサリーの投与前後の頚膣メタボロームとpHの比較に基づいて、ドーネメリノ雌羊の免疫活性化と代謝調節の根底にある状態を反映するエイコサノイドメディエーターのパターンと存在量によって定義される、異なるメタボローム表現型をプロファイルしました。さらに、子宮頸膣部 pH のゲノム影響を相関付けるために、ゲノムワイド関連解析 (GWAS) を使用して一塩基多型 (SNP) を分析しました。 20 頭の雌羊を、CIDR、スポンジ、または注射ベースの発情同期プロトコルによって定義された各治療グループに割り当て、FLOQSwabs を使用して頸膣液をサンプリングしました。この研究では、3 つの特徴を KEGG Ovis aries エイコサノイド合成および分解経路の代謝産物と照合し、ペッサリー投与前後のサンプリングポイントが子宮頸膣 pH に及ぼす有意な影響を発見しました (p<0.05)。スポンジベースの発情同期は、CIDRベースのグループと比較して子宮膣部pHを有意に上昇させましたが(p<0.05)、対照グループと比較してはそうではなく(p>0.05)、CIDRベースの雌羊と対照グループの雌羊は互いに有意差がありませんでした(p>0.05)。マンハッタン、QQ、主成分分析、および火山プロットを使用して視覚化された GWAS 結果により、10 個の SNP が子宮頸膣 pH と相関し、エフェクト サイズ (β) の範囲は -0.5 ～ 1.5、マイナー アレル頻度 (MAF) は 0.23 ～ 0.49、ゲノム膨張係数 λ は 1.053 でした。 SNPSは、粘膜の炎症性シグナル伝達、上皮の完全性、および代謝ストレス反応を制御する遺伝子にマッピングされており、遺伝的変異が装置による子宮頸膣恒常性の破壊と相互作用して、スポンジ処置を受けた雌羊の膣pHが著しく高くなるという生物学的に妥当なメカニズムを提供する。この研究は、家畜生産に関連する表現型の代謝型の継続的な堅牢な特徴付けを提唱し、羊の生殖粘膜環境内の調節の重要な軸としてpHを組み込むことによって免疫代謝の概念的枠組みを前進させます。",
+    "detail_methods": "この研究では、高分解能液体クロマトグラフィー質量分析を使用して、膣内ペッサリーの投与前後の頚膣メタボロームとpHの比較に基づいて、ドーネメリノ雌羊の免疫活性化と代謝調節の根底にある状態を反映するエイコサノイドメディエーターのパターンと存在量によって定義される、異なるメタボローム表現型をプロファイルしました。さらに、子宮頸膣部 pH のゲノム影響を相関付けるために、ゲノムワイド関連解析 (GWAS) を使用して一塩基多型 (SNP) を分析しました。 20 頭の雌羊を、CIDR、スポンジ、または注射ベースの発情同期プロトコルによって定義された各治療グループに割り当て、FLOQSwabs を使用して頸膣液をサンプリングしました。",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "P値",
+        "value": "p < 0.05",
+        "source": "This study matched three features to metabolites of the KEGG Ovis aries eicosanoid synthesis and breakdown pathway and found a significant effect of sampling point, prior to and after pessary administration, on cervicovaginal pH (p < 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "p > 0.05",
+        "source": "Sponge-based estrus synchronisation significantly increased cervicovaginal pH compared to the CIDR-based group (p < 0.05) but not compared to the control group (p > 0.05), where CIDR-based and control group ewes did not differ significantly from each other (p > 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42553589/",
+    "doi_url": "https://doi.org/10.3389/fvets.2026.1851840",
+    "created_at": "2026-08-06T00:14:32.521453+00:00"
+  },
+  {
+    "pmid": "42553974",
+    "doi": "10.7759/cureus.112074",
+    "category": "カテーテル新技術",
+    "title_en": "Colistin Resistance in Klebsiella pneumoniae: Mechanisms, Detection, and Clinical Impact.",
+    "title_ja": "肺炎桿菌におけるコリスチン耐性：メカニズム、検出、および臨床的影響。",
+    "authors": "Koli Sai J, Karande Geeta S, Bhosale Vinayak S, Patil Satish R",
+    "journal": "Cureus",
+    "publication_date": "2026-07-01",
+    "entry_date": "2026-08-05",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "肺炎桿菌（K. pneumoniae ）は、肺炎、尿路感染症、血流感染症、人工呼吸器関連肺炎を引き起こすグラム陰性のカプセル化された日和見病原体です。",
+    "methods": "分子的手法 (ポリメラーゼ連鎖反応 (PCR)、配列決定) は、耐性遺伝子を検出し、染色体媒介メカニズムとプラスミド媒介メカニズムを区別して、サーベイランスとアウトブレイク調査のための包括的な特性評価を提供します。感染症は、特に血流感染症や敗血症を伴う重症患者において、効果的な治療の遅れ、入院期間の延長、合併症の増加、死亡率の上昇を引き起こします。",
+    "results": "肺炎、尿路感染症、血流感染症、人工呼吸器関連肺炎を引き起こすグラム陰性のカプセル化された日和見病原体です。カルバペネム耐性により、コリスチンは多剤耐性グラム陰性感染症に対する最後の手段の抗生物質となったが、コリスチンの使用増加により耐性の出現が促進された。肺炎は主に医療関連であり、ICU への入院、長期入院、広範囲の抗生物質への曝露 (カルバペネム、コリスチン)、および侵襲的器具 (中心静脈カテーテル、尿道カテーテル、人工呼吸器) に関連しています。感染症は、特に血流感染症や敗血症を伴う重症患者において、効果的な治療の遅れ、入院期間の延長、合併症の増加、死亡率の上昇を引き起こします。",
+    "conclusion": "mcr 遺伝子を検出する迅速分子診断により、早期の適切な治療が可能になります。コリスチンの有効性を維持し、耐性の蔓延を制限し、コリスチンを最終選択の治療選択肢として維持するには、感染症対策（接触予防策、手指衛生、積極的な監視、環境清掃）と組み合わせた抗菌管理が不可欠です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Klebsiella pneumoniae (K. pneumoniae ​​​​​) is a Gram-negative, encapsulated opportunistic pathogen causing pneumonia, urinary tract infections, bloodstream infections, and ventilator-associated pneumonia. Carbapenem resistance has made colistin a last-resort antibiotic for multidrug-resistant Gram-negative infections, but increased colistin use has driven resistance emergence. Resistance occurs through chromosomal mutations (mgrB, phoPQ, pmrAB) causing lipid A modification that reduces colistin binding, and plasmid-mediated mcr genes (especially mcr-1) encoding phosphoethanolamine transferase that spread horizontally across strains and species, making it a critical public health concern. Broth microdilution is the reference standard for susceptibility testing, while disk diffusion is unreliable. Molecular methods (polymerase chain reaction (PCR), sequencing) detect resistance genes and distinguish chromosomal versus plasmid-mediated mechanisms, providing comprehensive characterization for surveillance and outbreak investigation. Colistin-resistant K. pneumoniae is predominantly healthcare-associated, linked to ICU admission, prolonged hospitalization, broad-spectrum antibiotic exposure (carbapenems, colistin), and invasive devices (central venous catheters, urinary catheters, ventilators). Infections cause delayed effective therapy, prolonged hospital stay, increased complications, and higher mortality, particularly in critically ill patients with bloodstream infections or sepsis. India faces a high burden of carbapenem- and colistin-resistant isolates in tertiary care hospitals, yet molecular characterization data from regional hospitals remain limited. Rapid molecular diagnostics detecting mcr genes enable earlier appropriate therapy. Antimicrobial stewardship combined with infection control measures (contact precautions, hand hygiene, active surveillance, environmental cleaning) is essential to preserve colistin effectiveness and limit resistance spread, maintaining it as a last-line therapeutic option.",
+    "abstract_ja": "肺炎桿菌（K. pneumoniae ）は、肺炎、尿路感染症、血流感染症、人工呼吸器関連肺炎を引き起こすグラム陰性のカプセル化された日和見病原体です。カルバペネム耐性により、コリスチンは多剤耐性グラム陰性感染症に対する最後の手段の抗生物質となったが、コリスチンの使用増加により耐性の出現が促進された。耐性は、コリスチン結合を低下させるリピド A 修飾を引き起こす染色体変異 (mgrB、phoPQ、pmrAB) と、株や種を超えて水平に広がるホスホエタノールアミン トランスフェラーゼをコードするプラスミド媒介 mcr 遺伝子 (特に mcr-1) によって発生し、公衆衛生上の重大な懸念事項となっています。ブロス微量希釈は感受性試験の参照標準ですが、ディスク拡散は信頼できません。分子的手法 (ポリメラーゼ連鎖反応 (PCR)、配列決定) は、耐性遺伝子を検出し、染色体媒介メカニズムとプラスミド媒介メカニズムを区別して、サーベイランスとアウトブレイク調査のための包括的な特性評価を提供します。コリスチン耐性肺炎桿菌は主に医療関連であり、ICU 入院、長期入院、広範囲の抗生物質への曝露 (カルバペネム、コリスチン)、および侵襲的器具 (中心静脈カテーテル、尿道カテーテル、人工呼吸器) に関連しています。感染症は、特に血流感染症や敗血症を伴う重症患者において、効果的な治療の遅れ、入院期間の延長、合併症の増加、死亡率の上昇を引き起こします。インドは、三次医療病院におけるカルバペネム耐性およびコリスチン耐性分離株の多大な負担に直面しているが、地域病院からの分子特性データは依然として限られている。 mcr 遺伝子を検出する迅速分子診断により、早期の適切な治療が可能になります。コリスチンの有効性を維持し、耐性の蔓延を制限し、コリスチンを最終選択の治療選択肢として維持するには、感染症対策（接触予防策、手指衛生、積極的な監視、環境清掃）と組み合わせた抗菌管理が不可欠です。",
+    "detail_methods": "分子的手法 (ポリメラーゼ連鎖反応 (PCR)、配列決定) は、耐性遺伝子を検出し、染色体媒介メカニズムとプラスミド媒介メカニズムを区別して、サーベイランスとアウトブレイク調査のための包括的な特性評価を提供します。感染症は、特に血流感染症や敗血症を伴う重症患者において、効果的な治療の遅れ、入院期間の延長、合併症の増加、死亡率の上昇を引き起こします。",
+    "detail_results": "肺炎、尿路感染症、血流感染症、人工呼吸器関連肺炎を引き起こすグラム陰性のカプセル化された日和見病原体です。カルバペネム耐性により、コリスチンは多剤耐性グラム陰性感染症に対する最後の手段の抗生物質となったが、コリスチンの使用増加により耐性の出現が促進された。肺炎は主に医療関連であり、ICU への入院、長期入院、広範囲の抗生物質への曝露 (カルバペネム、コリスチン)、および侵襲的器具 (中心静脈カテーテル、尿道カテーテル、人工呼吸器) に関連しています。感染症は、特に血流感染症や敗血症を伴う重症患者において、効果的な治療の遅れ、入院期間の延長、合併症の増加、死亡率の上昇を引き起こします。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42553974/",
+    "doi_url": "https://doi.org/10.7759/cureus.112074",
+    "created_at": "2026-08-06T00:14:40.387356+00:00"
+  },
+  {
+    "pmid": "42553264",
+    "doi": "10.7759/cureus.112059",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical Profile, Risk Factors, and Antimicrobial Resistance Patterns of Ventilator-Associated Pneumonia Due to Acinetobacter baumannii in the ICUs of a Tertiary Care Centre in South India.",
+    "title_ja": "南インドの三次医療センターの ICU におけるアシネトバクター・バウマニによる人工呼吸器関連肺炎の臨床プロフィール、危険因子、および抗菌薬耐性パターン。",
+    "authors": "Siddiqui Saad, Appajigol Jayaprakash, Maste Preeti, Angadi Naveen, Desai Isha, Dhorajia Viharkumar R",
+    "journal": "Cureus",
+    "publication_date": "2026-07-01",
+    "entry_date": "2026-08-05",
+    "study_design": "横断研究",
+    "purpose": "はじめに 人工呼吸器関連肺炎 (VAP) は、ICU 環境における罹患率と死亡率の主な原因であり、多剤耐性アシネトバクター バウマニによって引き起こされる場合、より大きな影響を及ぼします。この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。",
+    "methods": "この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。方法 この1年間の横断研究は、2023年1月から12月までKLEのDr.で実施された。アシネトバクター・バウマンニによる培養で確認されたVAP患者計68人が含まれた。",
+    "results": "はじめに 人工呼吸器関連肺炎 (VAP) は、ICU 環境における罹患率と死亡率の主な原因であり、多剤耐性アシネトバクター バウマニによって引き起こされる場合、より大きな影響を及ぼします。この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。結果 平均年齢は 48 歳、男性は 54 名 (79.4%) でした。最も一般的な基礎診断は脳血管障害と敗血症で、それぞれ22人（32.4％）と13人（19.1％）の患者で観察された。",
+    "conclusion": "予後スコア、特に SAPS II は死亡率と強い関連性を示しました。ただし、これらの発見は観察計画の文脈で解釈される必要があります。結果は仮説を生み出すものであり、大規模な多施設研究での検証が必要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Introduction Ventilator-associated pneumonia (VAP) is a major cause of morbidity and mortality in ICU settings, with a greater impact when caused by multidrug-resistant Acinetobacter baumannii. This study examines the clinical profile, risk factors, antimicrobial resistance patterns, and prognostic indicators associated with VAP due to this organism in a tertiary care centre in South India. Methods This one-year cross-sectional study was conducted from January to December 2023 at KLE's Dr. Prabhakar Kore Hospital, Belagavi. A total of 68 patients with culture-confirmed VAP due to Acinetobacter baumannii were included. Clinical characteristics, comorbidities, risk factors, microbiological susceptibility, and prognostic scores, including the Glasgow Coma Scale (GCS), Acute Physiology and Chronic Health Evaluation II (APACHE II), quick Sequential Organ Failure Assessment (qSOFA), and Simplified Acute Physiology Score II (SAPS II), were analysed. Antimicrobial susceptibility testing was performed using institutional protocols, and resistance patterns were defined based on susceptibility across antimicrobial classes. Ethical approval was obtained from the institutional ethics committee. Results The mean age was 48 years, with 54 males (79.4%). Cerebrovascular accident and sepsis were the most common underlying diagnoses, observed in 22 (32.4%) and 13 (19.1%) patients, respectively. Mechanical ventilation was present in all patients. Central venous catheter use and glucocorticoid therapy were noted in 47 (69.1%) and 37 (54.4%) patients, respectively. Mortality was observed in 44 patients (64.7%). Non-survivors had higher prognostic scores. GCS ≤8, APACHE II >20, qSOFA >1, and SAPS II >43 were associated with higher mortality, with area under the curve (AUC) values of 0.928, 0.954, 0.937, and 0.971, respectively. Pan-drug resistance was observed in 49 (72.1%) isolates, while colistin sensitivity was seen in 11 (16.2%). Conclusion VAP due to Acinetobacter baumannii in this setting was associated with high mortality and a substantial burden of antimicrobial resistance. Prognostic scores, particularly SAPS II, showed strong associations with mortality; however, these findings should be interpreted in the context of the observational design. The results are hypothesis-generating and require validation in larger multicentre studies.",
+    "abstract_ja": "はじめに 人工呼吸器関連肺炎 (VAP) は、ICU 環境における罹患率と死亡率の主な原因であり、多剤耐性アシネトバクター バウマニによって引き起こされる場合、より大きな影響を及ぼします。この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。方法 この 1 年間の横断研究は、2023 年 1 月から 12 月まで、ベラガヴィにある KLE のプラバーカール コレ病院で実施されました。アシネトバクター・バウマニによる培養で確認されたVAP患者計68人が含まれた。臨床的特徴、併存疾患、危険因子、微生物学的感受性、およびグラスゴー昏睡スケール (GCS)、急性生理学および慢性健康評価 II (APACHE II)、逐次臓器不全迅速評価 (qSOFA)、および簡易急性生理学スコア II (SAPS II) を含む予後スコアが分析されました。抗菌薬感受性試験は施設のプロトコルを使用して実施され、耐性パターンは抗菌薬クラス全体の感受性に基づいて定義されました。倫理的承認は施設倫理委員会から得られました。結果 平均年齢は 48 歳、男性は 54 名 (79.4%) でした。最も一般的な基礎診断は脳血管障害と敗血症で、それぞれ22人（32.4％）と13人（19.1％）の患者で観察された。すべての患者に人工呼吸器が装着されていました。中心静脈カテーテルの使用とグルココルチコイド療法がそれぞれ47人（69.1％）と37人（54.4％）の患者で認められた。死亡率は 44 人の患者 (64.7%) で観察されました。非生存者の予後スコアはより高かった。 GCS ≤8、APACHE II >20、qSOFA >1、SAPS II >43 は死亡率の上昇と関連しており、曲線下面積 (AUC) 値はそれぞれ 0.928、0.954、0.937、0.971 でした。汎薬物耐性は 49 株 (72.1%) の分離株で観察されましたが、コリスチン感受性は 11 株 (16.2%) で見られました。結論 この状況におけるアシネトバクター・バウマニによる VAP は、高い死亡率と抗菌薬耐性の相当な負荷と関連していた。予後スコア、特に SAPS II は死亡率と強い関連性を示しました。ただし、これらの発見は観察計画の文脈で解釈される必要があります。結果は仮説を生み出すものであり、大規模な多施設研究での検証が必要です。",
+    "detail_methods": "この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。方法 この1年間の横断研究は、2023年1月から12月までKLEのDr.で実施された。アシネトバクター・バウマンニによる培養で確認されたVAP患者計68人が含まれた。",
+    "detail_results": "はじめに 人工呼吸器関連肺炎 (VAP) は、ICU 環境における罹患率と死亡率の主な原因であり、多剤耐性アシネトバクター バウマニによって引き起こされる場合、より大きな影響を及ぼします。この研究では、南インドの三次医療センターにおいて、この微生物による VAP に関連する臨床プロフィール、危険因子、抗菌薬耐性パターン、および予後指標を調査しています。結果 平均年齢は 48 歳、男性は 54 名 (79.4%) でした。最も一般的な基礎診断は脳血管障害と敗血症で、それぞれ22人（32.4％）と13人（19.1％）の患者で観察された。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "68 patients",
+        "source": "A total of 68 patients with culture-confirmed VAP due to Acinetobacter baumannii were included."
+      },
+      {
+        "item": "対象数",
+        "value": "44 patients",
+        "source": "Mortality was observed in 44 patients (64.7%)."
+      },
+      {
+        "item": "割合",
+        "value": "79.4%",
+        "source": "Results The mean age was 48 years, with 54 males (79.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "32.4%",
+        "source": "Cerebrovascular accident and sepsis were the most common underlying diagnoses, observed in 22 (32.4%) and 13 (19.1%) patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "19.1%",
+        "source": "Cerebrovascular accident and sepsis were the most common underlying diagnoses, observed in 22 (32.4%) and 13 (19.1%) patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "69.1%",
+        "source": "Central venous catheter use and glucocorticoid therapy were noted in 47 (69.1%) and 37 (54.4%) patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "54.4%",
+        "source": "Central venous catheter use and glucocorticoid therapy were noted in 47 (69.1%) and 37 (54.4%) patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "64.7%",
+        "source": "Mortality was observed in 44 patients (64.7%)."
+      },
+      {
+        "item": "割合",
+        "value": "72.1%",
+        "source": "Pan-drug resistance was observed in 49 (72.1%) isolates, while colistin sensitivity was seen in 11 (16.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "16.2%",
+        "source": "Pan-drug resistance was observed in 49 (72.1%) isolates, while colistin sensitivity was seen in 11 (16.2%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42553264/",
+    "doi_url": "https://doi.org/10.7759/cureus.112059",
+    "created_at": "2026-08-06T00:14:47.291966+00:00"
+  },
+  {
     "pmid": "42551161",
     "doi": "10.1016/j.colsurfb.2026.116029",
     "category": "カテーテル新技術",
