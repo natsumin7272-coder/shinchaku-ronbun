@@ -1,5 +1,37 @@
 [
   {
+    "pmid": "42561662",
+    "doi": "10.1016/j.intimp.2026.117209",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Astragalus polysaccharides prevent kidney stone formation in an ethylene glycol-induced rat model via modulation of gut microbiota and short-chain fatty acid production.",
+    "title_ja": "レンゲ多糖類は、腸内細菌叢と短鎖脂肪酸生成の調節を介して、エチレングリコール誘発ラットモデルにおける腎臓結石の形成を防ぎます。",
+    "authors": "Tan Jing, Huang Shiwei, Yin Guangmin, Wang Long, Wang Jinrong, Yuan Peng, Liu Jianye, Yao Kun",
+    "journal": "International immunopharmacology",
+    "publication_date": "2026-08-06",
+    "entry_date": "2026-08-06",
+    "study_design": "動物実験",
+    "purpose": "腎臓結石は、重大な痛みや腎臓の合併症を伴う一般的な泌尿器疾患です。レンゲ多糖類 (APS) は伝統的な中国医学の生理活性成分であり、腸内微生物叢とその代謝物の調節を通じて腎臓疾患の治療の可能性が示されています。",
+    "methods": "この研究では、エチレングリコール誘発ラットモデルを使用して、腎臓結石形成、腎損傷、腸内マイクロバイオーム組成、および標的SCFAメタボロミクスに対するAPSの影響を調査しました。",
+    "results": "腎臓結石は、重大な痛みや腎臓の合併症を伴う一般的な泌尿器疾患です。 APS治療は、シュウ酸カルシウム結晶沈着と尿中シュウ酸レベルを大幅に減少させ、腎組織損傷を軽減し、シュウ酸代謝とSCFA産生に関与する主要な細菌分類群を制御し、特に血清酪酸レベルを回復させた。糞便微生物叢移植（FMT）の結果から、抗生物質を枯渇させた健康なマウスのドナーまたはAPS処置マウスのドナーから微生物叢を移植したレシピエントは、石性微生物叢のレシピエントと比較して腎機能の改善を示したことが明らかになった。",
+    "conclusion": "これらの発見は、APSが微生物叢と代謝産物の変化を通じて腸-腎臓軸を調節することによって腎臓結石の形成を予防することを裏付けており、FMTは疾患の転帰に対する腸内微生物群集の機能的寄与を実証している。したがって、APS は腎臓結石予防のための有望な自然療法アプローチであり、腎臓結石の管理における微生物叢に基づく戦略の関連性を強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiome、microbiota、metabolomics」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "microbiome",
+      "microbiota",
+      "metabolomics"
+    ],
+    "abstract_en": "Kidney stones are a common urological disorder associated with significant pain and renal complications. Astragalus polysaccharides (APS) are a bioactive component of Traditional Chinese Medicine that has shown therapeutic potential in renal disorders, potentially through the modulation of the gut microbiota and its metabolites. Based on its properties, it was hypothesized that APS could prevent kidney stone formation by modulating gut microbiota and altering short-chain fatty acid (SCFA) production. In this study, an ethylene glycol-induced rat model was used to investigate APS's effects on kidney stone formation, renal injury, gut microbiome composition, and targeted SCFAs metabolomics. APS treatment significantly reduced calcium oxalate crystal deposition and urinary oxalate levels, alleviated renal tissue damage, and regulated key bacterial taxa involved in oxalate metabolism and SCFA production, particularly restoring serum butyric acid levels. Sodium butyrate supplements further enhanced the protective function of APS in kidney stones. Fecal microbiota transplantation (FMT) results revealed that antibiotic-depleted recipients of microbiota from healthy mice donors or APS-treated mice donors exhibited improved renal function compared with recipients of stone microbiota. These findings support that APS prevents kidney stone formation by modulating the gut-kidney axis through microbiota and metabolite changes, with FMT demonstrating the functional contribution of gut microbial communities to disease outcomes. Therefore, APS represents a promising natural therapeutic approach for kidney stone prevention and highlights the relevance of microbiota-based strategies in managing kidney stones.",
+    "abstract_ja": "腎臓結石は、重大な痛みや腎臓の合併症を伴う一般的な泌尿器疾患です。レンゲ多糖類 (APS) は伝統的な中国医学の生理活性成分であり、腸内微生物叢とその代謝物の調節を通じて腎臓疾患の治療の可能性が示されています。その特性に基づいて、APS は腸内微生物叢を調節し、短鎖脂肪酸 (SCFA) の産生を変化させることによって腎臓結石の形成を防ぐことができるという仮説が立てられました。この研究では、エチレングリコール誘発ラットモデルを使用して、腎臓結石形成、腎損傷、腸内マイクロバイオーム組成、および標的SCFAメタボロミクスに対するAPSの影響を調査しました。 APS治療は、シュウ酸カルシウム結晶沈着と尿中シュウ酸レベルを大幅に減少させ、腎組織損傷を軽減し、シュウ酸代謝とSCFA産生に関与する主要な細菌分類群を制御し、特に血清酪酸レベルを回復させた。酪酸ナトリウムのサプリメントは、腎臓結石における APS の保護機能をさらに強化しました。糞便微生物叢移植（FMT）の結果から、抗生物質を枯渇させた健康なマウスのドナーまたはAPS処置マウスのドナーから微生物叢を移植したレシピエントは、石性微生物叢のレシピエントと比較して腎機能の改善を示したことが明らかになった。これらの発見は、APSが微生物叢と代謝産物の変化を通じて腸-腎臓軸を調節することによって腎臓結石の形成を予防することを裏付けており、FMTは疾患の転帰に対する腸内微生物群集の機能的寄与を実証している。したがって、APS は腎臓結石予防のための有望な自然療法アプローチであり、腎臓結石の管理における微生物叢に基づく戦略の関連性を強調しています。",
+    "detail_methods": "この研究では、エチレングリコール誘発ラットモデルを使用して、腎臓結石形成、腎損傷、腸内マイクロバイオーム組成、および標的SCFAメタボロミクスに対するAPSの影響を調査しました。",
+    "detail_results": "腎臓結石は、重大な痛みや腎臓の合併症を伴う一般的な泌尿器疾患です。 APS治療は、シュウ酸カルシウム結晶沈着と尿中シュウ酸レベルを大幅に減少させ、腎組織損傷を軽減し、シュウ酸代謝とSCFA産生に関与する主要な細菌分類群を制御し、特に血清酪酸レベルを回復させた。糞便微生物叢移植（FMT）の結果から、抗生物質を枯渇させた健康なマウスのドナーまたはAPS処置マウスのドナーから微生物叢を移植したレシピエントは、石性微生物叢のレシピエントと比較して腎機能の改善を示したことが明らかになった。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42561662/",
+    "doi_url": "https://doi.org/10.1016/j.intimp.2026.117209",
+    "created_at": "2026-08-07T04:38:14.210427+00:00"
+  },
+  {
     "pmid": "42553589",
     "doi": "10.3389/fvets.2026.1851840",
     "category": "PICRUSt2・機能予測",
