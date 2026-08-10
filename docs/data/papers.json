@@ -1,5 +1,104 @@
 [
   {
+    "pmid": "42572245",
+    "doi": "10.1177/17504589261464837",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Enhanced recovery after surgery protocols in resource-constrained settings: Feasibility, impact and cost-neutral prioritisation from a 15-month prospective observational study.",
+    "title_ja": "",
+    "authors": "Kesharwani Rudraksh, Raikar Arundati Ramdas, Raj Saurabh, Godinho Sheryl Francisca, Medha Gaddam, Vishnoi Abhimanyu, Lal Tusharindra, Ali Rehan, Vaghani Raj",
+    "journal": "Journal of perioperative practice",
+    "publication_date": "2026-08-09",
+    "entry_date": "2026-08-10",
+    "study_design": "動物実験",
+    "purpose": "術後回復強化（ERAS）プロトコルは、高所得環境での術後の転帰を改善しますが、資源に制約のある病院での導入を裏付ける証拠は依然として限られています。一般的な消化器手術後の周術期の実践と術後合併症を評価し、リソースが限られた環境で優先的に導入するための、実現可能でコスト中立の ERAS コンポーネントを特定する。",
+    "methods": "インドの準都市部にある政府教育病院で、15 か月にわたる前向き観察研究が実施されました。虫垂切除術、胆嚢摘出術、中空内臓穿孔修復術、または腸閉塞の手術を受けた成人患者が連続して登録された。周術期の実践と術後の合併症が前向きに記録されました。観察された科学的根拠に基づくケアからの逸脱はERAS原則にマッピングされ、予防可能性、実現可能性、コストの中立性に従って優先順位が付けられました。",
+    "results": "522人の患者のうち、68.6％が緊急手術を受け、45.6％が少なくとも1つの術後合併症を発症した。最も頻繁に発生した合併症は、手術部位感染 (24.3%)、術後イレウス (19.7%)、敗血症 (16.0%)、肺炎 (13.4%)、およびカテーテル関連尿路感染症 (9.8%) でした。一般的な周術期逸脱には、長期間の絶食、経口摂取と動員の遅れ、長期間の導尿と経鼻胃管の使用、および予防的抗生物質の不適切なタイミングが含まれます。これらの発見をERAS原則にマッピングすることで、最も一般的な合併症を対象とした、効果が高くコスト中立の限られた一連の介入が特定されました。",
+    "conclusion": "優先順位が高く、コスト中立のERASコンポーネントを選択的に導入することで、医療費を増加させることなく、リソースに制約のある病院で術後の罹患率を削減し、手術結果を改善するための実用的な戦略が提供されます。このアプローチを検証するには、前向き介入研究が必要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Enhanced recovery after surgery (ERAS) protocols improve postoperative outcomes in high-income settings, but evidence supporting their implementation in resource-constrained hospitals remains limited.\nAIM: To evaluate perioperative practices and postoperative complications following common gastrointestinal surgery and identify feasible, cost-neutral ERAS components for prioritised implementation in a resource-constrained setting.\nMETHODS: A 15-month prospective observational study was conducted in a semi-urban government teaching hospital in India. Adult patients undergoing appendectomy, cholecystectomy, hollow viscus perforation repair, or surgery for intestinal obstruction were consecutively enrolled. Perioperative practices and postoperative complications were prospectively documented. Observed deviations from evidence-based care were mapped to ERAS principles and prioritised according to preventability, feasibility, and cost neutrality.\nRESULTS: Among 522 patients, 68.6% underwent emergency surgery and 45.6% developed at least one postoperative complication. The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%). Common perioperative deviations included prolonged fasting, delayed oral intake and mobilisation, prolonged urinary catheterisation and nasogastric tube use, and incorrect timing of prophylactic antibiotics. Mapping these findings to ERAS principles identified a limited set of high-impact, cost-neutral interventions targeting the most common complications.\nCONCLUSION: Selective implementation of prioritised, cost-neutral ERAS components offers a pragmatic strategy to reduce postoperative morbidity and improve surgical outcomes in resource-constrained hospitals without increasing healthcare expenditure. Prospective interventional studies are needed to validate this approach.",
+    "abstract_ja": "",
+    "detail_methods": "インドの準都市部にある政府教育病院で、15 か月にわたる前向き観察研究が実施されました。虫垂切除術、胆嚢摘出術、中空内臓穿孔修復術、または腸閉塞の手術を受けた成人患者が連続して登録された。周術期の実践と術後の合併症が前向きに記録されました。観察された科学的根拠に基づくケアからの逸脱はERAS原則にマッピングされ、予防可能性、実現可能性、コストの中立性に従って優先順位が付けられました。",
+    "detail_results": "522人の患者のうち、68.6％が緊急手術を受け、45.6％が少なくとも1つの術後合併症を発症した。最も頻繁に発生した合併症は、手術部位感染 (24.3%)、術後イレウス (19.7%)、敗血症 (16.0%)、肺炎 (13.4%)、およびカテーテル関連尿路感染症 (9.8%) でした。一般的な周術期逸脱には、長期間の絶食、経口摂取と動員の遅れ、長期間の導尿と経鼻胃管の使用、および予防的抗生物質の不適切なタイミングが含まれます。これらの発見をERAS原則にマッピングすることで、最も一般的な合併症を対象とした、効果が高くコスト中立の限られた一連の介入が特定されました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "522 patients",
+        "source": "RESULTS: Among 522 patients, 68.6% underwent emergency surgery and 45.6% developed at least one postoperative complication."
+      },
+      {
+        "item": "割合",
+        "value": "68.6%",
+        "source": "RESULTS: Among 522 patients, 68.6% underwent emergency surgery and 45.6% developed at least one postoperative complication."
+      },
+      {
+        "item": "割合",
+        "value": "45.6%",
+        "source": "RESULTS: Among 522 patients, 68.6% underwent emergency surgery and 45.6% developed at least one postoperative complication."
+      },
+      {
+        "item": "割合",
+        "value": "24.3%",
+        "source": "The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "19.7%",
+        "source": "The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "16.0%",
+        "source": "The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "13.4%",
+        "source": "The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "9.8%",
+        "source": "The most frequent complications were surgical site infection (24.3%), postoperative ileus (19.7%), sepsis (16.0%), pneumonia (13.4%), and catheter-associated urinary tract infection (9.8%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42572245/",
+    "doi_url": "https://doi.org/10.1177/17504589261464837",
+    "created_at": "2026-08-10T23:09:11.102471+00:00"
+  },
+  {
+    "pmid": "42573848",
+    "doi": "10.1007/s11274-026-05200-9",
+    "category": "カテーテル新技術",
+    "title_en": "Lactic acid bacteria-derived biosurfactants: emerging strategies for biofilm control, virulence attenuation, and food safety.",
+    "title_ja": "乳酸菌由来のバイオサーファクタント: バイオフィルム制御、病原性の弱毒化、および食品の安全性のための新たな戦略。",
+    "authors": "Tabassum Nazia, Kim Taehyeong, Khan Fazlurrahman",
+    "journal": "World journal of microbiology & biotechnology",
+    "publication_date": "2026-08-10",
+    "entry_date": "2026-08-10",
+    "study_design": "in vitro研究",
+    "purpose": "多剤耐性細菌や真菌によって引き起こされるバイオフィルム関連感染症は、世界的に健康への多大な負担を課しており、従来の抗生物質は、細胞外高分子物質 (EPS) マトリックスへの浸透が不十分で耐性が高まっているため、それらを根絶するのに効果がなくなりつつあります。乳酸菌（LAB）によって生成されるバイオサーファクタントは、生成微生物の GRAS ステータスとその幅広い機構レパートリーにより、代替品として研究の関心を集めています。",
+    "methods": "低分子量生物界面活性剤を高分子量生物乳化剤および界面活性細胞壁ポリマーから区別するために使用される基準は明確に記載されており、報告された活性は、研究間の定量的比較を困難にする菌株、抽出、精製、およびアッセイ変数に対して解釈されます。遺伝子発現解析、クオラムセンシング干渉、分子ドッキング、カテーテル、音声補綴物、インプラントグレード材料の表面コーティング実験から得られた機構的証拠は、個別の研究ではなく生物学的標的ごとに整理され、再現可能な機構を単一の観察から推測される機構から分離します。証拠はほぼ完全に in vitro で残っており、1 件の膣内マウス研究と 4 件の食品マトリックス試験が実験室培養の外で行われた研究全体を構成しており、臨床データは存在しません。",
+    "results": "多剤耐性細菌や真菌によって引き起こされるバイオフィルム関連感染症は、世界的に健康への多大な負担を課しており、従来の抗生物質は、細胞外高分子物質 (EPS) マトリックスへの浸透が不十分で耐性が高まっているため、それらを根絶するのに効果がなくなりつつあります。",
+    "conclusion": "証拠はほぼ完全に in vitro で残っており、1 件の膣内マウス研究と 4 件の食品マトリックス試験が実験室培養の外で行われた研究全体を構成しており、臨床データは存在しません。ゲノムマイニング、マルチオミクス、発酵および下流プロセス開発、標準化されたバイオアッセイ、LAB シャーシの CRISPR ベースの代謝工学における研究の優先事項と並んで、低収量およびほとんど報告されていない収量、プロトコル依存の精製、未確定の構造活性関係、未割り当ての生合成遺伝子クラスター、および標準化された特性解析プロトコルの欠如が翻訳の主な障壁として特定されています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Biofilm-associated infections caused by multidrug-resistant bacteria and fungi impose a substantial global health burden, and conventional antibiotics are increasingly ineffective at eradicating them due to poor penetration of the extracellular polymeric substance (EPS) matrix and escalating resistance. Biosurfactants produced by lactic acid bacteria (LAB) have attracted research interest as alternatives, owing to the GRAS status of their producing organisms and their broad mechanistic repertoire. This review critically evaluates the structural diversity of LAB-derived biosurfactants, covering glycolipids, lipopeptides, glycoproteins, lipoteichoic acids, and iminosugar conjugates, and examines their antibiofilm, anti-adhesion, and antivirulence activities against clinically relevant bacterial pathogens, including Staphylococcus aureus, methicillin-resistant S. aureus, Pseudomonas aeruginosa, Acinetobacter baumannii, and Enterococcus faecalis, as well as fungal pathogens, particularly Candida species. The criteria used to distinguish low-molecular-mass biosurfactants from high-molecular-mass bioemulsifiers and surface-active cell-wall polymers are stated explicitly, and reported activities are interpreted against the strain, extraction, purification, and assay variables that make quantitative comparison between studies difficult. Mechanistic evidence from gene expression analyses, quorum-sensing interference, molecular docking, and surface-coating experiments on catheters, voice prostheses, and implant-grade materials is organized by biological target rather than by individual study, separating reproducible mechanisms from those inferred from single observations. The review further covers biosurfactant-mediated synthesis of metallic nanoparticles with enhanced antimicrobial stability, food-preservation applications in meat, juice, and egg matrices, and combinations with antibiotics and antifungals. Evidence remains almost entirely in vitro: one intravaginal murine study and four food-matrix trials constitute the whole body of work performed outside laboratory culture, and no clinical data exist. Low and rarely reported yields, protocol-dependent purification, undetermined structure-activity relationships, unassigned biosynthetic gene clusters, and the absence of standardized characterization protocols are identified as the principal barriers to translation, alongside research priorities in genome mining, multi-omics, fermentation and downstream process development, standardized bioassay, and CRISPR-based metabolic engineering of LAB chassis.",
+    "abstract_ja": "多剤耐性細菌や真菌によって引き起こされるバイオフィルム関連感染症は、世界的に健康への多大な負担を課しており、従来の抗生物質は、細胞外高分子物質 (EPS) マトリックスへの浸透が不十分で耐性が高まっているため、それらを根絶するのに効果がなくなりつつあります。乳酸菌（LAB）によって生成されるバイオサーファクタントは、生成微生物の GRAS ステータスとその幅広い機構レパートリーにより、代替品として研究の関心を集めています。このレビューでは、糖脂質、リポペプチド、糖タンパク質、リポテイコ酸、イミノ糖結合体を含む LAB 由来のバイオサーファクタントの構造的多様性を批判的に評価し、黄色ブドウ球菌、メチシリン耐性黄色ブドウ球菌、緑膿菌、アシネトバクター バウマニ、エンテロコッカス フェカリス、および真菌性病原体、特にカンジダ種。低分子量生物界面活性剤を高分子量生物乳化剤および界面活性細胞壁ポリマーから区別するために使用される基準は明確に記載されており、報告された活性は、研究間の定量的比較を困難にする菌株、抽出、精製、およびアッセイ変数に対して解釈されます。遺伝子発現解析、クオラムセンシング干渉、分子ドッキング、カテーテル、音声補綴物、インプラントグレード材料の表面コーティング実験から得られた機構的証拠は、個別の研究ではなく生物学的標的ごとに整理され、再現可能な機構を単一の観察から推測される機構から分離します。このレビューではさらに、抗菌安定性が強化された金属ナノ粒子の生物界面活性剤を介した合成、肉、ジュース、卵マトリックスにおける食品保存用途、抗生物質や抗真菌薬との組み合わせについても取り上げています。証拠はほぼ完全に in vitro で残っており、1 件の膣内マウス研究と 4 件の食品マトリックス試験が実験室培養の外で行われた研究全体を構成しており、臨床データは存在しません。ゲノムマイニング、マルチオミクス、発酵および下流プロセス開発、標準化されたバイオアッセイ、LAB シャーシの CRISPR ベースの代謝工学における研究の優先事項と並んで、低収量およびほとんど報告されていない収量、プロトコル依存の精製、未確定の構造活性関係、未割り当ての生合成遺伝子クラスター、および標準化された特性解析プロトコルの欠如が翻訳の主な障壁として特定されています。",
+    "detail_methods": "低分子量生物界面活性剤を高分子量生物乳化剤および界面活性細胞壁ポリマーから区別するために使用される基準は明確に記載されており、報告された活性は、研究間の定量的比較を困難にする菌株、抽出、精製、およびアッセイ変数に対して解釈されます。遺伝子発現解析、クオラムセンシング干渉、分子ドッキング、カテーテル、音声補綴物、インプラントグレード材料の表面コーティング実験から得られた機構的証拠は、個別の研究ではなく生物学的標的ごとに整理され、再現可能な機構を単一の観察から推測される機構から分離します。証拠はほぼ完全に in vitro で残っており、1 件の膣内マウス研究と 4 件の食品マトリックス試験が実験室培養の外で行われた研究全体を構成しており、臨床データは存在しません。",
+    "detail_results": "多剤耐性細菌や真菌によって引き起こされるバイオフィルム関連感染症は、世界的に健康への多大な負担を課しており、従来の抗生物質は、細胞外高分子物質 (EPS) マトリックスへの浸透が不十分で耐性が高まっているため、それらを根絶するのに効果がなくなりつつあります。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42573848/",
+    "doi_url": "https://doi.org/10.1007/s11274-026-05200-9",
+    "created_at": "2026-08-10T23:09:17.227189+00:00"
+  },
+  {
     "pmid": "42571304",
     "doi": "10.7759/cureus.112326",
     "category": "カテーテル新技術",
