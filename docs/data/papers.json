@@ -1,5 +1,263 @@
 [
   {
+    "pmid": "42579239",
+    "doi": "10.1007/s12024-026-01335-1",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Fatal accidental oxygen insufflation via suprapubic catheter.",
+    "title_ja": "恥骨上カテーテルを介した偶発的な酸素注入により致命的となる。",
+    "authors": "Sn Kunz, S Baisch, Sl Steinhoff",
+    "journal": "Forensic science, medicine, and pathology",
+    "publication_date": "2026-08-11",
+    "entry_date": "2026-08-11",
+    "study_design": "動物実験",
+    "purpose": "医療チューブの接続ミスは、臨床現場や在宅医療現場において重大な危険をもたらしますが、過小報告されることがよくあります。静脈内および経腸栄養の誤接続は十分に文書化されていますが、酸素供給システムと尿道カテーテルの間の誤接続は非常にまれです。",
+    "methods": "さらに、特に低酸素症による認知障害を起こしやすい患者において、致命的な機械的誤接続を防ぐために、標準化された互換性のないコネクタ設計 (ISO 80369 規格など) が緊急に必要であることを強調しています。",
+    "results": "",
+    "conclusion": "この症例は、複雑な圧外傷とガス分布を正確に診断するために、死後 CT スキャンと従来の解剖を組み合わせることが重要な役割を果たしていることが浮き彫りになっています。さらに、特に低酸素症による認知障害を起こしやすい患者において、致命的な機械的誤接続を防ぐために、標準化された互換性のないコネクタ設計 (ISO 80369 規格など) が緊急に必要であることを強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Medical tubing misconnections represent a severe and often underreported hazard in clinical and home-care settings. While intravenous and enteral feeding misconnections are well-documented, accidental connections between oxygen delivery systems and urinary catheters are exceedingly rare. We present an unusual forensic case of a 65-year-old male with chronic obstructive pulmonary disease (COPD) and lower-body paralysis who accidentally connected his nasal cannula oxygen tubing to his suprapubic bladder catheter following a fall from his bed. The cause of death was determined to be acute respiratory failure secondary to barotrauma-induced tension pneumothorax and tension pneumoperitoneum, exacerbated by pre-existing pulmonary compromise. This case highlights the vital role of combining postmortem CT-scan with traditional autopsy to accurately diagnose complex barotrauma and gas distribution. Furthermore, it underscores the urgent need for standardized, incompatible connector designs (such as the ISO 80369 standards) to prevent fatal mechanical misconnections, especially in patients susceptible to hypoxia-induced cognitive impairment.",
+    "abstract_ja": "医療チューブの接続ミスは、臨床現場や在宅医療現場において重大な危険をもたらしますが、過小報告されることがよくあります。静脈内および経腸栄養の誤接続は十分に文書化されていますが、酸素供給システムと尿道カテーテルの間の誤接続は非常にまれです。今回我々は、慢性閉塞性肺疾患（COPD）と下半身麻痺を患う65歳の男性が、ベッドから転落した後、誤って鼻カニューレ酸素チューブを恥骨上膀胱カテーテルに接続したという珍しい法医学症例を紹介する。死因は、圧外傷による緊張性気胸と緊張性気腹に続発する急性呼吸不全であり、既存の肺不全により悪化したと判明した。この症例は、複雑な圧外傷とガス分布を正確に診断するために、死後 CT スキャンと従来の解剖を組み合わせることが重要な役割を果たしていることが浮き彫りになっています。さらに、特に低酸素症による認知障害を起こしやすい患者において、致命的な機械的誤接続を防ぐために、標準化された互換性のないコネクタ設計 (ISO 80369 規格など) が緊急に必要であることを強調しています。",
+    "detail_methods": "さらに、特に低酸素症による認知障害を起こしやすい患者において、致命的な機械的誤接続を防ぐために、標準化された互換性のないコネクタ設計 (ISO 80369 規格など) が緊急に必要であることを強調しています。",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42579239/",
+    "doi_url": "https://doi.org/10.1007/s12024-026-01335-1",
+    "created_at": "2026-08-11T23:23:45.335799+00:00"
+  },
+  {
+    "pmid": "42578498",
+    "doi": "10.1177/11297298261472623",
+    "category": "カテーテル新技術",
+    "title_en": "Effect of using standard versus antimicrobial-impregnated neonatal peripherally inserted central catheters in preterm infants: A single-center, prospective randomized controlled trial (open-label).",
+    "title_ja": "早産児における標準カテーテルと抗菌剤含浸新生児末梢挿入中心カテーテルの使用の効果: 単一施設の前向きランダム化対照試験 (非盲検)。",
+    "authors": "Bulbul Ali, Avsar Hasan, Divarci Alper",
+    "journal": "The journal of vascular access",
+    "publication_date": "2026-08-11",
+    "entry_date": "2026-08-11",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "この研究の目的は、標準的な n-PICC (S n-PICC) の使用と比較した、抗菌剤を含浸させた新生児末梢挿入中心カテーテル (AI n-PICC) の使用の有効性を評価することでした。",
+    "methods": "この研究は前向きランダム化対照試験（非盲検）として計画されました。 4年間の出生体重が1500 g未満の赤ちゃんが研究に含まれました。 n-PICC が必要な新生児は、AI n-PICC (ミコナゾールとリファンピシンを含浸) または S n-PICC のいずれかを受けるようにランダムに (1:1) に割り当てられました。第一の結果は中心線関連血流感染症（CLABSI）の発生率であり、第二の結果はこれら 2 つのグループにおけるカテーテル抜去の理由とカテーテルの継続時間を評価することでした。",
+    "results": "研究期間中、両方のグループから合計 254 人の乳児が参加しました。平均在胎週数は、S グループで 27.6 ± 2.8 週、AI グループで 27.5 ± 2.8 週でした。在胎週数、出生体重、経腸栄養パラメータ、入院期間、または抗生物質の使用期間に有意差は観察されませんでした（p > 0.05）。平均滞在時間は、S グループで 14.2 ± 8.5 日、AI グループで 15.4 ± 9.7 日でした (p:0.293)。合併症によるカテーテル抜去の頻度は、S グループで 29.9%、AI グループで 19.7% でした (p:0.081)。 CLABSI率（カテーテル1000日当たり）は、Sグループで9.44、AIグループで3.07であった（p:0.013）。 AI n-PICC の使用は、カテーテル関連感染の危険性の 74% 減少と関連していました (HR = 0.26、95% CI [0.09, 0.70]、p = 0.008)。",
+    "conclusion": "私たちの研究は、AI n-PICC の使用が、n-PICC を必要とする未熟児の感染症発症率の低下と関連していることを示しています。 AI n-PICC の使用は、特にカテーテル関連感染症を発症するリスクが高い未熟児に効果的である可能性があります。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: The aim of this study was to evaluate the effectiveness of the use of antimicrobial-impregnated neonatal peripherally inserted central catheters (AI n-PICC) compared to the use of standard n-PICC (S n-PICC).\nMETHODS: The study was planned as prospective randomized controlled trial (open-label). Babies with a birth weight of less than 1500 g in a 4-year period were included in the study. Newborns who needed a n-PICC were allocated randomly (1:1) to receive either an AI n-PICC (impregnated with miconazole and rifampicin) or a S n-PICC. The primary outcome was the incidence of central line-associated bloodstream infection (CLABSI), and secondarily, to assess reasons for catheter removal, and catheter duration times in these two groups.\nRESULTS: There were a total of 254 infants from both groups during the study. The mean gestational age were 27.6 ± 2.8 week in S group and 27.5 ± 2.8 week in AI group. No significant differences observed in gestational age, birth weight, enteral feeding parameters, hospital stay, or antibiotic use duration (p > 0.05). The mean dwelling time was 14.2 ± 8.5 day in S group and 15.4 ± 9.7 day in AI group (p:0.293). The frequency of catheter withdrawal due to complications were 29.9% in the S group and 19.7% in the AI group (p:0.081). CLABSI rate (per 1000 catheter days) were found 9.44 in S group and 3.07 in AI group (p:0.013). The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008).\nCONCLUSIONS: Our study demonstrates that the use of AI n-PICCs was associated with a reduction in the rate of infection development in premature infants requiring n-PICC. The use of AI n-PICC may be effective especially in premature infants with a high risk of developing catheter-related infection.",
+    "abstract_ja": "目的: この研究の目的は、標準的な n-PICC (S n-PICC) の使用と比較した、抗菌剤を含浸させた新生児末梢挿入中心カテーテル (AI n-PICC) の使用の有効性を評価することでした。\n方法: この研究は前向きランダム化対照試験 (非盲検) として計画されました。 4年間の出生体重が1500 g未満の赤ちゃんが研究に含まれました。 n-PICC が必要な新生児は、AI n-PICC (ミコナゾールとリファンピシンを含浸) または S n-PICC のいずれかを受けるようにランダムに (1:1) に割り当てられました。第一の結果は中心線関連血流感染症（CLABSI）の発生率であり、第二の結果はこれら 2 つのグループにおけるカテーテル抜去の理由とカテーテルの継続時間を評価することでした。\n結果: 研究期間中、両方のグループから合計 254 人の乳児がいました。平均在胎週数は、S グループで 27.6 ± 2.8 週、AI グループで 27.5 ± 2.8 週でした。在胎週数、出生体重、経腸栄養パラメータ、入院期間、または抗生物質の使用期間に有意差は観察されませんでした（p > 0.05）。平均滞在時間は、S グループで 14.2 ± 8.5 日、AI グループで 15.4 ± 9.7 日でした (p:0.293)。合併症によるカテーテル抜去の頻度は、S グループで 29.9%、AI グループで 19.7% でした (p:0.081)。 CLABSI率（カテーテル1000日当たり）は、Sグループで9.44、AIグループで3.07であった（p:0.013）。 AI n-PICC の使用は、カテーテル関連感染の危険性の 74% 減少と関連していました (HR = 0.26、95% CI [0.09, 0.70]、p = 0.008)。\n結論: 私たちの研究は、AI n-PICC の使用が、n-PICC を必要とする未熟児の感染症発症率の低下と関連していることを示しています。 AI n-PICC の使用は、特にカテーテル関連感染症を発症するリスクが高い未熟児に効果的である可能性があります。",
+    "detail_methods": "この研究は前向きランダム化対照試験（非盲検）として計画されました。 4年間の出生体重が1500 g未満の赤ちゃんが研究に含まれました。 n-PICC が必要な新生児は、AI n-PICC (ミコナゾールとリファンピシンを含浸) または S n-PICC のいずれかを受けるようにランダムに (1:1) に割り当てられました。第一の結果は中心線関連血流感染症（CLABSI）の発生率であり、第二の結果はこれら 2 つのグループにおけるカテーテル抜去の理由とカテーテルの継続時間を評価することでした。",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "29.9%",
+        "source": "The frequency of catheter withdrawal due to complications were 29.9% in the S group and 19.7% in the AI group (p:0.081)."
+      },
+      {
+        "item": "割合",
+        "value": "19.7%",
+        "source": "The frequency of catheter withdrawal due to complications were 29.9% in the S group and 19.7% in the AI group (p:0.081)."
+      },
+      {
+        "item": "割合",
+        "value": "74%",
+        "source": "The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008)."
+      },
+      {
+        "item": "P値",
+        "value": "p > 0.05",
+        "source": "No significant differences observed in gestational age, birth weight, enteral feeding parameters, hospital stay, or antibiotic use duration (p > 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.008",
+        "source": "The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI [0",
+        "source": "The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008)."
+      },
+      {
+        "item": "ハザード比",
+        "value": "HR = 0.26",
+        "source": "The use of AI n-PICCs were associated with a 74% reduction in the hazard of catheter-related infection (HR = 0.26, 95% CI [0.09, 0.70], p = 0.008)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42578498/",
+    "doi_url": "https://doi.org/10.1177/11297298261472623",
+    "created_at": "2026-08-11T23:23:52.834095+00:00"
+  },
+  {
+    "pmid": "42578413",
+    "doi": "10.1177/10766294261475411",
+    "category": "カテーテル新技術",
+    "title_en": "Impact of the COVID-19 Pandemic on Health Care-Associated Infections and Antimicrobial Resistance in an ICU: A Comparative Three-Period Study.",
+    "title_ja": "ICU における医療関連感染症と抗菌薬耐性に対する COVID-19 パンデミックの影響: 3 期間の比較研究。",
+    "authors": "İlgar Tuba, Özşahin Aybegüm, Mahmutoğlu Çolak Sudem, Kostakoğlu Uğur, Yıldız İlknur Esen, Ertürk Ayşe",
+    "journal": "Microbial drug resistance (Larchmont, N.Y.)",
+    "publication_date": "2026-08-11",
+    "entry_date": "2026-08-11",
+    "study_design": "動物実験",
+    "purpose": "医療関連感染症 (HAI) と抗菌薬耐性 (AMR) は、特に集中治療室 (ICU) において重大な問題です。新型コロナウイルス感染症（COVID-19）パンデミックの影響を評価するために、我々は、パンデミック前期間（PreP）、パンデミック期間（PanP）、パンデミック後期間（PostP）の2年間の3つの期間にわたり、三次ICUでのHAI発生率、原因病原体、耐性プロファイル、抗生物質消費量を遡及的に評価した。",
+    "methods": "抗生物質の消費量は、患者 1,000 日あたりの定義日量 (DDD) として表されました。",
+    "results": "",
+    "conclusion": "パンデミックに関連した医療システムの混乱は、HAI および AMR 率の増加に寄与した可能性がありますが、PostP の改善が回復を支援した可能性があります。将来の医療危機の影響を軽減するには、継続的な監視、感染予防対策、抗菌管理プログラムが不可欠です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Healthcare-associated infections (HAIs) and antimicrobial resistance (AMR) are significant problems, especially in intensive care units (ICUs). We evaluated HAI rates, causative pathogens, resistance profiles, and antibiotic consumption retrospectively in a tertiary ICU across three 2-year periods-pre-pandemic period (PreP), pandemic period (PanP), and post-pandemic period (PostP)-to assess the impact of the COVID-19 pandemic. Antibiotic consumption was expressed as defined daily dose (DDD) per 1,000 patient days. The highest infection incidence rate and density were in PanP. Despite lower invasive device use, PanP had a higher rate of catheter-related bloodstream infections (BSIs). The most frequent pathogen across periods was Acinetobacter spp., although its rate declined in PostP. Gram-negative bacteria resistance rates to piperacillin-tazobactam, carbapenem, and aminoglycoside were highest in PanP. Resistant pathogen and resistant infection rates were lower in PostP, and resistant infections were less frequent in PostP than in PanP (OR: 0.371; 95% CI: 0.216-0.637; p < 0.001). Healthcare-associated pneumonia (HAP) was associated with a higher risk of resistance compared with BSI (OR: 3.467; 95% CI: 2.139-5.621; p < 0.001). Total antibiotic consumption remained comparable between PreP and PanP but increased in PostP. During the PanP, carbapenem use increased while piperacillin-tazobactam consumption decreased, whereas glycopeptide use increased and reached its highest level in PostP. Pandemic-related disruptions in the health care system may have contributed to increases in HAI and AMR rates, whereas improvements in the PostP may have supported recovery. Continuous surveillance, infection prevention measures, and antimicrobial stewardship programs are essential to mitigate the impact of future health care crises.",
+    "abstract_ja": "医療関連感染症 (HAI) と抗菌薬耐性 (AMR) は、特に集中治療室 (ICU) において重大な問題です。新型コロナウイルス感染症（COVID-19）パンデミックの影響を評価するために、我々は、パンデミック前期間（PreP）、パンデミック期間（PanP）、パンデミック後期間（PostP）の2年間の3つの期間にわたり、三次ICUでのHAI発生率、原因病原体、耐性プロファイル、抗生物質消費量を遡及的に評価した。抗生物質の消費量は、患者 1,000 日あたりの定義日量 (DDD) として表されました。感染発生率と感染密度が最も高かったのは PanP でした。 PanP では、侵襲的器具の使用が少ないにもかかわらず、カテーテル関連血流感染症 (BSI) の発生率が高かった。期間全体で最も頻度の高い病原体はアシネトバクター属でしたが、その割合はPostPでは減少しました。ピペラシリン・タゾバクタム、カルバペネム、アミノグリコシドに対するグラム陰性菌耐性率は、PanP で最も高かった。耐性病原体および耐性感染率はPostPの方が低く、耐性感染の頻度はPanPよりもPostPの方が低かった(OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)。医療関連肺炎 (HAP) は、BSI と比較して耐性のリスクが高いと関連していました (OR: 3.467; 95% CI: 2.139-5.621; p < 0.001)。抗生物質の総消費量は PreP と PanP で同等のままでしたが、PostP では増加しました。 PanP期間中、カルバペネムの使用は増加し、ピペラシリン-タゾバクタムの消費は減少しましたが、糖ペプチドの使用は増加し、PostPでは最高レベルに達しました。パンデミックに関連した医療システムの混乱は、HAI および AMR 率の増加に寄与した可能性がありますが、PostP の改善が回復を支援した可能性があります。将来の医療危機の影響を軽減するには、継続的な監視、感染予防対策、抗菌管理プログラムが不可欠です。",
+    "detail_methods": "抗生物質の消費量は、患者 1,000 日あたりの定義日量 (DDD) として表されました。",
+    "detail_results": "医療関連感染症 (HAI) と抗菌薬耐性 (AMR) は、特に集中治療室 (ICU) において重大な問題です。耐性病原体および耐性感染率はPostPの方が低く、耐性感染の頻度はPanPよりもPostPの方が低かった(OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)。医療関連肺炎 (HAP) は、BSI と比較して耐性のリスクが高いと関連していました (OR: 3.467; 95% CI: 2.139-5.621; p < 0.001)。抗生物質の総消費量は PreP と PanP で同等のままでしたが、PostP では増加しました。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Resistant pathogen and resistant infection rates were lower in PostP, and resistant infections were less frequent in PostP than in PanP (OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "Resistant pathogen and resistant infection rates were lower in PostP, and resistant infections were less frequent in PostP than in PanP (OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 0",
+        "source": "Resistant pathogen and resistant infection rates were lower in PostP, and resistant infections were less frequent in PostP than in PanP (OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 2",
+        "source": "Healthcare-associated pneumonia (HAP) was associated with a higher risk of resistance compared with BSI (OR: 3.467; 95% CI: 2.139-5.621; p < 0.001)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR: 0.371",
+        "source": "Resistant pathogen and resistant infection rates were lower in PostP, and resistant infections were less frequent in PostP than in PanP (OR: 0.371; 95% CI: 0.216-0.637; p < 0.001)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR: 3.467",
+        "source": "Healthcare-associated pneumonia (HAP) was associated with a higher risk of resistance compared with BSI (OR: 3.467; 95% CI: 2.139-5.621; p < 0.001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42578413/",
+    "doi_url": "https://doi.org/10.1177/10766294261475411",
+    "created_at": "2026-08-11T23:23:58.738092+00:00"
+  },
+  {
+    "pmid": "42577993",
+    "doi": "10.1099/acmi.0.001194.v3",
+    "category": "カテーテル新技術",
+    "title_en": "Risk factors for mortality in Stenotrophomonas maltophilia bacteraemia: a 22-year retrospective study in a Japanese acute care hospital.",
+    "title_ja": "",
+    "authors": "Tanuma Michiya, Sakurai Takayuki, Nakaminami Hidemasa, Tanaka Masayo",
+    "journal": "Access microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-11",
+    "study_design": "動物実験",
+    "purpose": "Stenotrophomonas maltophilia は、報告されている危険因子はさまざまですが、院内感染と高い死亡率を伴うグラム陰性菌です。私たちは、S の 43 症例を遡及的に分析しました。",
+    "methods": "",
+    "results": "Stenotrophomonas maltophilia は、報告されている危険因子はさまざまですが、院内感染と高い死亡率を伴うグラム陰性菌です。全体の死亡率は44.2%でした。単変量解析の結果、逐次臓器不全評価（SOFA）スコア（P=0.010）、中心静脈カテーテル治療（CVC）（P=0.028）、総非経口栄養（P=0.003）、糖尿病（P=0.033）が死亡率と有意に関連していることが明らかになった。多変量解析により、SOFA スコア (P=0.048) と CVC の存在 (P=0.039) が独立した危険因子であることが示唆されました。",
+    "conclusion": "この研究は、S. maltophilia の伝播を防ぎ、疾患の重症度に応じて抗菌療法を調整するために、多様な感染制御戦略を導入する必要がある可能性があることを強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Stenotrophomonas maltophilia is a Gram-negative bacterium associated with nosocomial infections and high mortality, although reported risk factors vary. We retrospectively analysed 43 cases of S. maltophilia bacteraemia at NTT Medical Center Tokyo (2002-2024). The overall mortality rate was 44.2%. Univariate analysis revealed that higher Sequential Organ Failure Assessment (SOFA) scores (P=0.010), central venous catheterization (CVC) (P=0.028), total parenteral nutrition (P=0.003) and diabetes mellitus (P=0.033) were significantly associated with mortality. Multivariate analysis suggested SOFA score (P=0.048) and CVC presence (P=0.039) as independent risk factors. Appropriate antimicrobial therapy was not significantly associated with reduced overall mortality. However, it was associated with improved survival in patients with SOFA scores ≥5 (P=0.029). Additionally, among patients with CVC, catheter removal was associated with improved survival (P=0.005). These findings suggest that the SOFA score and CVC were associated with mortality in S. maltophilia bacteraemia and indicate that the effectiveness of antimicrobial therapy may depend on disease severity. The study underscores the potential need to implement diverse infection-control strategies to prevent S. maltophilia transmission and to tailor antimicrobial therapy to disease severity.",
+    "abstract_ja": "Stenotrophomonas maltophilia は、報告されている危険因子はさまざまですが、院内感染と高い死亡率を伴うグラム陰性菌です。 NTT 医療センター東京 (2002 年から 2024 年) における S. maltophilia 菌血症の 43 例を遡及的に分析しました。全体の死亡率は44.2%でした。単変量解析の結果、逐次臓器不全評価（SOFA）スコア（P=0.010）、中心静脈カテーテル治療（CVC）（P=0.028）、総非経口栄養（P=0.003）、糖尿病（P=0.033）が死亡率と有意に関連していることが明らかになった。多変量解析により、SOFA スコア (P=0.048) と CVC の存在 (P=0.039) が独立した危険因子であることが示唆されました。適切な抗菌治療は全体の死亡率の減少と有意な関連はありませんでした。しかし、SOFAスコアが5以上の患者では生存率の向上と関連していた(P=0.029)。さらに、CVC患者では、カテーテル抜去は生存率の改善と関連していた(P=0.005)。これらの所見は、SOFA スコアと CVC が S. maltophilia 菌血症の死亡率と関連していることを示唆し、抗菌療法の有効性が疾患の重症度に依存する可能性があることを示しています。この研究は、S. maltophilia の伝播を防ぎ、疾患の重症度に応じて抗菌療法を調整するために、多様な感染制御戦略を導入する必要がある可能性があることを強調しています。",
+    "detail_methods": "",
+    "detail_results": "Stenotrophomonas maltophilia は、報告されている危険因子はさまざまですが、院内感染と高い死亡率を伴うグラム陰性菌です。全体の死亡率は44.2%でした。単変量解析の結果、逐次臓器不全評価（SOFA）スコア（P=0.010）、中心静脈カテーテル治療（CVC）（P=0.028）、総非経口栄養（P=0.003）、糖尿病（P=0.033）が死亡率と有意に関連していることが明らかになった。多変量解析により、SOFA スコア (P=0.048) と CVC の存在 (P=0.039) が独立した危険因子であることが示唆されました。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "44.2%",
+        "source": "The overall mortality rate was 44.2%."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.010",
+        "source": "Univariate analysis revealed that higher Sequential Organ Failure Assessment (SOFA) scores (P=0.010), central venous catheterization (CVC) (P=0.028), total parenteral nutrition (P=0.003) and diabetes mellitus (P=0.033) were significantly associated with mortality."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.028",
+        "source": "Univariate analysis revealed that higher Sequential Organ Failure Assessment (SOFA) scores (P=0.010), central venous catheterization (CVC) (P=0.028), total parenteral nutrition (P=0.003) and diabetes mellitus (P=0.033) were significantly associated with mortality."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.003",
+        "source": "Univariate analysis revealed that higher Sequential Organ Failure Assessment (SOFA) scores (P=0.010), central venous catheterization (CVC) (P=0.028), total parenteral nutrition (P=0.003) and diabetes mellitus (P=0.033) were significantly associated with mortality."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.033",
+        "source": "Univariate analysis revealed that higher Sequential Organ Failure Assessment (SOFA) scores (P=0.010), central venous catheterization (CVC) (P=0.028), total parenteral nutrition (P=0.003) and diabetes mellitus (P=0.033) were significantly associated with mortality."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.048",
+        "source": "Multivariate analysis suggested SOFA score (P=0.048) and CVC presence (P=0.039) as independent risk factors."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.039",
+        "source": "Multivariate analysis suggested SOFA score (P=0.048) and CVC presence (P=0.039) as independent risk factors."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.029",
+        "source": "However, it was associated with improved survival in patients with SOFA scores ≥5 (P=0.029)."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.005",
+        "source": "Additionally, among patients with CVC, catheter removal was associated with improved survival (P=0.005)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577993/",
+    "doi_url": "https://doi.org/10.1099/acmi.0.001194.v3",
+    "created_at": "2026-08-11T23:24:03.083435+00:00"
+  },
+  {
+    "pmid": "42577594",
+    "doi": "10.2147/IDR.S609311",
+    "category": "カテーテル新技術",
+    "title_en": "Fatal Catheter-Related Hematogenous Disseminated MSSA Sepsis in an Immunocompromised Lung Cancer Patient: A Case Report.",
+    "title_ja": "免疫不全肺癌患者における致死的なカテーテル関連血行性播種性 MSSA 敗血症：症例報告。",
+    "authors": "Li Yuanfei, Zhao Fei",
+    "journal": "Infection and drug resistance",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-11",
+    "study_design": "動物実験",
+    "purpose": "黄色ブドウ球菌の病原性は、その強力な毒素と侵入能力に起因するものとしてよく知られています。しかし、メチシリン感受性黄色ブドウ球菌（MSSA）による播種性感染症は臨床的に見逃されがちです。この研究は、免疫不全患者における MSSA による播種性浸潤感染症の症例を報告することを目的としており、診断、治療、転帰における臨床的課題に焦点を当てています。\n症例提示: 2022 年 10 月、患者には肺結節 (65 × 53 mm) があることが判明しました。 2023年4月、生検により肺がんの診断が確認された。 2024 年 11 月 21 日、化学療法を行うために PICC ラインが挿入されました。化学療法終了後、患者は自宅に退院したが、徐々に下痢を発症した。 2024 年 12 月 3 日（化学療法後 12 日後）、患者は息切れと咳を経験し始めました。患者は敗血症性ショック、急性呼吸窮迫症候群（ARDS）、および急性腎不全を患っていた。画像検査により、両側の肺浸潤が明らかになりました。胸部X線検査では「白い肺」の兆候が示され、CTスキャンでは血行性播種と一致する複数の小結節と嚢胞が示されました。メチシリン感受性黄色ブドウ球菌 (MSSA) は、tNGS、血液培養、および骨髄培養によって検出されました。一連の抗菌治療にもかかわらず、感染は骨髄と脾臓に広がりました。最終的に治療計画はセフォキシチンとクリンダマイシンの併用に調整され、感染症の症状は制御されましたが、以前の感染症の持続とエンテロコッカス・フェカリス菌の二次感染と肺がんの進行が重なり、最終的には多臓器不全を引き起こし、患者は28日目に死亡しました。",
+    "methods": "",
+    "results": "",
+    "conclusion": "MSSA は、感受性のある菌株であっても、免疫不全患者において急速に進行する播種感染を引き起こす可能性があります。 tNGS を使用した早期診断と標的抗生物質療法が重要です。このような生命を脅かす合併症を防ぐためには、厳密なカテーテルのケアと感染症対策が不可欠です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: The pathogenicity of Staphylococcus aureus is well-recognized, stemming from its potent toxins and invasive capabilities. However, disseminated infections caused by methicillin-sensitive S. aureus (MSSA) are prone to being overlooked clinically. This study aims to report a case of disseminated invasive infection caused by MSSA in an immunocompromised patient, highlighting the clinical challenges in diagnosis, treatment, and outcomes.\nCASE PRESENTATION: In October 2022, the patient was found to have a pulmonary nodule (65 × 53 mm); in April 2023, a biopsy confirmed a diagnosis of lung cancer; on November 21, 2024, a PICC line was inserted to administer chemotherapy. After completing chemotherapy, the patient was discharged home, where he gradually developed diarrhea. On December 3, 2024 (12 days after chemotherapy), the patient began experiencing shortness of breath and coughing. The patient presented with septic shock, acute respiratory distress syndrome (ARDS), and acute renal failure. Imaging studies revealed bilateral pulmonary infiltrates; a chest X-ray showed a \"white lung\" sign, and a CT scan demonstrated multiple nodules and cysts consistent with hematogenous dissemination. Methicillin-sensitive Staphylococcus aureus (MSSA) was detected via tNGS, blood culture, and bone marrow culture. Despite a series of antimicrobial treatments, the infection spread to the bone marrow and spleen. Although the treatment regimen was ultimately adjusted to cefoxitin combined with clindamycin and the symptoms of the infection were brought under control, the persistence of the previous infection and a secondary Enterococcus faecalis infection, combined with the progression of lung cancer, ultimately led to multiple organ failure, and the patient died on day 28.\nCONCLUSION: MSSA can cause rapidly progressive disseminated infection in immunocompromised patients, even with susceptible strains. Early diagnosis using tNGS and targeted antibiotic therapy are critical. Strict catheter care and infection control measures are essential to prevent such life-threatening complications.",
+    "abstract_ja": "目的: 黄色ブドウ球菌の病原性は、その強力な毒素と侵入能力に起因するものとしてよく知られています。しかし、メチシリン感受性黄色ブドウ球菌（MSSA）による播種性感染症は臨床的に見逃されがちです。この研究は、免疫不全患者における MSSA による播種性浸潤感染症の症例を報告することを目的としており、診断、治療、転帰における臨床的課題に焦点を当てています。\n症例提示: 2022 年 10 月、患者には肺結節 (65 × 53 mm) があることが判明しました。 2023年4月、生検により肺がんの診断が確認された。 2024 年 11 月 21 日、化学療法を行うために PICC ラインが挿入されました。化学療法終了後、患者は自宅に退院したが、徐々に下痢を発症した。 2024 年 12 月 3 日（化学療法後 12 日後）、患者は息切れと咳を経験し始めました。患者は敗血症性ショック、急性呼吸窮迫症候群（ARDS）、および急性腎不全を患っていた。画像検査により、両側の肺浸潤が明らかになりました。胸部X線検査では「白い肺」の兆候が示され、CTスキャンでは血行性播種と一致する複数の小結節と嚢胞が示されました。メチシリン感受性黄色ブドウ球菌 (MSSA) は、tNGS、血液培養、および骨髄培養によって検出されました。一連の抗菌治療にもかかわらず、感染は骨髄と脾臓に広がりました。最終的に治療計画はセフォキシチンとクリンダマイシンの併用に調整され、感染症の症状は制御されましたが、以前の感染症の持続とエンテロコッカス・フェカリス菌の二次感染と肺がんの進行が重なり、最終的には多臓器不全を引き起こし、患者は28日目に死亡しました。\n結論: MSSA は、感受性のある菌株であっても、免疫不全患者において急速に進行する播種感染を引き起こす可能性があります。 tNGS を使用した早期診断と標的抗生物質療法が重要です。このような生命を脅かす合併症を防ぐためには、厳密なカテーテルのケアと感染症対策が不可欠です。",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42577594/",
+    "doi_url": "https://doi.org/10.2147/IDR.S609311",
+    "created_at": "2026-08-11T23:24:07.701551+00:00"
+  },
+  {
     "pmid": "42572245",
     "doi": "10.1177/17504589261464837",
     "category": "尿道カテーテル閉塞",
