@@ -1,5 +1,263 @@
 [
   {
+    "pmid": "42591863",
+    "doi": "10.3389/fmed.2026.1815214",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Therapeutic potential and research progress of microecological agents in kidney diseases.",
+    "title_ja": "腎疾患における微生物学的薬剤の治療の可能性と研究の進歩。",
+    "authors": "Qian Yixiang, Zhang Chenli",
+    "journal": "Frontiers in medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-13",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "腎臓病患者は、腸内環境異常、尿毒症毒素の蓄積、全身性炎症などの病理学的変化を示すことがよくあります。近年、プレバイオティクス、プロバイオティクス、シンバイオティクスに代表される微生物学的薬剤が、「腸-腎臓軸」をターゲットとした新たな戦略として登場しています。これらの薬剤は、腸内微生物叢のバランスの調節、腸のバリア機能の改善、エンドトキシンレベルの低下、抗炎症作用や抗酸化作用などのメカニズムを通じて作用します。",
+    "methods": "腎臓病患者は、腸内環境異常、尿毒症毒素の蓄積、全身性炎症などの病理学的変化を示すことがよくあります。さまざまな腎疾患にわたる微生物学的因子に関する利用可能な証拠を我々がレビューしたところ、これらの介入が腸内微生物叢のバランスを回復し、尿毒症毒素やその他の有害な代謝物の全身的負担を軽減することにより、慢性腎臓病（CKD）患者の腎機能低下の進行を遅らせることができることが明らかになりました。",
+    "results": "しかし、既存の証拠は依然として不均一に分布しており、微生物学的介入の種類、投与量、タイミングの違いにより有効性に関する結論が異なるため、体系的なレビューが必要です。",
+    "conclusion": "しかし、既存の証拠は依然として不均一に分布しており、微生物学的介入の種類、投与量、タイミングの違いにより有効性に関する結論が異なるため、体系的なレビューが必要です。この記事では、さまざまな腎疾患にわたる微生態学的薬剤に関する現在の研究を総合し、それらの臨床効果と不均一性を系統的に評価し、将来の開発戦略とトランスレーショナルの可能性について議論します。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Patients with kidney disease often exhibit pathological alterations such as gut dysbiosis, accumulation of uremic toxins, and systemic inflammation. In recent years, microecological agents-represented by pre-biotics, probiotics, and synbiotics-have emerged as a novel strategy targeting the \"gut-kidney axis.\" These agents act through mechanisms including modulation of gut microbiota balance, improvement of intestinal barrier function, reduction of endotoxin levels, and anti-inflammatory as well as antioxidant effects. Our review of the available evidence on microecological agents across various kidney diseases reveals that these interventions can delay the progression of renal function decline in patients with Chronic Kidney Disease (CKD) by restoring gut microbiota balance and reducing the systemic burden of uremic toxins and other harmful metabolites. Concurrently, they help mitigate CKD-related complications, including mineral and bone disorders, cardiovascular and cerebrovascular events, and hyperuricemia. Moreover, microecological agents have demonstrated beneficial effects in attenuating renal injury in acute kidney injury (AKI), reducing the incidence of nephrolithiasis, and exerting a modulatory role in lupus nephritis (LN). However, existing evidence remains unevenly distributed, and conclusions regarding efficacy vary due to differences in the type, dosage, and timing of microecological interventions, thus necessitating a systematic review. This article synthesizes current research on microecological agents across various kidney diseases, systematically evaluates their clinical efficacy and heterogeneity, and discusses future development strategies and translational potential.",
+    "abstract_ja": "",
+    "detail_methods": "腎臓病患者は、腸内環境異常、尿毒症毒素の蓄積、全身性炎症などの病理学的変化を示すことがよくあります。さまざまな腎疾患にわたる微生物学的因子に関する利用可能な証拠を我々がレビューしたところ、これらの介入が腸内微生物叢のバランスを回復し、尿毒症毒素やその他の有害な代謝物の全身的負担を軽減することにより、慢性腎臓病（CKD）患者の腎機能低下の進行を遅らせることができることが明らかになりました。",
+    "detail_results": "しかし、既存の証拠は依然として不均一に分布しており、微生物学的介入の種類、投与量、タイミングの違いにより有効性に関する結論が異なるため、体系的なレビューが必要です。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42591863/",
+    "doi_url": "https://doi.org/10.3389/fmed.2026.1815214",
+    "created_at": "2026-08-13T23:25:10.550373+00:00"
+  },
+  {
+    "pmid": "42592129",
+    "doi": "10.1093/jacamr/dlag158",
+    "category": "カテーテル新技術",
+    "title_en": "Development of a participatory action research-based intervention to enhance infection prevention and antimicrobial stewardship among European nursing home staff.",
+    "title_ja": "ヨーロッパの介護施設スタッフの感染予防と抗菌管理を強化するための参加型アクションリサーチに基づく介入の開発。",
+    "authors": "Theut Marie, Lykkegaard Jesper, Antsupova Valeria, Hansen Malene Plejdrup, Marloth Tina, Llor Carl, Garcia-Sangenis Ana, Monfà Ramon, Moragas Ana, Anastasaki Marilena, Tsoulchai Greta, Lionis Christos, Sodja Nina, Petek Davorina, Benko Ria, Balint Andras, Kowalczyk Anna, Jaruseviciene Lina, Glasova Helena, Glasa Jozef, Jensen Jette Nygaard",
+    "journal": "JAC-antimicrobial resistance",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-13",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "はじめに: 老人ホームの入居者は頻繁に抗生物質を受け取りますが、その多くは不必要である可能性があります。この研究は、感染予防と抗菌薬の管理を強化することで抗生物質の使用を減らすために、ヨーロッパの介護施設全体に適用できる介入を開発することを目的としていました。",
+    "methods": "この研究は2023年1月から2025年12月まで実施された。参加型アクションリサーチ（PAR）アプローチを用いて、参加した老人ホームのスタッフがプロジェクト大使および共同研究者として参加し、介入の開発に積極的に貢献した。この研究は定量的および定性的データを活用し、デンマーク、ギリシャ、ハンガリー、リトアニア、ポーランド、スロバキア、スロベニア、スペインの老人ホームを対象としました。",
+    "results": "合計109の老人ホームが参加した。私たちは、手指衛生、個人用保護具、留置尿道カテーテル、尿路感染症 (UTI) の疑い、職員の離職率の高さと教育を受けた職員の不足、親戚の期待と要求、抗生物質に関する不十分な知識という 7 つの重要なトピックを特定しました。これらの主要なトピックをカバーするために、私たちは 10 のツールを開発しました。リーフレット 3 枚（尿路感染症、抗生物質、抗菌薬耐性の予防、および親戚向けのリーフレット 1 枚）。衛生クイズ。 UTI 診断アルゴリズムと新入社員向けのトレーニング プログラムを特徴とするポケット カード。 7つの主要なトピックをカバーする教育講義も開発されました。ツールと講義の両方が、各国でのワークショップ中に大使に提供されました。各ツールを採用している参加介護施設の割合は 52% ～ 84% でした。",
+    "conclusion": "特定された 7 つの主要なトピックは、ヨーロッパの介護施設における感染予防と抗菌管理を改善するために取り組むことに関連しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Nursing home residents frequently receive antibiotics, many of which may be unnecessary. This study aimed to develop an intervention applicable across European nursing homes to reduce antibiotic use by strengthening infection prevention and antimicrobial stewardship.\nMETHODS: The study ran January 2023 to December 2025. Using a participatory action research (PAR) approach, staff from participating nursing homes were engaged as project ambassadors and co-researchers, actively contributing to the development of the intervention. The study drew on quantitative and qualitative data and involved nursing homes in Denmark, Greece, Hungary, Lithuania, Poland, Slovakia, Slovenia and Spain.\nRESULTS: A total of 109 nursing homes participated. We identified seven key topics: hand hygiene, personal protective equipment, indwelling urinary catheters, suspicion of urinary tract infection (UTI), high staff turnover and a lack of educated staff, relatives' expectations and demands and insufficient knowledge of antibiotics. To cover these key topics, we developed 10 tools: 4 posters (hand hygiene, glove use, UTIs and basic information on viruses and bacteria); 3 leaflets (preventing UTIs, antibiotics and antimicrobial resistance and one for relatives); a hygiene quiz; a pocket card featuring a diagnostic UTI algorithm and a training programme for new staff. Educational lectures covering the seven key topics were also developed. Both the tools and the lectures were provided to the ambassadors during workshops in each country. The proportion of participating nursing homes adopting each tool ranged from 52% to 84%.\nCONCLUSIONS: The seven identified key topics are relevant to address to improve infection prevention and antimicrobial stewardship in European nursing homes.",
+    "abstract_ja": "はじめに: 老人ホームの入居者は頻繁に抗生物質を受け取りますが、その多くは不必要である可能性があります。この研究は、感染予防と抗菌薬の管理を強化することで抗生物質の使用を減らすために、ヨーロッパの介護施設全体に適用できる介入を開発することを目的としていました。\n方法：この研究は2023年1月から2025年12月まで実施された。参加型アクションリサーチ（PAR）アプローチを用いて、参加している老人ホームのスタッフがプロジェクト大使および共同研究者として関与し、介入の開発に積極的に貢献した。この研究は定量的および定性的データを活用し、デンマーク、ギリシャ、ハンガリー、リトアニア、ポーランド、スロバキア、スロベニア、スペインの老人ホームを対象としました。\n結果: 合計 109 の老人ホームが参加しました。私たちは、手指衛生、個人用保護具、留置尿道カテーテル、尿路感染症 (UTI) の疑い、職員の離職率の高さと教育を受けた職員の不足、親戚の期待と要求、抗生物質に関する不十分な知識という 7 つの重要なトピックを特定しました。これらの主要なトピックをカバーするために、私たちは 10 のツールを開発しました。リーフレット 3 枚（尿路感染症、抗生物質、抗菌薬耐性の予防、および親戚向けのリーフレット 1 枚）。衛生クイズ。 UTI 診断アルゴリズムと新入社員向けのトレーニング プログラムを特徴とするポケット カード。 7つの主要なトピックをカバーする教育講義も開発されました。ツールと講義の両方が、各国でのワークショップ中に大使に提供されました。各ツールを採用している参加介護施設の割合は 52% ～ 84% でした。\n結論: 特定された 7 つの主要なトピックは、ヨーロッパの介護施設における感染予防と抗菌管理を改善するために取り組むのに関連しています。",
+    "detail_methods": "この研究は2023年1月から2025年12月まで実施された。参加型アクションリサーチ（PAR）アプローチを用いて、参加した老人ホームのスタッフがプロジェクト大使および共同研究者として参加し、介入の開発に積極的に貢献した。この研究は定量的および定性的データを活用し、デンマーク、ギリシャ、ハンガリー、リトアニア、ポーランド、スロバキア、スロベニア、スペインの老人ホームを対象としました。",
+    "detail_results": "合計109の老人ホームが参加した。私たちは、手指衛生、個人用保護具、留置尿道カテーテル、尿路感染症 (UTI) の疑い、職員の離職率の高さと教育を受けた職員の不足、親戚の期待と要求、抗生物質に関する不十分な知識という 7 つの重要なトピックを特定しました。これらの主要なトピックをカバーするために、私たちは 10 のツールを開発しました。リーフレット 3 枚（尿路感染症、抗生物質、抗菌薬耐性の予防、および親戚向けのリーフレット 1 枚）。衛生クイズ。 UTI 診断アルゴリズムと新入社員向けのトレーニング プログラムを特徴とするポケット カード。 7つの主要なトピックをカバーする教育講義も開発されました。ツールと講義の両方が、各国でのワークショップ中に大使に提供されました。各ツールを採用している参加介護施設の割合は 52% ～ 84% でした。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "52%",
+        "source": "The proportion of participating nursing homes adopting each tool ranged from 52% to 84%."
+      },
+      {
+        "item": "割合",
+        "value": "84%",
+        "source": "The proportion of participating nursing homes adopting each tool ranged from 52% to 84%."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42592129/",
+    "doi_url": "https://doi.org/10.1093/jacamr/dlag158",
+    "created_at": "2026-08-13T23:25:17.949473+00:00"
+  },
+  {
+    "pmid": "42587529",
+    "doi": "10.1021/acsami.6c10964",
+    "category": "カテーテル新技術",
+    "title_en": "Antiplatelet Co-drug Delivery System Surface Coating for Improved Hemocompatibility on a Nitric Oxide-Releasing Medical-Grade Polymer.",
+    "title_ja": "一酸化窒素放出性医療グレードのポリマー上の血液適合性を向上させる抗血小板併用薬物送達システムの表面コーティング。",
+    "authors": "Shorter Tia N, Marx Anastasia, Handa Hitesh, Brisbois Elizabeth J",
+    "journal": "ACS applied materials & interfaces",
+    "publication_date": "2026-08-12",
+    "entry_date": "2026-08-13",
+    "study_design": "動物実験",
+    "purpose": "ポリカプロラクトン (PCL) は、生物医学用途で広く使用されている生分解性ポリマーです。しかし、その疎水性表面はタンパク質の吸着、血小板の活性化、細菌の付着、血栓形成を促進するため、血液と接触するデバイスでの使用は制限されています。この研究では、ネイティブ PCL を修飾して血液適合性を高める多機能共薬物送達コーティング アプローチを報告します。",
+    "methods": "",
+    "results": "層状コーティングは、単一成分の表面と比較して、タンパク質の吸着、血小板の接着/活性化、および細菌の付着を大幅に減少させ、血液適合性を高める相補的な効果を実証しました。",
+    "conclusion": "層状コーティングは、単一成分の表面と比較して、タンパク質の吸着、血小板の接着/活性化、および細菌の付着を大幅に減少させ、血液適合性を高める相補的な効果を実証しました。このプラットフォームは、生分解性ポリマーを加工して、カテーテルや血管界面などの血液に接触する医療機器に適した多機能コーティングを作成するための拡張可能なアプローチを確立します。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Polycaprolactone (PCL) is a biodegradable polymer widely used in biomedical applications; however, its hydrophobic surface promotes protein adsorption, platelet activation, bacterial adhesion, and thrombosis, limiting its use in blood-contacting devices. In this work, we report a multifunctional co-drug delivery coating approach that modifies native PCL to enhance hemocompatibility. A nitric oxide (NO) donor, S-nitroso-N-acetylpenicillamine (SNAP), is incorporated within the PCL substrate to provide sustained antiplatelet, antithrombotic, and antibacterial activity, while a hydrophilic HydroMed D4 polyurethane coating loaded with the antiplatelet drug ticagrelor (TIC) forms an antibiofouling interface and enables controlled drug elution. The performance of this integrated system was evaluated as a function of TIC loading and compared with relative controls to assess its antifoulant and thromboresistant properties under plasma protein and whole-blood exposure. The layered coating significantly reduced protein adsorption, platelet adhesion/activation, and bacterial attachment compared with single-component surfaces, demonstrating complementary effects that enhance hemocompatibility. This platform establishes a scalable approach to engineer biodegradable polymers into multifunctional coatings suitable for blood-contacting medical devices, such as catheters and vascular interfaces.",
+    "abstract_ja": "ポリカプロラクトン (PCL) は、生物医学用途で広く使用されている生分解性ポリマーです。しかし、その疎水性表面はタンパク質の吸着、血小板の活性化、細菌の付着、血栓形成を促進するため、血液と接触するデバイスでの使用は制限されています。この研究では、ネイティブ PCL を修飾して血液適合性を高める多機能共薬物送達コーティング アプローチを報告します。一酸化窒素 (NO) 供与体である S-ニトロソ-N-アセチルペニシラミン (SNAP) が PCL 基材内に組み込まれており、持続的な抗血小板作用、抗血栓作用、抗菌作用を提供します。また、抗血小板薬チカグレロール (TIC) を配合した親水性 HydroMed D4 ポリウレタン コーティングが抗生物付着界面を形成し、制御された薬物溶出を可能にします。この統合システムの性能を TIC 負荷の関数として評価し、相対対照と比較して、血漿タンパク質および全血曝露下での防汚特性および抗血栓特性を評価しました。層状コーティングは、単一成分の表面と比較して、タンパク質の吸着、血小板の接着/活性化、および細菌の付着を大幅に減少させ、血液適合性を高める相補的な効果を実証しました。このプラットフォームは、生分解性ポリマーを加工して、カテーテルや血管界面などの血液に接触する医療機器に適した多機能コーティングを作成するための拡張可能なアプローチを確立します。",
+    "detail_methods": "",
+    "detail_results": "層状コーティングは、単一成分の表面と比較して、タンパク質の吸着、血小板の接着/活性化、および細菌の付着を大幅に減少させ、血液適合性を高める相補的な効果を実証しました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42587529/",
+    "doi_url": "https://doi.org/10.1021/acsami.6c10964",
+    "created_at": "2026-08-13T23:25:24.308421+00:00"
+  },
+  {
+    "pmid": "42587667",
+    "doi": "10.3390/diagnostics16152430",
+    "category": "カテーテル新技術",
+    "title_en": "An Interpretable Multi-Objective Machine Learning Framework for In Silico Prioritization of Anti-Staphylococcus aureus Antimicrobial Peptides.",
+    "title_ja": "抗黄色ブドウ球菌抗菌ペプチドのインシリコ優先順位付けのための解釈可能な多目的機械学習フレームワーク。",
+    "authors": "Xu Jianguo, Yang Donghua, Zheng Qingyong, Li Tengfei, Cui Yating, Tian Jinhui",
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-13",
+    "study_design": "動物実験",
+    "purpose": "メチシリン耐性系統を含む黄色ブドウ球菌は、デバイスおよびカテーテル関連の感染の主な原因であり、耐性の上昇により、強力な抗ブドウ球菌活性と低い宿主毒性を備えた抗菌ペプチド (AMP) の探索が促進されています。機械学習は候補ペプチドに優先順位を付けることができます。ただし、文献由来の AMP データセットは相同性に基づく楽観主義に陥りがちで、計算機研究ではトランスレーショナル到達範囲が誇張されることがよくあります。方法: 重複を排除した黄色ブドウ球菌活性 AMP レコード 4007 件とバイナリラベル付き溶血レコード 582 件を厳選しました。各ペプチドは、透明な 538 次元の物理化学的および組成的特徴ベクトルでコード化されました。 5 つの分類子と 5 つのリグレッサーを、従来のランダム 5 分割交差検証と相同性を意識した交差検証の両方で 4 つのエンドポイント (力価分類、log10 MIC 回帰、溶血分類、正規化溶血指数) について評価しました。この交差検証では、配列が 3 量体の類似性によってクラスター化され、クラスター全体が単一の折り畳みに限定されます。クラスの不均衡はクラスの重み付けによって処理されました。モデルの動作は、SHAP およびフィッシャー正確な k-mer 濃縮によって解釈され、候補は、個別にトレーニングされたヘッドを組み合わせた多目的スコアによってランク付けされました。結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。効力分類では、AUROC が約 0.71 (ランダム フォレスト) に達しましたが、ランダム相互検証では 0.797 でした。溶血分類は AUROC 0.90 (95% CI 0.88 ～ 0.93) で依然として良好であり、これはその高い精度が相同性漏洩アーチファクトではないことを示しています。 MIC 回帰は控えめであった (相同性認識 R2 0.17、Spearman ρ 0.39) ため、順位付けシグナルとしてのみ扱われます。 SHAP および k-mer 分析により、解釈可能な構造活性関係が回復されました。正味の正電荷と両親媒性が効力を促進するのに対し、バルクの疎水性は溶血を促進します。生成されたプールにパイプラインを適用すると、20 個の候補に優先順位が付けられました。最近傍分析により、これらは既知の強力な足場の厳密に最適化された変異体であり、新規配列ではなく、既知のペプチドとの同一性中央値が 95% であることが示されています。結論: 既知のアンチ S を最適化する、解釈可能で正直にベンチマークされた多目的パイプラインを提示します。黄色ブドウ球菌AMPは、より低い溶血予測に向けて足場を構築します。優先順位付けされたペプチドは、将来の合成および実験的テストのための計算上の仮説です。予測される溶血が低いことは、検証された安全性ではなく選択基準を反映しており、種間の選択性は評価されていません。",
+    "methods": "方法: 4007 個の重複排除された S を厳選しました。5 つの分類子と 5 つのリグレッサーを、従来のランダム 5 分割交差検証と相同性を意識した交差検証の両方で 4 つのエンドポイント (力価分類、log10 MIC 回帰、溶血分類、正規化溶血指数) について評価しました。この交差検証では、配列は 3 量体の類似性によってクラスター化され、クラスター全体は単一の折り畳みに限定されました。結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。",
+    "results": "結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。溶血分類は AUROC 0.90 (95% CI 0.88 ～ 0.93) で依然として良好であり、これはその高い精度が相同性漏洩アーチファクトではないことを示しています。最近傍分析により、これらは既知の強力な足場の厳密に最適化された変異体であり、新規配列ではなく、既知のペプチドとの同一性中央値が 95% であることが示されています。",
+    "conclusion": "優先順位付けされたペプチドは、将来の合成および実験的テストのための計算上の仮説です。予測される溶血が低いことは、検証された安全性ではなく選択基準を反映しており、種間の選択性は評価されていません。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background: Staphylococcus aureus, including methicillin-resistant lineages, is a leading cause of device- and catheter-related infection, and rising resistance motivates the search for antimicrobial peptides (AMPs) with strong anti-staphylococcal activity and low host toxicity. Machine learning can prioritize candidate peptides. However, the literature-derived AMP datasets are prone to homology-driven optimism, and computational studies frequently overstate their translational reach. Methods: We curated 4007 deduplicated S. aureus-active AMP records and 582 binary-labeled hemolysis records. Each peptide was encoded with a transparent 538-dimensional physicochemical and compositional feature vector. Five classifiers and five regressors were evaluated for four endpoints (potency classification, log10 MIC regression, hemolysis classification, normalized hemolytic index) under both conventional random 5-fold cross-validation and homology-aware cross-validation, in which sequences were clustered by 3-mer similarity and whole clusters were confined to single folds. Class imbalance was handled by class weighting. Model behavior was interpreted with SHAP and Fisher-exact k-mer enrichment, and candidates were ranked by a multi-objective score that combines the independently trained heads. Results: Under homology-aware validation, performance was lower than under random splitting, as expected. Potency classification reached an AUROC of about 0.71 (Random Forest), compared with 0.797 under random cross-validation. Hemolysis classification remained strong at AUROC 0.90 (95% CI 0.88 to 0.93), which indicates that its high accuracy is not a homology leakage artifact. MIC regression was modest (homology-aware R2 0.17, Spearman ρ 0.39) and is therefore treated only as a rank-ordering signal. SHAP and k-mer analyses recovered interpretable structure-activity relationships. Net positive charge and amphipathicity drove potency, whereas bulk hydrophobicity drove hemolysis. Applying the pipeline to a generated pool prioritized 20 candidates. Nearest-neighbor analysis shows that these are close optimized variants of known potent scaffolds, with a median identity of 95% to a known peptide, rather than novel sequences. Conclusions: We present an interpretable, honestly benchmarked multi-objective pipeline that optimizes known anti-S. aureus AMP scaffolds toward lower predicted hemolysis. The prioritized peptides are computational hypotheses for future synthesis and experimental testing. Their low predicted hemolysis reflects a selection criterion rather than validated safety, and cross-species selectivity was not assessed.",
+    "abstract_ja": "背景: メチシリン耐性系統を含む黄色ブドウ球菌は、デバイスおよびカテーテル関連の感染の主な原因であり、耐性の上昇により、強力な抗ブドウ球菌活性と低い宿主毒性を備えた抗菌ペプチド (AMP) の探索が促進されています。機械学習は候補ペプチドに優先順位を付けることができます。ただし、文献由来の AMP データセットは相同性に基づく楽観主義に陥りがちで、計算機研究ではトランスレーショナル到達範囲が誇張されることがよくあります。方法: 重複を排除した黄色ブドウ球菌活性 AMP レコード 4007 件とバイナリラベル付き溶血レコード 582 件を厳選しました。各ペプチドは、透明な 538 次元の物理化学的および組成的特徴ベクトルでコード化されました。 5 つの分類子と 5 つのリグレッサーを、従来のランダム 5 分割交差検証と相同性を意識した交差検証の両方で 4 つのエンドポイント (力価分類、log10 MIC 回帰、溶血分類、正規化溶血指数) について評価しました。この交差検証では、配列が 3 量体の類似性によってクラスター化され、クラスター全体が単一の折り畳みに限定されます。クラスの不均衡はクラスの重み付けによって処理されました。モデルの動作は、SHAP およびフィッシャー正確な k-mer 濃縮によって解釈され、候補は、個別にトレーニングされたヘッドを組み合わせた多目的スコアによってランク付けされました。結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。効力分類では、AUROC が約 0.71 (ランダム フォレスト) に達しましたが、ランダム相互検証では 0.797 でした。溶血分類は AUROC 0.90 (95% CI 0.88 ～ 0.93) で依然として良好であり、これはその高い精度が相同性漏洩アーチファクトではないことを示しています。 MIC 回帰は控えめであった (相同性認識 R2 0.17、Spearman ρ 0.39) ため、順位付けシグナルとしてのみ扱われます。 SHAP および k-mer 分析により、解釈可能な構造活性関係が回復されました。正味の正電荷と両親媒性が効力を促進するのに対し、バルクの疎水性は溶血を促進します。生成されたプールにパイプラインを適用すると、20 個の候補に優先順位が付けられました。最近傍分析により、これらは既知の強力な足場の厳密に最適化された変異体であり、新規配列ではなく、既知のペプチドとの同一性中央値が 95% であることが示されています。結論: 既知のアンチ S を最適化する、解釈可能で正直にベンチマークされた多目的パイプラインを提示します。黄色ブドウ球菌AMPは、より低い溶血予測に向けて足場を構築します。優先順位付けされたペプチドは、将来の合成および実験的テストのための計算上の仮説です。予測される溶血が低いことは、検証された安全性ではなく選択基準を反映しており、種間の選択性は評価されていません。",
+    "detail_methods": "方法: 4007 個の重複排除された S を厳選しました。5 つの分類子と 5 つのリグレッサーを、従来のランダム 5 分割交差検証と相同性を意識した交差検証の両方で 4 つのエンドポイント (力価分類、log10 MIC 回帰、溶血分類、正規化溶血指数) について評価しました。この交差検証では、配列は 3 量体の類似性によってクラスター化され、クラスター全体は単一の折り畳みに限定されました。結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。",
+    "detail_results": "結果: 相同性を意識した検証では、予想どおり、ランダム分割よりもパフォーマンスが低くなりました。溶血分類は AUROC 0.90 (95% CI 0.88 ～ 0.93) で依然として良好であり、これはその高い精度が相同性漏洩アーチファクトではないことを示しています。最近傍分析により、これらは既知の強力な足場の厳密に最適化された変異体であり、新規配列ではなく、既知のペプチドとの同一性中央値が 95% であることが示されています。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Hemolysis classification remained strong at AUROC 0.90 (95% CI 0.88 to 0.93), which indicates that its high accuracy is not a homology leakage artifact."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 0",
+        "source": "Hemolysis classification remained strong at AUROC 0.90 (95% CI 0.88 to 0.93), which indicates that its high accuracy is not a homology leakage artifact."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42587667/",
+    "doi_url": "https://doi.org/10.3390/diagnostics16152430",
+    "created_at": "2026-08-13T23:25:29.780260+00:00"
+  },
+  {
+    "pmid": "42589999",
+    "doi": "10.3390/jcm15155895",
+    "category": "カテーテル新技術",
+    "title_en": "The Urogenital Microbiome-Metabolic Interface in Postmenopausal Recurrent Urinary Tract Infection: Estrogen Deficiency, Diabetes, Obesity, and Microbial Reservoirs.",
+    "title_ja": "閉経後の再発性尿路感染症における泌尿生殖器マイクロバイオームと代謝の境界面: エストロゲン欠乏症、糖尿病、肥満、および微生物の保有源。",
+    "authors": "Alghoul Wasim Iyad, Ashraf Reem, Rafiuddin Samreen, Kharoufeh Ahmad Ziad Hasan, Al-Shammari Wed Burhan Jameel, Abedi Malak, Alabid Ibrahim, Patni Mohamedanas Mohamedfaruk, Yousef Ali Jad, Hamdy Hesham Amin",
+    "journal": "Journal of clinical medicine",
+    "publication_date": "2026-07-28",
+    "entry_date": "2026-08-13",
+    "study_design": "コホート研究",
+    "purpose": "背景/目的: 再発性尿路感染症 (rUTI) は閉経後によく見られますが、エストロゲン欠乏だけでは再発、症状、微生物プロファイルの変化を説明できません。この研究は、エストロゲン欠乏、泌尿生殖器の微生物生態、糖尿病、肥満、微生物の保有源、および閉経後rUTI感受性の解剖学的、神経学的、および機能的修飾因子の間の相互作用に関する証拠を総合することを目的とした。",
+    "methods": "この研究は、エストロゲン欠乏、泌尿生殖器の微生物生態、糖尿病、肥満、微生物の保有源、および閉経後rUTI感受性の解剖学的、神経学的、および機能的修飾因子の間の相互作用に関する証拠を総合することを目的とした。方法: PubMed と Scopus で、2021 年 1 月 1 日から 2026 年 6 月 15 日までに発表された元の研究を検索しました。構造化された物語の統合には、臨床介入、観察コホート、マイクロバイオームとマルチオミクスの研究、細胞実験と動物実験を含む 62 件の元のレポートが含まれていました。",
+    "results": "結果：更年期障害は、乳酸桿菌優勢の低下、膣のpHの上昇、および膣または泌尿器コミュニティの変化と関連していましたが、所見は不均一でした。",
+    "conclusion": "泌尿生殖器のマイクロバイオームと代謝の境界面は、有用な統合フレームワークですが、検証された因果関係モデルまたは診断モデルではありません。膣エストロゲン、尿培養、代謝および膀胱機能の評価、および抗菌薬の管理は依然として臨床基盤です。マイクロバイオームを対象とした戦略には、前向きな検証が必要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "microbiome"
+    ],
+    "abstract_en": "Background/Objectives: Recurrent urinary tract infection (rUTI) is common after menopause, but estrogen deficiency alone does not explain variation in recurrence, symptoms, and microbial profiles. This study aimed to synthesize evidence on the interactions among estrogen deficiency, urogenital microbial ecology, diabetes, obesity, microbial reservoirs, and anatomical, neurological, and functional modifiers of postmenopausal rUTI susceptibility. Methods: PubMed and Scopus were searched for original studies published from 1 January 2021 to 15 June 2026. A structured narrative synthesis included 62 original reports comprising clinical interventions, observational cohorts, microbiome and multi-omic studies, and cellular and animal experiments. Evidence was interpreted according to study design, population relevance, and biological directness. Results: Menopause was associated with reduced Lactobacillus dominance, higher vaginal pH, and altered vaginal or urinary communities, although findings were heterogeneous. Vaginal estrogen reduced recurrence and improved the local urogenital environment, but microbiome restoration is not established as its sole mechanism. Gut, rectal, vaginal, urinary, and bladder-wall reservoirs may contribute to persistence or repeated exposure. Diabetes was linked to dysbiosis and impaired urothelial defence, whereas obesity evidence remained less direct. Pelvic organ prolapse with incomplete emptying, elevated postvoid residual urine, age-related detrusor dysfunction, stroke, immobility, functional dependence, incontinence, and catheter exposure may further modify susceptibility. Conclusions: Postmenopausal rUTI is multifactorial. The urogenital microbiome-metabolic interface is a useful integrative framework, but not a validated causal or diagnostic model. Vaginal estrogen, urine culture, metabolic and bladder-function assessment, and antimicrobial stewardship remain the clinical foundation; microbiome-directed strategies require prospective validation.",
+    "abstract_ja": "背景/目的: 再発性尿路感染症 (rUTI) は閉経後によく見られますが、エストロゲン欠乏だけでは再発、症状、微生物プロファイルの変化を説明できません。この研究は、エストロゲン欠乏、泌尿生殖器の微生物生態、糖尿病、肥満、微生物の保有源、および閉経後rUTI感受性の解剖学的、神経学的、および機能的修飾因子の間の相互作用に関する証拠を総合することを目的とした。方法: PubMed と Scopus で、2021 年 1 月 1 日から 2026 年 6 月 15 日までに発表された元の研究を検索しました。構造化された物語の統合には、臨床介入、観察コホート、マイクロバイオームとマルチオミクスの研究、細胞実験と動物実験を含む 62 件の元のレポートが含まれていました。証拠は、研究デザイン、集団の関連性、生物学的直接性に基づいて解釈されました。結果：更年期障害は、乳酸桿菌優勢の低下、膣のpHの上昇、および膣または泌尿器コミュニティの変化と関連していましたが、所見は不均一でした。膣エストロゲンは再発を減らし、局所の泌尿器生殖器環境を改善しましたが、マイクロバイオームの修復がその唯一のメカニズムとして確立されていません。腸、直腸、膣、尿路、膀胱壁の貯留槽が持続性または反復曝露の一因となる可能性があります。糖尿病は腸内環境異常症および尿路上皮防御機能の低下と関連しているが、肥満の証拠は依然として直接的ではない。不完全な排出を伴う骨盤臓器脱、排尿後残尿の増加、加齢に伴う排尿筋機能不全、脳卒中、不動、機能的依存、失禁、およびカテーテル露出は、感受性をさらに変化させる可能性があります。結論: 閉経後の rUTI は多因子性です。泌尿生殖器のマイクロバイオームと代謝の境界面は、有用な統合フレームワークですが、検証された因果関係モデルまたは診断モデルではありません。膣エストロゲン、尿培養、代謝および膀胱機能の評価、および抗菌薬の管理は依然として臨床基盤です。マイクロバイオームを対象とした戦略には、前向きな検証が必要です。",
+    "detail_methods": "この研究は、エストロゲン欠乏、泌尿生殖器の微生物生態、糖尿病、肥満、微生物の保有源、および閉経後rUTI感受性の解剖学的、神経学的、および機能的修飾因子の間の相互作用に関する証拠を総合することを目的とした。方法: PubMed と Scopus で、2021 年 1 月 1 日から 2026 年 6 月 15 日までに発表された元の研究を検索しました。構造化された物語の統合には、臨床介入、観察コホート、マイクロバイオームとマルチオミクスの研究、細胞実験と動物実験を含む 62 件の元のレポートが含まれていました。",
+    "detail_results": "結果：更年期障害は、乳酸桿菌優勢の低下、膣のpHの上昇、および膣または泌尿器コミュニティの変化と関連していましたが、所見は不均一でした。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42589999/",
+    "doi_url": "https://doi.org/10.3390/jcm15155895",
+    "created_at": "2026-08-13T23:25:37.863186+00:00"
+  },
+  {
+    "pmid": "42589267",
+    "doi": "10.3390/ijms27156611",
+    "category": "カテーテル新技術",
+    "title_en": "Search for Potentially Virulent Staphylococcus epidermidis Isolated from Healthy Human Skin.",
+    "title_ja": "健康な人間の皮膚から分離された潜在的に毒性の高い表皮ブドウ球菌を検索します。",
+    "authors": "Hernández-Valenzuela Marco Antonio, Cruz-Morales Ana Luisa, Diaz-Herreros Alma Nelly, Hidalgo Alejandro A, Cancino-Diaz Mario Eugenio, Cancino-Diaz Juan Carlos",
+    "journal": "International journal of molecular sciences",
+    "publication_date": "2026-07-24",
+    "entry_date": "2026-08-13",
+    "study_design": "動物実験",
+    "purpose": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。ただし、これらの菌株の潜在的な毒性と医療機器を汚染する能力は実験的に直接検証されていません。",
+    "methods": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。したがって、この研究では、表現型および遺伝子型の特徴に従って分離株の分布を視覚化するために S. 主成分分析 (PCA) が使用されたかどうかを評価しました。",
+    "results": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。健康な個人の皮膚から回収された表皮分離株は、埋め込まれたカテーテルに定着し、デバイスに関連したバイオフィルムを形成する能力を持っています。得られたグループからの代表的な分離株を、マウス背中モデル (CCAMM) におけるカテーテル汚染アッセイを使用して評価しました。このモデルでは、毒性様分離株は、参照株 RP62A で観察されたレベルと同等のカテーテル定着およびデバイス関連バイオフィルム形成レベルを示しましたが、非毒性様分離株は実質的に低いバイオフィルム形成を示しました。",
+    "conclusion": "結論として、これらの発見は、皮膚科学的に健康な個人の皮膚には病原性関連形質を持つ表皮ブドウ球菌分離株が潜んでいる可能性があり、植込み型医療機器を汚染する可能性のある分離株の貯蔵庫としてのその潜在的な役割を強調している。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Genomic studies suggest that the skin microbiota of healthy individuals may harbor Staphylococcus epidermidis strains with putative virulence-associated characteristics, and that contamination of medical devices can originate from the patient's own skin microbiota. However, the virulence potential of these strains and their ability to contaminate medical devices have not been directly validated experimentally. Therefore, this study evaluated whether S. epidermidis isolates recovered from the skin of healthy individuals possess the capacity to colonize implanted catheters and form device-associated biofilms. Fifty-two isolates obtained from five dermatologically healthy individuals were phenotypically and genotypically characterized. Principal component analysis (PCA) was used to visualize the distribution of isolates according to their phenotypic and genotypic characteristics. Based on biofilm-forming capacity and antimicrobial resistance/susceptibility profiles, the isolates were assigned to four categories: virulent-like (n = 3), low virulent-like (n = 7), commensal-like (n = 20), and non-virulent-like (n = 22). Representative isolates from the resulting groups were evaluated using a catheter contamination assay in a mouse back model (CCAMM). In this model, virulent-like isolates exhibited levels of catheter colonization and device-associated biofilm formation comparable to those observed for the reference strain RP62A, whereas the non-virulent-like isolate displayed substantially lower biofilm formation. In conclusion, these findings suggest that the skin of dermatologically healthy individuals may harbor S. epidermidis isolates with virulence-associated traits and highlight its potential role as a reservoir of isolates capable of contaminating implanted medical devices.",
+    "abstract_ja": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。ただし、これらの菌株の潜在的な毒性と医療機器を汚染する能力は実験的に直接検証されていません。したがって、この研究では、健康な個人の皮膚から回収された表皮ブドウ球菌分離株が、移植されたカテーテルに定着し、デバイスに関連するバイオフィルムを形成する能力を有するかどうかを評価した。 5 人の皮膚科学的に健康な個人から得られた 52 の分離株の表現型および遺伝子型が特徴付けられました。主成分分析 (PCA) を使用して、表現型および遺伝子型の特徴に従って分離株の分布を視覚化しました。バイオフィルム形成能力および抗菌剤耐性/感受性プロファイルに基づいて、分離株は毒性様 (n = 3)、低毒性様 (n = 7)、共生菌様 (n = 20)、および非毒性様 (n = 22) の 4 つのカテゴリーに割り当てられました。得られたグループからの代表的な分離株を、マウス背中モデル (CCAMM) におけるカテーテル汚染アッセイを使用して評価しました。このモデルでは、毒性様分離株は、参照株 RP62A で観察されたレベルと同等のカテーテル定着およびデバイス関連バイオフィルム形成レベルを示しましたが、非毒性様分離株は実質的に低いバイオフィルム形成を示しました。結論として、これらの発見は、皮膚科学的に健康な個人の皮膚には病原性関連形質を持つ表皮ブドウ球菌分離株が潜んでいる可能性があり、植込み型医療機器を汚染する可能性のある分離株の貯蔵庫としてのその潜在的な役割を強調している。",
+    "detail_methods": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。したがって、この研究では、表現型および遺伝子型の特徴に従って分離株の分布を視覚化するために S. 主成分分析 (PCA) が使用されたかどうかを評価しました。",
+    "detail_results": "ゲノム研究は、健康な個人の皮膚微生物叢には、推定上の病原性関連特性を持つ表皮ブドウ球菌株を保有している可能性があり、医療機器の汚染は患者自身の皮膚微生物叢に由来する可能性があることを示唆しています。健康な個人の皮膚から回収された表皮分離株は、埋め込まれたカテーテルに定着し、デバイスに関連したバイオフィルムを形成する能力を持っています。得られたグループからの代表的な分離株を、マウス背中モデル (CCAMM) におけるカテーテル汚染アッセイを使用して評価しました。このモデルでは、毒性様分離株は、参照株 RP62A で観察されたレベルと同等のカテーテル定着およびデバイス関連バイオフィルム形成レベルを示しましたが、非毒性様分離株は実質的に低いバイオフィルム形成を示しました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 3",
+        "source": "Based on biofilm-forming capacity and antimicrobial resistance/susceptibility profiles, the isolates were assigned to four categories: virulent-like (n = 3), low virulent-like (n = 7), commensal-like (n = 20), and non-virulent-like (n = 22)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 7",
+        "source": "Based on biofilm-forming capacity and antimicrobial resistance/susceptibility profiles, the isolates were assigned to four categories: virulent-like (n = 3), low virulent-like (n = 7), commensal-like (n = 20), and non-virulent-like (n = 22)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 20",
+        "source": "Based on biofilm-forming capacity and antimicrobial resistance/susceptibility profiles, the isolates were assigned to four categories: virulent-like (n = 3), low virulent-like (n = 7), commensal-like (n = 20), and non-virulent-like (n = 22)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 22",
+        "source": "Based on biofilm-forming capacity and antimicrobial resistance/susceptibility profiles, the isolates were assigned to four categories: virulent-like (n = 3), low virulent-like (n = 7), commensal-like (n = 20), and non-virulent-like (n = 22)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42589267/",
+    "doi_url": "https://doi.org/10.3390/ijms27156611",
+    "created_at": "2026-08-13T23:25:45.868152+00:00"
+  },
+  {
+    "pmid": "42590444",
+    "doi": "10.3390/s26154669",
+    "category": "カテーテル新技術",
+    "title_en": "Electrohysterography for Uterine Contractility Monitoring: Measurement Principles, Clinical Evidence, and Reporting Recommendations.",
+    "title_ja": "子宮収縮モニタリングのための子宮電図検査: 測定原理、臨床証拠、および報告の推奨事項。",
+    "authors": "Bayramli Gulnur, Valluru Koushita Gouri Reddy, Goyal Ravi",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026-07-23",
+    "entry_date": "2026-08-13",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "子宮収縮性の信頼性の高いモニタリングは、分娩の評価、早産の診断、産科介入のタイミングの基礎となりますが、日常的な方法では収縮の機械的影響のみが測定されます。体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。",
+    "methods": "子宮収縮性の信頼性の高いモニタリングは、分娩の評価、早産の診断、産科介入のタイミングの基礎となりますが、日常的な方法では収縮の機械的影響のみが測定されます。体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。このレビューでは、測定モダリティとして EHG と子宮筋電図 (EMG) を検証し、生理学的起源、取得ハードウェア、信号特性、特徴抽出、機械学習分析をカバーし、それらを CTG と子宮内圧カテーテル参照標準と比較します。",
+    "results": "体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。翻訳の主な障壁は、生理学ではなく方法論的な不均一性です。電極、フィルタリング、特徴定義、結果測定の違いにより、研究間の比較やメタ分析が妨げられます。",
+    "conclusion": "翻訳の主な障壁は、生理学ではなく方法論的な不均一性です。電極、フィルタリング、特徴定義、結果測定の違いにより、研究間の比較やメタ分析が妨げられます。このレビューはその中心的な貢献として、これまでの標準化の要求を EHG 研究の最小限の報告セットに統合し、トランスレーショナルの準備状況を評価し、前向きの外部検証、共有データセット、説明可能なモデル、および結果に関連した試験を優先事項として特定しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Reliable monitoring of uterine contractility underpins the assessment of labor, the diagnosis of preterm labor, and the timing of obstetric intervention, yet routine methods measure only the mechanical consequences of contraction. External tocodynamometry and cardiotocography (CTG) are operator- and position-dependent and perform poorly with maternal obesity, detecting as few as ~54% of the contractions confirmed by an intrauterine pressure catheter, whereas surface electrohysterography (EHG) detects upward of ~94% by recording the myometrial electrical activity that drives contraction. This review examines EHG and uterine electromyography (EMG) as measurement modalities, covering their physiological origin, acquisition hardware, signal characteristics, feature extraction, and machine-learning analysis, and compares them with CTG against the intrauterine pressure catheter reference standard. Electrical approaches additionally yield predictive parameters, notably spectral peak frequency and propagation velocity, that mechanical methods cannot provide. The principal barrier to translation is methodological heterogeneity rather than physiology: differences in electrodes, filtering, feature definitions, and outcome measures preclude cross-study comparison and meta-analysis. As its central contribution, this review consolidates prior calls for standardization into a minimum reporting set for EHG studies and appraises translational readiness, identifying prospective external validation, shared datasets, explainable models, and outcome-linked trials as priorities.",
+    "abstract_ja": "子宮収縮性の信頼性の高いモニタリングは、分娩の評価、早産の診断、産科介入のタイミングの基礎となりますが、日常的な方法では収縮の機械的影響のみが測定されます。体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。このレビューでは、測定モダリティとして EHG と子宮筋電図 (EMG) を検証し、生理学的起源、取得ハードウェア、信号特性、特徴抽出、機械学習分析をカバーし、それらを CTG と子宮内圧カテーテル参照標準と比較します。さらに、電気的アプローチでは、機械的方法では提供できない予測パラメータ、特にスペクトルのピーク周波数と伝播速度が得られます。翻訳の主な障壁は、生理学ではなく方法論的な不均一性です。電極、フィルタリング、特徴定義、結果測定の違いにより、研究間の比較やメタ分析が妨げられます。このレビューはその中心的な貢献として、これまでの標準化の要求を EHG 研究の最小限の報告セットに統合し、トランスレーショナルの準備状況を評価し、前向きの外部検証、共有データセット、説明可能なモデル、および結果に関連した試験を優先事項として特定しています。",
+    "detail_methods": "子宮収縮性の信頼性の高いモニタリングは、分娩の評価、早産の診断、産科介入のタイミングの基礎となりますが、日常的な方法では収縮の機械的影響のみが測定されます。体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。このレビューでは、測定モダリティとして EHG と子宮筋電図 (EMG) を検証し、生理学的起源、取得ハードウェア、信号特性、特徴抽出、機械学習分析をカバーし、それらを CTG と子宮内圧カテーテル参照標準と比較します。",
+    "detail_results": "体外式陣痛計と心電図検査（CTG）は操作者や体位に依存し、母体の肥満ではあまり機能せず、子宮内圧カテーテルで確認される子宮収縮の最大54％しか検出できませんが、表面子宮電図検査（EHG）は収縮を引き起こす子宮筋層の電気活動を記録することで最大94％以上を検出します。翻訳の主な障壁は、生理学ではなく方法論的な不均一性です。電極、フィルタリング、特徴定義、結果測定の違いにより、研究間の比較やメタ分析が妨げられます。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "54%",
+        "source": "External tocodynamometry and cardiotocography (CTG) are operator- and position-dependent and perform poorly with maternal obesity, detecting as few as ~54% of the contractions confirmed by an intrauterine pressure catheter, whereas surface electrohysterography (EHG) detects upward of ~94% by recording the myometrial electrical activity that drives contraction."
+      },
+      {
+        "item": "割合",
+        "value": "94%",
+        "source": "External tocodynamometry and cardiotocography (CTG) are operator- and position-dependent and perform poorly with maternal obesity, detecting as few as ~54% of the contractions confirmed by an intrauterine pressure catheter, whereas surface electrohysterography (EHG) detects upward of ~94% by recording the myometrial electrical activity that drives contraction."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42590444/",
+    "doi_url": "https://doi.org/10.3390/s26154669",
+    "created_at": "2026-08-13T23:25:54.090859+00:00"
+  },
+  {
     "pmid": "42583541",
     "doi": "10.1097/MS9.0000000000005306",
     "category": "カテーテル新技術",
