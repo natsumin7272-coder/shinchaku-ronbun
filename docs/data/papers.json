@@ -1,5 +1,340 @@
 [
   {
+    "pmid": "42614798",
+    "doi": "10.2147/CIA.S620414",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "PACU Delirium in Older Surgical Patients: Incidence, Nursing-Sensitive Correlates, and Outcomes in a Multicenter Chinese Cohort Study.",
+    "title_ja": "高齢の手術患者における PACU せん妄：中国の多施設コホート研究における発生率、看護に敏感な相関関係、および転帰。",
+    "authors": "Ma Xuesong, Zhang Manhong, Wang Fangfang",
+    "journal": "Clinical interventions in aging",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-19",
+    "study_design": "前向き研究",
+    "purpose": "高齢の外科患者における麻酔後ケアユニット（PACU）せん妄は、中国の多施設施設では特徴が乏しく、看護に敏感なPACU変数が従来の臨床リスク因子を超えて説明価値を加えるかどうかは正式に検証されていない。",
+    "methods": "中国の5つの三次病院を対象としたこの前向きコホート研究では、待機的非心臓手術を受ける65歳以上の患者2,200人（持続的な深い鎮静を行った60人を除外した後）を対象に、リッチモンド興奮鎮静スケール（RASS）ゲートの集中治療室用反復混乱評価法（CAM-ICU）プロトコルを3つの時点で用いてPACUせん妄が評価された。 （入院後 10～20 分と 40～60 分、退院前）。事前に指定された 2 つの入れ子ロジスティック モデルを説明フレームワークで比較しました。モデル A (従来の臨床予測因子) とモデル B (モデル A に看護に敏感な 8 つの PACU 変数を加えたもの) です。完全な症例分析には 2,048 人の患者が含まれていました。モデルは、尤度比 (LR) 検定、C 統計、および統合識別改善 (IDI) を使用して比較されました。",
+    "results": "PACUせん妄は患者2,200人中422人（19.2％、95％CI：17.6％～20.9％）に発生し、主に活動性低下（64.2％）であった。効果の大きさの降順に、独立した従来の相関関係は、既知の認知障害、慢性腎臓病、ASA ≥ III、脳卒中/TIA、高齢、不安、MoCA の低下、およびアルブミンの低下でした。看護に敏感なブロックを追加すると、全体の適合度はわずかに改善されましたが (LR 検定 p = 0.037)、識別利得は小さく (C 統計値 0.675 ～ 0.686; ΔAUC = +0.011)、IDI は有意ではありませんでした (IDI = +0.008、p = 0.384)。尿道カテーテル挿入は、唯一の独立した看護感受性相関関係であった（OR 1.49; 95% CI: 1.18-1.89; p = 0.0009）。 PACU せん妄は、病棟せん妄 (OR 3.26)、転倒 (OR 4.63)、自宅以外の退院 (OR 4.75)、および長期入院 (幾何平均比 1.46) を含むすべての二次転帰と関連しており、すべて p < 0.001 でした。",
+    "conclusion": "PACU せん妄は高齢患者の約 5 人に 1 人に影響を及ぼし、主に活動性低下でした。看護に敏感なブロックは、統計的に検出可能ではあるが臨床的に限定された識別値を追加し、信号は尿道カテーテル挿入に集中しました。構造化された繰り返しの PACU せん妄スクリーニング（特に活動性低下症状に対する）と的を絞ったカテーテルの最小化は、実際的な看護の優先事項です。ベッドサイドでのリスクを予測する前に、外部検証が必要です。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Post-anesthesia care unit (PACU) delirium in older surgical patients is poorly characterized in Chinese multicenter settings, and whether nursing-sensitive PACU variables add explanatory value beyond conventional clinical risk factors has not been formally tested.\nMETHODS: In this prospective cohort study across five Chinese tertiary hospitals, 2200 patients aged 65 years or older undergoing elective major noncardiac surgery (after excluding 60 with persistent deep sedation) were assessed for PACU delirium using a Richmond Agitation-Sedation Scale (RASS)-gated, repeated Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) protocol at three timepoints (10-20 and 40-60 minutes after admission, and before discharge). Two prespecified nested logistic models were compared in an explanatory framework: Model A (conventional clinical predictors) and Model B (Model A plus eight nursing-sensitive PACU variables). Complete-case analysis included 2,048 patients; models were compared using the likelihood ratio (LR) test, C-statistic, and integrated discrimination improvement (IDI).\nRESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%). In descending order of effect size, independent conventional correlates were known cognitive impairment, chronic kidney disease, ASA ≥ III, stroke/TIA, older age, anxiety, lower MoCA, and lower albumin. Adding the nursing-sensitive block modestly improved overall fit (LR test p = 0.037), but the discrimination gain was small (C-statistic 0.675 to 0.686; ∆AUC = +0.011) and the IDI was non-significant (IDI = +0.008, p = 0.384); urinary catheterization was the only independent nursing-sensitive correlate (OR 1.49; 95% CI: 1.18-1.89; p = 0.0009). PACU delirium was associated with all secondary outcomes, including ward delirium (OR 3.26), falls (OR 4.63), non-home discharge (OR 4.75), and prolonged hospitalization (geometric mean ratio 1.46), all p < 0.001.\nCONCLUSION: PACU delirium affected approximately one in five older patients and was predominantly hypoactive. The nursing-sensitive block added statistically detectable but clinically limited discriminative value, with the signal concentrated in urinary catheterization. Structured, repeated PACU delirium screening-particularly for hypoactive presentations-and targeted catheter minimization are practical nursing priorities; external validation is required before any bedside risk prediction.",
+    "abstract_ja": "背景：高齢の外科患者における麻酔後ケアユニット（PACU）せん妄は、中国の多施設施設では特徴が乏しく、看護に敏感なPACU変数が従来の臨床危険因子を超えて説明価値を加えるかどうかは正式に検証されていない。\n方法：中国の5つの三次病院を対象としたこの前向きコホート研究では、待機的非心臓手術を受ける65歳以上の患者2200人（持続的な深い鎮静を行った60人を除外した後）を対象に、リッチモンド興奮鎮静スケール（RASS）ゲートの集中治療室反復混乱評価法（CAM-ICU）プロトコルを用いて、PACUせん妄を3時に評価した。時点（入院後 10～20 分と 40～60 分、退院前）。事前に指定された 2 つの入れ子ロジスティック モデルを説明フレームワークで比較しました。モデル A (従来の臨床予測因子) とモデル B (モデル A に看護に敏感な 8 つの PACU 変数を加えたもの) です。完全な症例分析には 2,048 人の患者が含まれていました。モデルは、尤度比 (LR) 検定、C 統計、および統合識別改善 (IDI) を使用して比較されました。\n結果: PACU せん妄は患者 2,200 人中 422 人 (19.2%; 95% CI: 17.6%-20.9%) に発生し、主に活動性低下でした (64.2%)。効果の大きさの降順に、独立した従来の相関関係は、既知の認知障害、慢性腎臓病、ASA ≥ III、脳卒中/TIA、高齢、不安、MoCA の低下、およびアルブミンの低下でした。看護に敏感なブロックを追加すると、全体の適合度はわずかに改善されましたが (LR 検定 p = 0.037)、識別利得は小さく (C 統計値 0.675 ～ 0.686; ΔAUC = +0.011)、IDI は有意ではありませんでした (IDI = +0.008、p = 0.384)。尿道カテーテル挿入は、唯一の独立した看護感受性相関関係であった（OR 1.49; 95% CI: 1.18-1.89; p = 0.0009）。 PACU せん妄は、病棟せん妄 (OR 3.26)、転倒 (OR 4.63)、自宅以外の退院 (OR 4.75)、および長期入院 (幾何平均比 1.46) を含むすべての二次転帰と関連しており、すべて p < 0.001 でした。\n結論: PACU せん妄は高齢患者の約 5 人に 1 人に影響を与え、主に活動性低下でした。看護に敏感なブロックは、統計的に検出可能ではあるが臨床的に限定された識別値を追加し、信号は尿道カテーテル挿入に集中しました。構造化された繰り返しの PACU せん妄スクリーニング（特に活動性低下症状に対する）と的を絞ったカテーテルの最小化は、実際的な看護の優先事項です。ベッドサイドでのリスクを予測する前に、外部検証が必要です。",
+    "detail_methods": "中国の5つの三次病院を対象としたこの前向きコホート研究では、待機的非心臓手術を受ける65歳以上の患者2,200人（持続的な深い鎮静を行った60人を除外した後）を対象に、リッチモンド興奮鎮静スケール（RASS）ゲートの集中治療室用反復混乱評価法（CAM-ICU）プロトコルを3つの時点で用いてPACUせん妄が評価された。 （入院後 10～20 分と 40～60 分、退院前）。事前に指定された 2 つの入れ子ロジスティック モデルを説明フレームワークで比較しました。モデル A (従来の臨床予測因子) とモデル B (モデル A に看護に敏感な 8 つの PACU 変数を加えたもの) です。完全な症例分析には 2,048 人の患者が含まれていました。モデルは、尤度比 (LR) 検定、C 統計、および統合識別改善 (IDI) を使用して比較されました。",
+    "detail_results": "PACUせん妄は患者2,200人中422人（19.2％、95％CI：17.6％～20.9％）に発生し、主に活動性低下（64.2％）であった。効果の大きさの降順に、独立した従来の相関関係は、既知の認知障害、慢性腎臓病、ASA ≥ III、脳卒中/TIA、高齢、不安、MoCA の低下、およびアルブミンの低下でした。看護に敏感なブロックを追加すると、全体の適合度はわずかに改善されましたが (LR 検定 p = 0.037)、識別利得は小さく (C 統計値 0.675 ～ 0.686; ΔAUC = +0.011)、IDI は有意ではありませんでした (IDI = +0.008、p = 0.384)。尿道カテーテル挿入は、唯一の独立した看護感受性相関関係であった（OR 1.49; 95% CI: 1.18-1.89; p = 0.0009）。 PACU せん妄は、病棟せん妄 (OR 3.26)、転倒 (OR 4.63)、自宅以外の退院 (OR 4.75)、および長期入院 (幾何平均比 1.46) を含むすべての二次転帰と関連しており、すべて p < 0.001 でした。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "2200 patients",
+        "source": "METHODS: In this prospective cohort study across five Chinese tertiary hospitals, 2200 patients aged 65 years or older undergoing elective major noncardiac surgery (after excluding 60 with persistent deep sedation) were assessed for PACU delirium using a Richmond Agitation-Sedation Scale (RASS)-gated, repeated Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) protocol at three timepoints (10-20 and 40-60 minutes after admission, and before discharge)."
+      },
+      {
+        "item": "対象数",
+        "value": "048 patients",
+        "source": "Complete-case analysis included 2,048 patients; models were compared using the likelihood ratio (LR) test, C-statistic, and integrated discrimination improvement (IDI)."
+      },
+      {
+        "item": "対象数",
+        "value": "200 patients",
+        "source": "METHODS: In this prospective cohort study across five Chinese tertiary hospitals, 2200 patients aged 65 years or older undergoing elective major noncardiac surgery (after excluding 60 with persistent deep sedation) were assessed for PACU delirium using a Richmond Agitation-Sedation Scale (RASS)-gated, repeated Confusion Assessment Method for the Intensive Care Unit (CAM-ICU) protocol at three timepoints (10-20 and 40-60 minutes after admission, and before discharge)."
+      },
+      {
+        "item": "割合",
+        "value": "19.2%",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "17.6%",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "20.9%",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "64.2%",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.037",
+        "source": "Adding the nursing-sensitive block modestly improved overall fit (LR test p = 0.037), but the discrimination gain was small (C-statistic 0.675 to 0.686; ∆AUC = +0.011) and the IDI was non-significant (IDI = +0.008, p = 0.384); urinary catheterization was the only independent nursing-sensitive correlate (OR 1.49; 95% CI: 1.18-1.89; p = 0.0009)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.384",
+        "source": "Adding the nursing-sensitive block modestly improved overall fit (LR test p = 0.037), but the discrimination gain was small (C-statistic 0.675 to 0.686; ∆AUC = +0.011) and the IDI was non-significant (IDI = +0.008, p = 0.384); urinary catheterization was the only independent nursing-sensitive correlate (OR 1.49; 95% CI: 1.18-1.89; p = 0.0009)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.0009",
+        "source": "Adding the nursing-sensitive block modestly improved overall fit (LR test p = 0.037), but the discrimination gain was small (C-statistic 0.675 to 0.686; ∆AUC = +0.011) and the IDI was non-significant (IDI = +0.008, p = 0.384); urinary catheterization was the only independent nursing-sensitive correlate (OR 1.49; 95% CI: 1.18-1.89; p = 0.0009)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "PACU delirium was associated with all secondary outcomes, including ward delirium (OR 3.26), falls (OR 4.63), non-home discharge (OR 4.75), and prolonged hospitalization (geometric mean ratio 1.46), all p < 0.001."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 17",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 1",
+        "source": "RESULTS: PACU delirium occurred in 422 of 2,200 patients (19.2%; 95% CI: 17.6%-20.9%) and was predominantly hypoactive (64.2%)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.49",
+        "source": "Adding the nursing-sensitive block modestly improved overall fit (LR test p = 0.037), but the discrimination gain was small (C-statistic 0.675 to 0.686; ∆AUC = +0.011) and the IDI was non-significant (IDI = +0.008, p = 0.384); urinary catheterization was the only independent nursing-sensitive correlate (OR 1.49; 95% CI: 1.18-1.89; p = 0.0009)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 3.26",
+        "source": "PACU delirium was associated with all secondary outcomes, including ward delirium (OR 3.26), falls (OR 4.63), non-home discharge (OR 4.75), and prolonged hospitalization (geometric mean ratio 1.46), all p < 0.001."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 4.63",
+        "source": "PACU delirium was associated with all secondary outcomes, including ward delirium (OR 3.26), falls (OR 4.63), non-home discharge (OR 4.75), and prolonged hospitalization (geometric mean ratio 1.46), all p < 0.001."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 4.75",
+        "source": "PACU delirium was associated with all secondary outcomes, including ward delirium (OR 3.26), falls (OR 4.63), non-home discharge (OR 4.75), and prolonged hospitalization (geometric mean ratio 1.46), all p < 0.001."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42614798/",
+    "doi_url": "https://doi.org/10.2147/CIA.S620414",
+    "created_at": "2026-08-19T21:59:49.442760+00:00"
+  },
+  {
+    "pmid": "42616690",
+    "doi": "10.1159/uin/aewag015",
+    "category": "カテーテル新技術",
+    "title_en": "Evaluation of Extended-Spectrum Beta-Lactamase Production and 28-Day Mortality Predictors in Urine Cultures of Hospitalized Elderly Patients.",
+    "title_ja": "入院中の高齢患者の尿培養における拡張スペクトルβ-ラクタマーゼ産生と28日死亡予測因子の評価。",
+    "authors": "Yilmaz Kerem, Büyükkörük Merve, Inan Akin Ögünç",
+    "journal": "Urologia internationalis",
+    "publication_date": "2026-08-19",
+    "entry_date": "2026-08-19",
+    "study_design": "コホート研究",
+    "purpose": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。方法：2025年1月1日から2026年1月1日までに入院した65歳以上の患者261人を対象に、相馬州立病院で後ろ向き観察研究が実施された。",
+    "methods": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。方法：2025年1月1日から2026年1月1日までに入院した65歳以上の患者261人を対象に、相馬州立病院で後ろ向き観察研究が実施された。結果：コホートの年齢中央値は81歳で、分離株の64.0％（n＝167）がESBL陽性であった。",
+    "results": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。結果: コホートの年齢中央値は 81 歳で、分離株の 64.0% (n = 167) が ESBL 陽性でした。全体で最も頻繁に分離された病原体は大腸菌（48.7%）であったが、ESBL陽性グループでは肺炎桿菌が最も多く見られた微生物（53.3%）であった。多変量解析により、尿道カテーテルの使用（aOR = 2.044、95% CI: 1.178-3.548、p = 0.011）および7日以上の入院期間（LOS）（aOR = 1.905、95% CI: 1.083-3.352、p = 0.025）がESBL陽性の独立した危険因子であることが特定されました。",
+    "conclusion": "結論：今回の調査結果は、尿道カテーテル治療と長期入院が、高齢者集団におけるESBL有病率の極めて重要な要因であることを浮き彫りにしている。さらに、高齢、カテーテルの使用、CRP レベルはそれぞれ死亡率に影響しており、耐性の発現を軽減し臨床転帰を改善するために侵襲的器具の使用をモニタリングする必要性が強調されています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "This study aimed to evaluate the associated factors for extended-spectrum beta-lactamase (ESBL) production in Enterobacterales isolated from urine cultures of hospitalized elderly patients and to identify independent predictors of ESBL positivity and 28-day mortality.  Methods: A retrospective observational study was conducted at Soma State Hospital involving 261 patients aged 65 years and older hospitalized between January 1, 2025 and January 1, 2026. Bacterial identification and antimicrobial susceptibility testing were performed using the VITEK 2 automated system in accordance with EUCAST guidelines. Risk factors for ESBL production and mortality were determined using multivariate logistic regression models.  Results: The median age of the cohort was 81 years, and 64.0% (n = 167) of the isolates were ESBL-positive. While Escherichia coli was the most frequently isolated pathogen overall (48.7%), Klebsiella pneumoniae was the most common organism in the ESBL-positive group (53.3%). Multivariate analysis identified urinary catheter use (aOR = 2.044, 95% CI: 1.178-3.548, p = 0.011) and length of stay (LOS) ≥ 7 days (aOR = 1.905, 95% CI: 1.083-3.352, p = 0.025) as independent risk factors for ESBL positivity. Independent predictors of 28-day mortality included age (aOR= 1.082, p < 0.001), urinary catheter use (aOR = 1.941, p = 0.023) and higher CRP levels (aOR = 1.035, p = 0.036). Notably, ESBL positivity was not significantly associated with mortality (p = 0.076). ESBL-positive isolates exhibited significantly higher resistance rates across nearly all tested antibiotic classes, including ciprofloxacin and trimethoprim-sulfamethoxazole.  Conclusion: The findings highlight that urinary catheterization and prolonged hospitalization are pivotal drivers of ESBL prevalence in the geriatric population. Furthermore, advanced age, catheter use, and CRP levels independently impact mortality, underscoring the necessity of monitoring invasive device use to mitigate resistance development and improve clinical outcomes.",
+    "abstract_ja": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。  方法：2025年1月1日から2026年1月1日までに入院した65歳以上の患者261人を対象に、相馬州立病院で後ろ向き観察研究が実施された。細菌の同定と抗菌薬感受性検査は、EUCASTガイドラインに従ってVITEK 2自動システムを使用して実施された。 ESBL の産生と死亡率の危険因子は、多変量ロジスティック回帰モデルを使用して決定されました。  結果: コホートの年齢中央値は 81 歳で、分離株の 64.0% (n = 167) が ESBL 陽性でした。全体で最も頻繁に分離された病原体は大腸菌（48.7%）であったが、ESBL陽性グループでは肺炎桿菌が最も多く見られた微生物（53.3%）であった。多変量解析により、尿道カテーテルの使用（aOR = 2.044、95% CI: 1.178-3.548、p = 0.011）および7日以上の入院期間（LOS）（aOR = 1.905、95% CI: 1.083-3.352、p = 0.025）がESBL陽性の独立した危険因子であることが特定されました。 28 日死亡率の独立した予測因子には、年齢 (aOR= 1.082、p < 0.001)、尿道カテーテルの使用 (aOR = 1.941、p = 0.023)、およびより高い CRP レベル (aOR = 1.035、p = 0.036) が含まれていました。注目すべきことに、ESBL陽性は死亡率と有意な関連がなかった(p = 0.076)。 ESBL 陽性分離株は、シプロフロキサシンやトリメトプリム スルファメトキサゾールを含む、試験したほぼすべての抗生物質クラスにわたって顕著に高い耐性率を示しました。  結論：今回の調査結果は、尿道カテーテル治療と長期入院が、高齢者集団におけるESBL有病率の極めて重要な要因であることを浮き彫りにしている。さらに、高齢、カテーテルの使用、CRP レベルはそれぞれ死亡率に影響しており、耐性の発現を軽減し臨床転帰を改善するために侵襲的器具の使用をモニタリングする必要性が強調されています。",
+    "detail_methods": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。方法：2025年1月1日から2026年1月1日までに入院した65歳以上の患者261人を対象に、相馬州立病院で後ろ向き観察研究が実施された。結果：コホートの年齢中央値は81歳で、分離株の64.0％（n＝167）がESBL陽性であった。",
+    "detail_results": "この研究は、入院している高齢患者の尿培養から分離された腸内細菌目における拡張スペクトルβラクタマーゼ（ESBL）産生の関連因子を評価し、ESBL陽性率と28日死亡率の独立した予測因子を同定することを目的とした。結果: コホートの年齢中央値は 81 歳で、分離株の 64.0% (n = 167) が ESBL 陽性でした。全体で最も頻繁に分離された病原体は大腸菌（48.7%）であったが、ESBL陽性グループでは肺炎桿菌が最も多く見られた微生物（53.3%）であった。多変量解析により、尿道カテーテルの使用（aOR = 2.044、95% CI: 1.178-3.548、p = 0.011）および7日以上の入院期間（LOS）（aOR = 1.905、95% CI: 1.083-3.352、p = 0.025）がESBL陽性の独立した危険因子であることが特定されました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "261 patients",
+        "source": "Methods: A retrospective observational study was conducted at Soma State Hospital involving 261 patients aged 65 years and older hospitalized between January 1, 2025 and January 1, 2026."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 167",
+        "source": "Results: The median age of the cohort was 81 years, and 64.0% (n = 167) of the isolates were ESBL-positive."
+      },
+      {
+        "item": "割合",
+        "value": "64.0%",
+        "source": "Results: The median age of the cohort was 81 years, and 64.0% (n = 167) of the isolates were ESBL-positive."
+      },
+      {
+        "item": "割合",
+        "value": "48.7%",
+        "source": "While Escherichia coli was the most frequently isolated pathogen overall (48.7%), Klebsiella pneumoniae was the most common organism in the ESBL-positive group (53.3%)."
+      },
+      {
+        "item": "割合",
+        "value": "53.3%",
+        "source": "While Escherichia coli was the most frequently isolated pathogen overall (48.7%), Klebsiella pneumoniae was the most common organism in the ESBL-positive group (53.3%)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Multivariate analysis identified urinary catheter use (aOR = 2.044, 95% CI: 1.178-3.548, p = 0.011) and length of stay (LOS) ≥ 7 days (aOR = 1.905, 95% CI: 1.083-3.352, p = 0.025) as independent risk factors for ESBL positivity."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.011",
+        "source": "Multivariate analysis identified urinary catheter use (aOR = 2.044, 95% CI: 1.178-3.548, p = 0.011) and length of stay (LOS) ≥ 7 days (aOR = 1.905, 95% CI: 1.083-3.352, p = 0.025) as independent risk factors for ESBL positivity."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.025",
+        "source": "Multivariate analysis identified urinary catheter use (aOR = 2.044, 95% CI: 1.178-3.548, p = 0.011) and length of stay (LOS) ≥ 7 days (aOR = 1.905, 95% CI: 1.083-3.352, p = 0.025) as independent risk factors for ESBL positivity."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "Independent predictors of 28-day mortality included age (aOR= 1.082, p < 0.001), urinary catheter use (aOR = 1.941, p = 0.023) and higher CRP levels (aOR = 1.035, p = 0.036)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.023",
+        "source": "Independent predictors of 28-day mortality included age (aOR= 1.082, p < 0.001), urinary catheter use (aOR = 1.941, p = 0.023) and higher CRP levels (aOR = 1.035, p = 0.036)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.036",
+        "source": "Independent predictors of 28-day mortality included age (aOR= 1.082, p < 0.001), urinary catheter use (aOR = 1.941, p = 0.023) and higher CRP levels (aOR = 1.035, p = 0.036)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.076",
+        "source": "Notably, ESBL positivity was not significantly associated with mortality (p = 0.076)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 1",
+        "source": "Multivariate analysis identified urinary catheter use (aOR = 2.044, 95% CI: 1.178-3.548, p = 0.011) and length of stay (LOS) ≥ 7 days (aOR = 1.905, 95% CI: 1.083-3.352, p = 0.025) as independent risk factors for ESBL positivity."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42616690/",
+    "doi_url": "https://doi.org/10.1159/uin/aewag015",
+    "created_at": "2026-08-19T21:59:58.326715+00:00"
+  },
+  {
+    "pmid": "42615125",
+    "doi": "10.1161/CIRCEP.126.014955",
+    "category": "カテーテル新技術",
+    "title_en": "Pulsed Field Ablation Therapy Parameters: Enhancing Lesion Depth While Reducing Musculoskeletal Stimulation and Thermal Response in an Irrigated Tip Catheter: A Comprehensive Study Using In Silico, In Vitro, and In Vivo Models.",
+    "title_ja": "パルスフィールドアブレーション療法パラメータ: 灌注チップカテーテルにおける筋骨格刺激と熱反応を軽減しながら病変深さを高める: インシリコ、インビトロ、およびインビボモデルを使用した包括的な研究。",
+    "authors": "Verma Atul, Barbhaiya Chirag, Friedman Daniel J, Piccini Jonathan P",
+    "journal": "Circulation. Arrhythmia and electrophysiology",
+    "publication_date": "2026-08-19",
+    "entry_date": "2026-08-19",
+    "study_design": "in vitro研究",
+    "purpose": "パルスフィールドアブレーション療法は、熱や筋骨格への刺激を軽減しながら、病変の深さを最大化するように最適化する必要があります。灌注チップカテーテルの二相パルスフィールドアブレーションパラメータの調整について説明します。",
+    "methods": "実験モデルはすべて、8F、柔軟な先端、灌注アブレーション カテーテルを使用しました。コンピューター シミュレーション モデルは、双極性アプリケーションと単極性アプリケーションの効果を評価するために設計されました。植物（ジャガイモ）モデルを使用して、電圧、パルス幅、およびバーストあたりのパルス数が病変の深さに及ぼす影響を評価しました。ウシ心筋の in vitro 試験は、温度上昇を測定するために、表面と表面下 3 mm および 7 mm に温度センサーを使用して実行されました。最後に、生体内イヌモデルを使用して、植物/インビトロ試験で確立されたパルスフィールドアブレーション療法によって引き起こされる筋骨格刺激を評価しました。",
+    "results": "単極送達は、双極構成よりも一貫してより深い組織深さに送達しました。 n から n+1.0 μs に調整し、バーストあたりのパルスを 50 から 250 に増加すると、病変の深さが増加しましたが、筋骨格への刺激も増加しました。最適化されたバースト数は、4 ～ 9 秒にわたる 5 回の R 波ゲート バーストでした。最適化された治療では、観察された深さは最小で 5 mm を超え、筋骨格への刺激も最小限に抑えられました。最終的に選択された治療法では温度上昇が生じましたが、これは 7 ～ 13 mL/min の洗浄速度によって完全に相殺されました。",
+    "conclusion": "パルス幅とバーストあたりのパルス数は、病変の深さ、筋骨格の刺激、および入射加熱に重要な影響を与えます。これらのパラメーターをわずかに調整するだけでも、病変の深さ、筋肉の刺激、熱効果が変化する可能性があり、それによって最適なパルスフィールド アブレーションと準最適なパルスフィールド アブレーションが区別されます。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Pulsed field ablation therapies need to be optimized to maximize lesion depth while mitigating heat and musculoskeletal stimulation. We describe the adjustment of biphasic pulsed field ablation parameters for an irrigated tip catheter.\nMETHODS: Experimental models all used an 8F, flexible-tip, irrigated ablation catheter. Computer simulation models were designed to assess the effects of bipolar versus monopolar applications. A vegetal (potato) model was used to assess the effects of voltage, pulse width, and number of pulses per burst on lesion depth. In-vitro testing on bovine cardiac muscle was performed with temperature sensors at the surface and 3 and 7 mm beneath the surface to measure temperature rises. Finally, an in vivo canine model was used to assess for musculoskeletal stimulation caused by the pulsed field ablation therapies established with the vegetal/in vitro testing.\nRESULTS: Monopolar delivery consistently delivered more tissue depth than bipolar configurations. Adjustments from n to n+1.0 µs and increasing pulses per burst from 50 to 250 increased lesion depth but also increased musculoskeletal stimulation. The optimized burst count was 5 R-wave-gated bursts over 4 to 9 seconds. The optimized therapy had a minimal observed depth of >5 mm and minimized musculoskeletal stimulation. Final selected therapies did create temperature rises, which were completely offset by irrigation rates of 7 to 13 mL/min.\nCONCLUSIONS: Pulse width and number of pulses per burst are important contributors to lesion depth, musculoskeletal stimulation, and incident heating. Even small adjustments in these parameters can alter lesion depth, muscle stimulation, and thermal effects, which will differentiate optimal from suboptimal pulsed field ablation.",
+    "abstract_ja": "背景: パルスフィールドアブレーション療法は、熱や筋骨格への刺激を軽減しながら病変の深さを最大化するように最適化する必要があります。灌注チップカテーテルの二相パルスフィールドアブレーションパラメータの調整について説明します。\n方法: 実験モデルはすべて、8F、柔軟な先端、灌注アブレーション カテーテルを使用しました。コンピューター シミュレーション モデルは、双極性アプリケーションと単極性アプリケーションの効果を評価するために設計されました。植物（ジャガイモ）モデルを使用して、電圧、パルス幅、およびバーストあたりのパルス数が病変の深さに及ぼす影響を評価しました。ウシ心筋の in vitro 試験は、温度上昇を測定するために、表面と表面下 3 mm および 7 mm に温度センサーを使用して実行されました。最後に、生体内イヌモデルを使用して、植物/インビトロ試験で確立されたパルスフィールドアブレーション療法によって引き起こされる筋骨格刺激を評価しました。\n結果: 単極送達は、双極構成よりも一貫してより深い組織深度に送達されました。 n から n+1.0 μs に調整し、バーストあたりのパルスを 50 から 250 に増加すると、病変の深さが増加しましたが、筋骨格への刺激も増加しました。最適化されたバースト数は、4 ～ 9 秒にわたる 5 回の R 波ゲート バーストでした。最適化された治療では、観察された深さは最小で 5 mm を超え、筋骨格への刺激も最小限に抑えられました。最終的に選択された治療法では温度上昇が生じましたが、これは 7 ～ 13 mL/min の洗浄速度によって完全に相殺されました。\n結論: パルス幅とバーストあたりのパルス数は、病変の深さ、筋骨格の刺激、および入射加熱に重要な影響を与えます。これらのパラメーターをわずかに調整するだけでも、病変の深さ、筋肉の刺激、熱効果が変化する可能性があり、それによって最適なパルスフィールド アブレーションと準最適なパルスフィールド アブレーションが区別されます。",
+    "detail_methods": "実験モデルはすべて、8F、柔軟な先端、灌注アブレーション カテーテルを使用しました。コンピューター シミュレーション モデルは、双極性アプリケーションと単極性アプリケーションの効果を評価するために設計されました。植物（ジャガイモ）モデルを使用して、電圧、パルス幅、およびバーストあたりのパルス数が病変の深さに及ぼす影響を評価しました。ウシ心筋の in vitro 試験は、温度上昇を測定するために、表面と表面下 3 mm および 7 mm に温度センサーを使用して実行されました。最後に、生体内イヌモデルを使用して、植物/インビトロ試験で確立されたパルスフィールドアブレーション療法によって引き起こされる筋骨格刺激を評価しました。",
+    "detail_results": "単極送達は、双極構成よりも一貫してより深い組織深さに送達しました。 n から n+1.0 μs に調整し、バーストあたりのパルスを 50 から 250 に増加すると、病変の深さが増加しましたが、筋骨格への刺激も増加しました。最適化されたバースト数は、4 ～ 9 秒にわたる 5 回の R 波ゲート バーストでした。最適化された治療では、観察された深さは最小で 5 mm を超え、筋骨格への刺激も最小限に抑えられました。最終的に選択された治療法では温度上昇が生じましたが、これは 7 ～ 13 mL/min の洗浄速度によって完全に相殺されました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42615125/",
+    "doi_url": "https://doi.org/10.1161/CIRCEP.126.014955",
+    "created_at": "2026-08-19T22:00:04.301214+00:00"
+  },
+  {
+    "pmid": "42613640",
+    "doi": "10.1186/s13287-026-05207-x",
+    "category": "カテーテル新技術",
+    "title_en": "Efficacy of multi-layered human iPS cell-derived cardiovascular cell sheets in a pacing-induced canine dilated cardiomyopathy model.",
+    "title_ja": "ペーシング誘発イヌ拡張型心筋症モデルにおけるヒトiPS細胞由来心血管細胞多層シートの有効性。",
+    "authors": "Shimoyama Yu, Kakuta Kenji, Araki Kiho, Komae Hyoe, Ono Minoru, Yamashita Jun K",
+    "journal": "Stem cell research & therapy",
+    "publication_date": "2026-08-19",
+    "entry_date": "2026-08-19",
+    "study_design": "動物実験",
+    "purpose": "拡張型心筋症 (DCM) は、心不全につながる進行性の難治性疾患です。心臓移植が唯一の治癒治療です。ただし、ドナー不足によりアクセスが制限されています。 DCM では人工多能性幹細胞 (iPSC) ベースの治療法が注目を集めていますが、適切な大型動物モデルや堅牢な前臨床データは限られています。",
+    "methods": "我々は、心筋細胞と内皮細胞および間質細胞を組み合わせ、挟み込まれたゼラチンハイドロゲルマイクロスフェアを使用して積層限界を克服することにより、ヒトiPS細胞から多層心血管細胞シートを生成し、より厚い心臓組織様構造体を生成しました（製品コード：IHJ-301）。非虚血性心不全における厳密な検査を可能にするために、導入後にわずかに低下した速度でペーシングを継続することにより、死亡することなく低下した機能を維持する改良型イヌ急速ペーシング心不全モデル（ステップダウンペーシング心不全モデル）を確立した。 IHJ-301 は、開胸術によって左心室表面に心外膜に移植され、心エコー検査および右心カテーテル検査によって心機能が評価されました。",
+    "results": "4 週間の急速ペーシング (230 ± 10 bpm) の後、左心室駆出率 (LVEF) は 77.8 ± 1.1% (ペーシング前) から 44.9 ± 1.9% (n = 11) (0 W) に減少しました。さらに 4 週間 210 ± 10 bpm でペーシングを継続したところ、死亡率はなく、機能低下が維持されました (4W LVEF 47.3 ± 2.6%)。 IHJ-301 は 0 W で移植されました。移植後 4 週間 (4 W) で、IHJ-301 グループのすべての動物 (n = 5) は偽 (n = 6) よりも優れた機能改善を示しました。 0 W から 4 W までの絶対変化は次のとおりです: ΔLVEF (%) 9.38 ± 1.47 対 1.90 ± 0.34。 Δ短縮率 (%) 4.84 ± 0.75 vs. 0.97 ± 0.18;一回拍出量 (mL/拍動) 1.21 ± 1.26 対 -2.99 ± 0.60;心拍出量 (L/分) 0.19 ± 0.19 対 -0.58 ± 0.12 (すべて p < 0.05)。",
+    "conclusion": "我々は、機能低下を 1 か月間持続する非虚血性大型動物心不全モデルを確立し、明確な治療上の読み出しを可能にしました。 IHJ-301 は心機能の複数のパラメーターを大幅に改善し、IHJ-301 が DCM に有望な治療選択肢を提供できる可能性があるという前臨床証拠を提供しました。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel"
+    ],
+    "abstract_en": "BACKGROUND: Dilated cardiomyopathy (DCM) is a progressive, intractable disease that leads to heart failure. Heart transplantation is the only curative treatment; however, access is limited by donor scarcity. Induced pluripotent stem cell (iPSC)-based therapies are attracting attention for DCM, but suitable large-animal models and robust preclinical data have been limited.\nMETHODS: We generated multi-layered cardiovascular cell sheets from human iPSCs by combining cardiomyocytes with endothelial and stromal cells and overcoming stacking limits using interleaved gelatin hydrogel microspheres, yielding a thicker cardiac tissue-like construct (product code: IHJ-301). To enable rigorous testing in non-ischemic heart failure, we established a modified canine rapid-pacing heart failure model that maintains depressed function without mortality by continuing pacing at a slightly reduced rate after induction (Step-Down Pacing Heart Failure model). IHJ-301 was implanted epicardially onto the left ventricular surface via thoracotomy, and cardiac function was assessed by echocardiography and right-heart catheterization.\nRESULTS: After 4 weeks of rapid pacing (230 ± 10 bpm), left ventricular ejection fraction (LVEF) was reduced from 77.8 ± 1.1% (pre-pacing) to 44.9 ± 1.9% (n = 11) (0 W). Continued pacing at 210 ± 10 bpm for additional 4 weeks resulted in no mortality and maintained depressed function (4 W LVEF 47.3 ± 2.6%). IHJ-301 was implanted at 0 W. At 4 weeks post-implantation (4 W), all animals in the IHJ-301 group (n = 5) showed greater functional improvement than sham (n = 6). Absolute changes from 0 W to 4 W were: ΔLVEF (%) 9.38 ± 1.47 vs. 1.90 ± 0.34; Δfractional shortening (%) 4.84 ± 0.75 vs. 0.97 ± 0.18; stroke volume (mL/beat) 1.21 ± 1.26 vs. -2.99 ± 0.60; cardiac output (L/min) 0.19 ± 0.19 vs. -0.58 ± 0.12 (all p < 0.05).\nCONCLUSIONS: We established a non-ischemic large-animal heart failure model that sustains depressed function for one month, enabling clear therapeutic readouts. IHJ-301 significantly improved multiple parameters of cardiac function, providing preclinical evidence that IHJ-301 could offer a promising therapeutic option for DCM.",
+    "abstract_ja": "背景: 拡張型心筋症 (DCM) は、心不全につながる進行性の難治性疾患です。心臓移植が唯一の治癒治療です。ただし、ドナー不足によりアクセスが制限されています。 DCM では人工多能性幹細胞 (iPSC) ベースの治療法が注目を集めていますが、適切な大型動物モデルや堅牢な前臨床データは限られています。\n方法：心筋細胞と内皮細胞および間質細胞を組み合わせ、挟み込まれたゼラチンヒドロゲルミクロスフェアを使用して積層限界を克服することにより、ヒトiPS細胞から多層心血管細胞シートを生成し、より厚い心臓組織様構造体を生成しました（製品コード：IHJ-301）。非虚血性心不全における厳密な検査を可能にするために、導入後にわずかに低下した速度でペーシングを継続することにより、死亡することなく低下した機能を維持する改良型イヌ急速ペーシング心不全モデル（ステップダウンペーシング心不全モデル）を確立した。 IHJ-301 は、開胸術によって左心室表面に心外膜に移植され、心エコー検査および右心カテーテル検査によって心機能が評価されました。\n結果：4週間の急速ペーシング（230 ± 10 bpm）の後、左心室駆出率（LVEF）は77.8 ± 1.1%（ペーシング前）から44.9 ± 1.9％（n = 11）（0W）に減少しました。さらに 4 週間 210 ± 10 bpm でペーシングを継続したところ、死亡率はなく、機能低下が維持されました (4W LVEF 47.3 ± 2.6%)。 IHJ-301 は 0 W で移植されました。移植後 4 週間 (4 W) で、IHJ-301 グループのすべての動物 (n = 5) は偽 (n = 6) よりも優れた機能改善を示しました。 0 W から 4 W までの絶対変化は次のとおりです: ΔLVEF (%) 9.38 ± 1.47 対 1.90 ± 0.34。 Δ短縮率 (%) 4.84 ± 0.75 vs. 0.97 ± 0.18;一回拍出量 (mL/拍動) 1.21 ± 1.26 対 -2.99 ± 0.60;心拍出量 (L/分) 0.19 ± 0.19 対 -0.58 ± 0.12 (すべて p < 0.05)。\n結論: 我々は、機能低下を 1 か月間維持し、明確な治療結果を可能にする非虚血性大型動物心不全モデルを確立しました。 IHJ-301 は心機能の複数のパラメーターを大幅に改善し、IHJ-301 が DCM に有望な治療選択肢を提供できる可能性があるという前臨床証拠を提供しました。",
+    "detail_methods": "我々は、心筋細胞と内皮細胞および間質細胞を組み合わせ、挟み込まれたゼラチンハイドロゲルマイクロスフェアを使用して積層限界を克服することにより、ヒトiPS細胞から多層心血管細胞シートを生成し、より厚い心臓組織様構造体を生成しました（製品コード：IHJ-301）。非虚血性心不全における厳密な検査を可能にするために、導入後にわずかに低下した速度でペーシングを継続することにより、死亡することなく低下した機能を維持する改良型イヌ急速ペーシング心不全モデル（ステップダウンペーシング心不全モデル）を確立した。 IHJ-301 は、開胸術によって左心室表面に心外膜に移植され、心エコー検査および右心カテーテル検査によって心機能が評価されました。",
+    "detail_results": "4 週間の急速ペーシング (230 ± 10 bpm) の後、左心室駆出率 (LVEF) は 77.8 ± 1.1% (ペーシング前) から 44.9 ± 1.9% (n = 11) (0 W) に減少しました。さらに 4 週間 210 ± 10 bpm でペーシングを継続したところ、死亡率はなく、機能低下が維持されました (4W LVEF 47.3 ± 2.6%)。 IHJ-301 は 0 W で移植されました。移植後 4 週間 (4 W) で、IHJ-301 グループのすべての動物 (n = 5) は偽 (n = 6) よりも優れた機能改善を示しました。 0 W から 4 W までの絶対変化は次のとおりです: ΔLVEF (%) 9.38 ± 1.47 対 1.90 ± 0.34。 Δ短縮率 (%) 4.84 ± 0.75 vs. 0.97 ± 0.18;一回拍出量 (mL/拍動) 1.21 ± 1.26 対 -2.99 ± 0.60;心拍出量 (L/分) 0.19 ± 0.19 対 -0.58 ± 0.12 (すべて p < 0.05)。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 11",
+        "source": "RESULTS: After 4 weeks of rapid pacing (230 ± 10 bpm), left ventricular ejection fraction (LVEF) was reduced from 77.8 ± 1.1% (pre-pacing) to 44.9 ± 1.9% (n = 11) (0 W)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 5",
+        "source": "At 4 weeks post-implantation (4 W), all animals in the IHJ-301 group (n = 5) showed greater functional improvement than sham (n = 6)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 6",
+        "source": "At 4 weeks post-implantation (4 W), all animals in the IHJ-301 group (n = 5) showed greater functional improvement than sham (n = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "1.1%",
+        "source": "RESULTS: After 4 weeks of rapid pacing (230 ± 10 bpm), left ventricular ejection fraction (LVEF) was reduced from 77.8 ± 1.1% (pre-pacing) to 44.9 ± 1.9% (n = 11) (0 W)."
+      },
+      {
+        "item": "割合",
+        "value": "1.9%",
+        "source": "RESULTS: After 4 weeks of rapid pacing (230 ± 10 bpm), left ventricular ejection fraction (LVEF) was reduced from 77.8 ± 1.1% (pre-pacing) to 44.9 ± 1.9% (n = 11) (0 W)."
+      },
+      {
+        "item": "割合",
+        "value": "2.6%",
+        "source": "Continued pacing at 210 ± 10 bpm for additional 4 weeks resulted in no mortality and maintained depressed function (4 W LVEF 47.3 ± 2.6%)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.05",
+        "source": "-0.58 ± 0.12 (all p < 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42613640/",
+    "doi_url": "https://doi.org/10.1186/s13287-026-05207-x",
+    "created_at": "2026-08-19T22:00:11.990609+00:00"
+  },
+  {
+    "pmid": "42614778",
+    "doi": "10.7759/cureus.114741",
+    "category": "カテーテル新技術",
+    "title_en": "Acute Paraplegia in the Emergency Department: Acute Leriche Syndrome as a Vascular Mimic of a Spinal Cord Emergency.",
+    "title_ja": "救急部門における急性対麻痺: 脊髄緊急事態の血管模倣としての急性ルリッシュ症候群。",
+    "authors": "Putra Rico W, Triyuliarto Dwiwardoyo, Abdul Yasir Fatah, Prastio Yuli",
+    "journal": "Cureus",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-19",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "患者はヘパリンの静脈内投与で治療され、その後カテーテルによる血栓溶解療法と大動脈ステントの留置が行われた。",
+    "results": "",
+    "conclusion": "この症例は、急性ルリッシュ症候群が急性対麻痺を呈し、脊髄の緊急事態を模倣する可能性があることを示しています。この論文は、タイムリーな診断と血行再建が神経学的転帰を改善する可能性があるため、非外傷性急性対麻痺の評価に血管評価を組み込むことが非常に重要であることを強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Acute paraplegia is a neurological emergency requiring prompt diagnosis to prevent irreversible neurological deficits and permanent disability. Although traumatic causes of acute paraplegia are well-characterized, non-traumatic acute paraplegia poses a diagnostic challenge because of its diverse etiologies. Leriche syndrome, also known as aortoiliac occlusive disease, typically presents with chronic lower-extremity claudication, diminished femoral pulses, and erectile dysfunction; however, it can rarely present with acute paraplegia and mimic a spinal cord emergency. We report the case of a 58-year-old woman with uncontrolled diabetes who presented to the emergency department with sudden-onset, non-traumatic flaccid paraplegia, accompanied by sensory loss below the level of L1 and urinary retention. Physical examination revealed cold bilateral lower extremities with absent bilateral femoral and distal pulses, raising suspicion for an acute vascular etiology. Computed tomography angiography revealed complete occlusion of the abdominal aorta and bilateral common iliac arteries at the L1-L2 level, consistent with acute Leriche syndrome. The patient was treated with intravenous heparin, followed by catheter-directed thrombolysis and aortic stent placement. Her motor function improved from 0/5 at admission to 3/5 at hospital discharge, with substantial neurological recovery during the three-month follow-up while undergoing physiotherapy. This case demonstrates that acute Leriche syndrome may present with acute paraplegia and mimic a spinal cord emergency. It highlights the critical importance of incorporating vascular assessment into the evaluation of non-traumatic acute paraplegia, as timely diagnosis and revascularization may improve neurological outcomes.",
+    "abstract_ja": "急性対麻痺は、不可逆的な神経障害や永久的な障害を防ぐために迅速な診断が必要な神経学的緊急事態です。急性対麻痺の外傷性原因はよく特徴付けられていますが、非外傷性急性対麻痺は病因が多様であるため診断が困難です。大動脈腸骨閉塞症としても知られるルリッシュ症候群は、通常、慢性的な下肢跛行、大腿部の脈拍の減少、勃起不全を伴います。ただし、まれに急性対麻痺を呈し、脊髄の緊急事態を模倣することがあります。我々は、L1 レベル以下の感覚喪失と尿閉を伴う、突然発症した非外傷性弛緩性対麻痺を患い、救急外来を受診したコントロール不良の糖尿病を患う 58 歳女性の症例を報告する。身体検査により、両側の下肢が冷たく、両側の大腿部および遠位部の脈拍が消失していることが判明し、急性血管性病因の疑いが生じました。コンピューター断層撮影血管造影により、急性ルリッシュ症候群と一致して、腹部大動脈および両側総腸骨動脈が L1 ～ L2 レベルで完全に閉塞していることが明らかになりました。患者はヘパリンの静脈内投与で治療され、その後カテーテルによる血栓溶解療法と大動脈ステントの留置が行われた。彼女の運動機能は入院時の 0/5 から退院時の 3/5 まで改善し、理学療法を受けている間の 3 か月の追跡調査中に神経学的に大幅な回復が見られました。この症例は、急性ルリッシュ症候群が急性対麻痺を呈し、脊髄の緊急事態を模倣する可能性があることを示しています。この論文は、タイムリーな診断と血行再建が神経学的転帰を改善する可能性があるため、非外傷性急性対麻痺の評価に血管評価を組み込むことが非常に重要であることを強調しています。",
+    "detail_methods": "患者はヘパリンの静脈内投与で治療され、その後カテーテルによる血栓溶解療法と大動脈ステントの留置が行われた。",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42614778/",
+    "doi_url": "https://doi.org/10.7759/cureus.114741",
+    "created_at": "2026-08-19T22:00:17.860821+00:00"
+  },
+  {
     "pmid": "42612015",
     "doi": "10.3791/71601",
     "category": "尿道カテーテル閉塞",
