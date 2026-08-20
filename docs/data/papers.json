@@ -1,5 +1,80 @@
 [
   {
+    "pmid": "42622246",
+    "doi": "10.1021/acssensors.6c02117",
+    "category": "尿路結石・メタボローム",
+    "title_en": "A Photoresponsive Azo-Functionalized 2,4-Dinitrophenylhydrazone Polymer for Selective Fluoride Sensing in Environmental and Biological Media.",
+    "title_ja": "環境および生物学的媒体中の選択的フッ素センシングのための光応答性アゾ官能化 2,4-ジニトロフェニルヒドラゾンポリマー。",
+    "authors": "Kumar Chandan, Rajwar Sangita, Das Shaunak, Bhattacharyya Debina, Jakhar Manoj, Sarma Jayasri Das, Shunmugam Raja",
+    "journal": "ACS sensors",
+    "publication_date": "2026-08-20",
+    "entry_date": "2026-08-20",
+    "study_design": "動物実験",
+    "purpose": "フッ化物 (F-) は歯の健康と骨粗鬆症の治療に重要な役割を果たします。しかし、過剰摂取は歯のフッ素症や尿石症などの重篤な疾患を引き起こす可能性があり、環境および生物学的システムにおける高感度のモニタリングが必要です。本明細書では、選択的フッ化物検出のためのモノマー構造とポリマー構造からなる光応答性アゾ-2,4-ジニトロフェニルヒドラゾン (AZO-DNP) プラットフォームを報告します。",
+    "methods": "",
+    "results": "特に、UV 照射 (370 nm、30 分) はモノマーをシスリッチでフッ素不活性なオフ状態に変換しますが、ポリ (AZO-DNP) はその剛直なポリマー主鎖により 95% 以上のトランス構造と完全なセンシング能力を保持します。これらの結果により、AZO-DNP は、環境および生物学的用途にわたるフッ化物センシングのための多用途の光応答性プラットフォームとして確立されます。",
+    "conclusion": "特に、UV 照射 (370 nm、30 分) はモノマーをシスリッチでフッ素不活性なオフ状態に変換しますが、ポリ (AZO-DNP) はその剛直なポリマー主鎖により 95% 以上のトランス構造と完全なセンシング能力を保持します。これらの結果により、AZO-DNP は、環境および生物学的用途にわたるフッ化物センシングのための多用途の光応答性プラットフォームとして確立されます。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis"
+    ],
+    "abstract_en": "Fluoride (F-) plays an essential role in dental health and osteoporosis treatment; however, excessive intake can lead to severe disorders, including dental fluorosis and urolithiasis, necessitating sensitive monitoring in environmental and biological systems. Herein, we report a photoresponsive azo-2,4-dinitrophenylhydrazone (AZO-DNP) platform comprising monomeric and polymeric architectures for selective fluoride detection. Both systems enable rapid naked-eye recognition through an intense yellow-to-purple color transition, accompanied by a pronounced bathochromic shift and ratiometric UV-vis response upon fluoride binding. The polymeric analog, Poly(AZO-DNP), was synthesized via CuAAC click functionalization followed by ring-opening metathesis polymerization of a norbornene precursor using Grubbs third-generation catalyst. The monomeric and polymeric probes exhibit ultralow detection limits of 21.37 and 31.81 nM, respectively, surpassing most reported colorimetric fluoride sensors. Mechanistic studies using 1H NMR confirm fluoride-induced NH deprotonation with HF formation, while density functional theory calculations reveal a reduced HOMO-LUMO energy gap (0.32 to 0.12 a.u.), consistent with enhanced intramolecular charge transfer. The polymeric probe shows low cytotoxicity toward A549 cells at working concentrations in MTT assays and enables intracellular ratiometric fluoride imaging. Immobilization on filter paper affords a portable test strip for on-site fluoride detection. Notably, UV irradiation (370 nm, 30 min) converts the monomer into a cis-rich, fluoride-inactive OFF state, whereas Poly(AZO-DNP) retains >95% trans configuration and full sensing capability due to its rigid polymer backbone. These results establish AZO-DNP as a versatile photoresponsive platform for fluoride sensing across environmental and biological applications.",
+    "abstract_ja": "フッ化物 (F-) は歯の健康と骨粗鬆症の治療に重要な役割を果たします。しかし、過剰摂取は歯のフッ素症や尿石症などの重篤な疾患を引き起こす可能性があり、環境および生物学的システムにおける高感度のモニタリングが必要です。本明細書では、選択的フッ化物検出のためのモノマー構造とポリマー構造からなる光応答性アゾ-2,4-ジニトロフェニルヒドラゾン (AZO-DNP) プラットフォームを報告します。どちらのシステムも、フッ化物結合時の顕著な深色シフトとレシオメトリックな UV-vis 応答を伴う、強烈な黄色から紫への色変化を通じて、迅速な肉眼認識を可能にします。ポリマー類似体である Poly(AZO-DNP) は、CuAAC クリック官能基化とそれに続く Grubbs 第三世代触媒を使用したノルボルネン前駆体の開環メタセシス重合によって合成されました。モノマープローブとポリマープローブは、それぞれ 21.37 nM と 31.81 nM という超低い検出限界を示し、ほとんどの報告されている比色フッ素センサーを上回っています。 1H NMRを使用した機構研究では、フッ化物によるHF生成を伴うNH脱プロトン化が確認され、密度汎関数理論の計算では、分子内電荷移動の強化と一致する、HOMO-LUMOエネルギーギャップの減少（0.32〜0.12 a.u.）が明らかになりました。このポリマープローブは、MTT アッセイの使用濃度で A549 細胞に対して低い細胞毒性を示し、細胞内レシオメトリックなフッ化物イメージングを可能にします。濾紙に固定化することで、現場でのフッ化物検出用の携帯用テストストリップが得られます。特に、UV 照射 (370 nm、30 分) はモノマーをシスリッチでフッ素不活性なオフ状態に変換しますが、ポリ (AZO-DNP) はその剛直なポリマー主鎖により 95% 以上のトランス構造と完全なセンシング能力を保持します。これらの結果により、AZO-DNP は、環境および生物学的用途にわたるフッ化物センシングのための多用途の光応答性プラットフォームとして確立されます。",
+    "detail_methods": "1H NMRを使用した機構研究では、フッ化物によるHF生成を伴うNH脱プロトン化が確認され、密度汎関数理論の計算では、分子内電荷移動の強化と一致する、HOMO-LUMOエネルギーギャップの減少（0.32〜0.12 a.u.）が明らかになりました。このポリマープローブは、MTT アッセイの使用濃度で A549 細胞に対して低い細胞毒性を示し、細胞内レシオメトリックなフッ化物イメージングを可能にします。",
+    "detail_results": "特に、UV 照射 (370 nm、30 分) はモノマーをシスリッチでフッ素不活性なオフ状態に変換しますが、ポリ (AZO-DNP) はその剛直なポリマー主鎖により 95% 以上のトランス構造と完全なセンシング能力を保持します。これらの結果により、AZO-DNP は、環境および生物学的用途にわたるフッ化物センシングのための多用途の光応答性プラットフォームとして確立されます。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Notably, UV irradiation (370 nm, 30 min) converts the monomer into a cis-rich, fluoride-inactive OFF state, whereas Poly(AZO-DNP) retains >95% trans configuration and full sensing capability due to its rigid polymer backbone."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42622246/",
+    "doi_url": "https://doi.org/10.1021/acssensors.6c02117",
+    "created_at": "2026-08-20T22:01:49.719269+00:00"
+  },
+  {
+    "pmid": "42621351",
+    "doi": "10.3389/fped.2026.1902619",
+    "category": "カテーテル新技術",
+    "title_en": "The applications, complications, and management of neonatal peripherally inserted central catheters (n-PICCs): a narrative review.",
+    "title_ja": "新生児末梢挿入中心カテーテル (n-PICC) の適用、合併症、管理: 解説レビュー。",
+    "authors": "Yang Lei, Fan Qiaoling, Fan Lingyan, Qiu Jiayu",
+    "journal": "Frontiers in pediatrics",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-20",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "新生児末梢挿入中心カテーテル (n-PICC) は、新生児集中治療で一般的に使用される血管アクセス デバイスですが、それに関連する合併症は患者の転帰に大きな影響を与えます。このナラティブレビューは、n-PICC の現状、主要な合併症と危険因子、および証拠に基づいた予防戦略を要約することを目的としています。",
+    "methods": "",
+    "results": "新生児末梢挿入中心カテーテル (n-PICC) は、新生児集中治療で一般的に使用される血管アクセス デバイスですが、それに関連する合併症は患者の転帰に大きな影響を与えます。この発見は、n-PICC 関連の合併症の発生率が 10% ～ 40% の範囲にあり、カテーテル関連の血流感染、血栓症、心タンポナーデ、および機械的故障を含むことを示しています。予防戦略の観点からは、超音波ガイド、腔内心電図検査、抗菌剤を含浸させたカテーテル、組織接着剤による固定、バンドルケア戦略などの介入は、観察研究や準実験研究において特定の合併症の減少に関連しているが、証拠の質にはばらつきがある一方、専門のバスキュラーアクセスチームと標準化されたトレーニングは、処置の質と患者の安全を確保するための重要な基盤として機能する。",
+    "conclusion": "技術的な最適化、材料の選択、標準化された手順、組織管理を、評価、挿入、メンテナンス、除去、モニタリングといったプロセス全体をカバーする包括的な安全システムに統合することは、合併症を軽減し、患者の安全を確保するための重要な道筋となります。将来の研究は、多施設共同ランダム化比較試験、リスク予測モデルの改善、インテリジェントなモニタリング技術の臨床応用と証拠に基づく実践の普及に焦点を当てる必要がある。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "The neonatal peripherally inserted central catheters (n-PICCs) is a commonly used vascular access device in neonatal intensive care, yet its associated complications significantly affect patient outcomes. This narrative review aims to summarize current status of n-PICCs, major complications and risk factors, and evidence-based preventive strategies. A literature search was conducted in PubMed, Web of Science, and Embase for articles published between January 2000 and February 2026, and relevant studies were synthesized and discussed. The findings demonstrate that the incidence of n-PICCs-related complications ranges from 10% to 40%, encompassing catheter-related bloodstream infection, thrombosis, cardiac tamponade, and mechanical failure. Key risk factors include low birth weight, small gestational age, prolonged catheter dwell time, malposition of the catheter tip, and improper insertion site selection. In terms of preventive strategies, interventions such as ultrasound guidance, intracavitary electrocardiography, antimicrobial-impregnated catheters, tissue adhesive securement, and bundle care strategies have been associated with reductions in specific complications in observational and quasi-experimental studies, although the evidence quality varies, while specialized vascular access teams and standardized training serve as important foundations for ensuring procedural quality and patient safety. Based on these findings, this review proposes that neonatal vascular access management should shift from single-intervention approaches toward system-based frameworks. Integrating technical optimization, material selection, standardized procedures, and organizational management into a comprehensive safety system covering the full process-assessment, insertion, maintenance, removal, and monitoring-represents a key pathway for reducing complications and ensuring patient safety. Future research should focus on multicenter randomized controlled trials, improving risk prediction models, and advancing the clinical application of intelligent monitoring technologies and evidence-based practice dissemination.",
+    "abstract_ja": "新生児末梢挿入中心カテーテル (n-PICC) は、新生児集中治療で一般的に使用される血管アクセス デバイスですが、それに関連する合併症は患者の転帰に大きな影響を与えます。このナラティブレビューは、n-PICC の現状、主要な合併症と危険因子、および証拠に基づいた予防戦略を要約することを目的としています。 2000 年 1 月から 2026 年 2 月までに発行された論文を対象に、PubMed、Web of Science、および Embase で文献検索が実施され、関連する研究が統合され、議論されました。この発見は、n-PICC 関連の合併症の発生率が 10% ～ 40% の範囲にあり、カテーテル関連の血流感染、血栓症、心タンポナーデ、および機械的故障を含むことを示しています。主な危険因子としては、低出生体重、在胎週数が小さい、カテーテル留置時間の延長、カテーテル先端の位置異常、挿入部位の不適切な選択などが挙げられます。予防戦略の観点からは、超音波ガイド、腔内心電図検査、抗菌剤を含浸させたカテーテル、組織接着剤による固定、バンドルケア戦略などの介入は、観察研究や準実験研究において特定の合併症の減少に関連しているが、証拠の質にはばらつきがある一方、専門のバスキュラーアクセスチームと標準化されたトレーニングは、処置の質と患者の安全を確保するための重要な基盤として機能する。これらの発見に基づいて、このレビューは新生児の血管アクセス管理が単一介入アプローチからシステムベースのフレームワークに移行する必要があることを提案しています。技術的な最適化、材料の選択、標準化された手順、組織管理を、評価、挿入、メンテナンス、除去、モニタリングといったプロセス全体をカバーする包括的な安全システムに統合することは、合併症を軽減し、患者の安全を確保するための重要な道筋となります。将来の研究は、多施設共同ランダム化比較試験、リスク予測モデルの改善、インテリジェントなモニタリング技術の臨床応用と証拠に基づく実践の普及に焦点を当てる必要がある。",
+    "detail_methods": "新生児末梢挿入中心カテーテル (n-PICC) は、新生児集中治療で一般的に使用される血管アクセス デバイスですが、それに関連する合併症は患者の転帰に大きな影響を与えます。予防戦略の観点からは、超音波ガイド、腔内心電図検査、抗菌剤を含浸させたカテーテル、組織接着剤による固定、バンドルケア戦略などの介入は、観察研究や準実験研究において特定の合併症の減少に関連しているが、証拠の質にはばらつきがある一方、専門のバスキュラーアクセスチームと標準化されたトレーニングは、処置の質と患者の安全を確保するための重要な基盤として機能する。技術的な最適化、材料の選択、標準化された手順、組織管理を、評価、挿入、メンテナンス、除去、モニタリングといったプロセス全体をカバーする包括的な安全システムに統合することは、合併症を軽減し、患者の安全を確保するための重要な道筋となります。",
+    "detail_results": "新生児末梢挿入中心カテーテル (n-PICC) は、新生児集中治療で一般的に使用される血管アクセス デバイスですが、それに関連する合併症は患者の転帰に大きな影響を与えます。この発見は、n-PICC 関連の合併症の発生率が 10% ～ 40% の範囲にあり、カテーテル関連の血流感染、血栓症、心タンポナーデ、および機械的故障を含むことを示しています。予防戦略の観点からは、超音波ガイド、腔内心電図検査、抗菌剤を含浸させたカテーテル、組織接着剤による固定、バンドルケア戦略などの介入は、観察研究や準実験研究において特定の合併症の減少に関連しているが、証拠の質にはばらつきがある一方、専門のバスキュラーアクセスチームと標準化されたトレーニングは、処置の質と患者の安全を確保するための重要な基盤として機能する。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "10%",
+        "source": "The findings demonstrate that the incidence of n-PICCs-related complications ranges from 10% to 40%, encompassing catheter-related bloodstream infection, thrombosis, cardiac tamponade, and mechanical failure."
+      },
+      {
+        "item": "割合",
+        "value": "40%",
+        "source": "The findings demonstrate that the incidence of n-PICCs-related complications ranges from 10% to 40%, encompassing catheter-related bloodstream infection, thrombosis, cardiac tamponade, and mechanical failure."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42621351/",
+    "doi_url": "https://doi.org/10.3389/fped.2026.1902619",
+    "created_at": "2026-08-20T22:01:56.534747+00:00"
+  },
+  {
     "pmid": "42614798",
     "doi": "10.2147/CIA.S620414",
     "category": "尿道カテーテル閉塞",
