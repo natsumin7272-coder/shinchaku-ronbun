@@ -1,5 +1,108 @@
 [
   {
+    "pmid": "42633184",
+    "doi": "10.1016/j.nmni.2026.101825",
+    "category": "カテーテル新技術",
+    "title_en": "Prevalence and molecular typing of carbapenem-resistant Enterobacterales in a secondary-care hospital in Jazan region, Saudi Arabia.",
+    "title_ja": "サウジアラビア、ジーザーン地域の二次医療病院におけるカルバペネム耐性腸内細菌の蔓延と分子型分類。",
+    "authors": "Alshafie Hanan, Tarannum Fathima, Ayyashi Mousa, Yaqoub Nawal, Hazazi Maryam, Masmali Sultan, Prasad Dommeti Durga, Babgi Halima",
+    "journal": "New microbes and new infections",
+    "publication_date": "2026-10-01",
+    "entry_date": "2026-08-23",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: The aim of this study was to estimate the prevalence of carbapenem-resistant Enterobacterales (CRE) and characterize the distribution of carbapenemase genes among Enterobacterales isolates in the medical microbiology laboratory of Prince Mohammed Bin Nasser Hospital, Jazan, Saudi Arabia.\nMETHODS: The current cross-sectional study was conducted in a secondary-care center in Jazan, Saudi Arabia, and included consecutive Enterobacterales isolates from clinical specimens of hospitalized patients from June 2023 to April 2024. Demographic data and clinically relevant information were retrieved from electronic medical records. The statistical analyses were performed using the software R and IBM SPSS Statistics.\nRESULTS: A total of 260 Enterobacterales isolates were studied; of these, 26 (10%) fulfilled the criteria for CRE. In the subpopulation of CRE, Klebsiella pneumoniae was the most common (81%), followed by Enterobacter cloacae complex (11%), Escherichia coli (4%), and Klebsiella oxytoca (4%). The most common resistant CRE gene was NDM (58%), followed by a combination of OXA48 and NDM (23%), and then OXA48 (19%). Statistically significant associations existed for admission to a critical care unit, the presence of a central line, and the use of a urinary catheter with the isolation of CRE.\nCONCLUSION: In this hospital-based cohort, CRE were commonly found among Enterobacterales isolates, mainly K. pneumoniae, and were predominantly driven by the NDM and OXA-48-type carbapenemases. Associations between CRE isolation and exposure to critical care and invasive devices suggest strengthened surveillance, device-related infection-prevention measures, and antimicrobial stewardship should be emphasized in this setting, with a focus on high-risk inpatients.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "10%",
+        "source": "RESULTS: A total of 260 Enterobacterales isolates were studied; of these, 26 (10%) fulfilled the criteria for CRE."
+      },
+      {
+        "item": "割合",
+        "value": "81%",
+        "source": "In the subpopulation of CRE, Klebsiella pneumoniae was the most common (81%), followed by Enterobacter cloacae complex (11%), Escherichia coli (4%), and Klebsiella oxytoca (4%)."
+      },
+      {
+        "item": "割合",
+        "value": "11%",
+        "source": "In the subpopulation of CRE, Klebsiella pneumoniae was the most common (81%), followed by Enterobacter cloacae complex (11%), Escherichia coli (4%), and Klebsiella oxytoca (4%)."
+      },
+      {
+        "item": "割合",
+        "value": "4%",
+        "source": "In the subpopulation of CRE, Klebsiella pneumoniae was the most common (81%), followed by Enterobacter cloacae complex (11%), Escherichia coli (4%), and Klebsiella oxytoca (4%)."
+      },
+      {
+        "item": "割合",
+        "value": "58%",
+        "source": "The most common resistant CRE gene was NDM (58%), followed by a combination of OXA48 and NDM (23%), and then OXA48 (19%)."
+      },
+      {
+        "item": "割合",
+        "value": "23%",
+        "source": "The most common resistant CRE gene was NDM (58%), followed by a combination of OXA48 and NDM (23%), and then OXA48 (19%)."
+      },
+      {
+        "item": "割合",
+        "value": "19%",
+        "source": "The most common resistant CRE gene was NDM (58%), followed by a combination of OXA48 and NDM (23%), and then OXA48 (19%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42633184/",
+    "doi_url": "https://doi.org/10.1016/j.nmni.2026.101825",
+    "created_at": "2026-08-23T21:54:23.650113+00:00"
+  },
+  {
+    "pmid": "42631754",
+    "doi": "10.1007/s10482-026-02410-x",
+    "category": "カテーテル新技術",
+    "title_en": "Prognostic factors and predictive modeling of in-hospital mortality among MDRO-positive inpatients: a retrospective cohort and GBD MICROBE study.",
+    "title_ja": "",
+    "authors": "Jiang Fan, Li Jian, Li Yahan, Yao Yaping, Liu Ke, Dai Wei, Du Hui",
+    "journal": "Antonie van Leeuwenhoek",
+    "publication_date": "2026-08-22",
+    "entry_date": "2026-08-22",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "多変量コックス回帰分析には厳密な統計基準 (99.5% CI、P < 0.005) が採用され、共変量は臨床証拠と保守的なスクリーニングに基づいて選択されました。全体および非手術コホートにおいて、院内死亡率に関連する最も一貫した内部検証された予後因子は、高齢および高い併存疾患/診断負担であった。",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Existing studies on prognostic prediction for multidrug-resistant organisms (MDROs) are limited by single-model designs, incomplete consideration of ward environmental observations, and insufficient linkage to national antimicrobial-resistance burden data. This single-center pilot study aimed to identify interpretable prognostic factors for in-hospital mortality among MDRO-positive inpatients, internally evaluate a prognostic model in the non-surgical cohort, describe bed-unit environmental bacterial isolates, and compare local MDRO-related observations with national resistance-burden data. This retrospective cohort study enrolled 1057 MDRO-positive inpatients from 2019 to 2023. The non-surgical cohort was split into 7:3 training and validation sets. Seven machine-learning and statistical models were assessed via fivefold cross-validation. Strict statistical criteria (99.5% CIs, P < 0.005) were adopted for multivariable Cox regression analysis, with covariates selected based on clinical evidence and conservative screening. Environmental monitoring covered 84 bed units across three departments, and GBD 2023 data were used for national burden comparison. Advanced age and higher comorbidity/diagnosis burden were the most consistent internally validated prognostic factors associated with in-hospital mortality in the overall and non-surgical cohorts. Cumulative antibiotic use and urethral catheterization variables lost significance after correction. The XGBoost Cox model achieved the best internal discrimination (training C-index = 0.814, validation C-index = 0.807), whereas conventional Cox regression offered better clinical interpretability. Environmental monitoring identified variation in colony counts and environmental bacterial-isolate detection across bed-unit sites, and local MDRO-related observations were compared descriptively with national high-burden pathogens. Age and comorbidity burden were the most consistent internally validated prognostic factors for in-hospital mortality among MDRO-positive inpatients. Because the cohort was defined by laboratory-recorded MDRO detection and clinical infection could not be independently confirmed for every patient, colonization and infection may have been mixed. The environmental and GBD analyses provide exploratory and surveillance context, respectively; multicenter external validation is required before clinical implementation.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "99.5%",
+        "source": "Strict statistical criteria (99.5% CIs, P < 0.005) were adopted for multivariable Cox regression analysis, with covariates selected based on clinical evidence and conservative screening."
+      },
+      {
+        "item": "P値",
+        "value": "P < 0.005",
+        "source": "Strict statistical criteria (99.5% CIs, P < 0.005) were adopted for multivariable Cox regression analysis, with covariates selected based on clinical evidence and conservative screening."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42631754/",
+    "doi_url": "https://doi.org/10.1007/s10482-026-02410-x",
+    "created_at": "2026-08-23T21:54:25.705799+00:00"
+  },
+  {
     "pmid": "42627240",
     "doi": "10.1002/advs.77319",
     "category": "カテーテル新技術",
