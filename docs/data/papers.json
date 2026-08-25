@@ -1,5 +1,123 @@
 [
   {
+    "pmid": "42640288",
+    "doi": "10.1007/s00240-026-02045-7",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Urinary volatilomics for biomarker discovery in kidney stone patients and healthy controls.",
+    "title_ja": "",
+    "authors": "Fuchsmann Pascal, Pertziger Eugenia, Meng Hélène Y, Miladinović Saša M, Bochud Murielle, Wagner Carsten A, Bonny Olivier, Vergères Guy",
+    "journal": "Urolithiasis",
+    "publication_date": "2026-08-25",
+    "entry_date": "2026-08-25",
+    "study_design": "症例対照研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Nephrolithiasis is a prevalent and recurrent condition with a rising incidence worldwide, largely attributed to modifiable lifestyle factors, including diet. Novel, non-invasive biomarkers are needed to improve early diagnosis, recurrence monitoring, and personalized prevention. This study aimed to identify urinary volatile organic compounds (VOCs) that differentiate healthy individuals from kidney stone formers and to explore their associations with fermented food intake. Using dynamic headspace Vacuum in-tube extraction gas chromatography-mass spectrometry (DHS-V-ITEX-GC-MS), 24-h urine samples were analyzed to identify potential volatile biomarkers related to kidney stone risk. This case-control study included 232 patients with recurrent kidney stone disease and 168 healthy controls enrolled in the Swiss Kidney Stone Cohort. Urine samples were analyzed using untargeted volatilomic profiling. Data were normalized, quality-filtered, and adjusted for relevant confounders, including study center, sex, age, body mass index, smoking status, and diabetes status. Uni- and multivariate statistical analyses were applied to identify discriminative features, followed by metabolite identification. Seventy-seven metabolites differed significantly between kidney stone formers and controls. Octane, 1,1'-oxybis- and 6-methyl-5-hepten-2-one were present at higher levels in controls, whereas acetic acid and propanoic acid were detected at higher levels in participants with kidney stones. Among these metabolites, three were associated with fermented food consumption, with 3-nonen-2-one emerging as a potential mediator of the association between coffee consumption and reduced kidney stone risk.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "232 patients",
+        "source": "This case-control study included 232 patients with recurrent kidney stone disease and 168 healthy controls enrolled in the Swiss Kidney Stone Cohort."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42640288/",
+    "doi_url": "https://doi.org/10.1007/s00240-026-02045-7",
+    "created_at": "2026-08-25T21:59:08.167976+00:00"
+  },
+  {
+    "pmid": "42640869",
+    "doi": "10.1159/uin/aewag016",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical Significance of Bladder Sensory Loss and Bladder Overdistension in Persistent Postpartum Urinary Retention.",
+    "title_ja": "",
+    "authors": "Güler Yavuz, Yenmez Mustafa Kemal",
+    "journal": "Urologia internationalis",
+    "publication_date": "2026-08-25",
+    "entry_date": "2026-08-25",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: To explore clinical and bladder-related factors associated with postpartum urinary retention (PUR), with particular emphasis on bladder sensation and bladder overdistension.\nMETHODS: This retrospective pilot cohort study included 30 women diagnosed with PUR following vaginal or cesarean delivery. PUR was defined as inability to void within 6 hours postpartum or elevated postvoid residual volume. Persistent PUR was defined as retention requiring catheterization beyond 7 days. Patients were classified into persistent and non-persistent groups. Clinical, obstetric, and bladder-related variables were compared. Multivariable logistic regression was performed in an exploratory manner to identify factors independently associated with persistent PUR.\nRESULTS: Persistent PUR was observed in 18 patients (60%). Patients with persistent PUR more frequently had epidural anesthesia, longer second stage of labor, and delayed time to first void (all p < 0.05).Absent bladder sensation was strongly associated with persistent PUR (89% vs. 8%, p < 0.001). Initial catheterization volume was significantly higher in the persistent group (median 1400 vs. 1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR. Catheterization volume demonstrated good discriminative ability (AUC ≈ 0.83) and was positively correlated with time to recovery (r = 0.63, p < 0.001), supporting its clinical relevance.\nCONCLUSION: Persistent PUR appears to be associated with impaired bladder sensation and bladder overdistension, supporting a combined neurogenic and myogenic pathophysiological mechanism. These findings highlight the importance of early postpartum bladder monitoring in preventing prolonged dysfunction.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "18 patients",
+        "source": "RESULTS: Persistent PUR was observed in 18 patients (60%)."
+      },
+      {
+        "item": "割合",
+        "value": "60%",
+        "source": "RESULTS: Persistent PUR was observed in 18 patients (60%)."
+      },
+      {
+        "item": "割合",
+        "value": "89%",
+        "source": "Patients with persistent PUR more frequently had epidural anesthesia, longer second stage of labor, and delayed time to first void (all p < 0.05).Absent bladder sensation was strongly associated with persistent PUR (89% vs."
+      },
+      {
+        "item": "割合",
+        "value": "8%",
+        "source": "8%, p < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.05",
+        "source": "Patients with persistent PUR more frequently had epidural anesthesia, longer second stage of labor, and delayed time to first void (all p < 0.05).Absent bladder sensation was strongly associated with persistent PUR (89% vs."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "8%, p < 0.001)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 5",
+        "source": "1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 2",
+        "source": "1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 32.5",
+        "source": "1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 8.4",
+        "source": "1000 mL, p < 0.001).In exploratory multivariable analysis, absent bladder sensation (OR 32.5, 95% CI 5.2-180.4) and catheterization volume >1200 mL (OR 8.4, 95% CI 2.1-33.7) were independently associated with persistent PUR."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42640869/",
+    "doi_url": "https://doi.org/10.1159/uin/aewag016",
+    "created_at": "2026-08-25T21:59:08.972174+00:00"
+  },
+  {
     "pmid": "42633184",
     "doi": "10.1016/j.nmni.2026.101825",
     "category": "カテーテル新技術",
