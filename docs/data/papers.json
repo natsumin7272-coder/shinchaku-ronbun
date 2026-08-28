@@ -1,5 +1,49 @@
 [
   {
+    "pmid": "42663903",
+    "doi": "10.1007/s10096-026-05635-w",
+    "category": "カテーテル新技術",
+    "title_en": "Risk factors for polymicrobial klebsiella pneumoniae bloodstream infection: a retrospective cohort study using the antimicrobial resistance monitoring database.",
+    "title_ja": "",
+    "authors": "Ge Huian, Su Jianhao, Xu Gaoxiang, Li Yanan, Xiao Zhikang, Yan Jiaqing, Peng Yigeng, Xu Jianzhong, Qiu Chen, Liu Ri",
+    "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+    "publication_date": "2026-08-28",
+    "entry_date": "2026-08-28",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Polymicrobial Klebsiella pneumoniae(KP) bloodstream infection is clinically important and may indicate greater healthcare intensity and antimicrobial resistance. We examined baseline characteristics, prior exposures, and independent risk factors for polymicrobial KP-BSI using a large real-world microbiology dataset.\nMETHODS: We performed a retrospective cohort study using the Antimicrobial Resistance Monitoring Database (ARMD). Patients with blood culture-confirmed KP and available resistance and admission-source data were included. The final cohort comprised 10,216 patients, classified as monomicrobial KP-BSI or polymicrobial KP-BSI. Demographic and clinical characteristics, prespecified time windows for prior antibiotic exposure and prior infection, and Area Deprivation Index (ADI) state rank were compared. Logistic regression was used to identify factors associated with polymicrobial KP-BSI.\nRESULTS: Among 10,216 patients, 1,999 (19.6%) had polymicrobial KP-BSI. Sex differed significantly between groups, whereas age distribution was similar. Polymicrobial infection was associated with a higher frequency of multidrug resistance (MDR) among index KP isolates, greater exposure to invasive care, higher prevalence of major comorbidities, more recent antibiotic exposure and prior infection, and higher ADI state rank. In multivariable analysis, sex, MDR status of the index KP isolate, mechanical ventilation, parenteral nutrition, urethral catheterization, metastatic malignancy, and ADI state rank were independently associated with polymicrobial KP-BSI, whereas mild liver disease was inversely associated. Escherichia coli was the most common copathogen identified in polymicrobial KP-BSI episodes (52%).\nCONCLUSIONS: Polymicrobial KP-BSI occurred in about one-fifth of KP bloodstream infection episodes and was independently associated with MDR status of the index KP isolate, intensive healthcare exposures, metastatic malignancy, and socioeconomic disadvantage.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "216 patients",
+        "source": "The final cohort comprised 10,216 patients, classified as monomicrobial KP-BSI or polymicrobial KP-BSI."
+      },
+      {
+        "item": "割合",
+        "value": "19.6%",
+        "source": "RESULTS: Among 10,216 patients, 1,999 (19.6%) had polymicrobial KP-BSI."
+      },
+      {
+        "item": "割合",
+        "value": "52%",
+        "source": "Escherichia coli was the most common copathogen identified in polymicrobial KP-BSI episodes (52%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42663903/",
+    "doi_url": "https://doi.org/10.1007/s10096-026-05635-w",
+    "created_at": "2026-08-28T22:00:32.283264+00:00"
+  },
+  {
     "pmid": "42652582",
     "doi": "10.3390/jcm15166178",
     "category": "尿道カテーテル閉塞",
@@ -304,6 +348,45 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42655234/",
     "doi_url": "https://doi.org/10.3390/polym18161952",
     "created_at": "2026-08-28T04:27:36.073958+00:00"
+  },
+  {
+    "pmid": "42659769",
+    "doi": "10.1016/j.ajem.2026.08.025",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "A tale of two catheters: STEMI in a patient presenting with acute urinary retention.",
+    "title_ja": "",
+    "authors": "Carter Michael, Morsy Mahmoud, Long Brit",
+    "journal": "The American journal of emergency medicine",
+    "publication_date": "2026-08-20",
+    "entry_date": "2026-08-27",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "ST-segment elevation myocardial infarction (STEMI) classically presents with chest pain, yet 10-13% of patients present without it, leading to delayed diagnosis and worse outcomes. We report a 59-year-old man with prostate cancer who presented to the emergency department (ED) via emergency medical services (EMS) with acute penile and suprapubic pain from urinary retention. He denied chest pain, dyspnea, and other cardiac symptoms throughout his encounter. A prehospital 12‑lead electrocardiogram (ECG) revealed ST-segment elevations in leads II, III, and aVF, prompting a STEMI alert. In the ED, bladder ultrasonography confirmed distention, and Foley catheter placement resolved his obstruction and pain. Despite complete symptom resolution, persistent ST elevation prompted emergent catheterization, which revealed 100% occlusion of the right coronary artery (RCA). This case illustrates painless STEMI, the diagnostic value of prehospital ECG in patients with non-cardiac complaints, and the principle that persistent objective evidence of ischemia must not be dismissed when an alternative pain source is treated.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "13%",
+        "source": "ST-segment elevation myocardial infarction (STEMI) classically presents with chest pain, yet 10-13% of patients present without it, leading to delayed diagnosis and worse outcomes."
+      },
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "Despite complete symptom resolution, persistent ST elevation prompted emergent catheterization, which revealed 100% occlusion of the right coronary artery (RCA)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42659769/",
+    "doi_url": "https://doi.org/10.1016/j.ajem.2026.08.025",
+    "created_at": "2026-08-28T22:00:31.457885+00:00"
   },
   {
     "pmid": "42643895",
