@@ -1,5 +1,174 @@
 [
   {
+    "pmid": "42666033",
+    "doi": "10.1002/advs.77289",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Gut Microbiota-Isoallolithocholic Acid Crosstalk Promotes Calcium Oxalate Kidney Stone Formation via PARP1-Mediated Parthanatos.",
+    "title_ja": "腸内細菌叢とイソアロリトコール酸のクロストークは、PARP1 媒介パルタナトスを介してシュウ酸カルシウム腎臓結石の形成を促進します。",
+    "authors": "Zhou Zijian, Yu Ruixi, Zhou Xuan, Shi Feng, Lin Zeyu, Gao Peng, Wang Lujia, Feng Ninghan, Wu Zhong, Wang Dawei",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "publication_date": "2026-08-28",
+    "entry_date": "2026-08-29",
+    "study_design": "in vitro研究",
+    "purpose": "胆汁酸はシュウ酸カルシウム（CaOx）腎結石症に関与していると考えられています。今回我々は、マルチオミックスアプローチを用いて、CaOxラットの糞便、血清、腎臓、尿中に上昇する重要な胆汁酸としてイソアロリトコール酸（isoalloLCA）を同定し、空間メタボロミクスによって確認した。",
+    "methods": "16S 配列決定およびメタゲノム解析により、CaOx ラットまたは個体におけるイソアロLCA レベルの上昇は微生物起源である可能性が高いことが示されています。機構的には、イソアロLCAは、表面プラズモン共鳴および細胞サーマルシフトアッセイによって検証された特異的な分子相互作用を介してPARP1に結合します。",
+    "results": "アデノ随伴ウイルス微量注入またはPARP1阻害剤AZD5305による薬理学的阻害によるPARP1のノックダウンは、CaOxラットモデルとマウスモデルの両方において、イソアロLCA媒介結晶沈着、尿細管損傷、およびミトコンドリア機能障害を有意に軽減します。",
+    "conclusion": "インビトロで、イソアロLCAは、DNA損傷、過剰なPARP1活性化、PAR蓄積、ミトコンドリア損傷、AIFおよびMIFの核移行を含む、シュウ酸誘導性の尿細管上皮細胞損傷およびパルタナトを、PARP1を標的として促進した。これらの発見は、CaOx腎結石症における微生物叢-イソアロLCA-PARP1-パルタナトスの軸を確立し、PARP1が腎結石管理の有望な治療標的であることを特定する。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota、metabolomics」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "microbiota",
+      "metabolomics"
+    ],
+    "abstract_en": "Bile acids have been implicated in calcium oxalate (CaOx) nephrolithiasis. Here, we employ multi-omics approaches to identify isoallolithocholic acid (isoalloLCA) as the key bile acid elevated in the feces, serum, kidney, and urine of CaOx rats, confirmed by spatial metabolomics. 16S sequencing and metagenomic analyses indicate that elevated isoalloLCA levels in CaOx rats or individuals are likely of microbial origin. Mechanistically, isoalloLCA binds to PARP1 via specific molecular interactions validated by surface plasmon resonance and cellular thermal shift assays. Knockdown of PARP1 by adeno-associated virus microinjection or pharmacological inhibition with PARP1 inhibitor AZD5305 significantly attenuates isoalloLCA-mediated crystal deposition, renal tubular injury, and mitochondrial functional impairment in both the CaOx rat and mouse models. Furthermore, the antibiotic-mediated depletion of the gut microbiota in mice markedly reduced isoalloLCA levels, whereas fecal microbiota transplantationut contributes to isoalloLCA-mediated CaOx stone formation, demonstrating a causal link between gut microbiota and isoalloLCA. In vitro, isoalloLCA promoted oxalate-induced renal tubular epithelial cell injury and parthanatos via targeting PARP1, including DNA damage, excessive PARP1 activation, PAR accumulation, mitochondrial damage, nuclear translocation of AIF and MIF. These findings establish the microbiota-isoalloLCA-PARP1-parthanatos axis in CaOx nephrolithiasis and identify PARP1 as a promising therapeutic target for kidney stone management.",
+    "abstract_ja": "胆汁酸はシュウ酸カルシウム（CaOx）腎結石症に関与していると考えられています。今回我々は、マルチオミックスアプローチを用いて、CaOxラットの糞便、血清、腎臓、尿中に上昇する重要な胆汁酸としてイソアロリトコール酸（isoalloLCA）を同定し、空間メタボロミクスによって確認した。 16S 配列決定およびメタゲノム解析により、CaOx ラットまたは個体におけるイソアロLCA レベルの上昇は微生物起源である可能性が高いことが示されています。機構的には、イソアロLCAは、表面プラズモン共鳴および細胞サーマルシフトアッセイによって検証された特異的な分子相互作用を介してPARP1に結合します。アデノ随伴ウイルス微量注入またはPARP1阻害剤AZD5305による薬理学的阻害によるPARP1のノックダウンは、CaOxラットモデルとマウスモデルの両方において、イソアロLCA媒介結晶沈着、尿細管損傷、およびミトコンドリア機能障害を有意に軽減します。さらに、抗生物質を介したマウスの腸内細菌叢の枯渇はイソアロLCAレベルを著しく低下させたが、糞便微生物叢の移植はイソアロLCAを介したCaOx結石形成に寄与しており、腸内細菌叢とイソアロLCAとの因果関係が実証されている。インビトロで、イソアロLCAは、DNA損傷、過剰なPARP1活性化、PAR蓄積、ミトコンドリア損傷、AIFおよびMIFの核移行を含む、シュウ酸誘導性の尿細管上皮細胞損傷およびパルタナトを、PARP1を標的として促進した。これらの発見は、CaOx腎結石症における微生物叢-イソアロLCA-PARP1-パルタナトスの軸を確立し、PARP1が腎結石管理の有望な治療標的であることを特定する。",
+    "detail_methods": "16S 配列決定およびメタゲノム解析により、CaOx ラットまたは個体におけるイソアロLCA レベルの上昇は微生物起源である可能性が高いことが示されています。機構的には、イソアロLCAは、表面プラズモン共鳴および細胞サーマルシフトアッセイによって検証された特異的な分子相互作用を介してPARP1に結合します。",
+    "detail_results": "アデノ随伴ウイルス微量注入またはPARP1阻害剤AZD5305による薬理学的阻害によるPARP1のノックダウンは、CaOxラットモデルとマウスモデルの両方において、イソアロLCA媒介結晶沈着、尿細管損傷、およびミトコンドリア機能障害を有意に軽減します。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666033/",
+    "doi_url": "https://doi.org/10.1002/advs.77289",
+    "created_at": "2026-08-29T21:18:20.559316+00:00"
+  },
+  {
+    "pmid": "42666921",
+    "doi": "10.1155/ijm/1281458",
+    "category": "カテーテル新技術",
+    "title_en": "Characterization and Therapeutic Potential of a Novel Bacteriophage Targeting Methicillin-Resistant Staphylococcus aureus Biofilms on Medical Devices.",
+    "title_ja": "医療機器上のメチシリン耐性黄色ブドウ球菌バイオフィルムを標的とする新規バクテリオファージの特性評価と治療の可能性。",
+    "authors": "Niloy Raphael Kabir, Mondal Shakhinur Islam, Jewel Nurnabi Azad, Zaeem Istiaque, Mahin Mohiminur Rahman, Karim Daniyal, Rolin Mohimenul Haque, Khan Tahsin, Jubair Mohammad, Rahman Mustafizur, Akter Arzuba",
+    "journal": "International journal of microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-29",
+    "study_design": "in vitro研究",
+    "purpose": "メチシリン耐性黄色ブドウ球菌 (MRSA) は、特に従来の抗生物質の効果が限られている留置医療機器における多剤耐性およびバイオフィルム関連感染の主な原因です。この研究では、バングラデシュの病院廃水からMRSAを標的とする新規溶解性バクテリオファージSA_SGEB_01を単離し、特徴付けました。",
+    "methods": "この研究では、バングラデシュの病院廃水からMRSAを標的とする新規溶解性バクテリオファージSA_SGEB_01を単離し、特徴付けました。宿主範囲分析により、MRSA およびメチシリン耐性ブドウ球菌に対する溶解活性が明らかになりました。全ゲノム配列決定の結果、SA_SGEB_01 には 18,031 bp の直鎖状二本鎖 DNA ゲノムが含まれており、溶原性関連遺伝子、抗生物質耐性遺伝子、病原性遺伝子は検出されず、その治療的適合性が裏付けられました。",
+    "results": "メチシリン耐性黄色ブドウ球菌 (MRSA) は、特に従来の抗生物質の効果が限られている留置医療機器における多剤耐性およびバイオフィルム関連感染の主な原因です。全ゲノム配列決定の結果、SA_SGEB_01 には 18,031 bp の直鎖状二本鎖 DNA ゲノムが含まれており、溶原性関連遺伝子、抗生物質耐性遺伝子、病原性遺伝子は検出されず、その治療的適合性が裏付けられました。重要なことに、SA_SGEB_01 は、24 時間後と 48 時間後の MRSA バイオフィルムの両方でバイオフィルム バイオマスを大幅に減少させ、in vitro シリコーン カテーテル関連バイオフィルムの生細胞の約 2-log10 の減少を達成しましたが、バンコマイシンは同じ実験条件下で統計的に有意な減少を生じませんでした。バングラデシュ産の黄色ブドウ球菌ファージは、MDR MRSA バイオフィルムに対する活性が実証されており、機器関連の MRSA 感染を制御するための有望な候補としての可能性を強調しています。",
+    "conclusion": "私たちの知る限り、これはMDR MRSAバイオフィルムに対する活性が証明されたバングラデシュ産の最初の生物学的およびゲノム学的特徴付けられた黄色ブドウ球菌ファージであり、機器関連MRSA感染を制御するための有望な候補としての可能性を強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Methicillin-resistant Staphylococcus aureus (MRSA) is a major cause of multidrug-resistant and biofilm-associated infections, particularly on indwelling medical devices, where conventional antibiotics often exhibit limited efficacy. In this study, we isolated and characterized a novel lytic bacteriophage, SA_SGEB_01, targeting MRSA from hospital wastewater in Bangladesh. Biological characterization demonstrated that SA_SGEB_01 possesses favorable therapeutic properties, including a short latent period (~45 min), a burst size of approximately 91 plaque-forming units per infected cell, and stability across a broad pH range (3-11) and temperatures up to 45°C. Host range analysis revealed lytic activity against MRSA and methicillin-resistant Staphylococcus saprophyticus. Whole-genome sequencing showed that SA_SGEB_01 contains a linear double-stranded DNA genome of 18,031 bp with no detectable lysogeny-associated, antibiotic resistance, or virulence genes, supporting its therapeutic suitability. Comparative genomic and phylogenetic analyses classified the phage within the genus Rosenblumvirus of the family Rountreeviridae. Phage-antibiotic checkerboard assays demonstrated strong synergistic activity between SA_SGEB_01 and ciprofloxacin, with fractional inhibitory concentration index values below 0.5. Importantly, SA_SGEB_01 significantly reduced biofilm biomass in both 24- and 48-h-old MRSA biofilms and achieved approximately a 2-log10 reduction of viable cells in in vitro silicone catheter-associated biofilms, whereas vancomycin did not produce a statistically significant reduction under the same experimental conditions. To our knowledge, this is the first biologically and genomically characterized S. aureus phage from Bangladesh with demonstrated activity against MDR MRSA biofilms, highlighting its potential as a promising candidate for controlling device-associated MRSA infections.",
+    "abstract_ja": "メチシリン耐性黄色ブドウ球菌 (MRSA) は、特に従来の抗生物質の効果が限られている留置医療機器における多剤耐性およびバイオフィルム関連感染の主な原因です。この研究では、バングラデシュの病院廃水からMRSAを標的とする新規溶解性バクテリオファージSA_SGEB_01を単離し、特徴付けました。生物学的特性評価により、SA_SGEB_01 は短い潜伏期間 (約 45 分)、感染細胞あたり約 91 プラーク形成単位のバースト サイズ、広い pH 範囲 (3 ～ 11) および最大 45°C の温度にわたる安定性など、好ましい治療特性を備えていることが実証されました。宿主範囲分析により、MRSA およびメチシリン耐性ブドウ球菌に対する溶解活性が明らかになりました。全ゲノム配列決定の結果、SA_SGEB_01 には 18,031 bp の直鎖状二本鎖 DNA ゲノムが含まれており、溶原性関連遺伝子、抗生物質耐性遺伝子、病原性遺伝子は検出されず、その治療的適合性が裏付けられました。比較ゲノムおよび系統解析により、ファージはラウンドツリーウイルス科のローゼンブラムウイルス属に分類されました。ファージ抗生物質チェッカーボードアッセイでは、SA_SGEB_01 とシプロフロキサシンの間の強力な相乗活性が実証され、分数阻害濃度指数値は 0.5 未満でした。重要なことに、SA_SGEB_01 は、24 時間後と 48 時間後の MRSA バイオフィルムの両方でバイオフィルム バイオマスを大幅に減少させ、in vitro シリコーン カテーテル関連バイオフィルムの生細胞の約 2-log10 の減少を達成しましたが、バンコマイシンは同じ実験条件下で統計的に有意な減少を生じませんでした。私たちの知る限り、これはMDR MRSAバイオフィルムに対する活性が証明されたバングラデシュ産の最初の生物学的およびゲノム学的特徴付けられた黄色ブドウ球菌ファージであり、機器関連MRSA感染を制御するための有望な候補としての可能性を強調しています。",
+    "detail_methods": "この研究では、バングラデシュの病院廃水からMRSAを標的とする新規溶解性バクテリオファージSA_SGEB_01を単離し、特徴付けました。宿主範囲分析により、MRSA およびメチシリン耐性ブドウ球菌に対する溶解活性が明らかになりました。全ゲノム配列決定の結果、SA_SGEB_01 には 18,031 bp の直鎖状二本鎖 DNA ゲノムが含まれており、溶原性関連遺伝子、抗生物質耐性遺伝子、病原性遺伝子は検出されず、その治療的適合性が裏付けられました。",
+    "detail_results": "メチシリン耐性黄色ブドウ球菌 (MRSA) は、特に従来の抗生物質の効果が限られている留置医療機器における多剤耐性およびバイオフィルム関連感染の主な原因です。全ゲノム配列決定の結果、SA_SGEB_01 には 18,031 bp の直鎖状二本鎖 DNA ゲノムが含まれており、溶原性関連遺伝子、抗生物質耐性遺伝子、病原性遺伝子は検出されず、その治療的適合性が裏付けられました。重要なことに、SA_SGEB_01 は、24 時間後と 48 時間後の MRSA バイオフィルムの両方でバイオフィルム バイオマスを大幅に減少させ、in vitro シリコーン カテーテル関連バイオフィルムの生細胞の約 2-log10 の減少を達成しましたが、バンコマイシンは同じ実験条件下で統計的に有意な減少を生じませんでした。バングラデシュ産の黄色ブドウ球菌ファージは、MDR MRSA バイオフィルムに対する活性が実証されており、機器関連の MRSA 感染を制御するための有望な候補としての可能性を強調しています。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666921/",
+    "doi_url": "https://doi.org/10.1155/ijm/1281458",
+    "created_at": "2026-08-29T21:18:28.607698+00:00"
+  },
+  {
+    "pmid": "42666860",
+    "doi": "10.7759/cureus.113612",
+    "category": "カテーテル新技術",
+    "title_en": "Human Cellulosimicrobium Infections: A Clinically Oriented Review of Diagnostic and Therapeutic Challenges.",
+    "title_ja": "ヒトセルロースミクロビウム感染症: 診断および治療上の課題に関する臨床志向のレビュー。",
+    "authors": "Benaissa Elmostafa, Hnach Najwa, Ben Lahlou Yassine, Chadli Mariama",
+    "journal": "Cureus",
+    "publication_date": "2026-07-01",
+    "entry_date": "2026-08-29",
+    "study_design": "in vitro研究",
+    "purpose": "以前はエルスコビア属に分類されていたセルロシミミクロビウム種は、環境中のグラム陽性糸状桿菌であり、人体への感染を引き起こすことはほとんどありません。コリネ型グラム陽性桿菌は日常的な培養においては汚染物質として解釈されることが多いため、それらの臨床的重要性は過小評価されている可能性があります。",
+    "methods": "報告されている症例は、免疫抑制、悪性腫瘍、腎代替療法、人工心臓弁、中心静脈カテーテル、またはその他の異物を患っている患者によく発生します。診断の確定には、通常、繰り返される陽性培養の慎重な解釈、無菌部位からの分離、およびマトリックス支援レーザー脱離イオン化飛行時間型質量分析法または利用可能な場合は 16S リボソームリボ核酸遺伝子配列決定を使用した信頼性の高い同定が必要です。",
+    "results": "ヒトの感染症に関する出版物は症例報告と小規模な症例シリーズが大半を占めており、そのほとんどは血流感染、感染性心内膜炎、骨関節感染、腹膜透析関連腹膜炎、および眼内炎に関連しています。",
+    "conclusion": "治療上の証拠は依然として限られているが、バンコマイシンおよびトリメトプリム・スルファメトキサゾールは一般に in vitro 活性を保持しているのに対し、β-ラクタムおよびクリンダマイシンに対する耐性が報告されている。管理は、可能な場合は常に、種レベルの識別、感受性検査、適切な抗菌療法、および感染源管理を組み合わせて行う必要があります。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Cellulosimicrobium species, formerly classified within the genus Oerskovia, are environmental Gram-positive filamentous bacilli that rarely cause human infection. Their clinical significance may be underestimated because coryneform Gram-positive rods are frequently interpreted as contaminants in routine cultures. Publications on human infections are dominated by case reports and small case series, most often involving bloodstream infection, infective endocarditis, osteoarticular infection, peritoneal dialysis-associated peritonitis, and endophthalmitis. Reported cases commonly occur in patients with immunosuppression, malignancy, renal replacement therapy, prosthetic cardiac valves, central venous catheters, or other foreign material. Cellulosimicrobium cellulans and its former name Oerskovia xanthineolytica account for most described infections. Diagnostic confirmation usually requires careful interpretation of repeated positive cultures, isolation from sterile sites, and reliable identification using matrix-assisted laser desorption ionization-time-of-flight mass spectrometry or 16S ribosomal ribonucleic acid gene sequencing when available. Therapeutic evidence remains limited, but vancomycin and trimethoprim-sulfamethoxazole generally retain in vitro activity, whereas resistance to beta-lactams and clindamycin has been reported. Management should combine species-level identification, susceptibility testing, appropriate antimicrobial therapy, and source control, including removal of infected devices whenever feasible.",
+    "abstract_ja": "以前はエルスコビア属に分類されていたセルロシミミクロビウム種は、環境中のグラム陽性糸状桿菌であり、人体への感染を引き起こすことはほとんどありません。コリネ型グラム陽性桿菌は日常的な培養においては汚染物質として解釈されることが多いため、それらの臨床的重要性は過小評価されている可能性があります。ヒトの感染症に関する出版物は症例報告と小規模な症例シリーズが大半を占めており、そのほとんどは血流感染、感染性心内膜炎、骨関節感染、腹膜透析関連腹膜炎、および眼内炎に関連しています。報告されている症例は、免疫抑制、悪性腫瘍、腎代替療法、人工心臓弁、中心静脈カテーテル、またはその他の異物を患っている患者によく発生します。 Cellulosimicrobium cellulans とその旧名 Oerskovia xanthineolytica が、報告されている感染症のほとんどを占めています。診断の確定には、通常、繰り返される陽性培養の慎重な解釈、無菌部位からの分離、およびマトリックス支援レーザー脱離イオン化飛行時間型質量分析法または利用可能な場合は 16S リボソームリボ核酸遺伝子配列決定を使用した信頼性の高い同定が必要です。治療上の証拠は依然として限られているが、バンコマイシンおよびトリメトプリム・スルファメトキサゾールは一般に in vitro 活性を保持しているのに対し、β-ラクタムおよびクリンダマイシンに対する耐性が報告されている。管理は、可能な場合は常に、種レベルの識別、感受性検査、適切な抗菌療法、および感染源管理を組み合わせて行う必要があります。",
+    "detail_methods": "報告されている症例は、免疫抑制、悪性腫瘍、腎代替療法、人工心臓弁、中心静脈カテーテル、またはその他の異物を患っている患者によく発生します。診断の確定には、通常、繰り返される陽性培養の慎重な解釈、無菌部位からの分離、およびマトリックス支援レーザー脱離イオン化飛行時間型質量分析法または利用可能な場合は 16S リボソームリボ核酸遺伝子配列決定を使用した信頼性の高い同定が必要です。",
+    "detail_results": "ヒトの感染症に関する出版物は症例報告と小規模な症例シリーズが大半を占めており、そのほとんどは血流感染、感染性心内膜炎、骨関節感染、腹膜透析関連腹膜炎、および眼内炎に関連しています。",
+    "result_table": [
+      {
+        "item": "オッズ比",
+        "value": "or 16",
+        "source": "Diagnostic confirmation usually requires careful interpretation of repeated positive cultures, isolation from sterile sites, and reliable identification using matrix-assisted laser desorption ionization-time-of-flight mass spectrometry or 16S ribosomal ribonucleic acid gene sequencing when available."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666860/",
+    "doi_url": "https://doi.org/10.7759/cureus.113612",
+    "created_at": "2026-08-29T21:18:36.299719+00:00"
+  },
+  {
+    "pmid": "42666430",
+    "doi": "10.7759/cureus.113548",
+    "category": "カテーテル新技術",
+    "title_en": "Prevalence and Antimicrobial Susceptibility Patterns of Bacterial Pathogens Causing Central Line-Associated Bloodstream Infections in Adult Intensive Care Unit Patients at a Tertiary Care Hospital.",
+    "title_ja": "三次医療病院の成人集中治療室患者における中心線関連血流感染症を引き起こす細菌性病原体の有病率と抗菌剤感受性パターン。",
+    "authors": "Areeb Mohd, Karicheri Ramanath, Pathak Pushpendra",
+    "journal": "Cureus",
+    "publication_date": "2026-07-01",
+    "entry_date": "2026-08-29",
+    "study_design": "動物実験",
+    "purpose": "中心線関連血流感染症（CLABSI）は、重症患者における重要なデバイス関連感染症です。原因微生物とその抗菌薬感受性パターンは施設によって異なります。しかし、インド中部の成人集中治療室（ICU）患者における細菌性CLABSIに関する施設固有のデータは依然として限られている。この研究では、中心静脈カテーテル（CVC）を装着している臨床的に疑わしい成人 ICU 患者における CLABSI の発生、細菌プロファイル、抗菌薬感受性パターンを評価しました。",
+    "methods": "前向き観察研究は、2024年1月から2025年12月までインドのインドールにあるインデックス医科大学病院・研究センターの成人ICUで実施された。CVCが48時間以上留置され、臨床的に血流感染症の疑いがある18歳以上の連続登録患者計245人が含まれた。血液検体は末梢静脈およびCVCから無菌的に採取されました。血液培養ボトルは BacT/ALERT 3D 自動システムを使用して処理され、陽性培養物は血液寒天および MacConkey 寒天上で継代培養されました。細菌分離株は、標準的な生化学検査を使用して推定的に同定され、さらに VITEK 2 Compact システムを使用して種レベルまで同定されました。 抗菌薬感受性試験はカービー・バウアーディスク拡散法を使用して実施され、コリスチン感受性は液体培地の微量希釈によって決定され、バンコマイシンの最小発育阻止濃度は VITEK 2 によって決定されました。結果は CLSI 2024 に従って解釈されました。",
+    "results": "この研究に含まれた245人のICU患者のうち、35人（14.29％）がCLABSIであることが確認されたが、210人（85.71％）はCLABSI陰性であった。全体的な CLABSI 率は、1,000 カテーテル日あたり 13.70 エピソードでした。陽性例のうち、23人（65.7％）が男性、12人（34.3％）が女性であった。ほとんどの症例は61～80歳の患者に発生しており、心臓病棟の陽性率が最も高かった。グラム陰性桿菌 (GNB) が 26 株 (74.3%) の分離株を占め、グラム陽性球菌 (GPC) が 9 株 (25.7%) の分離株を占めました。 GNBの中では、肺炎桿菌が8株（22.9％）の分離株で構成され、次にアシネトバクター・バウマニ7株（20.0％）、緑膿菌5株（14.3％）、大腸菌5株（14.3％）、プロテウス・ミラビリス1株（2.9％）が続いた。 GPC のうち、黄色ブドウ球菌が 7 件（20.0%）、エンテロコッカス フェカリスが 2 件（5.7 件）を占めました。 GNB 分離株はカルバペネムなどに対して耐性を示しましたが、コリスチンに対しては感受性を示しました。すべての GPC はバンコマイシン、リネゾリド、テイコプラニン、およびリファンピシンに対して感受性がありました。 7 つの黄色ブドウ球菌分離株のうち、4 つ (57.1%%) がセフォキシチン耐性であり、メチシリン耐性黄色ブドウ球菌として分類されました。",
+    "conclusion": "CLABSIは依然としてCVCを有するICU患者の間で注目すべき医療関連感染症であり、研究に含まれた患者245人のうち35人（14.29%）が罹患している。多剤耐性グラム陰性菌、特に肺炎桿菌とアシネトバクター・バウマンニの蔓延は、継続的な微生物学的監視、ICU固有の抗生物質検査、厳格な感染管理措置、賢明な経験的抗生物質療法、抗菌薬の管理、CLABSIの発生率を軽減するための余分な中心線の迅速な除去の必要性を強調しています。これらは、地域の ICU 固有の抗生物質や、施設内での感染制御および抗菌管理ポリシーの開発をサポートする可能性があります。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「proteus mirabilis」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "proteus mirabilis"
+    ],
+    "abstract_en": "BACKGROUND: Central line-associated bloodstream infections (CLABSIs) are important device-associated infections among critically ill patients. The causative organisms and their antimicrobial susceptibility patterns vary between institutions. However, institution-specific data regarding bacterial CLABSIs among adult intensive care unit (ICU) patients in central India remain limited. This study evaluated the occurrence, bacterial profile, and antimicrobial susceptibility patterns of CLABSIs among clinically suspected adult ICU patients with central venous catheters (CVCs).\nMATERIALS AND METHODS: A prospective observational study was conducted in the adult ICU of Index Medical College Hospital and Research Centre, Indore, India, from January 2024 to December 2025. A total of 245 consecutively enrolled patients aged >18 years with a CVC in place for >48 hours and clinical suspicion of having a bloodstream infection were included. Blood specimens were obtained aseptically from peripheral veins and CVCs. Blood-culture bottles were processed using the BacT/ALERT 3D automated system, and positive cultures were subcultured onto blood agar and MacConkey agar. Bacterial isolates were presumptively identified using standard biochemical tests and further identified to the species level using the VITEK 2 Compact system. Antimicrobial susceptibility testing was performed using the Kirby-Bauer disc-diffusion method, while colistin susceptibility was determined by broth microdilution, and vancomycin minimum inhibitory concentration was determined by VITEK 2. Results were interpreted according to the CLSI 2024.\nRESULTS: Among the 245 ICU patients included in the study, 35 (14.29%) were confirmed to have CLABSI, whereas 210 (85.71%) were CLABSI-negative. The overall CLABSI rate was 13.70 episodes per 1,000 catheter-days. Among positive cases, 23 (65.7%) were male and 12 (34.3%) were female. Most cases occurred in patients aged 61-80 years, and the Cardiac Care Unit had the highest positivity rate. Gram-negative bacilli (GNB) accounted for 26 (74.3%) isolates and Gram-positive cocci (GPC) accounted for nine (25.7%). Among GNB, Klebsiella pneumoniae comprised eight (22.9%) isolates, followed by Acinetobacter baumannii 7 (20.0%), Pseudomonas aeruginosa 5 (14.3%), Escherichia coli 5 (14.3%), and Proteus mirabilis 1 (2.9). Among GPC, Staphylococcus aureus accounted for 7 (20.0%) and Enterococcus faecalis 2 (5.7). GNB isolates showed resistance, including to carbapenems, but susceptibility to colistin. All GPC were susceptible to vancomycin, linezolid, teicoplanin, and rifampicin. Among seven Staphylococcus aureus isolates, four (57.1%%) were cefoxitin-resistant and were classified as methicillin-resistant Staphylococcus aureus.\nCONCLUSIONS: CLABSIs continue to be notable healthcare-associated infections among ICU patients with CVCs, affecting 35 (14.29%) of the 245 patients included in the study. The prevalence of multidrug-resistant Gram-negative bacteria, particularly Klebsiella pneumoniae and Acinetobacter baumannii, underscores the necessity for ongoing microbiological surveillance, ICU-specific antibiograms, stringent infection control measures, judicious empirical antibiotic therapy, antimicrobial stewardship, and prompt removal of superfluous central lines to mitigate the incidence of CLABSIs. They may support the development of local ICU-specific antibiograms and institutional infection-control and antimicrobial-stewardship policies.",
+    "abstract_ja": "背景: 中心線関連血流感染症 (CLABSI) は、重症患者における重要なデバイス関連感染症です。原因微生物とその抗菌薬感受性パターンは施設によって異なります。しかし、インド中部の成人集中治療室（ICU）患者における細菌性CLABSIに関する施設固有のデータは依然として限られている。この研究では、中心静脈カテーテル（CVC）を装着している臨床的に疑わしい成人 ICU 患者における CLABSI の発生、細菌プロファイル、抗菌薬感受性パターンを評価しました。\n材料と方法：前向き観察研究は、2024年1月から2025年12月まで、インドのインドールにあるインデックス医科大学病院・研究センターの成人ICUで実施された。CVCが48時間以上留置され、臨床的に血流感染症の疑いがある18歳以上の連続登録患者計245人が含まれた。血液検体は末梢静脈およびCVCから無菌的に採取されました。血液培養ボトルは BacT/ALERT 3D 自動システムを使用して処理され、陽性培養物は血液寒天および MacConkey 寒天上で継代培養されました。細菌分離株は、標準的な生化学検査を使用して推定的に同定され、さらに VITEK 2 Compact システムを使用して種レベルまで同定されました。 抗菌薬感受性試験はカービー・バウアーディスク拡散法を使用して実施され、コリスチン感受性は液体培地の微量希釈によって決定され、バンコマイシンの最小発育阻止濃度は VITEK 2 によって決定されました。結果は CLSI 2024 に従って解釈されました。\n結果：研究に含まれた245人のICU患者のうち、35人（14.29％）がCLABSIであることが確認されたが、210人（85.71％）はCLABSI陰性であった。全体的な CLABSI 率は、1,000 カテーテル日あたり 13.70 エピソードでした。陽性例のうち、23人（65.7％）が男性、12人（34.3％）が女性であった。ほとんどの症例は61～80歳の患者に発生しており、心臓病棟の陽性率が最も高かった。グラム陰性桿菌 (GNB) が 26 株 (74.3%) の分離株を占め、グラム陽性球菌 (GPC) が 9 株 (25.7%) の分離株を占めました。 GNBの中では、肺炎桿菌が8株（22.9％）の分離株で構成され、次にアシネトバクター・バウマニ7株（20.0％）、緑膿菌5株（14.3％）、大腸菌5株（14.3％）、プロテウス・ミラビリス1株（2.9％）が続いた。 GPC のうち、黄色ブドウ球菌が 7 件（20.0%）、エンテロコッカス フェカリスが 2 件（5.7 件）を占めました。 GNB 分離株はカルバペネムなどに対して耐性を示しましたが、コリスチンに対しては感受性を示しました。すべての GPC はバンコマイシン、リネゾリド、テイコプラニン、およびリファンピシンに対して感受性がありました。 7 つの黄色ブドウ球菌分離株のうち、4 つ (57.1%%) がセフォキシチン耐性であり、メチシリン耐性黄色ブドウ球菌として分類されました。\n結論: CLABSIは依然としてCVCを有するICU患者の間で注目すべき医療関連感染症であり、研究に含まれた患者245人のうち35人(14.29%)が罹患している。多剤耐性グラム陰性菌、特に肺炎桿菌とアシネトバクター・バウマンニの蔓延は、継続的な微生物学的監視、ICU固有の抗生物質検査、厳格な感染管理措置、賢明な経験的抗生物質療法、抗菌薬の管理、CLABSIの発生率を軽減するための余分な中心線の迅速な除去の必要性を強調しています。これらは、地域の ICU 固有の抗生物質や、施設内での感染制御および抗菌管理ポリシーの開発をサポートする可能性があります。",
+    "detail_methods": "前向き観察研究は、2024年1月から2025年12月までインドのインドールにあるインデックス医科大学病院・研究センターの成人ICUで実施された。CVCが48時間以上留置され、臨床的に血流感染症の疑いがある18歳以上の連続登録患者計245人が含まれた。血液検体は末梢静脈およびCVCから無菌的に採取されました。血液培養ボトルは BacT/ALERT 3D 自動システムを使用して処理され、陽性培養物は血液寒天および MacConkey 寒天上で継代培養されました。細菌分離株は、標準的な生化学検査を使用して推定的に同定され、さらに VITEK 2 Compact システムを使用して種レベルまで同定されました。 抗菌薬感受性試験はカービー・バウアーディスク拡散法を使用して実施され、コリスチン感受性は液体培地の微量希釈によって決定され、バンコマイシンの最小発育阻止濃度は VITEK 2 によって決定されました。結果は CLSI 2024 に従って解釈されました。",
+    "detail_results": "この研究に含まれた245人のICU患者のうち、35人（14.29％）がCLABSIであることが確認されたが、210人（85.71％）はCLABSI陰性であった。全体的な CLABSI 率は、1,000 カテーテル日あたり 13.70 エピソードでした。陽性例のうち、23人（65.7％）が男性、12人（34.3％）が女性であった。ほとんどの症例は61～80歳の患者に発生しており、心臓病棟の陽性率が最も高かった。グラム陰性桿菌 (GNB) が 26 株 (74.3%) の分離株を占め、グラム陽性球菌 (GPC) が 9 株 (25.7%) の分離株を占めました。 GNBの中では、肺炎桿菌が8株（22.9％）の分離株で構成され、次にアシネトバクター・バウマニ7株（20.0％）、緑膿菌5株（14.3％）、大腸菌5株（14.3％）、プロテウス・ミラビリス1株（2.9％）が続いた。 GPC のうち、黄色ブドウ球菌が 7 件（20.0%）、エンテロコッカス フェカリスが 2 件（5.7 件）を占めました。 GNB 分離株はカルバペネムなどに対して耐性を示しましたが、コリスチンに対しては感受性を示しました。すべての GPC はバンコマイシン、リネゾリド、テイコプラニン、およびリファンピシンに対して感受性がありました。 7 つの黄色ブドウ球菌分離株のうち、4 つ (57.1%%) がセフォキシチン耐性であり、メチシリン耐性黄色ブドウ球菌として分類されました。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "245 patients",
+        "source": "CONCLUSIONS: CLABSIs continue to be notable healthcare-associated infections among ICU patients with CVCs, affecting 35 (14.29%) of the 245 patients included in the study."
+      },
+      {
+        "item": "割合",
+        "value": "14.29%",
+        "source": "RESULTS: Among the 245 ICU patients included in the study, 35 (14.29%) were confirmed to have CLABSI, whereas 210 (85.71%) were CLABSI-negative."
+      },
+      {
+        "item": "割合",
+        "value": "85.71%",
+        "source": "RESULTS: Among the 245 ICU patients included in the study, 35 (14.29%) were confirmed to have CLABSI, whereas 210 (85.71%) were CLABSI-negative."
+      },
+      {
+        "item": "割合",
+        "value": "65.7%",
+        "source": "Among positive cases, 23 (65.7%) were male and 12 (34.3%) were female."
+      },
+      {
+        "item": "割合",
+        "value": "34.3%",
+        "source": "Among positive cases, 23 (65.7%) were male and 12 (34.3%) were female."
+      },
+      {
+        "item": "割合",
+        "value": "74.3%",
+        "source": "Gram-negative bacilli (GNB) accounted for 26 (74.3%) isolates and Gram-positive cocci (GPC) accounted for nine (25.7%)."
+      },
+      {
+        "item": "割合",
+        "value": "25.7%",
+        "source": "Gram-negative bacilli (GNB) accounted for 26 (74.3%) isolates and Gram-positive cocci (GPC) accounted for nine (25.7%)."
+      },
+      {
+        "item": "割合",
+        "value": "22.9%",
+        "source": "Among GNB, Klebsiella pneumoniae comprised eight (22.9%) isolates, followed by Acinetobacter baumannii 7 (20.0%), Pseudomonas aeruginosa 5 (14.3%), Escherichia coli 5 (14.3%), and Proteus mirabilis 1 (2.9)."
+      },
+      {
+        "item": "割合",
+        "value": "20.0%",
+        "source": "Among GNB, Klebsiella pneumoniae comprised eight (22.9%) isolates, followed by Acinetobacter baumannii 7 (20.0%), Pseudomonas aeruginosa 5 (14.3%), Escherichia coli 5 (14.3%), and Proteus mirabilis 1 (2.9)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666430/",
+    "doi_url": "https://doi.org/10.7759/cureus.113548",
+    "created_at": "2026-08-29T21:18:43.884788+00:00"
+  },
+  {
     "pmid": "42663903",
     "doi": "10.1007/s10096-026-05635-w",
     "category": "カテーテル新技術",
