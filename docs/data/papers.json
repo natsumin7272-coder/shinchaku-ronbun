@@ -1,5 +1,145 @@
 [
   {
+    "pmid": "42668901",
+    "doi": "10.1155/cjid/8300509",
+    "category": "カテーテル新技術",
+    "title_en": "Tackling Drug Resistance and Virulence in Proteus mirabilis Infections: Evaluating Rosemary Extract as a Complementary Therapeutic Agent.",
+    "title_ja": "プロテウス ミラビリス感染症における薬剤耐性と毒性への取り組み: 補完的な治療薬としてのローズマリー抽出物の評価。",
+    "authors": "Mirzaei Arezoo, Wagemans Jeroen, Moghim Sharareh",
+    "journal": "The Canadian journal of infectious diseases & medical microbiology = Journal canadien des maladies infectieuses et de la microbiologie medicale",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-08-30",
+    "study_design": "動物実験",
+    "purpose": "背景と目的：カテーテル関連尿路感染症の主因であるプロテウス ミラビリスの抗菌薬耐性の上昇は、代替治療アプローチを探索する緊急の必要性を強調しています。この研究では、Rosmarinus officinalis L の抗菌性と抗ウイルス性の可能性を評価しました。",
+    "methods": "40 の多剤耐性 (MDR) P. mirabilis 分離株を、マルチプレックス PCR を使用してカルバペネマーゼ遺伝子 (b l a NDM、b l a OXA ファミリー、b l a SIM-1、b l a VIM-1) を検出し、ユニプレックス PCR を使用して病原性決定基 (mrpA、pmfA、rsbA、rsmA、luxS) を同定しました。 ROE を抽出し、高速液体クロマトグラフィー (HPLC) を使用して分析しました。抽出物の抗菌効果、抗バイオフィルム効果、および抗群集効果が評価されました。",
+    "results": "すべての分離株は 5 つの病原性遺伝子すべてを保有していました。カルバペネマーゼ遺伝子プロファイリングにより、分離株の 20% で b l a VIM-1 が検出され、分離株の 10%、b l a OXA-23、b l a OXA-24、および b l a OXA-58 がそれぞれ分離株の 10%、2.5%、および 2.5% で検出されました。 SIM-1 も NDM も識別されませんでした。 ROE の HPLC 分析により、主な化合物としてロスマリン酸が同定されました。寒天ウェル拡散アッセイでは殺菌活性は示されませんでしたが、ブロス微量希釈法では、参照株と MDR 株の両方で 8 mg/mL の最小発育阻止濃度 (MIC) が決定されました。 MIC未満のレベルでは、ROEは用量依存的に群集運動性（250 μg/mLで最大86％）とバイオフィルム形成（参照株で最大78％、15.6 μg/mLでMDR分離株で76％）を有意に阻害した。注目すべきことに、バイオフィルムの根絶活性は、参照菌株の予め形成されたバイオフィルムに対してのみ観察され、最大 53% の削減を達成しました。 MTT 細胞毒性アッセイにより、低濃度 (1000 ～ 15.6 μg/mL) の ROE がベロ細胞に対して無毒であることが確認されました。",
+    "conclusion": "これらの結果は、P. ミラビリスの臨床分離株におけるカルバペネマーゼ遺伝子の懸念すべき有病率を強調し、ROE が運動性とバイオフィルム形成を標的とする有望な非毒性候補であることを特定します。これらの発見は、ROE が薬剤耐性の P. ミラビリス感染症を管理するための実行可能な戦略を提供する可能性があることを示唆しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「proteus mirabilis」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "proteus mirabilis"
+    ],
+    "abstract_en": "BACKGROUND AND AIMS: The rising antimicrobial resistance in Proteus mirabilis, a primary contributor to catheter-associated urinary tract infections, underscores the urgent need to explore alternative therapeutic approaches. In this study, we evaluated the antibacterial and antivirulence potential of Rosmarinus officinalis L. extract (ROE) against P. mirabilis and concurrently assessed clinical isolates for the presence of key resistance and virulence genes.\nMETHODS: Forty multi-drug-resistant (MDR) P. mirabilis isolates were analyzed using multiplex PCR to detect carbapenemase genes (b l a NDM, b l a OXA family, b l a SIM-1, b l a VIM-1) and uniplex PCR to identify virulence determinants (mrpA, pmfA, rsbA, rsmA, luxS). ROE was extracted and analyzed using high-performance liquid chromatography (HPLC). The antibacterial, antibiofilm, and antiswarming effects of the extract were assessed.\nRESULTS: All isolates carried all five virulence genes. Carbapenemase gene profiling revealed b l a VIM-1in 20% of isolates, while b l a OXA-23, b l a OXA-24, and b l a OXA-58 were detected in 10%, 2.5%, and 2.5% of isolates, respectively. Neither b l a SIM-1 nor b l a NDM was identified. HPLC analysis of ROE identified rosmarinic acid as the predominant compound. Although the agar well diffusion assay indicated no bactericidal activity, the broth microdilution method determined a minimum inhibitory concentration (MIC) of 8 mg/mL for both reference and MDR strains. At sub-MIC levels, ROE significantly inhibited swarming motility (up to 86% at 250 μg/mL) and biofilm formation (up to 78% in the reference strain and 76% in MDR isolates at 15.6 μg/mL) in a dose-dependent manner. Notably, biofilm eradication activity was observed only against preformed biofilms of the reference strain, achieving up to 53% reduction. MTT cytotoxicity assays confirmed that ROE in low concentrations (1000-15.6 μg/mL) was nontoxic to Vero cells.\nCONCLUSION: These results highlight the concerning prevalence of carbapenemase genes among clinical P. mirabilis isolates and identify ROE as a promising, nontoxic candidate for targeting motility and biofilm formation. These findings suggest ROE may offer a viable strategy for managing drug-resistant P. mirabilis infections.",
+    "abstract_ja": "背景と目的：カテーテル関連尿路感染症の主因であるプロテウス ミラビリスの抗菌薬耐性の上昇は、代替治療アプローチを探索する緊急の必要性を強調しています。この研究では、P. ミラビリスに対するロスマリヌス オフィシナリス L. 抽出物 (ROE) の抗菌および抗病原性の可能性を評価し、同時に主要な耐性遺伝子および病原性遺伝子の存在について臨床分離株を評価しました。\n方法：カルバペネマーゼ遺伝子（b l a NDM、b l a OXA ファミリー、b l a SIM-1、b l a VIM-1）を検出するためにマルチプレックス PCR を使用し、病原性決定基（mrpA、pmfA、rsbA、rsmA、luxS）を同定するためにユニプレックス PCR を使用して、40 の多剤耐性（MDR）P. mirabilis 分離株を分析しました。 ROE を抽出し、高速液体クロマトグラフィー (HPLC) を使用して分析しました。抽出物の抗菌効果、抗バイオフィルム効果、および抗群集効果が評価されました。\n結果: すべての分離株は 5 つの病原性遺伝子すべてを持っていました。カルバペネマーゼ遺伝子プロファイリングにより、分離株の 20% で b l a VIM-1 が検出され、分離株の 10%、b l a OXA-23、b l a OXA-24、および b l a OXA-58 がそれぞれ分離株の 10%、2.5%、および 2.5% で検出されました。 SIM-1 も NDM も識別されませんでした。 ROE の HPLC 分析により、主な化合物としてロスマリン酸が同定されました。寒天ウェル拡散アッセイでは殺菌活性は示されませんでしたが、ブロス微量希釈法では、参照株と MDR 株の両方で 8 mg/mL の最小発育阻止濃度 (MIC) が決定されました。 MIC未満のレベルでは、ROEは用量依存的に群集運動性（250 μg/mLで最大86％）とバイオフィルム形成（参照株で最大78％、15.6 μg/mLでMDR分離株で76％）を有意に阻害した。注目すべきことに、バイオフィルムの根絶活性は、参照菌株の予め形成されたバイオフィルムに対してのみ観察され、最大 53% の削減を達成しました。 MTT 細胞毒性アッセイにより、低濃度 (1000 ～ 15.6 μg/mL) の ROE がベロ細胞に対して無毒であることが確認されました。\n結論：これらの結果は、P. mirabilis の臨床分離株におけるカルバペネマーゼ遺伝子の蔓延に関する懸念を強調し、ROE が運動性とバイオフィルム形成を標的とする有望な非毒性候補であることを特定しました。これらの発見は、ROE が薬剤耐性の P. ミラビリス感染症を管理するための実行可能な戦略を提供する可能性があることを示唆しています。",
+    "detail_methods": "40 の多剤耐性 (MDR) P. mirabilis 分離株を、マルチプレックス PCR を使用してカルバペネマーゼ遺伝子 (b l a NDM、b l a OXA ファミリー、b l a SIM-1、b l a VIM-1) を検出し、ユニプレックス PCR を使用して病原性決定基 (mrpA、pmfA、rsbA、rsmA、luxS) を同定しました。 ROE を抽出し、高速液体クロマトグラフィー (HPLC) を使用して分析しました。抽出物の抗菌効果、抗バイオフィルム効果、および抗群集効果が評価されました。",
+    "detail_results": "すべての分離株は 5 つの病原性遺伝子すべてを保有していました。カルバペネマーゼ遺伝子プロファイリングにより、分離株の 20% で b l a VIM-1 が検出され、分離株の 10%、b l a OXA-23、b l a OXA-24、および b l a OXA-58 がそれぞれ分離株の 10%、2.5%、および 2.5% で検出されました。 SIM-1 も NDM も識別されませんでした。 ROE の HPLC 分析により、主な化合物としてロスマリン酸が同定されました。寒天ウェル拡散アッセイでは殺菌活性は示されませんでしたが、ブロス微量希釈法では、参照株と MDR 株の両方で 8 mg/mL の最小発育阻止濃度 (MIC) が決定されました。 MIC未満のレベルでは、ROEは用量依存的に群集運動性（250 μg/mLで最大86％）とバイオフィルム形成（参照株で最大78％、15.6 μg/mLでMDR分離株で76％）を有意に阻害した。注目すべきことに、バイオフィルムの根絶活性は、参照菌株の予め形成されたバイオフィルムに対してのみ観察され、最大 53% の削減を達成しました。 MTT 細胞毒性アッセイにより、低濃度 (1000 ～ 15.6 μg/mL) の ROE がベロ細胞に対して無毒であることが確認されました。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "20%",
+        "source": "Carbapenemase gene profiling revealed b l a VIM-1in 20% of isolates, while b l a OXA-23, b l a OXA-24, and b l a OXA-58 were detected in 10%, 2.5%, and 2.5% of isolates, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "10%",
+        "source": "Carbapenemase gene profiling revealed b l a VIM-1in 20% of isolates, while b l a OXA-23, b l a OXA-24, and b l a OXA-58 were detected in 10%, 2.5%, and 2.5% of isolates, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "2.5%",
+        "source": "Carbapenemase gene profiling revealed b l a VIM-1in 20% of isolates, while b l a OXA-23, b l a OXA-24, and b l a OXA-58 were detected in 10%, 2.5%, and 2.5% of isolates, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "86%",
+        "source": "At sub-MIC levels, ROE significantly inhibited swarming motility (up to 86% at 250 μg/mL) and biofilm formation (up to 78% in the reference strain and 76% in MDR isolates at 15.6 μg/mL) in a dose-dependent manner."
+      },
+      {
+        "item": "割合",
+        "value": "78%",
+        "source": "At sub-MIC levels, ROE significantly inhibited swarming motility (up to 86% at 250 μg/mL) and biofilm formation (up to 78% in the reference strain and 76% in MDR isolates at 15.6 μg/mL) in a dose-dependent manner."
+      },
+      {
+        "item": "割合",
+        "value": "76%",
+        "source": "At sub-MIC levels, ROE significantly inhibited swarming motility (up to 86% at 250 μg/mL) and biofilm formation (up to 78% in the reference strain and 76% in MDR isolates at 15.6 μg/mL) in a dose-dependent manner."
+      },
+      {
+        "item": "割合",
+        "value": "53%",
+        "source": "Notably, biofilm eradication activity was observed only against preformed biofilms of the reference strain, achieving up to 53% reduction."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42668901/",
+    "doi_url": "https://doi.org/10.1155/cjid/8300509",
+    "created_at": "2026-08-30T21:18:38.295807+00:00"
+  },
+  {
+    "pmid": "42668754",
+    "doi": "10.12669/pjms.42.8.15347",
+    "category": "カテーテル新技術",
+    "title_en": "Multidrug resistant bacterial infection in liver transplant recipients: A Deterrent and obstacle.",
+    "title_ja": "肝移植レシピエントにおける多剤耐性細菌感染症：抑止力と障害。",
+    "authors": "Misbah Nazish, Haider Jahanzaib, Hassan Muhammad, Fatima Mehreen",
+    "journal": "Pakistan journal of medical sciences",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-08-30",
+    "study_design": "後ろ向き研究",
+    "purpose": "生体肝移植（LDLT）後最初の 30 日以内の多剤耐性（MDR）細菌感染症の微生物学的スペクトルを決定し、その出現に寄与する関連危険因子を特定する。\n方法：この後ろ向きコホート研究では、2020年1月から2024年12月までにカラチのダウ大学病院の肝移植・肝膵胆道外科でLDLTを受けた患者の医療記録を検討した。敗血症の臨床的特徴を伴う培養で確認されたMDR細菌感染に基づいて、患者をMDR群と非MDR群に分類した。 MDR 細菌感染症の種類が記録されました。ベースライン、移植前、術中、移植後の変数を記録しました。統計的推論のために、ピアソン カイ二乗検定、マン-ホイットニー U 検定、単変量および多変量ロジスティック回帰分析が実行されました。",
+    "methods": "方法：この後ろ向きコホート研究では、2020年1月から2024年12月までにカラチのダウ大学病院の肝移植・肝膵胆道外科でLDLTを受けた患者の医療記録を検討した。敗血症の臨床的特徴を伴う培養で確認されたMDR細菌感染に基づいて、患者をMDR群と非MDR群に分類した。統計的推論のために、ピアソン カイ二乗検定、マン-ホイットニー U 検定、単変量および多変量ロジスティック回帰分析が実行されました。",
+    "results": "151 人の LDLT レシピエントのうち、75 人 (49.7%) が 30 日以内に MDR 細菌感染症を発症しました。これらの中で、グラム陰性 MDR 微生物が優勢で、カルバペネム耐性腸内細菌科 (21.2%) とカルバペネム耐性アシネトバクター バウマンニ (20.5%) が最も多く、バンコマイシン耐性腸球菌 (13.2%) がそれに続きました。単変量解析では、MDR 感染は、移植前の ICU 入室、腎機能障害、術後の ICU 滞在延長、48 時間以上の人工呼吸器、血液透析および/または持続低効率透析 (SLED)、術後合併症、侵襲的装置の使用期間の延長、入院期間の延長、中心線関連血流感染症 (CLABSI)、腹腔内感染と関連していました。多変量解析では、CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] および腹腔内感染 [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] のみ。 p<0.001)] MDR 感染と独立に関連し続けた。",
+    "conclusion": "LDLT 受容者のほぼ半数が、主にグラム陰性菌による MDR 感染症を発症しました。 CLABSI と腹腔内感染は、MDR 細菌感染の重要な予測因子として浮上しました。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: To determine the microbiological spectrum of multi-drug resistant (MDR) bacterial infections within the first 30 days post-living donor liver transplantation (LDLT) and identify the associated risk factors contributing to their emergence.\nMETHODOLOGY: This retrospective cohort study reviewed the medical records of patients who underwent LDLT from January 2020 to December 2024 at the Liver Transplant and Hepatopancreatobiliary Surgery Unit of Dow University Hospital, Karachi. Patients were categorized into MDR and no-MDR groups based on culture-confirmed MDR bacterial infection with clinical features of sepsis. Types of MDR bacterial infections were noted. Baseline, pre-transplant, intraoperative, and post-transplant variables were recorded. Pearson Chi-square test, Mann-Whitney U test, and univariate and multivariate logistic regression analyses were performed for statistical inference.\nRESULTS: Of 151 LDLT recipients, 75 (49.7%) developed MDR bacterial infections within 30 days. Among these, gram negative MDR organisms were predominated, with carbapenem-resistant Enterobacteriaceae (21.2%) and carbapenem-resistant Acinetobacter baumannii (20.5%) most frequent, followed by vancomycin-resistant Enterococci (13.2%). On univariate analysis, MDR infection was associated with pre-transplant ICU admission, renal dysfunction, prolonged postoperative ICU stay, mechanical ventilation >48 h, hemodialysis and/or sustained low-efficiency dialysis (SLED), postoperative complications, longer invasive device duration, prolonged hospital stay, central line-associated blood stream infection (CLABSI), and intra-abdominal infections. On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection.\nCONCLUSION: Nearly half of LDLT recipients developed MDR infections, predominantly due to gram-negative organisms. CLABSI and intra-abdominal infections emerged as the key predictors of MDR bacterial infections.",
+    "abstract_ja": "目的: 生体肝移植 (LDLT) 後最初の 30 日以内の多剤耐性 (MDR) 細菌感染症の微生物学的スペクトルを決定し、その出現に寄与する関連危険因子を特定すること。\n方法：この後ろ向きコホート研究では、2020年1月から2024年12月までにカラチのダウ大学病院の肝移植・肝膵胆道外科でLDLTを受けた患者の医療記録を検討した。敗血症の臨床的特徴を伴う培養で確認されたMDR細菌感染に基づいて、患者をMDR群と非MDR群に分類した。 MDR 細菌感染症の種類が記録されました。ベースライン、移植前、術中、移植後の変数を記録しました。統計的推論のために、ピアソン カイ二乗検定、マン-ホイットニー U 検定、単変量および多変量ロジスティック回帰分析が実行されました。\n結果: LDLT レシピエント 151 人のうち、75 人 (49.7%) が 30 日以内に MDR 細菌感染症を発症しました。これらの中で、グラム陰性 MDR 微生物が優勢で、カルバペネム耐性腸内細菌科 (21.2%) とカルバペネム耐性アシネトバクター バウマンニ (20.5%) が最も多く、バンコマイシン耐性腸球菌 (13.2%) がそれに続きました。単変量解析では、MDR 感染は、移植前の ICU 入室、腎機能障害、術後の ICU 滞在延長、48 時間以上の人工呼吸器、血液透析および/または持続低効率透析 (SLED)、術後合併症、侵襲的装置の使用期間の延長、入院期間の延長、中心線関連血流感染症 (CLABSI)、腹腔内感染と関連していました。多変量解析では、CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] および腹腔内感染 [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] のみ。 p<0.001)] MDR 感染と独立に関連し続けた。\n結論: LDLT レシピエントのほぼ半数が、主にグラム陰性菌が原因で MDR 感染症を発症しました。 CLABSI と腹腔内感染は、MDR 細菌感染の重要な予測因子として浮上しました。",
+    "detail_methods": "方法：この後ろ向きコホート研究では、2020年1月から2024年12月までにカラチのダウ大学病院の肝移植・肝膵胆道外科でLDLTを受けた患者の医療記録を検討した。敗血症の臨床的特徴を伴う培養で確認されたMDR細菌感染に基づいて、患者をMDR群と非MDR群に分類した。統計的推論のために、ピアソン カイ二乗検定、マン-ホイットニー U 検定、単変量および多変量ロジスティック回帰分析が実行されました。",
+    "detail_results": "151 人の LDLT レシピエントのうち、75 人 (49.7%) が 30 日以内に MDR 細菌感染症を発症しました。これらの中で、グラム陰性 MDR 微生物が優勢で、カルバペネム耐性腸内細菌科 (21.2%) とカルバペネム耐性アシネトバクター バウマンニ (20.5%) が最も多く、バンコマイシン耐性腸球菌 (13.2%) がそれに続きました。単変量解析では、MDR 感染は、移植前の ICU 入室、腎機能障害、術後の ICU 滞在延長、48 時間以上の人工呼吸器、血液透析および/または持続低効率透析 (SLED)、術後合併症、侵襲的装置の使用期間の延長、入院期間の延長、中心線関連血流感染症 (CLABSI)、腹腔内感染と関連していました。多変量解析では、CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] および腹腔内感染 [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] のみ。 p<0.001)] MDR 感染と独立に関連し続けた。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "49.7%",
+        "source": "RESULTS: Of 151 LDLT recipients, 75 (49.7%) developed MDR bacterial infections within 30 days."
+      },
+      {
+        "item": "割合",
+        "value": "21.2%",
+        "source": "Among these, gram negative MDR organisms were predominated, with carbapenem-resistant Enterobacteriaceae (21.2%) and carbapenem-resistant Acinetobacter baumannii (20.5%) most frequent, followed by vancomycin-resistant Enterococci (13.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "20.5%",
+        "source": "Among these, gram negative MDR organisms were predominated, with carbapenem-resistant Enterobacteriaceae (21.2%) and carbapenem-resistant Acinetobacter baumannii (20.5%) most frequent, followed by vancomycin-resistant Enterococci (13.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "13.2%",
+        "source": "Among these, gram negative MDR organisms were predominated, with carbapenem-resistant Enterobacteriaceae (21.2%) and carbapenem-resistant Acinetobacter baumannii (20.5%) most frequent, followed by vancomycin-resistant Enterococci (13.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection."
+      },
+      {
+        "item": "P値",
+        "value": "p<0.001",
+        "source": "On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 0",
+        "source": "On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 0.021",
+        "source": "On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 0.008",
+        "source": "On multivariate analysis, only CLABSI [Wald χ²=17.696 (OR 0.021; 95% CI: 0.003-0.127; p<0.001)] and intra-abdominal infections [Wald χ²=25.567 (OR 0.008; 95% CI: 0.001-0.050; p<0.001)] remained independently associated with MDR infection."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42668754/",
+    "doi_url": "https://doi.org/10.12669/pjms.42.8.15347",
+    "created_at": "2026-08-30T21:18:54.632497+00:00"
+  },
+  {
     "pmid": "42666033",
     "doi": "10.1002/advs.77289",
     "category": "尿路結石・細菌叢",
@@ -167,6 +307,121 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42666430/",
     "doi_url": "https://doi.org/10.7759/cureus.113548",
     "created_at": "2026-08-29T21:18:43.884788+00:00"
+  },
+  {
+    "pmid": "42667981",
+    "doi": "10.1016/j.jpedsurg.2026.163428",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Continent Catheterisable Channels in Children: in search of prognostic factors for durable surgical success.",
+    "title_ja": "小児における大陸カテーテル挿入可能なチャネル: 持続的な外科的成功のための予後因子を求めて。",
+    "authors": "Vatta Fabrizio, Blanc Thomas, Alova Ilona, Broch Aline, Kohaut Jules, Glenisson Mathilde, Vinit Nicolas, Montanaro Beatrice, Taghavi Kiarash, Botto Nathalie, Lottmann Henri",
+    "journal": "Journal of pediatric surgery",
+    "publication_date": "2026-08-29",
+    "entry_date": "2026-08-29",
+    "study_design": "動物実験",
+    "purpose": "この研究では、長期転帰に影響を与える要因を特定するために、大陸カテーテル可能チャネル (CCC) に関する 27 年間の単一施設の経験を評価しています。",
+    "methods": "CCC 留置を受けている患者に対して遡及的レビュー (1998 ～ 2025 年) が実施されました。分析されたデータポイントには、一次診断、外科的適応、導管の種類、ストーマの位置、および術後合併症が含まれます。",
+    "results": "この研究には175人の子供（男性99人）が参加し、合計178件のCCC処置が行われた。一次診断には、神経障害性膀胱 (53%)、外尿道外道複合体 (21%)、複合性尿路障害 (12%)、総排出腔奇形 (7%)、および後部尿道弁 (7%) が含まれていました。手術時の年齢中央値は11.3歳（IQR 7.8～14.7）でした。 CCCの適応症は、膀胱出口手術または再建手術の併用（46％）、困難な尿道カテーテル挿入（27％）、自律性の向上への要望（21％）、および再手術（3％）であった。使用された導管は、虫垂 (78%)、回腸-カザーレ (9.6%)、回腸-モンティ (8.4%)、およびその他 - S 状結腸、膀胱皮弁、尿管 (4%) でした。ストーマ部位には、右腸骨窩 (51%)、臍 (42%)、およびその他の場所 (7%) が含まれていました。追跡調査中央値9年（IQR 4～12）では、97%の子供がチャネルの有用性を維持した。合併症は小児の28％（n=48）に発生し、合計70件の事象が発生した：表在性狭窄（9％）、筋膜上閉塞（10.7％）、筋膜下閉塞（7.3％）、ストーマ失禁（6.2％）、完全なチャンネル喪失（6.2％）。虫垂の使用は合併症発生率の低下と関連していた (p=0.03)。ストーマの位置は合併症発生率に大きな影響を与えませんでした。",
+    "conclusion": "大陸のカテーテル挿入可能なチャネルは、高い患者利用率で耐久性のある長期的な利点を提供します。虫垂を導管として使用すると、優れた結果が得られ、合併症が少なくなります。ストーマの位置は合併症発生率に大きな影響を与えません。したがって、サイトの選択は個別に行う必要があります。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: This study evaluates a 27-year single-center experience with continent catheterisable channels (CCC) to identify factors influencing long-term outcomes.\nMETHODS: Retrospective review (1998-2025) conducted on patients undergoing CCC placement. Data points analyzed included primary diagnosis, surgical indication, conduit type, stoma location, and postoperative complications.\nRESULTS: The study included 175 children (99 males) with a total of 178 CCC procedures performed. Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%). Median age at surgery was 11.3 years (IQR 7.8-14.7). Indications for CCC were concomitant bladder-outlet or reconstructive surgery (46%), difficult urethral catheterization (27%), desire for improved autonomy (21%), and redo surgery (3%). Conduits utilised were appendix (78%), ileum-Casale (9.6%), ileum-Monti (8.4%), and other - sigmoid, vesical flap, ureter (4%). Stoma sites included the right iliac fossa (51%), umbilicus (42%), and other locations (7%). At a median follow-up of 9 years (IQR 4-12), 97% of children maintained channel utility. Complications occurred in 28% of children (n=48), totalling 70 events: superficial stenosis (9%), suprafascial obstruction (10.7%), subfascial obstruction (7.3%), stomal incontinence (6.2%), and complete channel loss (6.2%). The use of the appendix was associated with lower complication rates (p=0.03). Stoma location did not significantly impact complication rates.\nCONCLUSIONS: Continent catheterisable channels provides durable long-term benefits with high patient utilisation rates. Use of the appendix as a conduit is associated with superior outcomes and fewer complications. Stoma location does not significantly impact complication rates; therefore, site selection should be individualized.",
+    "abstract_ja": "目的: この研究は、長期転帰に影響を与える要因を特定するために、大陸カテーテル挿入可能チャネル (CCC) に関する 27 年間の単一施設の経験を評価します。\n方法: CCC 留置を受けている患者に対して遡及的レビュー (1998 ～ 2025 年) を実施。分析されたデータポイントには、一次診断、外科的適応、導管の種類、ストーマの位置、および術後合併症が含まれます。\n結果： この研究には175人の子供（99人の男性）が参加し、合計178回のCCC処置が行われた。一次診断には、神経障害性膀胱 (53%)、外尿道外道複合体 (21%)、複合性尿路障害 (12%)、総排出腔奇形 (7%)、および後部尿道弁 (7%) が含まれていました。手術時の年齢中央値は11.3歳（IQR 7.8～14.7）でした。 CCCの適応症は、膀胱出口手術または再建手術の併用（46％）、困難な尿道カテーテル挿入（27％）、自律性の向上への要望（21％）、および再手術（3％）であった。使用された導管は、虫垂 (78%)、回腸-カザーレ (9.6%)、回腸-モンティ (8.4%)、およびその他 - S 状結腸、膀胱皮弁、尿管 (4%) でした。ストーマ部位には、右腸骨窩 (51%)、臍 (42%)、およびその他の場所 (7%) が含まれていました。追跡調査中央値9年（IQR 4～12）では、97%の子供がチャネルの有用性を維持した。合併症は小児の28％（n=48）に発生し、合計70件の事象が発生した：表在性狭窄（9％）、筋膜上閉塞（10.7％）、筋膜下閉塞（7.3％）、ストーマ失禁（6.2％）、完全なチャンネル喪失（6.2％）。虫垂の使用は合併症発生率の低下と関連していた (p=0.03)。ストーマの位置は合併症発生率に大きな影響を与えませんでした。\n結論: 大陸カテーテル挿入可能なチャネルは、患者の利用率が高く、耐久性のある長期的な利点を提供します。虫垂を導管として使用すると、優れた結果が得られ、合併症が少なくなります。ストーマの位置は合併症発生率に大きな影響を与えません。したがって、サイトの選択は個別に行う必要があります。",
+    "detail_methods": "CCC 留置を受けている患者に対して遡及的レビュー (1998 ～ 2025 年) が実施されました。分析されたデータポイントには、一次診断、外科的適応、導管の種類、ストーマの位置、および術後合併症が含まれます。",
+    "detail_results": "この研究には175人の子供（男性99人）が参加し、合計178件のCCC処置が行われた。一次診断には、神経障害性膀胱 (53%)、外尿道外道複合体 (21%)、複合性尿路障害 (12%)、総排出腔奇形 (7%)、および後部尿道弁 (7%) が含まれていました。手術時の年齢中央値は11.3歳（IQR 7.8～14.7）でした。 CCCの適応症は、膀胱出口手術または再建手術の併用（46％）、困難な尿道カテーテル挿入（27％）、自律性の向上への要望（21％）、および再手術（3％）であった。使用された導管は、虫垂 (78%)、回腸-カザーレ (9.6%)、回腸-モンティ (8.4%)、およびその他 - S 状結腸、膀胱皮弁、尿管 (4%) でした。ストーマ部位には、右腸骨窩 (51%)、臍 (42%)、およびその他の場所 (7%) が含まれていました。追跡調査中央値9年（IQR 4～12）では、97%の子供がチャネルの有用性を維持した。合併症は小児の28％（n=48）に発生し、合計70件の事象が発生した：表在性狭窄（9％）、筋膜上閉塞（10.7％）、筋膜下閉塞（7.3％）、ストーマ失禁（6.2％）、完全なチャンネル喪失（6.2％）。虫垂の使用は合併症発生率の低下と関連していた (p=0.03)。ストーマの位置は合併症発生率に大きな影響を与えませんでした。",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n=48",
+        "source": "Complications occurred in 28% of children (n=48), totalling 70 events: superficial stenosis (9%), suprafascial obstruction (10.7%), subfascial obstruction (7.3%), stomal incontinence (6.2%), and complete channel loss (6.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "53%",
+        "source": "Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%)."
+      },
+      {
+        "item": "割合",
+        "value": "21%",
+        "source": "Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%)."
+      },
+      {
+        "item": "割合",
+        "value": "12%",
+        "source": "Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%)."
+      },
+      {
+        "item": "割合",
+        "value": "7%",
+        "source": "Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%)."
+      },
+      {
+        "item": "割合",
+        "value": "46%",
+        "source": "Indications for CCC were concomitant bladder-outlet or reconstructive surgery (46%), difficult urethral catheterization (27%), desire for improved autonomy (21%), and redo surgery (3%)."
+      },
+      {
+        "item": "割合",
+        "value": "27%",
+        "source": "Indications for CCC were concomitant bladder-outlet or reconstructive surgery (46%), difficult urethral catheterization (27%), desire for improved autonomy (21%), and redo surgery (3%)."
+      },
+      {
+        "item": "割合",
+        "value": "3%",
+        "source": "Primary diagnoses included neuropathic bladder (53%), exstrophy-epispadias complex (21%), complex uropathy (12%), cloacal malformations (7%), and posterior urethral valves (7%)."
+      },
+      {
+        "item": "割合",
+        "value": "78%",
+        "source": "Conduits utilised were appendix (78%), ileum-Casale (9.6%), ileum-Monti (8.4%), and other - sigmoid, vesical flap, ureter (4%)."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.03",
+        "source": "The use of the appendix was associated with lower complication rates (p=0.03)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667981/",
+    "doi_url": "https://doi.org/10.1016/j.jpedsurg.2026.163428",
+    "created_at": "2026-08-30T21:18:29.691069+00:00"
+  },
+  {
+    "pmid": "42667816",
+    "doi": "10.1016/j.jphotobiol.2026.113551",
+    "category": "カテーテル新技術",
+    "title_en": "Targeting planktonic uropathogens and Escherichia coli biofilm with photodynamic therapy mediated by methylene blue and potassium iodide.",
+    "title_ja": "メチレンブルーとヨウ化カリウムを介した光力学療法による浮遊性尿路病原体と大腸菌バイオフィルムの標的化。",
+    "authors": "Silva Daniela, Mendonça Inês, Vieira Cátia, Neves M Graça P M S, Faustino M Amparo, Bartolomeu Maria, Almeida Adelaide",
+    "journal": "Journal of photochemistry and photobiology. B, Biology",
+    "publication_date": "2026-08-27",
+    "entry_date": "2026-08-29",
+    "study_design": "動物実験",
+    "purpose": "尿路感染症（UTI）は世界中で最も一般的な感染症の一つであり、院内感染例の多くは尿道カテーテル表面のバイオフィルム形成に関連しています。抗菌薬耐性の問題が増大しているため、従来の抗生物質の有効性が制限されており、抗菌光線力学療法 (aPDT) が有望な代替療法として浮上しています。",
+    "methods": "この研究では、よく研究されている PS であるメチレンブルー (MB) を単独またはヨウ化カリウム (KI) の存在下で使用して、UTI の制御における aPDT の可能性を評価しました。尿中のエクスビボアッセイは、5 つの最も一般的な UTI 原因菌である肺炎桿菌、大腸菌、エンテロコッカス フェカリス、プロテウス ミラビリス、および緑膿菌を使用して実施されました。",
+    "results": "KI の添加により、試験したすべての菌株に対する光力学効果が大幅に強化され、その結果、処理時間が短縮され、浮遊状態にある混合細菌集団に対しても効果的でした。大腸菌バイオフィルムは、1 回および 2 回の aPDT 治療サイクル後にそれぞれ 3.9 (> 99.987%) および 6.0 log10 CFU mL-1 の減少を達成しました。",
+    "conclusion": "全体として、これらの発見は、尿路カテーテル表面に形成された浮遊性尿路病原体および大腸菌バイオフィルムの光不活性化のための有望な戦略として、MB + KI媒介aPDTを強調しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「proteus mirabilis」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "proteus mirabilis"
+    ],
+    "abstract_en": "Urinary tract infections (UTIs) are among the most common infections worldwide, with many hospital-acquired cases linked to biofilm formation on urinary catheter surfaces. The growing problem of antimicrobial resistance limits the effectiveness of conventional antibiotics, and antimicrobial photodynamic therapy (aPDT) has emerged as a promising alternative. This approach is based on the combination of a photosensitizer (PS), dioxygen, and visible light to reduce bacterial concentration without promoting resistance. In this study, the potential of aPDT in controlling UTIs was evaluated using a well-studied PS, methylene blue (MB), alone or in the presence of potassium iodide (KI). Ex vivo assays in urine were conducted using the five most common UTI-causing bacteria: Klebsiella pneumoniae, Escherichia coli, Enterococcus faecalis, Proteus mirabilis, and Pseudomonas aeruginosa. MB alone effectively photoinactivated E. coli, P. mirabilis, and E. faecalis in planktonic form, with limited activity against K. pneumoniae and P. aeruginosa. The addition of KI significantly enhanced the photodynamic effect against all tested strains, resulting in a reduced treatment time, and was also effective against mixed bacterial populations in the planktonic state. The efficacy of the treatments was further evaluated against E. coli cells within biofilms formed on urinary catheter surfaces. The combined action of MB and KI successfully controlled E. coli biofilms, achieving reductions of 3.9 (> 99.987%) and 6.0 log10 CFU mL-1 after one and two aPDT treatment cycles, respectively. Overall, these findings highlight MB + KI-mediated aPDT as a promising strategy for the photoinactivation of planktonic uropathogens and E. coli biofilms formed on urinary catheter surfaces.",
+    "abstract_ja": "尿路感染症（UTI）は世界中で最も一般的な感染症の一つであり、院内感染例の多くは尿道カテーテル表面のバイオフィルム形成に関連しています。抗菌薬耐性の問題が増大しているため、従来の抗生物質の有効性が制限されており、抗菌光線力学療法 (aPDT) が有望な代替療法として浮上しています。このアプローチは、光増感剤 (PS)、酸素、可視光の組み合わせに基づいており、耐性を促進することなく細菌の濃度を低減します。この研究では、よく研究されている PS であるメチレンブルー (MB) を単独またはヨウ化カリウム (KI) の存在下で使用して、UTI の制御における aPDT の可能性を評価しました。尿中のエクスビボアッセイは、5 つの最も一般的な UTI 原因菌である肺炎桿菌、大腸菌、エンテロコッカス フェカリス、プロテウス ミラビリス、および緑膿菌を使用して実施されました。 MB 単独では、肺炎桿菌および緑膿菌に対する活性は限定されましたが、プランクトン性形態の大腸菌、ミラビリス菌、およびフェカリス菌を効果的に光不活性化しました。 KI の添加により、試験したすべての菌株に対する光力学効果が大幅に強化され、その結果、処理時間が短縮され、浮遊状態にある混合細菌集団に対しても効果的でした。治療の有効性は、尿道カテーテル表面に形成されたバイオフィルム内の大腸菌細胞に対してさらに評価されました。 MB と KI の併用作用により大腸菌バイオフィルムの制御に成功し、aPDT 治療サイクル 1 サイクル後および 2 サイクル後にそれぞれ 3.9 (> 99.987%) および 6.0 log10 CFU mL-1 の減少を達成しました。全体として、これらの発見は、尿路カテーテル表面に形成された浮遊性尿路病原体および大腸菌バイオフィルムの光不活性化のための有望な戦略として、MB + KI媒介aPDTを強調しています。",
+    "detail_methods": "この研究では、よく研究されている PS であるメチレンブルー (MB) を単独またはヨウ化カリウム (KI) の存在下で使用して、UTI の制御における aPDT の可能性を評価しました。尿中のエクスビボアッセイは、5 つの最も一般的な UTI 原因菌である肺炎桿菌、大腸菌、エンテロコッカス フェカリス、プロテウス ミラビリス、および緑膿菌を使用して実施されました。",
+    "detail_results": "KI の添加により、試験したすべての菌株に対する光力学効果が大幅に強化され、その結果、処理時間が短縮され、浮遊状態にある混合細菌集団に対しても効果的でした。大腸菌バイオフィルムは、1 回および 2 回の aPDT 治療サイクル後にそれぞれ 3.9 (> 99.987%) および 6.0 log10 CFU mL-1 の減少を達成しました。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "99.987%",
+        "source": "coli biofilms, achieving reductions of 3.9 (> 99.987%) and 6.0 log10 CFU mL-1 after one and two aPDT treatment cycles, respectively."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42667816/",
+    "doi_url": "https://doi.org/10.1016/j.jphotobiol.2026.113551",
+    "created_at": "2026-08-30T21:18:47.001600+00:00"
   },
   {
     "pmid": "42663903",
