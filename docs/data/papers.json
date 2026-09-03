@@ -1,5 +1,89 @@
 [
   {
+    "pmid": "42689986",
+    "doi": "10.31083/FBL53201",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Calcium-Sensing Receptor Activation Disrupts Phosphatidylserine Asymmetry and Promotes Calcium Oxalate Crystal-Induced Epithelial Injury in Renal Tubular Epithelial Cells.",
+    "title_ja": "カルシウム感知受容体の活性化はホスファチジルセリンの非対称性を破壊し、尿細管上皮細胞におけるシュウ酸カルシウム結晶誘発上皮損傷を促進します。",
+    "authors": "Liu Hanlin, Xiao Yangjie, Fu Yuqiang, Chen Siyu, Shi Wei, Li Xiaoran",
+    "journal": "Frontiers in bioscience (Landmark edition)",
+    "publication_date": "2026-08-17",
+    "entry_date": "2026-09-03",
+    "study_design": "動物実験",
+    "purpose": "尿細管上皮上のシュウ酸カルシウム (CaOx) 結晶の保持は、尿路結石症の重要なステップです。ホスファチジルセリン (PS) への曝露は結晶細胞接着を促進する可能性があるが、上流のシグナル伝達機構と、PS の内側への反転と外側への PS 再分布の障害の相対的な寄与は依然として不明である。",
+    "methods": "",
+    "results": "COM は CaSR 発現を増加させ、表面 PS 露出を強化し、酸化ストレスとアポトーシス関連シグナル伝達を同時に伴う結晶接着を促進しました。 COM は、APLT 依存性の内向き PS 反転における CaSR 感受性欠陥を誘発しました。NPS2390 は内向き PS 輸送と APLT 発現を部分的に回復させましたが、GdCl3 はこれらの変化を悪化させました。対照的に、COM によって強化された外向き PS 再分配と外在化は CaSR 変調による影響をほとんど受けず、外向きプロセスの相対的な CaSR 非感受性を示しています。一貫して、CaSR 活性化は悪化しましたが、CaSR 阻害は、結晶接着と傷害関連の測定値を弱めました。",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis"
+    ],
+    "abstract_en": "BACKGROUND: Calcium oxalate (CaOx) crystal retention on the renal tubular epithelium is a key step in urolithiasis. Phosphatidylserine (PS) exposure may facilitate crystal-cell adhesion, but the upstream signaling mechanisms and the relative contributions of impaired inward PS flipping versus outward PS redistribution remain unclear.\nMATERIALS AND METHODS: Global proteomic profiling using 2-dimensional electrophoresis and matrix-assisted laser desorption/ionization time-of-flight/time-of-flight mass spectrometry (2-DE/MALDI-TOF/TOF) in an immortalized human proximal tubular epithelial cell line (HK-2) cells exposed to calcium oxalate monohydrate (COM) identified upregulation of the calcium-sensing receptor (CaSR). HK-2 cells were treated with COM with or without the CaSR antagonist NPS2390 or the CaSR agonist gadolinium chloride (GdCl3). Bidirectional PS transport was assessed using an N-(7-nitrobenz-2-oxa-1,3-diazol-4-yl) (NBD)-labeled phosphatidylserine (NBD-PS) fluorescence-quenching assay, and surface PS exposure was measured by annexin V binding. Aminophospholipid translocase (APLT) expression, APLT-dependent inward PS transport, crystal adhesion, oxidative stress, and apoptosis-related signaling were evaluated.\nRESULTS: COM increased CaSR expression, enhanced surface PS exposure, and promoted crystal adhesion with concurrent oxidative stress and apoptosis-related signaling. COM induced a CaSR-sensitive defect in APLT-dependent inward PS flipping: NPS2390 partially restored inward PS transport and APLT expression, whereas GdCl3 exacerbated these changes. In contrast, COM-enhanced outward PS redistribution and externalization was largely unaffected by CaSR modulation, indicating relative CaSR insensitivity of the outward process. Consistently, CaSR activation aggravated, while CaSR inhibition attenuated, crystal adhesion and injury-related readouts.\nCONCLUSIONS: COM was associated with enhanced crystal-cell adhesion, CaSR activation, and a CaSR-sensitive impairment of APLT-dependent inward PS flipping, whereas enhanced outward PS redistribution appeared largely CaSR-insensitive. Pharmacologic inhibition of CaSR attenuated epithelial injury and crystal retention-related readouts, suggesting that CaSR may represent a potential therapeutic target.",
+    "abstract_ja": "背景: 尿細管上皮上のシュウ酸カルシウム (CaOx) 結晶の保持は、尿路結石症の重要な段階です。ホスファチジルセリン (PS) への曝露は結晶細胞接着を促進する可能性があるが、上流のシグナル伝達機構と、PS の内側への反転と外側への PS 再分布の障害の相対的な寄与は依然として不明である。\n材料と方法: シュウ酸カルシウム一水和物 (COM) に曝露された不死化ヒト近位尿細管上皮細胞株 (HK-2) 細胞における 2 次元電気泳動とマトリックス支援レーザー脱離/イオン化飛行時間/飛行時間型質量分析 (2-DE/MALDI-TOF/TOF) を使用したグローバル プロテオーム プロファイリングにより、カルシウム感知受容体（CaSR）。 HK-2 細胞を、CaSR アンタゴニスト NPS2390 または CaSR アゴニストの塩化ガドリニウム (GdCl3) の有無にかかわらず、COM で処理しました。双方向 PS 輸送は、N-(7-ニトロベンズ-2-オキサ-1,3-ジアゾール-4-イル) (NBD) 標識ホスファチジルセリン (NBD-PS) 蛍光消光アッセイを使用して評価され、表面 PS 露出はアネキシン V 結合によって測定されました。アミノリン脂質トランスロカーゼ (APLT) の発現、APLT 依存性の内向き PS 輸送、結晶接着、酸化ストレス、およびアポトーシス関連シグナル伝達を評価しました。\n結果: COM は CaSR 発現を増加させ、表面 PS 露出を強化し、酸化ストレスとアポトーシス関連シグナル伝達を同時に伴う結晶接着を促進しました。 COM は、APLT 依存性の内向き PS 反転における CaSR 感受性欠陥を誘発しました。NPS2390 は内向き PS 輸送と APLT 発現を部分的に回復させましたが、GdCl3 はこれらの変化を悪化させました。対照的に、COM によって強化された外向き PS 再分配と外在化は CaSR 変調による影響をほとんど受けず、外向きプロセスの相対的な CaSR 非感受性を示しています。一貫して、CaSR 活性化は悪化しましたが、CaSR 阻害は、結晶接着と傷害関連の測定値を弱めました。\n結論：COMは結​​晶細胞接着の亢進、CaSR活性化、およびAPLT依存性内向きPS反転のCaSR感受性障害と関連していた一方、外向きPS再分布の亢進は主としてCaSR非感受性であると考えられた。 CaSRの薬理学的阻害は上皮損傷と結晶保持関連の測定値を軽減し、CaSRが潜在的な治療標的である可能性を示唆しています。",
+    "detail_methods": "シュウ酸カルシウム一水和物（COM）に曝露された不死化ヒト近位尿細管上皮細胞株（HK-2）細胞における、2次元電気泳動およびマトリックス支援レーザー脱離/イオン化飛行時間/飛行時間型質量分析法（2-DE/MALDI-TOF/TOF）を用いたグローバルプロテオームプロファイリングにより、カルシウム感知受容体の上方制御が確認された(CaSR)。 HK-2 細胞を、CaSR アンタゴニスト NPS2390 または CaSR アゴニストの塩化ガドリニウム (GdCl3) の有無にかかわらず、COM で処理しました。双方向 PS 輸送は、N-(7-ニトロベンズ-2-オキサ-1,3-ジアゾール-4-イル) (NBD) 標識ホスファチジルセリン (NBD-PS) 蛍光消光アッセイを使用して評価され、表面 PS 露出はアネキシン V 結合によって測定されました。アミノリン脂質トランスロカーゼ (APLT) の発現、APLT 依存性の内向き PS 輸送、結晶接着、酸化ストレス、およびアポトーシス関連シグナル伝達を評価しました。",
+    "detail_results": "COM は CaSR 発現を増加させ、表面 PS 露出を強化し、酸化ストレスとアポトーシス関連シグナル伝達を同時に伴う結晶接着を促進しました。 COM は、APLT 依存性の内向き PS 反転における CaSR 感受性欠陥を誘発しました。NPS2390 は内向き PS 輸送と APLT 発現を部分的に回復させましたが、GdCl3 はこれらの変化を悪化させました。対照的に、COM によって強化された外向き PS 再分配と外在化は CaSR 変調による影響をほとんど受けず、外向きプロセスの相対的な CaSR 非感受性を示しています。一貫して、CaSR 活性化は悪化しましたが、CaSR 阻害は、結晶接着と傷害関連の測定値を弱めました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42689986/",
+    "doi_url": "https://doi.org/10.31083/FBL53201",
+    "created_at": "2026-09-03T23:16:00.265757+00:00"
+  },
+  {
+    "pmid": "42691488",
+    "doi": "10.5867/medwave.2026.08.3240",
+    "category": "カテーテル新技術",
+    "title_en": "Impact of clean intermittent catheterization on quality of life and resource utilization in patients with spinal cord injury and urological complications: A narrative review.",
+    "title_ja": "脊髄損傷および泌尿器科合併症患者の生活の質と資源利用に対する清潔な断続的カテーテル挿入の影響: ナラティブレビュー。",
+    "authors": "Lenz-Alcayaga Rony, Lenz-Ortiz Sebastián",
+    "journal": "Medwave",
+    "publication_date": "2026-09-03",
+    "entry_date": "2026-09-03",
+    "study_design": "動物実験",
+    "purpose": "脊髄損傷および泌尿器科合併症患者の生活の質と資源利用に対する清潔な断続的カテーテル治療の影響に関する国際的な証拠を総合し、チリの家族にカテーテル治療の経済的負担を移す政策の見直しを支援する。",
+    "methods": "MEDLINE/PubMed データベースと、2014 年から 2025 年に出版された灰色の文献に基づいた、スペイン語と英語による物語的なレビュー。リサーチクエスチョンは、母集団、コンセプト、コンテキストのフレームワークを使用して構造化されました。 MeSH 用語、フリーテキスト キーワード、およびブール演算子を組み合わせた 2 つの検索アルゴリズムが適用されました。スクリーニングは 3 つの連続した段階 (タイトル、要約、全文) で実施され、2 番目の査読者が不確実性をコンセンサスに基づいて解決しました。",
+    "results": "880件の参考文献をスクリーニングした結果、65件の研究が対象基準を満たしました。調査結果は、患者の生活の質、介護者の生活の質、尿路感染症、資源の使用、および新たなケアモデルの 5 つの側面に整理されました。この証拠に基づいて、慢性カテーテル使用者の典型が作成されました。外傷性脊髄損傷を患う 25 歳から 45 歳の男性で、症例の 67% 以上で車椅子を使用し、カテーテル治療に 1 日あたり 53 分以上を費やし、尿路感染症の有病率が 50% を超え (うち 3 分の 2 は抗菌薬耐性)、36% が尿路に不満を抱いていると報告しています。生活の質。さらに、彼は主に経済的な理由からカテーテルを再利用します。再利用可能なカテーテルを使用していた患者の 90% が使い捨てカテーテルへの切り替えを好み、84% がより高い満足度を報告しました。複数の費用対効果分析により、親水性使い捨てカテーテルは、高所得環境において費用対効果が高く、または有力な戦略であることが示されています。介護者（主に母親またはパートナー）は、医療制度が対処できていない不十分な訓練、社会的制限、仕事関連の問題を報告しています。",
+    "conclusion": "適切なカテーテル治療用品へのアクセスは、体系化された患者と介護者の教育およびケアの継続と組み合わせることで、生活の質を向上させ、泌尿器合併症を軽減し、費用対効果が高くなります。カテーテル治療にかかる経済的負担を家族に移すというチリの現在の政策は、入手可能な国際的証拠と矛盾している。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: To synthesize the international evidence on the impact of clean intermittent catheterization on quality of life and resource utilization in patients with spinal cord injury and urological complications, to support a review of policies that shift the financial burden of catheterization to families in Chile.\nMETHODS: A narrative review based on the MEDLINE/PubMed database and gray literature published between 2014 and 2025, in Spanish and English. The research question was structured using the population, concept, and context framework. Two search algorithms were applied, combining MeSH terms, free-text keywords, and Boolean operators. Screening was conducted in three successive stages (title, abstract, and full text), with a second reviewer resolving any uncertainties by consensus.\nRESULTS: After screening 880 references, 65 studies met the inclusion criteria. Findings were organized into five dimensions: patient quality of life, caregiver quality of life, urinary tract infections, resource use, and emerging care models. Based on this evidence, an archetype of the chronic catheter user was developed: a man aged between 25 and 45 with a traumatic spinal cord injury, who uses a wheelchair in more than 67% of cases, spends more than 53 minutes a day on catheterization, has a prevalence of urinary tract infection exceeding 50% (two-thirds of which are antimicrobial resistant), and reports a 36% dissatisfaction with his urinary quality of life. Furthermore, he reuses catheters primarily for economic reasons; 90% of patients who used reusable catheters preferred switching to single-use catheters, and 84% reported greater satisfaction. Multiple cost-effectiveness analyses show that hydrophilic single-use catheters are cost-effective or dominant strategies in high-income settings. Caregivers -mostly mothers or partners- report insufficient training, social restriction, and work-related difficulties that the healthcare system fails to address.\nCONCLUSIONS: Access to appropriate catheterization supplies, combined with structured patient and caregiver education and continuity of care, improves quality of life, reduces urinary complications, and is cost-effective. Chile's current policy of shifting the financial burden of catheterization to families is inconsistent with the available international evidence.",
+    "abstract_ja": "目的: 脊髄損傷および泌尿器科合併症患者の生活の質と資源利用に対する清潔な断続的カテーテル治療の影響に関する国際的な証拠を総合し、チリの家族にカテーテル治療の経済的負担を移す政策の見直しを支援すること。\n方法: MEDLINE/PubMed データベースと、2014 年から 2025 年に出版された灰色の文献に基づいた、スペイン語と英語での物語的レビュー。リサーチクエスチョンは、母集団、コンセプト、コンテキストのフレームワークを使用して構造化されました。 MeSH 用語、フリーテキスト キーワード、およびブール演算子を組み合わせた 2 つの検索アルゴリズムが適用されました。スクリーニングは 3 つの連続した段階 (タイトル、要約、全文) で実施され、2 番目の査読者が不確実性をコンセンサスに基づいて解決しました。\n結果: 880 件の参考文献をスクリーニングした結果、65 件の研究が選択基準を満たしました。調査結果は、患者の生活の質、介護者の生活の質、尿路感染症、資源の使用、および新たなケアモデルの 5 つの側面に整理されました。この証拠に基づいて、慢性カテーテル使用者の典型が作成されました。外傷性脊髄損傷を患う 25 歳から 45 歳の男性で、症例の 67% 以上で車椅子を使用し、カテーテル治療に 1 日あたり 53 分以上を費やし、尿路感染症の有病率が 50% を超え (うち 3 分の 2 は抗菌薬耐性)、36% が尿路に不満を抱いていると報告しています。生活の質。さらに、彼は主に経済的な理由からカテーテルを再利用します。再利用可能なカテーテルを使用していた患者の 90% が使い捨てカテーテルへの切り替えを好み、84% がより高い満足度を報告しました。複数の費用対効果分析により、親水性使い捨てカテーテルは、高所得環境において費用対効果が高く、または有力な戦略であることが示されています。介護者（主に母親またはパートナー）は、医療制度が対処できていない不十分な訓練、社会的制限、仕事関連の問題を報告しています。\n結論: 適切なカテーテル治療用品へのアクセスは、体系化された患者と介護者の教育およびケアの継続と組み合わせることで、生活の質を向上させ、泌尿器合併症を軽減し、費用対効果が高くなります。カテーテル治療にかかる経済的負担を家族に移すというチリの現在の政策は、入手可能な国際的証拠と矛盾している。",
+    "detail_methods": "MEDLINE/PubMed データベースと、2014 年から 2025 年に出版された灰色の文献に基づいた、スペイン語と英語による物語的なレビュー。リサーチクエスチョンは、母集団、コンセプト、コンテキストのフレームワークを使用して構造化されました。 MeSH 用語、フリーテキスト キーワード、およびブール演算子を組み合わせた 2 つの検索アルゴリズムが適用されました。スクリーニングは 3 つの連続した段階 (タイトル、要約、全文) で実施され、2 番目の査読者が不確実性をコンセンサスに基づいて解決しました。",
+    "detail_results": "880件の参考文献をスクリーニングした結果、65件の研究が対象基準を満たしました。調査結果は、患者の生活の質、介護者の生活の質、尿路感染症、資源の使用、および新たなケアモデルの 5 つの側面に整理されました。この証拠に基づいて、慢性カテーテル使用者の典型が作成されました。外傷性脊髄損傷を患う 25 歳から 45 歳の男性で、症例の 67% 以上で車椅子を使用し、カテーテル治療に 1 日あたり 53 分以上を費やし、尿路感染症の有病率が 50% を超え (うち 3 分の 2 は抗菌薬耐性)、36% が尿路に不満を抱いていると報告しています。生活の質。さらに、彼は主に経済的な理由からカテーテルを再利用します。再利用可能なカテーテルを使用していた患者の 90% が使い捨てカテーテルへの切り替えを好み、84% がより高い満足度を報告しました。複数の費用対効果分析により、親水性使い捨てカテーテルは、高所得環境において費用対効果が高く、または有力な戦略であることが示されています。介護者（主に母親またはパートナー）は、医療制度が対処できていない不十分な訓練、社会的制限、仕事関連の問題を報告しています。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "67%",
+        "source": "Based on this evidence, an archetype of the chronic catheter user was developed: a man aged between 25 and 45 with a traumatic spinal cord injury, who uses a wheelchair in more than 67% of cases, spends more than 53 minutes a day on catheterization, has a prevalence of urinary tract infection exceeding 50% (two-thirds of which are antimicrobial resistant), and reports a 36% dissatisfaction with his urinary quality of life."
+      },
+      {
+        "item": "割合",
+        "value": "50%",
+        "source": "Based on this evidence, an archetype of the chronic catheter user was developed: a man aged between 25 and 45 with a traumatic spinal cord injury, who uses a wheelchair in more than 67% of cases, spends more than 53 minutes a day on catheterization, has a prevalence of urinary tract infection exceeding 50% (two-thirds of which are antimicrobial resistant), and reports a 36% dissatisfaction with his urinary quality of life."
+      },
+      {
+        "item": "割合",
+        "value": "36%",
+        "source": "Based on this evidence, an archetype of the chronic catheter user was developed: a man aged between 25 and 45 with a traumatic spinal cord injury, who uses a wheelchair in more than 67% of cases, spends more than 53 minutes a day on catheterization, has a prevalence of urinary tract infection exceeding 50% (two-thirds of which are antimicrobial resistant), and reports a 36% dissatisfaction with his urinary quality of life."
+      },
+      {
+        "item": "割合",
+        "value": "90%",
+        "source": "Furthermore, he reuses catheters primarily for economic reasons; 90% of patients who used reusable catheters preferred switching to single-use catheters, and 84% reported greater satisfaction."
+      },
+      {
+        "item": "割合",
+        "value": "84%",
+        "source": "Furthermore, he reuses catheters primarily for economic reasons; 90% of patients who used reusable catheters preferred switching to single-use catheters, and 84% reported greater satisfaction."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42691488/",
+    "doi_url": "https://doi.org/10.5867/medwave.2026.08.3240",
+    "created_at": "2026-09-03T23:16:08.546957+00:00"
+  },
+  {
     "pmid": "42684013",
     "doi": "10.1111/1471-0528.70329",
     "category": "尿道カテーテル閉塞",
@@ -124,6 +208,272 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42682619/",
     "doi_url": "https://doi.org/10.3389/fphar.2026.1914929",
     "created_at": "2026-09-02T23:18:30.482684+00:00"
+  },
+  {
+    "pmid": "42685986",
+    "doi": "10.1016/j.fjurol.2026.103187",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Early Versus Delayed Catheter Removal After Bipolar TURP: A Prospective Randomized Study with Long-Term Functional Follow-up.",
+    "title_ja": "双極性TURP後の早期カテーテル抜去と遅滞的カテーテル抜去:長期の機能追跡調査を伴う前向きランダム化研究。",
+    "authors": "Guler Haydar, Yildiz Oguzhan, Kucukpolat Salim, Arslan Mehmet Sait, Kocan Huseyin",
+    "journal": "The French journal of urology",
+    "publication_date": "2026-09-02",
+    "entry_date": "2026-09-02",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "双極性TURP後24時間の早期カテーテル抜去は、短期または長期の機能転帰に悪影響を及ぼさず、合併症発生率を増加させることなく入院期間の短縮と治療費の削減につながります。これらの発見は、現代の双極性TURP実践における安全で効率的な戦略として、早期にカテーテルを除去することを裏付けています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: To compare early (24-hour) versus delayed (72-hour) urethral catheter removal after transurethral resection of the prostate (TURP), focusing primarily on postoperative functional outcomes and secondarily on hospitalization, complications, and treatment cost.\nMETHODS: This prospective, single-center randomized study included 88 men undergoing bipolar TURP for benign prostatic obstruction between February 2022 and June 2025. Patients were randomized to early catheter removal at 24 hours (n = 43) or delayed removal at 72 hours (n = 45). Primary outcomes were functional parameters, including maximum urinary flow rate (Qmax), postvoid residual urine volume (PVR), and International Prostate Symptom Score (IPSS), assessed immediately after catheter removal, at the third postoperative month, and at final follow-up. The median duration of follow-up was 20.5 months. Secondary outcomes included length of hospitalization, need for secondary treatment or intervention, and total treatment cost.\nRESULTS: Baseline characteristics were comparable between groups. Immediately after catheter removal, Qmax values were similar between groups (p = 0.851). Post-catheter IPSS scores were slightly higher in the early group but remained within the mild symptom range (p = 0.031). At the third postoperative month and at final follow-up, no significant differences were observed between groups in Qmax, PVR, or IPSS (all p > 0.05). The median cost excluding the TURP procedure fee was lower in the early group (65 vs. 87 USD, p = 0.016), as was the median total cost including the TURP procedure fee (240 vs. 296 USD, p = 0.012). Rates of secondary treatment or additional intervention were similar between groups (14.0% vs. 13.3%, p = 0.932).\nCONCLUSION: Early catheter removal 24 hours after bipolar TURP does not adversely affect short- or long-term functional outcomes and is associated with shorter hospitalization and lower treatment cost without increasing complication rates. These findings support early catheter removal as a safe and efficient strategy in contemporary bipolar TURP practice.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 43",
+        "source": "Patients were randomized to early catheter removal at 24 hours (n = 43) or delayed removal at 72 hours (n = 45)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 45",
+        "source": "Patients were randomized to early catheter removal at 24 hours (n = 43) or delayed removal at 72 hours (n = 45)."
+      },
+      {
+        "item": "割合",
+        "value": "14.0%",
+        "source": "Rates of secondary treatment or additional intervention were similar between groups (14.0% vs."
+      },
+      {
+        "item": "割合",
+        "value": "13.3%",
+        "source": "13.3%, p = 0.932)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.851",
+        "source": "Immediately after catheter removal, Qmax values were similar between groups (p = 0.851)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.031",
+        "source": "Post-catheter IPSS scores were slightly higher in the early group but remained within the mild symptom range (p = 0.031)."
+      },
+      {
+        "item": "P値",
+        "value": "p > 0.05",
+        "source": "At the third postoperative month and at final follow-up, no significant differences were observed between groups in Qmax, PVR, or IPSS (all p > 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.016",
+        "source": "87 USD, p = 0.016), as was the median total cost including the TURP procedure fee (240 vs."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.012",
+        "source": "296 USD, p = 0.012)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.932",
+        "source": "13.3%, p = 0.932)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685986/",
+    "doi_url": "https://doi.org/10.1016/j.fjurol.2026.103187",
+    "created_at": "2026-09-03T23:15:53.919600+00:00"
+  },
+  {
+    "pmid": "42686638",
+    "doi": "10.6859/aja.202608/PP.0001",
+    "category": "カテーテル新技術",
+    "title_en": "Comparison of the Effectiveness of Epidural Lysis of Adhesions by Caudal Catheter Insertion or Transforaminal Epidural Lysis at the L5-S1 Level for Failed Back Surgery Syndrome Treatment.",
+    "title_ja": "フェイルドバック手術症候群治療における、尾側カテーテル挿入による癒着の硬膜外溶解またはL5-S1レベルでの経椎孔硬膜外溶解の有効性の比較。",
+    "authors": "Sharaﬁ Maryam, Dori Mehrdad Mokaram, Khademi Seyed-Hossein",
+    "journal": "Asian journal of anesthesiology",
+    "publication_date": "2026-09-02",
+    "entry_date": "2026-09-02",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "複数の研究が失敗後手術症候群（FBSS）に対する硬膜外溶解の有意な利点を示唆しているにもかかわらず、硬膜外溶解のさまざまなアプローチとの比較評価は依然として限られています。本研究は、L5-S1腰椎手術後の痛みと障害の治療における尾部カテーテルベースの癒着硬膜外溶解技術と経椎間孔硬膜外溶解技術の有効性を調査することを目的としています。",
+    "methods": "この研究は、L5-S1レベルの腰椎手術後にFBSSと診断され、3か月以上痛みを訴えた患者を対象に実施された二重盲検ランダム化臨床試験でした。 2023年にイランのマシュハドにあるイマーム・レザー病院のペインクリニックに紹介されたこれらの患者は、2つのグループのうちの1つにランダムに割り当てられた。1つはカテーテルによる尾部の硬膜外癒着溶解療法を受け、もう1つはL5-S1経椎間孔硬膜外溶解療法を受けた。患者の痛みの強さと運動機能および感覚機能を、介入前、介入の 4 週間後、および 12 週間後に評価しました。機能状態を評価するために数値評価尺度 (NRS) とオスウェストリー障害指数 (ODI) アンケートを使用して、2 つのグループ内およびグループ間で結果を比較しました。",
+    "results": "追跡調査中、ODI、背中のNRS、および脚のNRSスコアは、経椎孔群と比較して、カテーテルによる硬膜外溶解を受けた患者の方が有意に低かった（P < 0.05）。尾部カテーテル群では、患者のそれぞれ 73.5%、79.4%、および 70.6% の ODI、背部 NRS、および脚部 NRS 因子の成功率が示されました。経椎間孔溶解グループは、ODI、背部 NRS、および脚 NRS 因子に関して、それぞれ 54.5%、48.5%、および 48.5% の患者で成功しました。さらに、12週間の追跡調査では、ODI（χ 2 = 4.53、P = 0.02）および背部NRS（χ 2 = 5.78、P = 0.01）に関する治療成功率は、経椎間孔溶解グループと比較して尾側溶解グループの方が有意に高かった。しかし、治療後 12 週間の脚の NRS 転帰には有意差は観察されませんでした (χ 2 = 0.25、P = 0.109)。",
+    "conclusion": "結論として、この研究は、L5-S1 レベルの FBSS 患者の痛みの軽減と機能改善の点で、カテーテルによる尾部硬膜外溶解術が経椎間孔溶解術よりも効果的であることを示しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Despite multiple studies suggesting the significant benefits of epidural lysis for failed back surgery syndrome (FBSS), comparative evaluations with different approaches of epidural lysis remain limited. The present study aims to investigate the efficacy of caudal catheter-based epidural lysis of adhesions techniques versus transforaminal epidural lysis in treating pain and disability after L5-S1 lumbar surgery.\nMETHODS: This study was a double-blinded randomized clinical trial conducted on patients diagnosed with FBSS after lumbar spine surgery at the level of L5-S1 and complained of pain for more than 3 months. These patients who were referred to the Imam Reza Hospital pain clinic in Mashhad, Iran, in 2023, were randomly assigned to one of two groups: one undergoing caudal epidural lysis of adhesions with a catheter, and the other received L5-S1 transforaminal epidural lysis. The intensity of patients' pain and their motor and sensory function were evaluated before intervention and 4 weeks, and 12 weeks post-intervention. Outcomes were compared within and between the two groups using the Numerical Rating Scale (NRS) and the Oswestry Disability Index (ODI) questionnaire to assess their functional status.\nRESULTS: During follow-up, the ODI, back NRS, and leg NRS scores were significantly lower in patients who underwent epidural lysis with catheter compared to the transforaminal group ( P < 0.05). The caudal catheter group showed success rates of ODI, back NRS, and leg NRS factors among 73.5%, 79.4%, and 70.6% of patients, respectively. The transforaminal lysis group was successful in 54.5%, 48.5%, and 48.5% of patients in terms of ODI, back NRS, and leg NRS factors, respectively. Additionally, at the 12-week follow-up, the rate of treatment success in terms of ODI (χ 2 = 4.53, P = 0.02) and back NRS (χ 2 = 5.78, P = 0.01) was significantly higher in the caudal lysis group compared to the transforaminal lysis group. However, no significant difference was observed in leg NRS outcomes at 12 weeks after treatment (χ 2 = 0.25, P = 0.109).\nCONCLUSION: In conclusion, this study indicates that caudal epidural lysis with a catheter is more effective than transforaminal lysis in terms of pain reduction and functional improvement for patients with L5-S1 level FBSS.",
+    "abstract_ja": "背景: 失敗後手術症候群 (FBSS) に対する硬膜外溶解の重要な利点を示唆する複数の研究にもかかわらず、硬膜外溶解のさまざまなアプローチとの比較評価は依然として限られています。本研究は、L5-S1腰椎手術後の痛みと障害の治療における尾部カテーテルベースの癒着硬膜外溶解技術と経椎間孔硬膜外溶解技術の有効性を調査することを目的としています。\n方法：この研究は、L5-S1レベルの腰椎手術後にFBSSと診断され、3か月以上痛みを訴えた患者を対象に実施された二重盲検ランダム化臨床試験でした。 2023年にイランのマシュハドにあるイマーム・レザー病院のペインクリニックに紹介されたこれらの患者は、2つのグループのうちの1つにランダムに割り当てられた。1つはカテーテルによる尾部の硬膜外癒着溶解療法を受け、もう1つはL5-S1経椎間孔硬膜外溶解療法を受けた。患者の痛みの強さと運動機能および感覚機能を、介入前、介入の 4 週間後、および 12 週間後に評価しました。機能状態を評価するために数値評価尺度 (NRS) とオスウェストリー障害指数 (ODI) アンケートを使用して、2 つのグループ内およびグループ間で結果を比較しました。\n結果：追跡調査中、カテーテルによる硬膜外溶解術を受けた患者では、経椎孔群と比較して、ODI、背中のNRS、および脚のNRSスコアが有意に低かった（P < 0.05）。尾部カテーテル群では、患者のそれぞれ 73.5%、79.4%、および 70.6% の ODI、背部 NRS、および脚部 NRS 因子の成功率が示されました。経椎間孔溶解グループは、ODI、背部 NRS、および脚 NRS 因子に関して、それぞれ 54.5%、48.5%、および 48.5% の患者で成功しました。さらに、12週間の追跡調査では、ODI（χ 2 = 4.53、P = 0.02）および背部NRS（χ 2 = 5.78、P = 0.01）に関する治療成功率は、経椎間孔溶解グループと比較して尾側溶解グループの方が有意に高かった。しかし、治療後 12 週間の脚の NRS 転帰には有意差は観察されませんでした (χ 2 = 0.25、P = 0.109)。\n結論： 結論として、この研究は、L5-S1 レベルの FBSS 患者の痛みの軽減と機能改善の点で、カテーテルによる尾部硬膜外溶解術が経椎間孔溶解術よりも効果的であることを示しています。",
+    "detail_methods": "この研究は、L5-S1レベルの腰椎手術後にFBSSと診断され、3か月以上痛みを訴えた患者を対象に実施された二重盲検ランダム化臨床試験でした。 2023年にイランのマシュハドにあるイマーム・レザー病院のペインクリニックに紹介されたこれらの患者は、2つのグループのうちの1つにランダムに割り当てられた。1つはカテーテルによる尾部の硬膜外癒着溶解療法を受け、もう1つはL5-S1経椎間孔硬膜外溶解療法を受けた。患者の痛みの強さと運動機能および感覚機能を、介入前、介入の 4 週間後、および 12 週間後に評価しました。機能状態を評価するために数値評価尺度 (NRS) とオスウェストリー障害指数 (ODI) アンケートを使用して、2 つのグループ内およびグループ間で結果を比較しました。",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "73.5%",
+        "source": "The caudal catheter group showed success rates of ODI, back NRS, and leg NRS factors among 73.5%, 79.4%, and 70.6% of patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "79.4%",
+        "source": "The caudal catheter group showed success rates of ODI, back NRS, and leg NRS factors among 73.5%, 79.4%, and 70.6% of patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "70.6%",
+        "source": "The caudal catheter group showed success rates of ODI, back NRS, and leg NRS factors among 73.5%, 79.4%, and 70.6% of patients, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "54.5%",
+        "source": "The transforaminal lysis group was successful in 54.5%, 48.5%, and 48.5% of patients in terms of ODI, back NRS, and leg NRS factors, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "48.5%",
+        "source": "The transforaminal lysis group was successful in 54.5%, 48.5%, and 48.5% of patients in terms of ODI, back NRS, and leg NRS factors, respectively."
+      },
+      {
+        "item": "P値",
+        "value": "P < 0.05",
+        "source": "RESULTS: During follow-up, the ODI, back NRS, and leg NRS scores were significantly lower in patients who underwent epidural lysis with catheter compared to the transforaminal group ( P < 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.02",
+        "source": "Additionally, at the 12-week follow-up, the rate of treatment success in terms of ODI (χ 2 = 4.53, P = 0.02) and back NRS (χ 2 = 5.78, P = 0.01) was significantly higher in the caudal lysis group compared to the transforaminal lysis group."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.01",
+        "source": "Additionally, at the 12-week follow-up, the rate of treatment success in terms of ODI (χ 2 = 4.53, P = 0.02) and back NRS (χ 2 = 5.78, P = 0.01) was significantly higher in the caudal lysis group compared to the transforaminal lysis group."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.109",
+        "source": "However, no significant difference was observed in leg NRS outcomes at 12 weeks after treatment (χ 2 = 0.25, P = 0.109)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42686638/",
+    "doi_url": "https://doi.org/10.6859/aja.202608/PP.0001",
+    "created_at": "2026-09-03T23:16:17.972104+00:00"
+  },
+  {
+    "pmid": "42686219",
+    "doi": "10.1111/sdi.70046",
+    "category": "カテーテル新技術",
+    "title_en": "Efficacy of Antimicrobial Lock Solutions on Central Line-Associated Bloodstream Infection and Catheter Survival in Hemodialysis Patients: A Systematic Review and Meta-Analysis.",
+    "title_ja": "",
+    "authors": "Liu Jinghua, Lin Jianpeng, Liu Haihong, Soh KimGeok, Ju Qingmei, Soh KimLam, Dong Xianling",
+    "journal": "Seminars in dialysis",
+    "publication_date": "2026-09-02",
+    "entry_date": "2026-09-02",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Hemodialysis (HD) catheters carry a high risk of life-threatening bloodstream infections and failure. Antimicrobial lock solutions (ALS) are used to reduce this risk, but their overall efficacy on key outcomes like infection rates and catheter survival requires comprehensive evaluation. This systematic review and meta-analysis assess the impact of ALS on preventing catheter-related bloodstream infections (including incidence and density) and on improving catheter survival. A systematic search was conducted across the databases of PubMed, Embase, Scopus, Cochrane Library, and Google Scholar. A meta-analysis was conducted using STATA software. A total of 1183 studies were screened based on title and abstract, and further 282 studies were evaluated in full text. Eventually, 14 studies with 15 treatment arms were included. Key outcomes including central line-associated bloodstream infection (CLABSI), exit infection, and catheter-free survival were conducted separately. ALS demonstrated statistically significant benefits on CLABSI infection and catheter-free survival compared to nonantimicrobial solutions, showing a reduction in CLABSI density with a pooled log odd ratio (logOR) of -1.29 (95% CI: -1.59 to -0.99), lower CLABSI rates (pooled logOR = -1.50, 95% CI: -1.85 to -1.15), and improved catheter-free survival with log hazard ratio (logHR) of -1.11 (95% CI: -1.41 to -0.8). Consistent treatment effects were observed across all lock types with no significant heterogeneity detected. ALS demonstrate statistically significant and clinically important efficacy in reducing CLABSI incidence and density while improving catheter survival in HD patients, establishing them as an essential preventive strategy in clinical practice.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "ALS demonstrated statistically significant benefits on CLABSI infection and catheter-free survival compared to nonantimicrobial solutions, showing a reduction in CLABSI density with a pooled log odd ratio (logOR) of -1.29 (95% CI: -1.59 to -0.99), lower CLABSI rates (pooled logOR = -1.50, 95% CI: -1.85 to -1.15), and improved catheter-free survival with log hazard ratio (logHR) of -1.11 (95% CI: -1.41 to -0.8)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: -1",
+        "source": "ALS demonstrated statistically significant benefits on CLABSI infection and catheter-free survival compared to nonantimicrobial solutions, showing a reduction in CLABSI density with a pooled log odd ratio (logOR) of -1.29 (95% CI: -1.59 to -0.99), lower CLABSI rates (pooled logOR = -1.50, 95% CI: -1.85 to -1.15), and improved catheter-free survival with log hazard ratio (logHR) of -1.11 (95% CI: -1.41 to -0.8)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42686219/",
+    "doi_url": "https://doi.org/10.1111/sdi.70046",
+    "created_at": "2026-09-03T23:16:19.044034+00:00"
+  },
+  {
+    "pmid": "42685917",
+    "doi": "10.1016/j.jhin.2026.08.020",
+    "category": "カテーテル新技術",
+    "title_en": "Epidemiology and Outcomes of Candida auris Infections in Türkiye: A National Surveillance Study, 2023-2025.",
+    "title_ja": "",
+    "authors": "Agüloğlu Bali Elif, Hekimoğlu Can Hüseyin, Altun Dilek, Batir Esen, Balci Mehmet, Öz Erdoğan, Demirkol Muhammed Emin, Çuhaci Ülker",
+    "journal": "The Journal of hospital infection",
+    "publication_date": "2026-09-02",
+    "entry_date": "2026-09-02",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Candida auris is a multidrug-resistant yeast classified by the World Health Organization as a critical priority fungal pathogen. Following the first case notified through the national surveillance system in February 2023, nationally notified infections have risen rapidly. We aimed to describe the epidemiology, risk factors, infection profiles, and outcomes of C. auris infections captured by the national healthcare-associated infection (HAI) surveillance system in Türkiye.\nMETHODS: We analysed all C. auris infections reported to INFLINE, Türkiye's national HAI surveillance system, between 12 February 2023 and 31 December 2025. Variables included patient demographics, hospital and unit type, geographic distribution, invasive device exposures, infection type, co-pathogens, and discharge status.\nRESULTS: A total of 2,829 C. auris infections were reported from 54 of 81 provinces, with annual counts rising from 179 (2023) to 1,924 (2025). Most infections occurred in intensive care units (86.6%), predominantly as bloodstream infection (96.6%), of which 76.4% were central line-associated. C. auris was the sole pathogen in 81.1% of cases; 18.9% were polymicrobial. Common device exposures included urinary catheter (71.2%), central line catheter (66.4%), and mechanical ventilation (54.9%). In-hospital mortality was 49.8% overall; among those with a recorded outcome (n=1,894), 74.4%, with outcome data missing for 33.1% of cases.\nCONCLUSIONS: C. auris has rapidly established itself as a significant nosocomial pathogen in Türkiye, predominantly affecting critically ill ICU patients. National responses include publication of a prevention and control guide, strengthened diagnostic capacity, infection control committee training, and integration of C. auris into the National Antimicrobial Resistance Action Plan.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n=1",
+        "source": "In-hospital mortality was 49.8% overall; among those with a recorded outcome (n=1,894), 74.4%, with outcome data missing for 33.1% of cases."
+      },
+      {
+        "item": "割合",
+        "value": "86.6%",
+        "source": "Most infections occurred in intensive care units (86.6%), predominantly as bloodstream infection (96.6%), of which 76.4% were central line-associated."
+      },
+      {
+        "item": "割合",
+        "value": "96.6%",
+        "source": "Most infections occurred in intensive care units (86.6%), predominantly as bloodstream infection (96.6%), of which 76.4% were central line-associated."
+      },
+      {
+        "item": "割合",
+        "value": "76.4%",
+        "source": "Most infections occurred in intensive care units (86.6%), predominantly as bloodstream infection (96.6%), of which 76.4% were central line-associated."
+      },
+      {
+        "item": "割合",
+        "value": "81.1%",
+        "source": "auris was the sole pathogen in 81.1% of cases; 18.9% were polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "18.9%",
+        "source": "auris was the sole pathogen in 81.1% of cases; 18.9% were polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "71.2%",
+        "source": "Common device exposures included urinary catheter (71.2%), central line catheter (66.4%), and mechanical ventilation (54.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "66.4%",
+        "source": "Common device exposures included urinary catheter (71.2%), central line catheter (66.4%), and mechanical ventilation (54.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "54.9%",
+        "source": "Common device exposures included urinary catheter (71.2%), central line catheter (66.4%), and mechanical ventilation (54.9%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42685917/",
+    "doi_url": "https://doi.org/10.1016/j.jhin.2026.08.020",
+    "created_at": "2026-09-03T23:16:20.329249+00:00"
   },
   {
     "pmid": "42680488",
