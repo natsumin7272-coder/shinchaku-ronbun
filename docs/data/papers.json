@@ -1,5 +1,130 @@
 [
   {
+    "pmid": "42695518",
+    "doi": "10.1097/NAN.0000000000000654",
+    "category": "カテーテル新技術",
+    "title_en": "The Clinical and Economic Value of ClearGuard HD in the Inpatient Setting for Hemodialysis Catheter Management.",
+    "title_ja": "血液透析カテーテル管理のための入院患者環境における ClearGuard HD の臨床的および経済的価値。",
+    "authors": "Holder Max, Battle Jason, Kelly Jamie",
+    "journal": "Journal of infusion nursing : the official publication of the Infusion Nurses Society",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-04",
+    "study_design": "動物実験",
+    "purpose": "この研究は、Curos™️ キャップを備えた Tego™️ 無針コネクターの使用と比較して、血液透析カテーテル関連の中心線関連血流感染症 (CLABSI) の減少に関する ClearGuardTM HD 抗菌バリア キャップの入院患者の使用を評価した最初の研究です。",
+    "methods": "CLABSI 率および標準化感染率 (SIR) に対する ClearGuard の影響を、ベースライン率および比率と比較して評価するために、遡及的な観察データが使用されました。投資収益率を測定するために財務分析が実施されました。",
+    "results": "ベースライン期間と比較して、実施期間のデータは長期的な CLABSI の 1.91/月/施設 (95% CI: [0.91-4.00]) から 0.71/月/施設 (95% CI: [0.33-1.53]) への長期的な CLABSI 減少を示し、CLABSI は 63% (95% CI: [46%-74%]) 減少しました (P < .00005）。全体的な SIR は、ベースラインの 0.721 から 0.310 に 57% 減少しました。年間コスト削減額は 160 万ドルと推定されています。",
+    "conclusion": "ClearGuard 研究の結果と病院全体での継続的な使用は、血液透析カテーテルに関連する CLABSI イベントと関連コストが臨床的に大幅に減少することを示しています。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: This study was the first to assess inpatient use of ClearGuardTM HD antimicrobial barrier caps for the reduction of hemodialysis catheter-related central line-associated bloodstream infections (CLABSI) compared to the use of Tego™️ needlefree connectors with Curos™️ caps.\nMETHODS: Retrospective observational data were used to evaluate the effect of ClearGuard on the CLABSI rate and standardized infection ratio (SIR) compared to the baseline rate and ratio. Financial analysis was conducted to measure return on investment.\nRESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005). The overall SIR was reduced by 57%, from a baseline of 0.721 to 0.310. The annual cost savings were estimated at $1.6 million.\nCONCLUSION: The findings from the ClearGuard study and ongoing use across hospitals indicate a clinically significant reduction in hemodialysis catheter-related CLABSI events and associated costs.",
+    "abstract_ja": "目的: この研究は、Curos™️ キャップを備えた Tego™️ 無針コネクターの使用と比較して、血液透析カテーテル関連の中心線関連血流感染症 (CLABSI) の減少に関する ClearGuardTM HD 抗菌バリア キャップの入院患者の使用を評価した最初の研究です。\n方法: CLABSI 率および標準化感染率 (SIR) に対する ClearGuard の影響を、ベースライン率および比率と比較して評価するために、遡及的な観察データが使用されました。投資収益率を測定するために財務分析が実施されました。\n結果: ベースライン期間と比較して、実施期間のデータは、長期 CLABSI が 1.91/月/施設 (95% CI: [0.91-4.00]) から 0.71/月/施設 (95% CI: [0.33-1.53]) に減少し、CLABSI が 63% 減少 (95% CI: [46%-74%]) したことを示しました (P < .00005）。全体的な SIR は、ベースラインの 0.721 から 0.310 に 57% 減少しました。年間コスト削減額は 160 万ドルと推定されています。\n結論: ClearGuard 研究の結果と病院全体での継続的な使用は、血液透析カテーテルに関連する CLABSI イベントと関連コストが臨床的に大幅に減少することを示しています。",
+    "detail_methods": "CLABSI 率および標準化感染率 (SIR) に対する ClearGuard の影響を、ベースライン率および比率と比較して評価するために、遡及的な観察データが使用されました。投資収益率を測定するために財務分析が実施されました。",
+    "detail_results": "ベースライン期間と比較して、実施期間のデータは長期的な CLABSI の 1.91/月/施設 (95% CI: [0.91-4.00]) から 0.71/月/施設 (95% CI: [0.33-1.53]) への長期的な CLABSI 減少を示し、CLABSI は 63% (95% CI: [46%-74%]) 減少しました (P < .00005）。全体的な SIR は、ベースラインの 0.721 から 0.310 に 57% 減少しました。年間コスト削減額は 160 万ドルと推定されています。",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "割合",
+        "value": "63%",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "割合",
+        "value": "46%",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "割合",
+        "value": "74%",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "割合",
+        "value": "57%",
+        "source": "The overall SIR was reduced by 57%, from a baseline of 0.721 to 0.310."
+      },
+      {
+        "item": "P値",
+        "value": "P < .00005",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: [0",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: [46%-74%]) in CLABSIs (P < ",
+        "source": "RESULTS: Compared to the baseline period, data from the implementation period showed a long-term CLABSI reduction from 1.91/month/site (95% CI: [0.91-4.00]) to 0.71/month/site (95% CI: [0.33-1.53]), a 63% reduction (95% CI: [46%-74%]) in CLABSIs (P < .00005)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42695518/",
+    "doi_url": "https://doi.org/10.1097/NAN.0000000000000654",
+    "created_at": "2026-09-04T23:02:41.780297+00:00"
+  },
+  {
+    "pmid": "42693624",
+    "doi": "10.1111/1751-7915.70439",
+    "category": "カテーテル新技術",
+    "title_en": "A Lytic Bacteriophage Cocktail Attenuates Carbapenem-Resistant Klebsiella pneumoniae-Acinetobacter baumannii Mixed-Species Biofilms and Reshapes Transcriptional Responses.",
+    "title_ja": "溶菌性バクテリオファージのカクテルは、カルバペネム耐性の肺炎桿菌とアシネトバクター・バウマニの混合種バイオフィルムを弱め、転写反応を再形成する。",
+    "authors": "Ren Xuefang, Zhu Rui, Yang Yijiang, You Xiaojuan, Wang Liuxiang, Fu Guangyu, Zheng Yehuan, Wang Chunxia, Wang Zhentao, Li Yongwei",
+    "journal": "Microbial biotechnology",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-09-04",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "カルバペネム耐性の肺炎桿菌とカルバペネム耐性のアシネトバクター バウマニによって形成される混合種バイオフィルムは、デバイス関連感染症の臨床管理を複雑にする可能性があります。しかし、これらのコミュニティを標的としたファージベースの介入は依然として十分に特徴付けられていません。 KPZ2-AB48混合種バイオフィルムに対する溶解性HZJ31 + HZY2308ファージカクテルの抗バイオフィルム活性を評価しました。",
+    "methods": "対応する単一種培養物と比較して、共培養物は、より多くのクリスタルバイオレット染色バイオマス、2,3-ビス(2-メトキシ-4-ニトロ-5-スルホフェニル)-2H-テトラゾリウム-5-カルボキサニリド(XTT)還元アッセイで測定したより高い代謝活性、および顕微鏡的な表面被覆率を示した。 RNA シークエンシングと定量的逆転写ポリメラーゼ連鎖反応により、代謝経路、オートインデューサー 2 輸送、細胞エンベロープ機能、排出システム、ストレス応答に関わる治療に関連した転写変化が同定されました。",
+    "results": "カルバペネム耐性の肺炎桿菌とカルバペネム耐性のアシネトバクター バウマニによって形成される混合種バイオフィルムは、デバイス関連感染症の臨床管理を複雑にする可能性があります。しかし、これらのコミュニティを標的としたファージベースの介入は依然として十分に特徴付けられていません。ガレリア メロネラ感染モデルでは、カクテル治療により生存率が向上し、病理組織学的病変の範囲が狭くなり、キルシュナー線に関連する細菌量が減少しました。 RNA シークエンシングと定量的逆転写ポリメラーゼ連鎖反応により、代謝経路、オートインデューサー 2 輸送、細胞エンベロープ機能、排出システム、ストレス応答に関わる治療に関連した転写変化が同定されました。",
+    "conclusion": "RNA シークエンシングと定量的逆転写ポリメラーゼ連鎖反応により、代謝経路、オートインデューサー 2 輸送、細胞エンベロープ機能、排出システム、ストレス応答に関わる治療に関連した転写変化が同定されました。これらの発見は、多剤耐性混合種バイオフィルムを標的とするファージカクテルのさらなる前臨床研究を裏付けるものである。",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Mixed-species biofilms formed by carbapenem-resistant Klebsiella pneumoniae and carbapenem-resistant Acinetobacter baumannii can complicate the clinical management of device-associated infections; however, phage-based interventions targeting these communities remain insufficiently characterized. We assessed the antibiofilm activity of a lytic HZJ31 + HZY2308 phage cocktail against KPZ2-AB48 mixed-species biofilms. Compared with the corresponding single-species cultures, cocultures showed greater crystal violet-stained biomass, higher metabolic activity as measured by the 2,3-bis(2-methoxy-4-nitro-5-sulfophenyl)-2H-tetrazolium-5-carboxanilide (XTT) reduction assay, and microscopic surface coverage. Phage-cocktail exposure during biofilm development or after biofilm formation reduced biomass, XTT reduction, culturable bacterial counts, and scanning electron microscopy-derived surface coverage, with similar changes observed on central venous catheter surfaces. In Galleria mellonella infection models, cocktail treatment increased survival and was associated with less extensive histopathological lesions and lower Kirschner wire-associated bacterial burdens. RNA sequencing and quantitative reverse transcription polymerase chain reaction identified treatment-associated transcriptional changes involving metabolic pathways, autoinducer-2 transport, cell-envelope functions, efflux systems, and stress responses. These findings support further preclinical investigation of phage cocktails targeting multidrug-resistant mixed-species biofilms.",
+    "abstract_ja": "カルバペネム耐性の肺炎桿菌とカルバペネム耐性のアシネトバクター バウマニによって形成される混合種バイオフィルムは、デバイス関連感染症の臨床管理を複雑にする可能性があります。しかし、これらのコミュニティを標的としたファージベースの介入は依然として十分に特徴付けられていません。 KPZ2-AB48混合種バイオフィルムに対する溶解性HZJ31 + HZY2308ファージカクテルの抗バイオフィルム活性を評価しました。対応する単一種培養物と比較して、共培養物は、より多くのクリスタルバイオレット染色バイオマス、2,3-ビス(2-メトキシ-4-ニトロ-5-スルホフェニル)-2H-テトラゾリウム-5-カルボキサニリド(XTT)還元アッセイで測定したより高い代謝活性、および顕微鏡的な表面被覆率を示した。バイオフィルム発生中またはバイオフィルム形成後のファージカクテル曝露により、バイオマス、XTTの減少、培養可能な細菌数、走査型電子顕微鏡による表面被覆率が減少し、同様の変化が中心静脈カテーテル表面でも観察されました。ガレリア メロネラ感染モデルでは、カクテル治療により生存率が向上し、病理組織学的病変の範囲が狭くなり、キルシュナー線に関連する細菌量が減少しました。 RNA シークエンシングと定量的逆転写ポリメラーゼ連鎖反応により、代謝経路、オートインデューサー 2 輸送、細胞エンベロープ機能、排出システム、ストレス応答に関わる治療に関連した転写変化が同定されました。これらの発見は、多剤耐性混合種バイオフィルムを標的とするファージカクテルのさらなる前臨床研究を裏付けるものである。",
+    "detail_methods": "",
+    "detail_results": "カルバペネム耐性の肺炎桿菌とカルバペネム耐性のアシネトバクター バウマニによって形成される混合種バイオフィルムは、デバイス関連感染症の臨床管理を複雑にする可能性があります。しかし、これらのコミュニティを標的としたファージベースの介入は依然として十分に特徴付けられていません。ガレリア メロネラ感染モデルでは、カクテル治療により生存率が向上し、病理組織学的病変の範囲が狭くなり、キルシュナー線に関連する細菌量が減少しました。 RNA シークエンシングと定量的逆転写ポリメラーゼ連鎖反応により、代謝経路、オートインデューサー 2 輸送、細胞エンベロープ機能、排出システム、ストレス応答に関わる治療に関連した転写変化が同定されました。",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42693624/",
+    "doi_url": "https://doi.org/10.1111/1751-7915.70439",
+    "created_at": "2026-09-04T23:02:49.257039+00:00"
+  },
+  {
+    "pmid": "42695287",
+    "doi": "10.2174/0115672018506722260820114246",
+    "category": "カテーテル新技術",
+    "title_en": "Controllable Fabrication of Highly Elastic and Drug-Loading Alginate-Chitosan Composite Embolic Microspheres.",
+    "title_ja": "",
+    "authors": "Yang Shihao, Wang Chengmao, Yang Wenke, Li Pengwei",
+    "journal": "Current drug delivery",
+    "publication_date": "2026-08-27",
+    "entry_date": "2026-09-04",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Transcatheter arterial embolization (TAE) is a minimally invasive therapeutic strategy for treating hypervascular tumors, which relies on the intravascular delivery of embolic agents to obstruct blood supply. Embolic microspheres have emerged as promising agents due to their spherical shape and uniform size, which ensure predictable occlusion levels and targeted delivery. There is a pressing need for a controllable strategy to engineer multifunctional embolic microspheres.\nMETHODS: A novel droplet microfluidics-based method for the controllable fabrication of monodisperse alginate-chitosan composite (ACC) microspheres was developed. The mechanical and drugloading properties of the ACC microspheres were systematically characterized. The embolization performance of the optimized microspheres was visually evaluated in a microvascular chip model.\nRESULTS: The microfluidic platform enabled the generation of highly monodisperse emulsion templates, leading to ACC microspheres with excellent size uniformity. Mechanical characterization revealed that the elasticity of the microspheres could be finely tuned, allowing for the production of highly elastic microspheres suitable for catheter injection. The ACC microspheres demonstrated favorable drug-loading capacity and sustained release characteristics. In the in vitro chip, the microspheres exhibited superior embolization performance.\nDISCUSSION: The successful fabrication of monodisperse ACC microspheres underscores the precision of droplet microfluidics in creating complex biomaterial structures. The high elasticity is particularly critical for clinical embolization, as it prevents catheter clogging and ensures deep, uniform vessel occlusion. The demonstrated drug-loading capability positions these ACC microspheres as effective drug-eluting beads (DEBs) for combined embolization and local chemotherapy. The visual confirmation of effective embolization in the in vitro chip validates the functional performance of the microspheres.\nCONCLUSIONS: This study presents a robust microfluidic strategy for the controllable synthesis of monodisperse alginate-chitosan composite microspheres with tunable elasticity and favorable drugloading properties. The fabricated microspheres demonstrated excellent embolization performance in an in vitro model, validating their potential as advanced embolic agents. The findings offer valuable insights and a practical methodology for the rational design and preparation of next-generation multifunctional microspheres, which are highly desired for applications in embolization therapy.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42695287/",
+    "doi_url": "https://doi.org/10.2174/0115672018506722260820114246",
+    "created_at": "2026-09-04T23:02:50.449866+00:00"
+  },
+  {
     "pmid": "42689986",
     "doi": "10.31083/FBL53201",
     "category": "尿路結石・メタボローム",
