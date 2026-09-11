@@ -1,5 +1,125 @@
 [
   {
+    "pmid": "42726500",
+    "doi": "10.1080/09205063.2026.2728707",
+    "category": "カテーテル新技術",
+    "title_en": "Experimental and machine learning-based investigation of ZnO-incorporated polyurethane/polyethylene glycol nanocomposite films for potential antibacterial urinary catheter film applications.",
+    "title_ja": "",
+    "authors": "Jud Haleeful, Aijaz Haya, Wani Nisar Ahmad",
+    "journal": "Journal of biomaterials science. Polymer edition",
+    "publication_date": "2026-09-11",
+    "entry_date": "2026-09-11",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Catheter-related urinary tract infections (CAUTIs) remain a critical healthcare-associated complication, motivating the development of antibacterial polymeric materials for catheter applications. In this study, zinc oxide (ZnO) nanoparticles prepared under two calcination conditions (designated as nominal <50 nm and nominal <100 nm size groups) were incorporated into polyurethane/polyethylene glycol (PU/PEG) films by solvent casting at loadings of 5, 10, 20, and 30 wt%. The materials were characterized using Fourier-transform infrared spectroscopy (FTIR), scanning electron microscopy (SEM), water contact-angle measurements, and disk-diffusion assays against Escherichia coli and Staphylococcus aureus. The antibacterial results demonstrated concentration-dependent inhibition, reaching maximum inhibition zones of 17 mm against E. coli and 16 mm against S. aureus at 30 wt% nominal <50 nm ZnO. To rigorously evaluate structure-property-function relationships and prevent model overfitting on a compact dataset, an exploratory Random Forest regression model was integrated using Leave-One-Out Cross-Validation (LOOCV). The cross-validated model showed good fit within the studied dataset. Quantitative feature importance ranking confirmed that ZnO concentration is the main governing factor of antibacterial efficacy (90.6%), followed by surface contact angle (8.3%), whereas nominal particle size category (0.4%) and bacterial species (0.6%) contributed minimally to overall variance. The results demonstrate the potential of cross-validated machine learning for exploratory feature screening in biomaterial design and indicate that ZnO-incorporated PU/PEG films warrant further investigation for potential urinary catheter applications. Direct coating adhesion, mechanical durability, cytocompatibility, release kinetics, biofilm inhibition, and performance on actual catheter substrates require future evaluation.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "90.6%",
+        "source": "Quantitative feature importance ranking confirmed that ZnO concentration is the main governing factor of antibacterial efficacy (90.6%), followed by surface contact angle (8.3%), whereas nominal particle size category (0.4%) and bacterial species (0.6%) contributed minimally to overall variance."
+      },
+      {
+        "item": "割合",
+        "value": "8.3%",
+        "source": "Quantitative feature importance ranking confirmed that ZnO concentration is the main governing factor of antibacterial efficacy (90.6%), followed by surface contact angle (8.3%), whereas nominal particle size category (0.4%) and bacterial species (0.6%) contributed minimally to overall variance."
+      },
+      {
+        "item": "割合",
+        "value": "0.4%",
+        "source": "Quantitative feature importance ranking confirmed that ZnO concentration is the main governing factor of antibacterial efficacy (90.6%), followed by surface contact angle (8.3%), whereas nominal particle size category (0.4%) and bacterial species (0.6%) contributed minimally to overall variance."
+      },
+      {
+        "item": "割合",
+        "value": "0.6%",
+        "source": "Quantitative feature importance ranking confirmed that ZnO concentration is the main governing factor of antibacterial efficacy (90.6%), followed by surface contact angle (8.3%), whereas nominal particle size category (0.4%) and bacterial species (0.6%) contributed minimally to overall variance."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42726500/",
+    "doi_url": "https://doi.org/10.1080/09205063.2026.2728707",
+    "created_at": "2026-09-11T23:14:56.150321+00:00"
+  },
+  {
+    "pmid": "42725189",
+    "doi": "10.1097/MS9.0000000000005311",
+    "category": "カテーテル新技術",
+    "title_en": "Intra-abdominal infections caused by Achromobacter xylosoxidans: a systematic review.",
+    "title_ja": "",
+    "authors": "Thiriveedi Mrudula, Patel Hersh, Parshot Kalim, Baddam Sujatha, Patel Siddharth",
+    "journal": "Annals of medicine and surgery (2012)",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-09-11",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Achromobacter xylosoxidans is an emerging cause of intra-abdominal infections, typically after healthcare exposure or in patients with indwelling devices. Intrinsic multidrug resistance and biofilm formation impede empiric therapy and often necessitate source control (catheter/stent exchange or removal). Because guidance is scattered across case reports, we systematically reviewed published episodes to quantify healthcare exposure, antimicrobial selections and susceptibilities, use of source control, and outcomes.\nMETHODS: In accordance with PRISMA 2020, we searched PubMed, Scopus, and Google Scholar from inception to 10 October 2025 for English-language case reports/series, correspondence, and letters. We extracted demographics, presentation, exposures, microbiology, treatment, source control, and outcomes.\nRESULTS: We included 32 episodes from 29 articles. The mean age was 53.9 years, and 17/32 (53.1%) were female. Healthcare exposure occurred in 30/32 (93.8%) patients, and device- or procedure-related involvement occurred in 22/32 (68.8%) patients. Abdominal pain was reported in 20/32 (62.5%) patients. All cases were culture-confirmed. Source control was performed in 12/32 (37.5%) patients. Clinical improvement occurred in 24/32 (75.0%); relapse occurred in 8/32 (25.0%), with most relapses device-associated; and death occurred in 6/32 (18.8%) cases.\nCONCLUSIONS: A. xylosoxidans intra-abdominal infections are uncommon but largely healthcare-associated and often device-related. Because standard empiric regimens frequently lack activity against A. xylosoxidans, clinicians should suspect it when a nonfermenting Gram-negative rod is reported or when patients fail to improve on initial therapy and promptly initiate susceptibility-guided antibiotics with timely source control to reduce relapse and mortality. Standardized reporting of susceptibilities, device management, and outcomes is needed to refine the regimen and duration choices.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "53.1%",
+        "source": "The mean age was 53.9 years, and 17/32 (53.1%) were female."
+      },
+      {
+        "item": "割合",
+        "value": "93.8%",
+        "source": "Healthcare exposure occurred in 30/32 (93.8%) patients, and device- or procedure-related involvement occurred in 22/32 (68.8%) patients."
+      },
+      {
+        "item": "割合",
+        "value": "68.8%",
+        "source": "Healthcare exposure occurred in 30/32 (93.8%) patients, and device- or procedure-related involvement occurred in 22/32 (68.8%) patients."
+      },
+      {
+        "item": "割合",
+        "value": "62.5%",
+        "source": "Abdominal pain was reported in 20/32 (62.5%) patients."
+      },
+      {
+        "item": "割合",
+        "value": "37.5%",
+        "source": "Source control was performed in 12/32 (37.5%) patients."
+      },
+      {
+        "item": "割合",
+        "value": "75.0%",
+        "source": "Clinical improvement occurred in 24/32 (75.0%); relapse occurred in 8/32 (25.0%), with most relapses device-associated; and death occurred in 6/32 (18.8%) cases."
+      },
+      {
+        "item": "割合",
+        "value": "25.0%",
+        "source": "Clinical improvement occurred in 24/32 (75.0%); relapse occurred in 8/32 (25.0%), with most relapses device-associated; and death occurred in 6/32 (18.8%) cases."
+      },
+      {
+        "item": "割合",
+        "value": "18.8%",
+        "source": "Clinical improvement occurred in 24/32 (75.0%); relapse occurred in 8/32 (25.0%), with most relapses device-associated; and death occurred in 6/32 (18.8%) cases."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42725189/",
+    "doi_url": "https://doi.org/10.1097/MS9.0000000000005311",
+    "created_at": "2026-09-11T23:14:56.869800+00:00"
+  },
+  {
     "pmid": "42717639",
     "doi": "10.1111/vsu.70154",
     "category": "尿道カテーテル閉塞",
@@ -229,6 +349,36 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42718652/",
     "doi_url": "https://doi.org/10.3389/fcimb.2026.1908965",
     "created_at": "2026-09-10T23:08:52.578456+00:00"
+  },
+  {
+    "pmid": "42722219",
+    "doi": "10.1053/j.jrn.2026.08.011",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Dietary Patterns for Obesity in CKD: Mediterranean, Low-Carbohydrate, and Plant-Forward Approaches-What Fits Best?",
+    "title_ja": "",
+    "authors": "Zhang Fan, Huang Liuyan",
+    "journal": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+    "publication_date": "2026-09-10",
+    "entry_date": "2026-09-10",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "BACKGROUND: Obesity and chronic kidney disease (CKD) frequently coexist and mutually exacerbate metabolic, inflammatory, and hemodynamic disturbances that accelerate kidney function decline. Dietary therapy is central to weight management in CKD, yet traditional nutrient-restriction strategies may compromise diet quality and adherence. This review aims to evaluate the suitability of three major dietary patterns, the Mediterranean diet, plant-forward diets, and low-carbohydrate/ketogenic diets, for managing obesity in individuals with CKD.\nMETHODS: A narrative review of current literature was conducted, synthesizing evidence from observational studies, randomized controlled trials, and clinical guidelines that examined the metabolic, cardiovascular, and renal effects of these dietary patterns in CKD patients with obesity.\nRESULTS: Mediterranean and plant-dominant dietary patterns demonstrate consistent benefits in weight management, cardiovascular risk reduction, and kidney health. These diets are associated with improved insulin sensitivity, reduced dietary acid load, anti-inflammatory effects, and potential slowing of estimated glomerular filtration rate decline. Plant-forward diets may additionally improve gut microbiota composition and reduce uremic toxin generation. In contrast, low-carbohydrate and ketogenic diets can induce rapid short-term weight loss and glycemic improvements but raise concerns regarding metabolic acidosis, kidney stone risk, and uncertain long-term safety in CKD populations.\nCONCLUSIONS: Current evidence suggests that Mediterranean and well-planned plant-forward dietary patterns are reasonable first-line options for many patients with obesity and CKD, given their favorable cardio-metabolic profiles and generally acceptable safety. However, the certainty of evidence for long-term kidney outcomes remains limited, and dietary recommendations should be individualized according to CKD stage, comorbidities, nutritional status, and patient preferences.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42722219/",
+    "doi_url": "https://doi.org/10.1053/j.jrn.2026.08.011",
+    "created_at": "2026-09-11T23:14:55.416045+00:00"
   },
   {
     "pmid": "42713116",
