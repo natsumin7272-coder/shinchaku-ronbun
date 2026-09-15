@@ -1,5 +1,200 @@
 [
   {
+    "pmid": "42740278",
+    "doi": "10.3390/s26175659",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Sensing in Urinary Catheter Systems: From Measurands and Signal Fidelity to Supportable Clinical Claims.",
+    "title_ja": "",
+    "authors": "Zhang Shuai",
+    "journal": "Sensors (Basel, Switzerland)",
+    "publication_date": "2026-09-06",
+    "entry_date": "2026-09-15",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「encrustation、urease」の観点から確認価値があります。",
+    "relevance_score": 5,
+    "keywords": [
+      "encrustation",
+      "urease"
+    ],
+    "abstract_en": "This review evaluates urinary catheter sensors designed to warn of crystalline encrustation and blockage or to monitor infection-related microbial, interfacial, and host-response states. A source-to-claim framework links each measured state and sampling compartment with its readout, reference endpoint, and supportable clinical claim. The analysis also considers whether catheter integration preserves the relationship between source, readout, and claim. pH-responsive systems have the strongest human feasibility evidence, although the studies are small, use different sampling configurations, and include few blockage events. Evidence for urease sensing is confined to analytical studies and controlled in vitro experiments. Mineral-deposition and hydraulic approaches rely mainly on catheter models or adjacent-device studies. Most infection-related platforms are sample-based assays, prototypes, or short-duration systems that measure clinically non-equivalent states. Analyte detection alone cannot establish a diagnosis or predict a later event in either application. Interpretation also changes with sensor location and with the effects of transport, fouling, and mechanical loading on the recognition interface. Translation requires validation over complete catheter episodes against an endpoint matched to the intended claim. An additional channel is warranted only if it resolves a prespecified uncertainty and improves clinically relevant performance against a fixed comparator.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42740278/",
+    "doi_url": "https://doi.org/10.3390/s26175659",
+    "created_at": "2026-09-15T23:31:08.583552+00:00"
+  },
+  {
+    "pmid": "42740865",
+    "doi": "10.3389/fmed.2026.1821972",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Emphysematous cystitis treated with targeted antibiotic therapies: a report of two cases.",
+    "title_ja": "",
+    "authors": "Yu Quanbo, Wang Yanhui, Zhang Xinqi",
+    "journal": "Frontiers in medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-15",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Emphysematous cystitis (EC) is a rare, complicated urinary tract infection characterized by gas formation in and around the bladder wall, often occurring in older adults with diabetes mellitus, urinary tract obstruction, or long-term indwelling urinary catheters. EC can be easily misdiagnosed due to atypical symptoms and signs. Delayed treatment causes life-threatening complications like emphysematous pyelonephritis, bladder perforation, or septic shock. Here, we retrospectively analyzed two cases of EC who had been effectively treated and discharged following antibiotics, strict blood sugar control, bladder irrigation, and symptomatic and supportive treatment. Through literature review, we summarized the clinical characteristics, diagnostic skills, and therapeutic strategies for EC. Our experience may inform the early diagnosis and standardized management to improve the prognosis of EC.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42740865/",
+    "doi_url": "https://doi.org/10.3389/fmed.2026.1821972",
+    "created_at": "2026-09-15T23:31:11.242041+00:00"
+  },
+  {
+    "pmid": "42742544",
+    "doi": "",
+    "category": "尿路結石・細菌叢",
+    "title_en": "[Microbial contamination of urinary calculi depending on their chemical composition].",
+    "title_ja": "",
+    "authors": "Khotko D N, Khotko A I, Bucharskaya A B, Polukonova N V, Tarasenko A I, Altynbaev R R, Popkov V M",
+    "journal": "Urologiia (Moscow, Russia : 1999)",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-09-15",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis"
+    ],
+    "abstract_en": "INTRODUCTION: Microbial contamination of urinary calculi and its relationship with stone composition remain insufficiently studied despite the high incidence of infectious complications of urolithiasis.\nOBJECTIVE: To evaluate microbial contamination of urinary calculi depending on their chemical composition and to compare the results of culture-based and molecular genetic analyses.\nMATERIALS AND METHODS: The study included 96 patients who underwent mini-percutaneous nephrolithotripsy. A total of 108 calculi samples were analyzed. The chemical composition was determined by polarization microscopy. Microbiological assessment included culture-based methods and 16S rRNA gene sequencing using nanopore sequencing technology.\nRESULTS: Positive culture results were obtained in 43 (39.8%) cases. In the group of infection-related stones (carbonate apatite), microorganisms were detected in 100% of cases, whereas in metabolic stones the detection rate ranged from 26.7% to 31.7%. The most frequently identified microorganisms were Enterococcus faecalis, Streptococcus spp., Pseudomonas aeruginosa, and Klebsiella pneumoniae. Using 16S rRNA sequencing, polymicrobial communities, including anaerobic microorganisms, were identified in 18.5% of culture-negative samples.\nCONCLUSION: Microbial contamination is detected in both infection-related and metabolic urinary calculi, suggesting that urinary stones may serve as a potential reservoir of microbial infection.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "96 patients",
+        "source": "MATERIALS AND METHODS: The study included 96 patients who underwent mini-percutaneous nephrolithotripsy."
+      },
+      {
+        "item": "割合",
+        "value": "39.8%",
+        "source": "RESULTS: Positive culture results were obtained in 43 (39.8%) cases."
+      },
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "In the group of infection-related stones (carbonate apatite), microorganisms were detected in 100% of cases, whereas in metabolic stones the detection rate ranged from 26.7% to 31.7%."
+      },
+      {
+        "item": "割合",
+        "value": "26.7%",
+        "source": "In the group of infection-related stones (carbonate apatite), microorganisms were detected in 100% of cases, whereas in metabolic stones the detection rate ranged from 26.7% to 31.7%."
+      },
+      {
+        "item": "割合",
+        "value": "31.7%",
+        "source": "In the group of infection-related stones (carbonate apatite), microorganisms were detected in 100% of cases, whereas in metabolic stones the detection rate ranged from 26.7% to 31.7%."
+      },
+      {
+        "item": "割合",
+        "value": "18.5%",
+        "source": "Using 16S rRNA sequencing, polymicrobial communities, including anaerobic microorganisms, were identified in 18.5% of culture-negative samples."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42742544/",
+    "doi_url": "",
+    "created_at": "2026-09-15T23:31:15.213156+00:00"
+  },
+  {
+    "pmid": "42737487",
+    "doi": "10.3390/ijms27177584",
+    "category": "PICRUSt2・機能予測",
+    "title_en": "Label-Free Urinary Proteomics Uncovers Immune-Related Non-Invasive Biomarkers for Primary Biliary Cholangitis.",
+    "title_ja": "",
+    "authors": "Pei Xiong, Lei Ting, Jiang Wei, Zeng Qingmin, Tang Hong, Zhou Taoyou, Wu Dongbo",
+    "journal": "International journal of molecular sciences",
+    "publication_date": "2026-08-24",
+    "entry_date": "2026-09-15",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "PICRUSt2・機能予測に関連し、特に「kegg」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "kegg"
+    ],
+    "abstract_en": "Diagnosis of primary biliary cholangitis (PBC) currently depends on invasive liver biopsy or serum markers with inadequate diagnostic performance. This study aimed to identify non-invasive urinary protein biomarkers for PBC detection. Urine specimens from biopsy-verified PBC patients and healthy controls were processed through ultracentrifugation-based protein extraction, enzymatic digestion, and HPLC-ESI-IT/MS proteomic profiling; protein quantification was completed using Spectronaut v14.8. We identified 194 differentially expressed urinary proteins (109 upregulated, 85 downregulated) and screened 10 immune-related candidates through GO and KEGG enrichment. Pearson correlation further filtered three core proteins, osteopontin (SPP1/OPN), RAMP3 and S100A8, that correlated significantly with key PBC biochemical indices (ALP, GGT, AST, ALT, IgM, p < 0.05). Elevated urinary concentrations of OPN, RAMP3 and S100A8 were validated by ELISA in an independent cohort containing 30 PBC patients and 20 healthy volunteers. In summary, urinary OPN, RAMP3 and S100A8 are markedly increased in PBC patients and hold promise as non-invasive diagnostic biomarkers for PBC; however, their diagnostic specificity against other cholestatic and autoimmune liver diseases remains to be evaluated, and further confirmation in larger multicenter cohorts with disease control groups is warranted.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "P値",
+        "value": "p < 0.05",
+        "source": "Pearson correlation further filtered three core proteins, osteopontin (SPP1/OPN), RAMP3 and S100A8, that correlated significantly with key PBC biochemical indices (ALP, GGT, AST, ALT, IgM, p < 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42737487/",
+    "doi_url": "https://doi.org/10.3390/ijms27177584",
+    "created_at": "2026-09-15T23:31:19.397901+00:00"
+  },
+  {
+    "pmid": "42741393",
+    "doi": "10.3389/fcvm.2026.1909150",
+    "category": "カテーテル新技術",
+    "title_en": "Case Report: Unmasking an anomalous coronary artery during emergency STEMI intervention: a rare diagnostic challenge with successful revascularization outcome.",
+    "title_ja": "",
+    "authors": "Reihan Muhammad Saad, Ahmed Dabash Tarek Ahmed, Ahmed Mostafa Ahmed Mohammed, Mohammed Hammad Mohammed Ali, Thalib Husna Irfan, Elkafory Hamdy Abdelazeem, Mohammed Mohyeldin Mohammed Moanes",
+    "journal": "Frontiers in cardiovascular medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-15",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Coronary artery anomalies during primary PCI are uncommon but can increase procedural complexity and delay reperfusion in STEMI. Anomalous origin of the right coronary artery (RCA) from the left coronary cusp is a rare congenital variant that poses diagnostic and technical challenges in emergency intervention.\nCASE PRESENTATION: A 39-year-old female with insulin-dependent diabetes presented with 10-hour chest pain, diaphoresis, and dyspnea. She was in acute pulmonary edema (Killip III) with sinus tachycardia. ECG showed extensive anterior STEMI, and troponin exceeded 50,000 ng/L. Echocardiography revealed LVEF 39% with apical hypokinesia. She received standard STEMI therapy and underwent urgent PCI. Radial access failed due to spasm, requiring femoral crossover. Angiography showed proximal LAD occlusion (TIMI 0) and difficulty engaging the RCA. Non-selective aortic cusp injection revealed anomalous RCA origin from the left coronary cusp. Primary PCI to the LAD was performed with a drug-eluting stent, restoring TIMI 3 flow. Door-to-wire time was 52 min and fluoroscopy time 11.5 min. The patient improved clinically, with troponin reduction to 26,000 ng/L and discharge after 5 days. At 1-month follow-up, LVEF improved to 45%.\nCONCLUSION: Anomalous RCA origin from the left coronary cusp is a rare but critical finding in STEMI PCI. Early recognition and adaptive catheter strategy are essential to avoid delay and ensure successful reperfusion.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "39%",
+        "source": "Echocardiography revealed LVEF 39% with apical hypokinesia."
+      },
+      {
+        "item": "割合",
+        "value": "45%",
+        "source": "At 1-month follow-up, LVEF improved to 45%."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42741393/",
+    "doi_url": "https://doi.org/10.3389/fcvm.2026.1909150",
+    "created_at": "2026-09-15T23:31:27.392870+00:00"
+  },
+  {
     "pmid": "42734263",
     "doi": "10.1021/acs.biomac.6c00731",
     "category": "カテーテル新技術",
@@ -28,6 +223,50 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42734263/",
     "doi_url": "https://doi.org/10.1021/acs.biomac.6c00731",
     "created_at": "2026-09-14T23:51:49.863794+00:00"
+  },
+  {
+    "pmid": "42735787",
+    "doi": "10.1016/j.jiac.2026.103077",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical and microbiological characteristics of acute epididymitis in Japan: A multicenter study by the Japanese Research Group for Urinary Tract Infection management.",
+    "title_ja": "",
+    "authors": "Matsumoto Masahiro, Hamasuna Ryoichi, Wada Koichiro, Sadahira Takuya, Shigemura Katsumi, Maeda Kouki, Hiyama Yoshiki, Togo Yoshikazu, Nagasawa Seiji, Yamanaka Kazuaki, Shigehara Kazuyoshi, Kobayashi Kanao, Tsuchiya Haruki, Miyazaki Jun, Nakagawa Tohru, Ishikawa Kiyohito, Takahashi Satoshi, Kashiwagi Eiji, Yamamoto Shingo",
+    "journal": "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+    "publication_date": "2026-09-14",
+    "entry_date": "2026-09-14",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: This study aimed to investigate the clinical and microbiological characteristics of acute epididymitis (AE) in Japan using multicenter real-world data and to evaluate factors associated with hospitalization.\nMETHODS: This multicenter retrospective study was conducted by the Japanese Research Group for Urinary Tract Infection. A total of 110 patients clinically diagnosed with AE at 13 hospitals between January and December 2017 were analyzed. Clinical findings, microbiological results, antimicrobial therapy, and outcomes were compared between hospitalized patients and outpatients.\nRESULTS: Among 110 patients, 31 were hospitalized and 79 were managed as outpatients. The median age was 67 years (range, 9-95 years). In univariate analysis, fever, epididymal induration, dysuria, elevated white blood cell count, elevated C-reactive protein level, positive urine culture, systemic inflammatory response syndrome (SIRS), epididymal abscess, urinary retention, and recent urethral catheterization were significantly associated with hospitalization. In multivariate analysis, SIRS was independently associated with hospitalization. Escherichia coli was the most frequently isolated pathogen. Among E. coli isolates, fluoroquinolone-resistant and extended-spectrum beta-lactamase-producing strains accounted for 45.0% and 25.0%, respectively. These microbiological findings did not differ significantly between hospitalized patients and outpatients. Only two cases of Chlamydia trachomatis infection and no gonococcal infections were identified.\nCONCLUSIONS: In this Japanese multicenter study, AE predominantly affected older adults and was frequently associated with urinary tract-related or healthcare-associated backgrounds. Hospitalization was primarily associated with systemic inflammatory response. Fluoroquinolone-resistant and ESBL-producing E. coli require attention regardless of hospitalized patient or outpatient management.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "110 patients",
+        "source": "A total of 110 patients clinically diagnosed with AE at 13 hospitals between January and December 2017 were analyzed."
+      },
+      {
+        "item": "割合",
+        "value": "45.0%",
+        "source": "coli isolates, fluoroquinolone-resistant and extended-spectrum beta-lactamase-producing strains accounted for 45.0% and 25.0%, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "25.0%",
+        "source": "coli isolates, fluoroquinolone-resistant and extended-spectrum beta-lactamase-producing strains accounted for 45.0% and 25.0%, respectively."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42735787/",
+    "doi_url": "https://doi.org/10.1016/j.jiac.2026.103077",
+    "created_at": "2026-09-15T23:31:23.792844+00:00"
   },
   {
     "pmid": "42730595",
