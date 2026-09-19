@@ -1,5 +1,51 @@
 [
   {
+    "pmid": "42761072",
+    "doi": "10.3389/fnut.2026.1893492",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Adherence to the Dietary Index for Gut Microbiota and reduced risk of nephrolithiasis: a case-control study of Chinese adults.",
+    "title_ja": "",
+    "authors": "Jin Xing, Li Jia, Zhao Yuanqi, Xu Kun, Wang Yuge, Bai Song, Liu Yashu, Li Zhenhua",
+    "journal": "Frontiers in nutrition",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-19",
+    "study_design": "症例対照研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "OBJECTIVE: Nephrolithiasis represents a substantial clinical burden worldwide. The Dietary Index for Gut Microbiota (DI-GM) assesses dietary impacts on gut microbiota. However, its association with the risk of nephrolithiasis remains unclear in Chinese adults.\nMETHODS: We conducted a case-control study using the Shenyang sub-cohort of the Tianjin Chronic Low-Grade Systemic Inflammation and Health (TCLSIH) cohort. Cases were 278 patients with nephrolithiasis. Controls were 556 healthy individuals, matched 1:2 by age and sex. Dietary intake was assessed using a validated food frequency questionnaire (FFQ) to calculate DI-GM scores. Multivariable conditional logistic regression evaluated the association. Restricted cubic spline (RCS) explored non-linear associations, and subgroup analyses were stratified by age and sex.\nRESULTS: Higher DI-GM scores were significantly associated with lower risk of nephrolithiasis. After adjustment, the risk decreased progressively with increasing DI-GM scores (P for trend < 0.05). Individuals with DI-GM ≥ 8 had 83% lower risk than those scoring 0-5 (odds ratio [OR] = 0.17, 95% confidence interval [CI]: 0.08-0.36). The association was consistent across age and sex subgroups, with no non-linearity (P for non-linearity > 0.05).\nCONCLUSION: In Chinese adults, higher adherence to the DI-GM was associated with lower risk of nephrolithiasis. This finding suggests gut-friendly dietary patterns may be associated with a lower likelihood of nephrolithiasis. Future prospective studies are warranted to confirm this association.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "278 patients",
+        "source": "Cases were 278 patients with nephrolithiasis."
+      },
+      {
+        "item": "割合",
+        "value": "83%",
+        "source": "Individuals with DI-GM ≥ 8 had 83% lower risk than those scoring 0-5 (odds ratio [OR] = 0.17, 95% confidence interval [CI]: 0.08-0.36)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Individuals with DI-GM ≥ 8 had 83% lower risk than those scoring 0-5 (odds ratio [OR] = 0.17, 95% confidence interval [CI]: 0.08-0.36)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761072/",
+    "doi_url": "https://doi.org/10.3389/fnut.2026.1893492",
+    "created_at": "2026-09-19T23:01:12.414544+00:00"
+  },
+  {
     "pmid": "42758101",
     "doi": "10.1080/19490976.2026.2734634",
     "category": "尿路結石・細菌叢",
