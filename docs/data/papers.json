@@ -1,5 +1,74 @@
 [
   {
+    "pmid": "42763679",
+    "doi": "10.7759/cureus.116551",
+    "category": "カテーテル新技術",
+    "title_en": "Microbiological Profile of Pathogens Among Patients at a Tertiary Care Hospital in Mumbai, India.",
+    "title_ja": "",
+    "authors": "Ranade Gauravi, Gumaste Pooja D",
+    "journal": "Cureus",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-09-20",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Antimicrobial resistance (AMR) has emerged as one of the most significant threats to global public health, compromising the effective management of infectious diseases. Institutional antibiograms provide valuable information on local pathogen distribution and antimicrobial susceptibility patterns, thereby supporting evidence-based empirical therapy and antimicrobial stewardship. This study aimed to determine the microbiological profile of pathogens and their antimicrobial susceptibility patterns among patients attending a hospital in India.\nMETHODS: A retrospective observational study was conducted in the Department of Microbiology, Bhatia Hospital, Mumbai, Maharashtra, India. Laboratory records of culture-positive clinical specimens received between January and December 2025 were reviewed. A total of 2,075 non-duplicate, clinically significant isolates obtained from various clinical specimens were included. Bacterial and fungal isolates were identified using standard microbiological methods and the VITEK® 2 Compact system (bioMérieux, Marcy-l'Étoile, France). Antimicrobial susceptibility testing was performed using the VITEK® 2 Compact system and interpreted according to the Clinical and Laboratory Standards Institute (CLSI M100, 35th edition 2025) guidelines. Organism distribution, specimen-wise and area-wise frequency, antimicrobial susceptibility profiles, and multidrug-resistant organism (MDRO) prevalence were analysed.\nRESULTS: A total of 2,075 clinically significant isolates were recovered during the study period. Gram-negative bacteria predominated, accounting for 1,627 (78.4%) isolates, followed by Gram-positive bacteria (299; 14.4%) and fungal isolates (149; 7.2%). The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%). Midstream urine, sputum, wound swabs, catheter urine, pus swabs, tissue specimens, and blood samples constituted the major sources of isolates. MDROs accounted for 597 (28.8%) isolates, extended-spectrum β-lactamase (ESBL) producers were 369 (17.8%), methicillin-resistant S. aureus (MRSA) were 102 (4.9% of all isolates; 77.3% of S. aureus isolates), and vancomycin-resistant Enterococcus (VRE) accounted for 17 (0.8% of all isolates; 22.1% of Enterococcus isolates) with significantly higher prevalence of MDROs among isolates from critical care areas. Overall antimicrobial susceptibility testing demonstrated high resistance to several commonly used β-lactam antibiotics and fluoroquinolones, whereas reserve antimicrobial agents, including polymyxins, tigecycline, linezolid, glycopeptides, fosfomycin, and newer β-lactam/β-lactamase inhibitor combinations, retained comparatively better in vitro activity against susceptible isolates.\nCONCLUSION: Gram-negative bacteria were the predominant pathogens isolated with a substantial burden of MDROs. The observed antimicrobial resistance patterns emphasize the need for continuous microbiological surveillance, regular updating of institutional antibiograms, and implementation of robust antimicrobial stewardship programs to optimize empirical antimicrobial therapy and improve patient outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "78.4%",
+        "source": "Gram-negative bacteria predominated, accounting for 1,627 (78.4%) isolates, followed by Gram-positive bacteria (299; 14.4%) and fungal isolates (149; 7.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "14.4%",
+        "source": "Gram-negative bacteria predominated, accounting for 1,627 (78.4%) isolates, followed by Gram-positive bacteria (299; 14.4%) and fungal isolates (149; 7.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "7.2%",
+        "source": "Gram-negative bacteria predominated, accounting for 1,627 (78.4%) isolates, followed by Gram-positive bacteria (299; 14.4%) and fungal isolates (149; 7.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "26.2%",
+        "source": "The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%)."
+      },
+      {
+        "item": "割合",
+        "value": "25.0%",
+        "source": "The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%)."
+      },
+      {
+        "item": "割合",
+        "value": "15.8%",
+        "source": "The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%)."
+      },
+      {
+        "item": "割合",
+        "value": "6.4%",
+        "source": "The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%)."
+      },
+      {
+        "item": "割合",
+        "value": "4.1%",
+        "source": "The most frequently isolated pathogens were Escherichia coli (543; 26.2%), Klebsiella pneumoniae (519; 25.0%), Pseudomonas aeruginosa (328; 15.8%), Staphylococcus aureus (132; 6.4%), Candida albicans (86; 4.1%), and Acinetobacter baumannii complex (74; 3.6%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42763679/",
+    "doi_url": "https://doi.org/10.7759/cureus.116551",
+    "created_at": "2026-09-20T23:13:58.729555+00:00"
+  },
+  {
     "pmid": "42761072",
     "doi": "10.3389/fnut.2026.1893492",
     "category": "尿路結石・細菌叢",
@@ -44,6 +113,34 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761072/",
     "doi_url": "https://doi.org/10.3389/fnut.2026.1893492",
     "created_at": "2026-09-19T23:01:12.414544+00:00"
+  },
+  {
+    "pmid": "42761409",
+    "doi": "10.1093/jscr/rjag828",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Giant chronic urinary retention presenting as progressive abdominal distension with a bladder volume exceeding 10 l.",
+    "title_ja": "",
+    "authors": "Ozbaran Mustafa Ahmet",
+    "journal": "Journal of surgical case reports",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-09-19",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Massive chronic urinary retention, particularly with volumes exceeding 10 l, is an exceptional manifestation of bladder outlet obstruction (BOO) and may remain undetected until complications arise. We present the case of a 55-year-old who developed progressive abdominal distension with minimal lower urinary symptoms. Ultrasonography demonstrated a markedly enlarged bladder with a volume exceeding 10 l and bilateral hydroureteronephrosis. Following emergency referral, urethral catheterization drained 9.8 l and was followed by significant post-obstructive diuresis requiring monitoring and intravenous fluid replacement. Despite extensive radiological changes, renal impairment was relatively mild. Further evaluation identified a 28 ml prostate, and transurethral resection of the prostate (TURP) histology confirmed benign prostatic hyperplasia (BPH). This case highlights the remarkable compensatory capacity of the urinary tract in chronic obstruction and reinforces the importance of early recognition, close monitoring, and definitive management of BOO. Long-term bladder function remains under assessment because of suspected detrusor underactivity.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42761409/",
+    "doi_url": "https://doi.org/10.1093/jscr/rjag828",
+    "created_at": "2026-09-20T23:13:55.353252+00:00"
   },
   {
     "pmid": "42758101",
