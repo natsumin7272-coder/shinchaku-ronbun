@@ -1,5 +1,59 @@
 [
   {
+    "pmid": "42769868",
+    "doi": "10.7759/cureus.114991",
+    "category": "カテーテル新技術",
+    "title_en": "Serratia marcescens Bloodstream Infections in a Neonatal Intensive Care Unit: A Retrospective Case Series From Rabat, Morocco.",
+    "title_ja": "",
+    "authors": "El Messari Chaymaa, Saghir Salah, Sellouti Mohammed, Ayad Anas, Abilkassem Rachid",
+    "journal": "Cureus",
+    "publication_date": "2026-08-01",
+    "entry_date": "2026-09-22",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background Serratia marcescens is an opportunistic Gram-negative bacillus increasingly implicated in neonatal intensive care unit (NICU) infections and severe neonatal sepsis, particularly among preterm infants. Methods We conducted a retrospective observational case series in the NICU of Mohammed V Military Teaching Hospital, Rabat, Morocco, between August 2024 and August 2025. Neonates with at least one positive blood culture for S. marcescens associated with clinical signs of sepsis were included. Clinical, laboratory, microbiological, imaging, therapeutic, and outcome data were analyzed. Results Sixteen neonates were identified; 12/16 (75.0%) were born before 34 weeks of gestation, and 9/16 (56.3%) had a birth weight below 1,500 g. Respiratory distress and hemodynamic instability were the predominant clinical manifestations. Thrombocytopenia (platelet count <50,000/µL) was observed in 6/16 (37.5%) neonates, and elevated C-reactive protein (CRP) levels were frequent. Cranial ultrasonography was normal in most patients; grade I intraventricular hemorrhage was identified in 5/16 (31.3%). One neonate developed multiple contrast-enhancing brain lesions on magnetic resonance imaging (MRI), consistent with multifocal brain abscess formation. All patients received empirical broad-spectrum antibiotic therapy, subsequently adjusted according to antimicrobial susceptibility testing. Overall mortality was 7/16 (43.8%). Conclusion This single-center case series demonstrates the potential severity of S. marcescens bloodstream infection in hospitalized neonates. The high observed mortality highlights the importance of timely microbiological diagnosis, susceptibility-guided treatment, and rigorous infection-prevention surveillance. Molecular typing and structured outbreak investigations are warranted when temporal clustering is suspected.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "75.0%",
+        "source": "Results Sixteen neonates were identified; 12/16 (75.0%) were born before 34 weeks of gestation, and 9/16 (56.3%) had a birth weight below 1,500 g."
+      },
+      {
+        "item": "割合",
+        "value": "56.3%",
+        "source": "Results Sixteen neonates were identified; 12/16 (75.0%) were born before 34 weeks of gestation, and 9/16 (56.3%) had a birth weight below 1,500 g."
+      },
+      {
+        "item": "割合",
+        "value": "37.5%",
+        "source": "Thrombocytopenia (platelet count <50,000/µL) was observed in 6/16 (37.5%) neonates, and elevated C-reactive protein (CRP) levels were frequent."
+      },
+      {
+        "item": "割合",
+        "value": "31.3%",
+        "source": "Cranial ultrasonography was normal in most patients; grade I intraventricular hemorrhage was identified in 5/16 (31.3%)."
+      },
+      {
+        "item": "割合",
+        "value": "43.8%",
+        "source": "Overall mortality was 7/16 (43.8%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42769868/",
+    "doi_url": "https://doi.org/10.7759/cureus.114991",
+    "created_at": "2026-09-22T23:35:57.723031+00:00"
+  },
+  {
     "pmid": "42766262",
     "doi": "10.1007/s11255-026-05401-z",
     "category": "尿路結石・メタボローム",
@@ -29,6 +83,136 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766262/",
     "doi_url": "https://doi.org/10.1007/s11255-026-05401-z",
     "created_at": "2026-09-22T00:04:55.060219+00:00"
+  },
+  {
+    "pmid": "42767152",
+    "doi": "10.1016/j.jenvman.2026.130991",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Water hardness-mediated EBPR-BIPP synergistic phosphorus removal and microbial community response.",
+    "title_ja": "",
+    "authors": "Zhang Yujie, Zhou Jiawang, Sun Wenhao, Li Kai, Zhang Ping, Du Xianwang, Wang Han, Yang Zhi",
+    "journal": "Journal of environmental management",
+    "publication_date": "2026-09-21",
+    "entry_date": "2026-09-21",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「struvite」の観点から確認価値があります。",
+    "relevance_score": 4,
+    "keywords": [
+      "struvite"
+    ],
+    "abstract_en": "Water hardness, often overlooked in enhanced biological phosphorus removal (EBPR), plays a decisive role in biologically induced phosphate precipitation (BIPP). While hardness effects on chemical phosphorus removal are documented, hardness-mediated BIPP impacts on EBPR performance remain poorly understood. This study operated four sequencing batch reactors at 0, 150, 300, and 600 mg L-1 hardness (as CaCO3). Results demonstrated that hardness simultaneously promoted biological uptake and chemical precipitation, maintaining stable high performance (88% TP removal, SVI 89 mL g-1) even at 600 mg L-1, whereas the control failed due to sludge disintegration. Sequential extraction and speciation analysis (31P MAS-NMR, XRD, XPS) revealed phosphorus transformation from soluble to stable calcium- and magnesium-bound forms, predominantly hydroxyapatite (HAP) and struvite (MAP), with the MAP proportion increasing at higher hardness. Under high hardness, PPK and PPX activities increased by 109.1% and 80.7%, respectively, and the relative abundance ratio of PAO/DPAO-associated taxa to GAO/DGAO-associated taxa increased from 0.24 to 2.5. A 190-day operation confirmed the synergistic interactions between BIPP and EBPR. Microbial analysis revealed that the relative abundance of GAO/DGAO-associated taxa decreased from 5.0% to 2.0%, while the phoR gene showed its highest relative abundance (0.45%) under high-hardness conditions, suggesting a potential association between extracellular chemical fixation and intracellular storage. This study elucidates the hardness-driven synergistic mechanisms, providing a theoretical basis for EBPR optimization in high-hardness regions.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "88%",
+        "source": "Results demonstrated that hardness simultaneously promoted biological uptake and chemical precipitation, maintaining stable high performance (88% TP removal, SVI 89 mL g-1) even at 600 mg L-1, whereas the control failed due to sludge disintegration."
+      },
+      {
+        "item": "割合",
+        "value": "109.1%",
+        "source": "Under high hardness, PPK and PPX activities increased by 109.1% and 80.7%, respectively, and the relative abundance ratio of PAO/DPAO-associated taxa to GAO/DGAO-associated taxa increased from 0.24 to 2.5."
+      },
+      {
+        "item": "割合",
+        "value": "80.7%",
+        "source": "Under high hardness, PPK and PPX activities increased by 109.1% and 80.7%, respectively, and the relative abundance ratio of PAO/DPAO-associated taxa to GAO/DGAO-associated taxa increased from 0.24 to 2.5."
+      },
+      {
+        "item": "割合",
+        "value": "5.0%",
+        "source": "Microbial analysis revealed that the relative abundance of GAO/DGAO-associated taxa decreased from 5.0% to 2.0%, while the phoR gene showed its highest relative abundance (0.45%) under high-hardness conditions, suggesting a potential association between extracellular chemical fixation and intracellular storage."
+      },
+      {
+        "item": "割合",
+        "value": "2.0%",
+        "source": "Microbial analysis revealed that the relative abundance of GAO/DGAO-associated taxa decreased from 5.0% to 2.0%, while the phoR gene showed its highest relative abundance (0.45%) under high-hardness conditions, suggesting a potential association between extracellular chemical fixation and intracellular storage."
+      },
+      {
+        "item": "割合",
+        "value": "0.45%",
+        "source": "Microbial analysis revealed that the relative abundance of GAO/DGAO-associated taxa decreased from 5.0% to 2.0%, while the phoR gene showed its highest relative abundance (0.45%) under high-hardness conditions, suggesting a potential association between extracellular chemical fixation and intracellular storage."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767152/",
+    "doi_url": "https://doi.org/10.1016/j.jenvman.2026.130991",
+    "created_at": "2026-09-22T23:35:50.102950+00:00"
+  },
+  {
+    "pmid": "42767890",
+    "doi": "10.1016/j.eimce.2026.503272",
+    "category": "カテーテル新技術",
+    "title_en": "Effectiveness and safety of daptomycin in pediatrics.",
+    "title_ja": "",
+    "authors": "Mayo Olveira Fátima, Caro Teller José Manuel, Castro Frontiñán Almudena, Bayón Fernández Elena, Jiménez León María Del Carmen, Prieto Tato Luis Manuel, Epalza Ibarrondo Cristina, Moraleda Redecilla Cinta, Ferrari Piquero José Miguel",
+    "journal": "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+    "publication_date": "2026-09-21",
+    "entry_date": "2026-09-21",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Antimicrobial resistance is an increasing challenge in Public Health, particularly due to the prevalence of methicillin-resistant Staphylococcus aureus (MRSA). Daptomycin is known to be useful in complicated infections caused by this microorganism, although the evidence in pediatrics is still limited. The objectives are to describe the clinical and microbiological effectiveness of daptomycin in the pediatric population of a tertiary care hospital. Furthermore, to detail the prescribed doses, microorganisms causing the infection, antibiotics used in synergy and the number of patients who presented elevated creatine phosphokinase (CK) and/or eosinophilia.\nMETHODS: This was a single-center, retrospective, observational study. Hospitalized pediatric patients who received at least one dose of daptomycin were included. Demographic, microbiological, pharmacological, and clinical variables were analyzed. Safety was assessed using CK and eosinophil levels before and after daptomycin treatment.\nRESULTS: Forty-four patients were included (72.7% men; median age: 9.9 years). The main indications for which it was prescribed were skin and soft tissue infections (43.2%) and osteoarticular infections (27.3%), followed by endocarditis (11.4%) and catheter-associated bacteremia (11.4%). The median prescribed dose was 9.0 mg/kg. Daptomycin was used empirically in 52.3% of cases and as first-line treatment in 15.9%. Microbiological isolation was confirmed in 65.9% of patients, with methicillin-susceptible S. aureus (MSSA) being the most frequently isolated microorganism (48.3%), followed by MRSA (27.6%). Microbiological cure was confirmed in 34.5% of patients with isolation. Clinical improvement was observed in 84.1% of cases. No patients died. Regarding safety, in patients for whom CK levels were available, no elevations were observed and no treatment was discontinued due to toxicity.\nCONCLUSIONS: Daptomycin showed a high rate of clinical effectiveness. In patients for whom CK levels were available, no elevations were observed; however, the small number of patients monitored limits the interpretation of safety. Its use was largely empirical. These findings support its consideration as a therapeutic alternative in this group of patients, although prospective, controlled studies are needed to strengthen the evidence in the pediatric population.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "72.7%",
+        "source": "RESULTS: Forty-four patients were included (72.7% men; median age: 9.9 years)."
+      },
+      {
+        "item": "割合",
+        "value": "43.2%",
+        "source": "The main indications for which it was prescribed were skin and soft tissue infections (43.2%) and osteoarticular infections (27.3%), followed by endocarditis (11.4%) and catheter-associated bacteremia (11.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "27.3%",
+        "source": "The main indications for which it was prescribed were skin and soft tissue infections (43.2%) and osteoarticular infections (27.3%), followed by endocarditis (11.4%) and catheter-associated bacteremia (11.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "11.4%",
+        "source": "The main indications for which it was prescribed were skin and soft tissue infections (43.2%) and osteoarticular infections (27.3%), followed by endocarditis (11.4%) and catheter-associated bacteremia (11.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "52.3%",
+        "source": "Daptomycin was used empirically in 52.3% of cases and as first-line treatment in 15.9%."
+      },
+      {
+        "item": "割合",
+        "value": "15.9%",
+        "source": "Daptomycin was used empirically in 52.3% of cases and as first-line treatment in 15.9%."
+      },
+      {
+        "item": "割合",
+        "value": "65.9%",
+        "source": "Microbiological isolation was confirmed in 65.9% of patients, with methicillin-susceptible S."
+      },
+      {
+        "item": "割合",
+        "value": "48.3%",
+        "source": "aureus (MSSA) being the most frequently isolated microorganism (48.3%), followed by MRSA (27.6%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42767890/",
+    "doi_url": "https://doi.org/10.1016/j.eimce.2026.503272",
+    "created_at": "2026-09-22T23:35:53.961366+00:00"
   },
   {
     "pmid": "42763679",
