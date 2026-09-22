@@ -1,5 +1,36 @@
 [
   {
+    "pmid": "42766262",
+    "doi": "10.1007/s11255-026-05401-z",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Identification of key molecules and pathways in CaOx crystal-induced renal injury based on metabolomics and proteomics.",
+    "title_ja": "",
+    "authors": "Xu Yuexian, Hu Dekai, Zhang Yun, Hou Bingbing, Wang Xingyu, Hao Zongyao",
+    "journal": "International urology and nephrology",
+    "publication_date": "2026-09-21",
+    "entry_date": "2026-09-21",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「metabolomics、kegg」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "metabolomics",
+      "kegg"
+    ],
+    "abstract_en": "PURPOSE: Calcium oxalate (CaOx) crystal deposition is the major pathological process of kidney stone formation and causes renal tubular injury. However, the molecular mechanisms and metabolic alterations involved remain unclear. This study aimed to identify key molecules and pathways associated with CaOx crystal-induced renal injury.\nMETHODS: A mouse model of renal CaOx crystal deposition was established by glyoxylate (Gly) administration. Kidney tissues from CaOx crystal-bearing and control mice were analyzed using integrated proteomic and metabolomic approaches. Differentially expressed proteins and metabolites were identified by bioinformatics analyses, including Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment and protein-metabolite correlation analysis. The candidate proteins were validated by immunohistochemistry and Western blotting, and their functions were evaluated in COM-treated HK-2 cells.\nRESULTS: Multi-omics analysis revealed significant alterations in mitochondrial energy metabolism, redox homeostasis, mineral absorption, and apoptosis-related pathways. Four candidate proteins, apoptosis-inducing factor mitochondria-associated 1 (AIFM1), succinyl-CoA ligase ADP-forming beta subunit (SUCLA2), isocitrate dehydrogenase 2 (IDH2), and pyruvate dehydrogenase E1 subunit beta (PDHB), were downregulated in CaOx crystal-bearing kidneys. The overexpression experiments showed that IDH2 provided the strongest protection against COM-induced tubular injury and mitochondrial reactive oxygen species accumulation, while SUCLA2 and PDHB showed moderate effects.\nCONCLUSION: Mitochondrial energy metabolism dysfunction is a key feature of CaOx crystal-induced renal injury. IDH2 may represent a potential protective regulator and therapeutic target for CaOx-related kidney injury.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42766262/",
+    "doi_url": "https://doi.org/10.1007/s11255-026-05401-z",
+    "created_at": "2026-09-22T00:04:55.060219+00:00"
+  },
+  {
     "pmid": "42763679",
     "doi": "10.7759/cureus.116551",
     "category": "カテーテル新技術",
