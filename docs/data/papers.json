@@ -54,6 +54,130 @@
     "created_at": "2026-09-22T23:35:57.723031+00:00"
   },
   {
+    "pmid": "42771256",
+    "doi": "10.1007/s11845-026-04643-1",
+    "category": "カテーテル新技術",
+    "title_en": "Resistance phenotype, infection source, and empirical therapy in ICU-onset gram-negative bloodstream infections: Associations with 30-day mortality.",
+    "title_ja": "",
+    "authors": "Kizilcay Burak, Ozdemir Yusuf Emre",
+    "journal": "Irish journal of medical science",
+    "publication_date": "2026-09-22",
+    "entry_date": "2026-09-22",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: ICU-onset gram-negative bloodstream infections carry high mortality, rising antimicrobial resistance, and empirical treatment challenges.\nAIMS: To evaluate resistance phenotypes, empirical therapy appropriateness, infection source, and invasive ICU exposures in these infections.\nMETHODS: This single-centre retrospective cohort included adults with gram-negative bloodstream infection occurring ≥ 48 h after ICU admission between January 2021 and December 2025. Clinical characteristics, pathogen distribution, carbapenem and colistin resistance, empirical therapy appropriateness, and factors associated with 30-day mortality were analysed.\nRESULTS: Overall, 352 patients were included; mean age was 70.3 ± 15.9 years and 58.5% were male. The most common sources were pneumonia (33.5%), urinary tract infection (25.3%), and catheter-related bloodstream infection (14.5%). The leading pathogens were Klebsiella spp. (26.7%), Acinetobacter baumannii (21.0%), and Pseudomonas aeruginosa (21.0%). Carbapenem and colistin resistance were detected in 50.8% and 33.8% of isolates, respectively. Carbapenem resistance was independently associated with longer pre-bacteraemia ICU stay, primary bacteraemia, and mechanical ventilation, whereas colistin resistance was associated with age ≥ 65 years. Thirty-day mortality was 57.9%. Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003).\nCONCLUSION: In ICU-onset gram-negative bloodstream infections, carbapenem resistance, catheter-related source, older age, and previous cerebrovascular event were associated with increased 30-day mortality, while appropriate empirical therapy was associated with improved survival. These findings support risk-based empirical treatment decisions guided by patient characteristics, infection source, invasive support exposure, and the anticipated likelihood of resistant pathogens.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "352 patients",
+        "source": "RESULTS: Overall, 352 patients were included; mean age was 70.3 ± 15.9 years and 58.5% were male."
+      },
+      {
+        "item": "割合",
+        "value": "58.5%",
+        "source": "RESULTS: Overall, 352 patients were included; mean age was 70.3 ± 15.9 years and 58.5% were male."
+      },
+      {
+        "item": "割合",
+        "value": "33.5%",
+        "source": "The most common sources were pneumonia (33.5%), urinary tract infection (25.3%), and catheter-related bloodstream infection (14.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "25.3%",
+        "source": "The most common sources were pneumonia (33.5%), urinary tract infection (25.3%), and catheter-related bloodstream infection (14.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "14.5%",
+        "source": "The most common sources were pneumonia (33.5%), urinary tract infection (25.3%), and catheter-related bloodstream infection (14.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "26.7%",
+        "source": "(26.7%), Acinetobacter baumannii (21.0%), and Pseudomonas aeruginosa (21.0%)."
+      },
+      {
+        "item": "割合",
+        "value": "21.0%",
+        "source": "(26.7%), Acinetobacter baumannii (21.0%), and Pseudomonas aeruginosa (21.0%)."
+      },
+      {
+        "item": "割合",
+        "value": "50.8%",
+        "source": "Carbapenem and colistin resistance were detected in 50.8% and 33.8% of isolates, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "33.8%",
+        "source": "Carbapenem and colistin resistance were detected in 50.8% and 33.8% of isolates, respectively."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.046",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.002",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.030",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.043",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.003",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.017",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 3.388",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 2.061",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.872",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 0.404",
+        "source": "Older age (OR 1.017; p = 0.046), catheter-related source (OR 3.388; p = 0.002), previous cerebrovascular event (OR 2.061; p = 0.030), and carbapenem resistance (OR 1.872; p = 0.043) were independently associated with mortality, whereas appropriate empirical therapy was protective (OR 0.404; p = 0.003)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42771256/",
+    "doi_url": "https://doi.org/10.1007/s11845-026-04643-1",
+    "created_at": "2026-09-23T23:39:53.860455+00:00"
+  },
+  {
     "pmid": "42766262",
     "doi": "10.1007/s11255-026-05401-z",
     "category": "尿路結石・メタボローム",
