@@ -1,5 +1,35 @@
 [
   {
+    "pmid": "42781043",
+    "doi": "10.1007/s13691-026-00892-0",
+    "category": "カテーテル新技術",
+    "title_en": "Serial cone-beam CT findings of conservatively managed rectal edema during prostate radiotherapy after hydrogel spacer placement.",
+    "title_ja": "",
+    "authors": "Doi Yoshiko, Kurimura Yoshimasa, Kajiwara Mitsuru",
+    "journal": "International cancer conference journal",
+    "publication_date": "2026-10-01",
+    "entry_date": "2026-09-24",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel"
+    ],
+    "abstract_en": "Hydrogel rectal spacers such as SpaceOAR are widely used to reduce rectal radiation exposure during prostate radiotherapy and are generally considered safe. However, spacer-related complications have occasionally been reported. We report a case of transient rectal edema associated with urinary retention during radiotherapy following hydrogel spacer placement. A 78-year-old man with high-risk prostate cancer underwent androgen deprivation therapy followed by definitive external beam radiotherapy after SpaceOAR implantation. Magnetic resonance imaging performed nine days after spacer insertion confirmed appropriate placement between the prostate and rectum. During the course of radiotherapy, progressive rectal wall swelling was observed on serial cone-beam computed tomography, and the patient developed acute urinary retention requiring intermittent self-catheterization. Radiotherapy was continued because the patient remained clinically stable without fever, pain, or bleeding. Post-treatment magnetic resonance imaging demonstrated diffuse rectal wall edema with partial disruption of the rectal wall and hydrogel infiltration into the rectal lumen. Despite these radiologic findings, the patient remained clinically stable, and urinary symptoms resolved spontaneously without invasive intervention. Follow-up imaging demonstrated gradual resolution of the hydrogel and healing of the rectal wall. This case provides important insight into the potential spectrum of hydrogel spacer-related tissue reactions during RT. Although most previously reported spacer-related complications involve rectal injury or infection requiring intervention, the present case demonstrated that transient inflammatory changes may occur and can resolve with conservative management. Careful imaging evaluation and close clinical observation may help distinguish transient inflammatory reactions from severe complications requiring urgent intervention, thereby potentially avoiding unnecessary treatment interruption or surgical procedures in clinically stable patients. In addition, serial CBCT obtained during daily image-guided radiotherapy provided valuable information regarding the temporal evolution of pelvic tissue changes and may contribute to early recognition of clinically significant inflammatory reactions during treatment.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42781043/",
+    "doi_url": "https://doi.org/10.1007/s13691-026-00892-0",
+    "created_at": "2026-09-24T23:52:15.001647+00:00"
+  },
+  {
     "pmid": "42769868",
     "doi": "10.7759/cureus.114991",
     "category": "カテーテル新技術",
