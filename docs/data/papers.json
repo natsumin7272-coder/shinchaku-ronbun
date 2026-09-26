@@ -1,5 +1,222 @@
 [
   {
+    "pmid": "42792064",
+    "doi": "10.3390/antibiotics15090915",
+    "category": "カテーテル新技術",
+    "title_en": "Factors Associated with Methicillin-Resistant Staphylococcus aureus Infection Among Patients with Sepsis Presenting to Emergency Departments: A Nationwide Multicenter Cohort Study.",
+    "title_ja": "",
+    "authors": "Lee Hyeji, Hyun Dong-Gon, Lim Chae-Man, Ko Ryoung-Eun, Suh Gee Young, Kim Won Young",
+    "journal": "Antibiotics (Basel, Switzerland)",
+    "publication_date": "2026-09-16",
+    "entry_date": "2026-09-26",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background/Objectives: Prompt initiation of appropriate antibiotics is essential for sepsis management. While early anti-methicillin-resistant Staphylococcus aureus (MRSA) therapy benefits confirmed cases, unnecessary use in low-risk patients promotes antimicrobial resistance. Current guidelines recommend risk-based empiric coverage, but specific predictors in the emergency department (ED) remain poorly defined. Therefore, this study aims to identify clinical factors independently associated with MRSA infection in ED patients with sepsis. Methods: This retrospective analysis used data from a prospective, nationwide, multicenter cohort in the Korean Sepsis Alliance registry. The study included 11,477 adults with sepsis from 16 tertiary or university-affiliated EDs between September 2019 and December 2022. Factors independently associated with MRSA infection were identified with multivariable logistic regression. Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen. Catheter-related infection showed the strongest association (odds ratio [OR], 5.98; 95% CI, 1.93-18.49). Other factors independently associated with MRSA included hospitalization within 90 days (OR, 1.65; 95% CI, 1.14-2.39) and elevated C-reactive protein ≥ 6 mg/dL (data-derived cutoff; OR, 2.18; 95% CI, 1.43-3.38). Conversely, abdominal (OR, 0.19; 95% CI, 0.09-0.43) and urinary (OR, 0.40; 95% CI, 0.21-0.77) sources were linked to significantly lower risk. Conclusions: MRSA infection was uncommon (1.65%) among ED patients with sepsis. Catheter-related infection was most strongly associated with MRSA, whereas abdominal and urinary sources were associated with lower odds. These findings may help inform risk stratification and support antimicrobial stewardship in the ED.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "477 patients",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "割合",
+        "value": "1.65%",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "割合",
+        "value": "1.90%",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "割合",
+        "value": "2.86%",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "割合",
+        "value": "3.29%",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 2",
+        "source": "Results: MRSA infection occurred in 189 of 11,477 patients (1.65%; 95% confidence interval [CI], 1.43-1.90%), representing 2.86% (95% CI, 2.49-3.29%) of patients with a microbiologically identified causative pathogen."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 1",
+        "source": "Catheter-related infection showed the strongest association (odds ratio [OR], 5.98; 95% CI, 1.93-18.49)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 0",
+        "source": "Conversely, abdominal (OR, 0.19; 95% CI, 0.09-0.43) and urinary (OR, 0.40; 95% CI, 0.21-0.77) sources were linked to significantly lower risk."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42792064/",
+    "doi_url": "https://doi.org/10.3390/antibiotics15090915",
+    "created_at": "2026-09-26T23:35:49.042277+00:00"
+  },
+  {
+    "pmid": "42796695",
+    "doi": "10.3390/pathogens15090927",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical Characteristics and Antimicrobial Resistance Profiles of Pediatric Enterococcal Infections: A Comparison Between Enterococcus faecium and Enterococcus faecalis.",
+    "title_ja": "",
+    "authors": "Wang Zixuan, Li Chenchen, Zhou Yuanjie, Deng Xiang, Huang Weichun, Cao Qing",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "publication_date": "2026-09-03",
+    "entry_date": "2026-09-26",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Objective: To compare the clinical characteristics, healthcare exposures, and antimicrobial susceptibility profiles of pediatric Enterococcus faecium and Enterococcus faecalis infections. Methods: This retrospective study included hospitalized children with E. faecium or E. faecalis isolated from sterile specimens between August 2018 and June 2025. Clinical characteristics and antimicrobial susceptibility were compared. Logistic regression identified factors associated with pathogen species, while negative binomial regression evaluated the association between species and length of hospital stay. Results: Among 167 patients, 98 had E. faecium infection and 69 had E. faecalis infection. No significant annual trend in species distribution was observed. Multi-site infection was more common with E. faecium than with E. faecalis (36.73% vs. 15.94%, p = 0.003). Hematologic malignancy, previous hospitalization, central venous catheterization, immunosuppressive therapy, higher procalcitonin levels, and longer hospitalization were more common in the E. faecium group. In three separate primary logistic regression models adjusted for septic shock, central venous catheterization and hospitalization for ≥14 days before culture positivity were associated with higher odds of E. faecium infection, whereas endotracheal intubation was associated with higher odds of E. faecalis infection. In post hoc sensitivity analyses jointly incorporating these healthcare exposures and either hematologic malignancy or immunosuppressive therapy, only central venous catheterization remained significantly associated with E. faecium infection. E. faecium infection was associated with a 33.8% longer hospital stay (aIRR = 1.338, 95% CI: 1.160-1.543, p < 0.001). E. faecium showed substantially greater resistance to ampicillin and penicillin. Conclusions: Pediatric E. faecium and E. faecalis infections differed in patient profiles, healthcare exposures, antimicrobial susceptibility, and disease burden. Species identification may support clinical assessment and antimicrobial stewardship.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "167 patients",
+        "source": "Results: Among 167 patients, 98 had E."
+      },
+      {
+        "item": "割合",
+        "value": "36.73%",
+        "source": "faecalis (36.73% vs."
+      },
+      {
+        "item": "割合",
+        "value": "15.94%",
+        "source": "15.94%, p = 0.003)."
+      },
+      {
+        "item": "割合",
+        "value": "33.8%",
+        "source": "faecium infection was associated with a 33.8% longer hospital stay (aIRR = 1.338, 95% CI: 1.160-1.543, p < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "faecium infection was associated with a 33.8% longer hospital stay (aIRR = 1.338, 95% CI: 1.160-1.543, p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.003",
+        "source": "15.94%, p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "faecium infection was associated with a 33.8% longer hospital stay (aIRR = 1.338, 95% CI: 1.160-1.543, p < 0.001)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 1",
+        "source": "faecium infection was associated with a 33.8% longer hospital stay (aIRR = 1.338, 95% CI: 1.160-1.543, p < 0.001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42796695/",
+    "doi_url": "https://doi.org/10.3390/pathogens15090927",
+    "created_at": "2026-09-26T23:35:52.692550+00:00"
+  },
+  {
+    "pmid": "42791975",
+    "doi": "10.3390/antibiotics15090824",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical and Microbiological Characteristics of Early Candidozyma auris Cases in a Tertiary Hospital in Istanbul, Türkiye: A Retrospective Case Series.",
+    "title_ja": "",
+    "authors": "Nalça Erdin Begüm, Aydın İrfan, Akkaya Yüksel, Gürlek Ustabaşı Meziyet Zeliha, Alıcıkuş Zeliha, Turan Can, Kılıç İbrahim Halil",
+    "journal": "Antibiotics (Basel, Switzerland)",
+    "publication_date": "2026-08-25",
+    "entry_date": "2026-09-26",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Candidozyma auris (C. auris) is an emerging multidrug-resistant yeast associated with healthcare-related transmission, difficult laboratory identification, antifungal resistance, and high mortality in critically ill patients. This study aimed to describe the clinical and microbiological characteristics of early institutional C. auris cases detected in a tertiary hospital in Istanbul, Türkiye.\nMETHODS: Adult patients hospitalized between January 2021 and December 2022 with C. auris isolation were retrospectively reviewed. Demographic data, underlying conditions, intensive care unit (ICU) exposure, invasive procedures, antimicrobial and antifungal use, culture sources, antifungal susceptibility testing (AFST) results, and clinical outcomes were evaluated. C. auris isolates were identified using VITEK MS v.3.2, and AFST was performed using C. auris isolates were identified using VITEK MS v.3.2, and AFST was performed using Sensititre YeastOne YO10 (Thermo Fisher Scientific, Waltham, MA, USA) panels. Results were interpreted according to CDC interim breakpoints. Multiple isolates from an individual patient were retained when they represented different specimen types or sampling events.\nRESULTS: Thirty-three adult patients and 62 clinical isolates were included. The mean age was 67.8 years, and 20 patients (60.6%) were aged 65 years or older. Most patients had prior ICU admission (93.9%), urinary catheterization (97.0%), central venous catheterization (90.9%), mechanical ventilation (81.8%), and broad-spectrum antimicrobial exposure. Blood cultures represented the most frequent source of isolation (56.5%), followed by urine cultures (27.4%). Resistance rates were 98.4% for amphotericin B, 88.7% for fluconazole, 6.6% for micafungin, and 6.5% for caspofungin. Overall mortality was 72.7%. While mortality was numerically higher among patients aged 65 years or older and those requiring inotropic support, only the need for mechanical ventilation was statistically significantly associated with mortality. The cohort-level APACHE II-based expected mortality was 48.0%, whereas observed mortality was 72.7%; this comparison was descriptive and no formal calibration analysis was performed.\nCONCLUSIONS: Early institutional C. auris cases in this tertiary hospital occurred predominantly among elderly, critically ill patients with prolonged healthcare exposure, invasive devices, and extensive antimicrobial use. The findings support the need for early laboratory recognition, cautious interpretation of commercial AFST results, particularly given the propensity of Sensititre YeastOne to overestimate amphotericin B resistance, strengthened infection control practices, and multicenter studies incorporating molecular typing to clarify transmission dynamics and antifungal resistance patterns.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "20 patients",
+        "source": "The mean age was 67.8 years, and 20 patients (60.6%) were aged 65 years or older."
+      },
+      {
+        "item": "割合",
+        "value": "60.6%",
+        "source": "The mean age was 67.8 years, and 20 patients (60.6%) were aged 65 years or older."
+      },
+      {
+        "item": "割合",
+        "value": "93.9%",
+        "source": "Most patients had prior ICU admission (93.9%), urinary catheterization (97.0%), central venous catheterization (90.9%), mechanical ventilation (81.8%), and broad-spectrum antimicrobial exposure."
+      },
+      {
+        "item": "割合",
+        "value": "97.0%",
+        "source": "Most patients had prior ICU admission (93.9%), urinary catheterization (97.0%), central venous catheterization (90.9%), mechanical ventilation (81.8%), and broad-spectrum antimicrobial exposure."
+      },
+      {
+        "item": "割合",
+        "value": "90.9%",
+        "source": "Most patients had prior ICU admission (93.9%), urinary catheterization (97.0%), central venous catheterization (90.9%), mechanical ventilation (81.8%), and broad-spectrum antimicrobial exposure."
+      },
+      {
+        "item": "割合",
+        "value": "81.8%",
+        "source": "Most patients had prior ICU admission (93.9%), urinary catheterization (97.0%), central venous catheterization (90.9%), mechanical ventilation (81.8%), and broad-spectrum antimicrobial exposure."
+      },
+      {
+        "item": "割合",
+        "value": "56.5%",
+        "source": "Blood cultures represented the most frequent source of isolation (56.5%), followed by urine cultures (27.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "27.4%",
+        "source": "Blood cultures represented the most frequent source of isolation (56.5%), followed by urine cultures (27.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "98.4%",
+        "source": "Resistance rates were 98.4% for amphotericin B, 88.7% for fluconazole, 6.6% for micafungin, and 6.5% for caspofungin."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42791975/",
+    "doi_url": "https://doi.org/10.3390/antibiotics15090824",
+    "created_at": "2026-09-26T23:35:55.911877+00:00"
+  },
+  {
     "pmid": "42787585",
     "doi": "10.7759/cureus.115123",
     "category": "カテーテル新技術",
