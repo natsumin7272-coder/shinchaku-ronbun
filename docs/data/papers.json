@@ -1,5 +1,157 @@
 [
   {
+    "pmid": "42809173",
+    "doi": "10.1007/s12602-026-11226-0",
+    "category": "カテーテル新技術",
+    "title_en": "RK-14: A Novel Antimicrobial Peptide Targeting Multidrug-Resistant Bacteria and Catheter-Associated Biofilms.",
+    "title_ja": "",
+    "authors": "Mehraj Insha, Pandit Ram Kumar, Qureshi Sabia, Ganai Nazir Ahmad, Dar Tanvir Ul Hassan, Najar Mushtaq Ahmad, Shafiq Misba, Bhat Sahar Saleem",
+    "journal": "Probiotics and antimicrobial proteins",
+    "publication_date": "2026-09-29",
+    "entry_date": "2026-09-29",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Antimicrobial resistance (AMR) and biofilm-associated infections caused by multidrug-resistant (MDR) bacteria pose major challenges to effective antimicrobial therapy. In this study, the short cationic antimicrobial peptide RK-14 (RIWKIWKKIWKIWK-NH₂) was designed using an integrated artificial intelligence (AI)- and machine learning (ML)-assisted approach and subsequently evaluated using computational predictions and in vitro analyses. RK-14 exhibited bactericidal activity against methicillin-resistant Staphylococcus aureus and ESBL-positive Escherichia coli, with MICs of 16-64 µM and MBCs of 32-128 µM. RK-14 showed strong concentration-dependent antibiofilm activity (80-99% inhibition), outperforming LL-37, vancomycin, and colistin. Against mature catheter-associated biofilms, RK-14 achieved 87-91% eradication at 1 × MIC, compared with 77-87% for LL-37 and markedly lower activity of vancomycin and colistin. Consistently, catheter-associated CFU counts were significantly reduced following RK-14 treatment compared with the comparator treatments. Fluorescence microscopy revealed pronounced reductions in bacterial numbers and marked morphological alterations in both E. coli and S. aureus. Membrane disruption was further supported by strong membrane-binding affinity and increased propidium iodide uptake. RK-14 also suppressed key biofilm- and virulence-associated genes, including luxS, csgD, icaD, and spa. In ESBL-positive E. coli, RK-14 reduced luxS and csgD expression to approximately 0.36-0.48-fold and 0.17-0.43-fold, respectively, relative to the untreated control. In methicillin-resistant S. aureus, RK-14 reduced icaD and spa expression to approximately 0.47-fold and 0.64-fold, respectively. These effects were generally greater than or comparable to those observed following LL-37 and conventional antibiotic treatment. The peptide retained activity under various temperature and ionic conditions and showed low cytotoxicity at effective concentrations, although hemolysis increased at higher concentrations. Overall, RK-14 demonstrates potent bactericidal and antibiofilm activity, effective disruption of mature catheter-associated biofilms, and a favorable preliminary selectivity profile, supporting its further investigation as a promising lead peptide against MDR bacterial infections.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "99%",
+        "source": "RK-14 showed strong concentration-dependent antibiofilm activity (80-99% inhibition), outperforming LL-37, vancomycin, and colistin."
+      },
+      {
+        "item": "割合",
+        "value": "91%",
+        "source": "Against mature catheter-associated biofilms, RK-14 achieved 87-91% eradication at 1 × MIC, compared with 77-87% for LL-37 and markedly lower activity of vancomycin and colistin."
+      },
+      {
+        "item": "割合",
+        "value": "87%",
+        "source": "Against mature catheter-associated biofilms, RK-14 achieved 87-91% eradication at 1 × MIC, compared with 77-87% for LL-37 and markedly lower activity of vancomycin and colistin."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42809173/",
+    "doi_url": "https://doi.org/10.1007/s12602-026-11226-0",
+    "created_at": "2026-09-30T00:24:43.285024+00:00"
+  },
+  {
+    "pmid": "42807574",
+    "doi": "10.2147/RMHP.S620305",
+    "category": "カテーテル新技術",
+    "title_en": "Safety of Mini-Midline Catheters for Intravenous Antimicrobial Therapy Not Exceeding 14 Days: Treatment Completion Rate and Re-Catheterization Needs.",
+    "title_ja": "",
+    "authors": "Liao Lihong, Zhang Jianfang, Li Liqin, Feng Yuling, Sun Qiu, Shen Yiqing, Ma Xiaojing, Dong Chaoyi, Shi Lihua",
+    "journal": "Risk management and healthcare policy",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-29",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: To evaluate whether ultrasound-guided mini-midline catheter use (8-15 cm) is associated with treatment completion and safety outcomes compared with short peripheral catheters (<8 cm) for intravenous antimicrobial therapy lasting no more than 14 days, while additionally characterizing device specifications, peripheral drug compatibility, and cumulative vascular-access burden.\nMETHODS: This single-center retrospective comparative cohort study included 134 hospitalized adults (55 mini-midline, 79 short PIVC) receiving planned intravenous antimicrobial therapy for 5-14 days. The primary endpoint was treatment completion through the index device. Secondary outcomes included catheter-related complications, re-catheterization, cumulative catheter burden, inflammatory markers, and descriptively summarized dwell time among devices with documented insertion and removal timestamps.\nRESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015). Among devices with documented timestamps, median dwell time was 310.0 hours (12.9 days) for mini-midlines and 71.5 hours (3.0 days) for short PIVCs. Complication rates were low, with 3/55 mini-midline patients experiencing 5 catheter-related events and 0/79 short-PIVC patients experiencing catheter-related events. No bloodstream infection or symptomatic thrombosis occurred in either group. Mini-midline patients required fewer total PIVCs per treatment episode, while cumulative insertion attempts were 61 and 85 in the mini-midline and short-PIVC groups, respectively. Diabetes mellitus and ≥2 puncture attempts were associated with treatment non-completion in the mini-midline group.\nCONCLUSION: Ultrasound-guided mini-midlines were associated with acceptable safety, longer observed peripheral dwell time, and reduced overall PIVC burden in selected hospitalized patients receiving up to 14 days of peripherally compatible intravenous antimicrobial therapy. Mini-midlines should be considered a complementary vascular-access strategy rather than a universal replacement for short PIVCs.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "90.2%",
+        "source": "RESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015)."
+      },
+      {
+        "item": "割合",
+        "value": "100.0%",
+        "source": "RESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015)."
+      },
+      {
+        "item": "割合",
+        "value": "9.8%",
+        "source": "RESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015)."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.005",
+        "source": "RESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015)."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.015",
+        "source": "RESULTS: Treatment completion was 46/51 (90.2%) for mini-midlines and 79/79 (100.0%) for short PIVCs (unadjusted p=0.005; absolute RD -9.8%; Holm-adjusted p=0.015)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42807574/",
+    "doi_url": "https://doi.org/10.2147/RMHP.S620305",
+    "created_at": "2026-09-30T00:24:46.619952+00:00"
+  },
+  {
+    "pmid": "42807182",
+    "doi": "10.3389/fcimb.2026.1930952",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical gradient and predictors for stepwise resistance escalation of carbapenem-susceptible, carbapenem-resistant, and difficult-to-treat resistant Pseudomonas aeruginosa infections: a 6-year retrospective cohort study.",
+    "title_ja": "",
+    "authors": "Chen Lin, Yin Donghong, Hu Huimin, Kang Jianbang, Rouzimaimaiti Renaguli, Duan Jinju, Hou Ruigang",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-09-29",
+    "study_design": "症例対照研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: Difficult-to-treat resistant Pseudomonas aeruginosa (DTR-PA) represents the most severe antimicrobial resistance phenotype of P. aeruginosa, with limited therapeutic options and poor clinical outcomes. However, previous studies have largely focused on carbapenem-resistant P. aeruginosa (CRPA), and the factors associated with resistance acquisition and progression remain insufficiently characterized. This study aimed to investigate the clinical characteristics and risk factors associated with different resistance phenotypes of P. aeruginosa from the perspectives of both resistance acquisition and resistance escalation.\nMETHODS: A retrospective case-control study was conducted from January 2020 to December 2025 at a tertiary teaching hospital. P. aeruginosa isolates were classified according to antimicrobial susceptibility profiles. All DTR-PA cases (n = 67) were included, and CRPA and carbapenem-susceptible P. aeruginosa (CSPA) controls were selected using a time-stratified 1:2:2 sampling strategy. Clinical data were collected, and three comparative models were developed to explore determinants of resistance acquisition and resistance escalation across different P. aeruginosa phenotypes: resistant P. aeruginosa (R-PA, defined as CRPA and DTR-PA) versus CSPA, DTR-PA versus CRPA, and DTR-PA versus non-DTR-PA.\nRESULTS: During the study period, 2,692 P. aeruginosa clinical isolates were included for analysis, including 67 (2.5%) DTR-PA, 407 (15.1%) CRPA, and 2,218 (82.4%) CSPA. A total of 335 patients were included in the risk factor analysis. With increasing antimicrobial resistance severity, inflammatory markers showed a stepwise increase, whereas nutritional status, as reflected by serum albumin levels, demonstrated a progressive decline. In the R-PA versus CSPA model, invasive respiratory procedures, prolonged hospitalization, and polymicrobial co-infection were associated with increased risk, whereas higher BMI and serum albumin levels showed modest inverse associations with resistant P. aeruginosa infection. In the DTR-PA versus CRPA model, diabetes mellitus, chronic respiratory diseases, and recent ICU admission were associated with DTR-PA infection. In the DTR-PA versus non-DTR-PA model, prior antibiotic exposure, central venous catheterization, and invasive procedures were associated with DTR-PA infection.\nCONCLUSION: Antimicrobial resistance in P. aeruginosa follows a dynamic, stage-dependent process with distinct risk profiles. Healthcare exposure primarily contributes to resistance emergence, whereas host comorbidities and intensive care exposure are more closely associated with progression to DTR-PA. This resistance gradient framework may support early identification, risk stratification, and infection control strategies.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 67",
+        "source": "All DTR-PA cases (n = 67) were included, and CRPA and carbapenem-susceptible P."
+      },
+      {
+        "item": "対象数",
+        "value": "335 patients",
+        "source": "A total of 335 patients were included in the risk factor analysis."
+      },
+      {
+        "item": "割合",
+        "value": "2.5%",
+        "source": "aeruginosa clinical isolates were included for analysis, including 67 (2.5%) DTR-PA, 407 (15.1%) CRPA, and 2,218 (82.4%) CSPA."
+      },
+      {
+        "item": "割合",
+        "value": "15.1%",
+        "source": "aeruginosa clinical isolates were included for analysis, including 67 (2.5%) DTR-PA, 407 (15.1%) CRPA, and 2,218 (82.4%) CSPA."
+      },
+      {
+        "item": "割合",
+        "value": "82.4%",
+        "source": "aeruginosa clinical isolates were included for analysis, including 67 (2.5%) DTR-PA, 407 (15.1%) CRPA, and 2,218 (82.4%) CSPA."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42807182/",
+    "doi_url": "https://doi.org/10.3389/fcimb.2026.1930952",
+    "created_at": "2026-09-30T00:24:50.673040+00:00"
+  },
+  {
     "pmid": "42803674",
     "doi": "10.4081/aiua.2026.15967",
     "category": "尿道カテーテル閉塞",
