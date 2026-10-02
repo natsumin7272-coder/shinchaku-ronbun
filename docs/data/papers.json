@@ -1,5 +1,75 @@
 [
   {
+    "pmid": "42819172",
+    "doi": "10.3389/fcimb.2026.1906306",
+    "category": "カテーテル新技術",
+    "title_en": "An explainable machine learning approach to predicting carbapenem resistance in Klebsiella pneumoniae with imbalanced data and resistance-ratio validation.",
+    "title_ja": "",
+    "authors": "Geng Lili, He Yan, Yang Guangfei, Zheng Shuang, Zhao Lingling, Wang Qi",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-01",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Carbapenem-resistant Klebsiella pneumoniae (CRKP) is a major global health threat. Predicting resistance from electronic medical records (EMRs) may support infection control and antimicrobial stewardship, but class imbalance can impair detection of resistant isolates. This study developed an interpretable machine-learning framework for predicting carbapenem-resistant versus carbapenem-susceptible K. pneumoniae.\nMETHODS: We retrospectively analyzed 5,794 records collected from 2014 to 2024, including 999 carbapenem-resistant and 4,795 carbapenem-susceptible isolates. The prediction anchor was culture-specimen collection (T0), and all predictors were restricted to information available at or before T0. Seven algorithms and 18 sampling strategies were evaluated using patient-grouped five-fold cross-validation with fold-specific preprocessing. The selected resampling pipeline was compared with Platt-calibrated XGBoost using sensitivity-targeted, F2-maximizing, and cost-sensitive thresholds. Feature-restriction analyses, multiplicity-adjusted comparisons, ICU subgroup analysis, reconstructed prevalence scenarios, calibration assessment, and same-center temporal validation were also performed.\nRESULTS: XGBoost and LightGBM showed comparable discrimination after multiplicity adjustment. ENN-BLSMOTE-XGBoost increased sensitivity and reduced the very-major-error rate (VME) at the default threshold, but slightly reduced ranking discrimination and increased false-positive alerts. Sensitivity-targeted threshold optimization of calibrated XGBoost produced an operating point close to that of the resampled model, indicating that much of the sensitivity gain could be achieved without changing the training distribution. After all duration-based predictors were excluded, ENN-BLSMOTE-XGBoost retained an ROC AUC of 0.940 and a PR AUC of 0.833. In the 2025 temporal cohort, the calibrated ENN-BLSMOTE-XGBoost model achieved an ROC AUC of 0.889, a PR AUC of 0.684, a sensitivity of 0.749, and a VME of 0.251; Platt scaling reduced its Brier score from 0.121 to 0.108. SHAP analysis identified ICU admission, vascular system disease, days of indwelling urinary catheterization, days of carbapenem use, and days of endotracheal intubation as the five highest-attribution predictors. A web calculator was developed to provide calibrated probability estimates referenced to the 17.24% resistance prevalence of the development cohort.\nCONCLUSION: The proposed model effectively addresses class imbalance in predicting carbapenem resistance in K. pneumoniae and may support early identification of patients at risk of harboring carbapenem-resistant isolates, thereby informing infection control and antimicrobial stewardship.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "17.24%",
+        "source": "A web calculator was developed to provide calibrated probability estimates referenced to the 17.24% resistance prevalence of the development cohort."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42819172/",
+    "doi_url": "https://doi.org/10.3389/fcimb.2026.1906306",
+    "created_at": "2026-10-02T00:45:39.596149+00:00"
+  },
+  {
+    "pmid": "42815369",
+    "doi": "10.1016/j.vetimm.2026.111209",
+    "category": "PICRUSt2・機能予測",
+    "title_en": "Integrative genetic and inflammatory immunology profiling of type 2 diabetes mellitus patients with comorbid insomnia: A pathway-based analysis of infection susceptibility and clinical outcomes.",
+    "title_ja": "",
+    "authors": "Chen Kejing, Hong Shizhi, Wu Xinhong, Lei Sun",
+    "journal": "Veterinary immunology and immunopathology",
+    "publication_date": "2026-09-20",
+    "entry_date": "2026-09-30",
+    "study_design": "症例対照研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "PICRUSt2・機能予測に関連し、特に「kegg」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "kegg"
+    ],
+    "abstract_en": "Type 2 diabetes mellitus (T2DM) and insomnia represent two of the most prevalent and interacting chronic conditions in global clinical medicine, sharing overlapping pathophysiological substrates involving dysregulated immune activation, impaired circadian rhythm, and systemic metabolic dysfunction. Despite epidemiological evidence documenting the high co-occurrence of insomnia in T2DM populations and converging mechanistic insights implicating shared inflammatory pathways, no prior study has integrated genome-wide genetic profiling, inflammatory immunophenotyping, and pathway-based analysis within a unified framework explicitly designed to characterize the infection susceptibility consequences of this comorbidity. This study fills that gap through a prospective case-control design enrolling 180 T2DM patients with comorbid insomnia, 180 T2DM patients without insomnia, and 120 healthy controls, recruited from three tertiary care centers. Peripheral blood samples were subjected to genome-wide SNP genotyping (Illumina MEGA array), a 40-analyte multiplex cytokine and chemokine panel, flow cytometric immunophenotyping of 12 peripheral blood mononuclear cell subsets, and polysomnographic sleep architecture assessment. Pathway-based analysis integrating Gene Ontology, KEGG, and STRING protein interaction networks identified 10 significantly enriched pathways, with the NF-kB signaling, NLRP3 inflammasome, and toll-like receptor pathways showing the strongest co-activation in the T2DM-insomnia group. The infection-free survival analysis demonstrated that T2DM-insomnia patients had a 52-week cumulative infection incidence 3.8-fold higher than healthy controls and 2.1-fold higher than T2DM-only patients. Mediation analysis identified IL-6, TNF-alpha, NF-kB pathway activation, and regulatory T-cell depletion as significant mediators of the insomnia-to-infection susceptibility pathway, collectively accounting for 64 % of the total indirect effect. Logistic regression models adjusted for age, sex, BMI, medication use, and glycaemic control documented significantly elevated odds of urinary tract infection, respiratory infection, skin and soft tissue infection, and sepsis in T2DM-insomnia patients compared with T2DM-only patients. These findings establish a convergent genetic-inflammatory signature unique to T2DM-insomnia comorbidity that mechanistically underlies heightened infection susceptibility and worse clinical outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "64 %",
+        "source": "Mediation analysis identified IL-6, TNF-alpha, NF-kB pathway activation, and regulatory T-cell depletion as significant mediators of the insomnia-to-infection susceptibility pathway, collectively accounting for 64 % of the total indirect effect."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42815369/",
+    "doi_url": "https://doi.org/10.1016/j.vetimm.2026.111209",
+    "created_at": "2026-10-02T00:45:36.395187+00:00"
+  },
+  {
     "pmid": "42809173",
     "doi": "10.1007/s12602-026-11226-0",
     "category": "カテーテル新技術",
