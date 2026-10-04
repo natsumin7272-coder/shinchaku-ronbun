@@ -1,5 +1,109 @@
 [
   {
+    "pmid": "42829764",
+    "doi": "10.7759/cureus.115733",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical Characteristics, Microbial Profile, and Factors Associated with Recurrent Urinary Tract Infections in Patients with Diabetes Mellitus: A Retrospective Cohort Study.",
+    "title_ja": "",
+    "authors": "Minn Mya Ya, Arshad Asma, Khan Humna, Shabir Saima, Feroz Rijja, Ullah Najeeb, Abideen Muhammad Zain Ul, Gul Daud",
+    "journal": "Cureus",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-04",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background and objective Recurrent urinary tract infection (UTI) is a common and clinically important complication among patients with type 2 diabetes mellitus (T2DM), contributing to increased morbidity, antimicrobial resistance, and healthcare utilization. This study aimed to evaluate the clinical characteristics, microbial profile, and factors associated with recurrent UTIs among patients with T2DM. Methodology This retrospective comparative observational study was conducted at the Fatima Memorial Hospital, Lahore, Pakistan, using medical records of patients managed between March 2023 and March 2026. A total of 455 adult patients with T2DM and at least one culture-confirmed UTI were included. Patients were categorized into recurrent UTI (n = 196) and non-recurrent UTI (n = 259) groups. Demographic characteristics, clinical features, microbiological findings, laboratory parameters, and potential associated factors were extracted from medical records. Univariable and multivariable binary logistic regression analyses were performed to identify factors independently associated with recurrent UTI. Results Of the 455 patients, 196 (43.1%) had recurrent UTI and 259 (56.9%) had non-recurrent UTI. Patients with recurrent UTI were older, had a longer duration of diabetes, had higher HbA1c levels, and a greater proportion were female. Diabetic nephropathy, nephrolithiasis, previous antibiotic use, and urinary catheterization were more common in the recurrent UTI group. Escherichia coli was the predominant uropathogen in both groups, while multidrug-resistant organisms (MDROs) were significantly more frequent among patients with recurrent UTI (98 (50.0%) vs. 75 (29.0%); p <0.001). In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI. Conclusion Recurrent UTI among patients with T2DM was associated with poor glycemic control, diabetic nephropathy, previous antibiotic exposure, urinary catheterization, and infection with MDROs. These findings may facilitate early identification of high-risk patients and support targeted strategies for optimizing glycemic control, antimicrobial stewardship, and prevention of recurrent UTI.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 196",
+        "source": "Patients were categorized into recurrent UTI (n = 196) and non-recurrent UTI (n = 259) groups."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 259",
+        "source": "Patients were categorized into recurrent UTI (n = 196) and non-recurrent UTI (n = 259) groups."
+      },
+      {
+        "item": "対象数",
+        "value": "455 patients",
+        "source": "Results Of the 455 patients, 196 (43.1%) had recurrent UTI and 259 (56.9%) had non-recurrent UTI."
+      },
+      {
+        "item": "割合",
+        "value": "43.1%",
+        "source": "Results Of the 455 patients, 196 (43.1%) had recurrent UTI and 259 (56.9%) had non-recurrent UTI."
+      },
+      {
+        "item": "割合",
+        "value": "56.9%",
+        "source": "Results Of the 455 patients, 196 (43.1%) had recurrent UTI and 259 (56.9%) had non-recurrent UTI."
+      },
+      {
+        "item": "割合",
+        "value": "50.0%",
+        "source": "Escherichia coli was the predominant uropathogen in both groups, while multidrug-resistant organisms (MDROs) were significantly more frequent among patients with recurrent UTI (98 (50.0%) vs."
+      },
+      {
+        "item": "割合",
+        "value": "29.0%",
+        "source": "75 (29.0%); p <0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "P値",
+        "value": "p <0.001",
+        "source": "75 (29.0%); p <0.001)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 1",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 2.41",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 2.08",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.76",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 2.69",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.82",
+        "source": "In multivariable analysis, poor glycemic control (adjusted OR 2.41, 95% CI 1.58-3.67), previous antibiotic use (adjusted OR 2.08, 95% CI 1.36-3.19), diabetic nephropathy (adjusted OR 1.76, 95% CI 1.12-2.78), urinary catheterization (adjusted OR 2.69, 95% CI 1.57-4.61), and MDROs (adjusted OR 1.82, 95% CI 1.20-2.76) were independently associated with recurrent UTI."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42829764/",
+    "doi_url": "https://doi.org/10.7759/cureus.115733",
+    "created_at": "2026-10-04T23:56:51.198070+00:00"
+  },
+  {
     "pmid": "42824975",
     "doi": "10.1002/iju5.70278",
     "category": "尿道カテーテル閉塞",
