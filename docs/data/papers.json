@@ -1,5 +1,79 @@
 [
   {
+    "pmid": "42836951",
+    "doi": "10.1007/s40121-026-01450-0",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical Experience with Omadacycline for the Treatment of Diabetic Foot Infections and Acute Osteomyelitis.",
+    "title_ja": "",
+    "authors": "Crotty Matthew P, Akins Ronda L, Alexander Julie S, Alexander Nebu T, Dominguez Edward A",
+    "journal": "Infectious diseases and therapy",
+    "publication_date": "2026-10-06",
+    "entry_date": "2026-10-06",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Diabetic foot infections (DFIs), frequently complicated by acute osteomyelitis (AOM), are associated with substantial morbidity and are increasingly difficult to manage due to antimicrobial resistance and treatment-related toxicities. Omadacycline is a broad-spectrum aminomethylcycline with favorable safety characteristics and oral bioavailability, but real-world data in DFI and AOM are limited.\nMETHODS: We conducted a prospective, open-label, two-center study evaluating omadacycline for hospitalized adults with moderate-to-severe DFI with or without AOM who were at high risk for adverse events from standard therapy. Outcomes were compared with a 2:1 matched historical cohort treated with standard of care. The primary endpoint was clinical success at end of therapy (EOT); secondary endpoints included clinical success at test-of-cure (TOC), safety outcomes, and healthcare utilization.\nRESULTS: A TOTAL OF 14 patients received omadacycline and were matched to 28 historical controls. AOM was present in 64.3% of patients in both groups, while systemic inflammatory response syndrome was more common in the omadacycline group. Clinical success at EOT was achieved in 90% of omadacycline-treated patients versus 85.7% of controls (p = 0.999). TOC success rates were similar (60% vs. 64.3%, p = 0.999). All omadacycline patients transitioned to oral therapy and none required central venous catheter placement, compared with 71.4% of controls (p < 0.001). Serious adverse drug events occurred in no omadacycline patients versus 25% of controls.\nCONCLUSIONS: In this real-world analysis, there was no observed difference in efficacy between omadacycline and standard care for DFI, including cases complicated by AOM, with few adverse events observed. These findings support continued evaluation and potential use of omadacycline in treating select patients with DFIs.\nTRIAL REGISTRATION: ClinicalTrials.gov identifier, NCT04714411.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "14 patients",
+        "source": "RESULTS: A TOTAL OF 14 patients received omadacycline and were matched to 28 historical controls."
+      },
+      {
+        "item": "割合",
+        "value": "64.3%",
+        "source": "AOM was present in 64.3% of patients in both groups, while systemic inflammatory response syndrome was more common in the omadacycline group."
+      },
+      {
+        "item": "割合",
+        "value": "90%",
+        "source": "Clinical success at EOT was achieved in 90% of omadacycline-treated patients versus 85.7% of controls (p = 0.999)."
+      },
+      {
+        "item": "割合",
+        "value": "85.7%",
+        "source": "Clinical success at EOT was achieved in 90% of omadacycline-treated patients versus 85.7% of controls (p = 0.999)."
+      },
+      {
+        "item": "割合",
+        "value": "60%",
+        "source": "TOC success rates were similar (60% vs."
+      },
+      {
+        "item": "割合",
+        "value": "71.4%",
+        "source": "All omadacycline patients transitioned to oral therapy and none required central venous catheter placement, compared with 71.4% of controls (p < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "25%",
+        "source": "Serious adverse drug events occurred in no omadacycline patients versus 25% of controls."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.999",
+        "source": "Clinical success at EOT was achieved in 90% of omadacycline-treated patients versus 85.7% of controls (p = 0.999)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "All omadacycline patients transitioned to oral therapy and none required central venous catheter placement, compared with 71.4% of controls (p < 0.001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42836951/",
+    "doi_url": "https://doi.org/10.1007/s40121-026-01450-0",
+    "created_at": "2026-10-07T00:39:55.913733+00:00"
+  },
+  {
     "pmid": "42831013",
     "doi": "10.7759/cureus.115768",
     "category": "尿道カテーテル閉塞",
