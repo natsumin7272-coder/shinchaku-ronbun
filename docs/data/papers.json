@@ -1,5 +1,80 @@
 [
   {
+    "pmid": "42840990",
+    "doi": "10.3389/frmbi.2026.1901989",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Gut microbiome modulation by diet and lifestyle in kidney stone disease and autism spectrum disorder: emerging mechanisms and translational prospects.",
+    "title_ja": "",
+    "authors": "Mahajan Girish B",
+    "journal": "Frontiers in microbiomes",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-07",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urolithiasis",
+      "microbiome"
+    ],
+    "abstract_en": "BACKGROUND: The gut microbiome occupies a central position in mediating the physiological consequences of diet, lifestyle, and physical activity. While this interplay is broadly recognized, its mechanistic consequences in two clinically underserved conditions-urolithiasis (kidney stone disease) and autism spectrum disorder (ASD)-remain poorly explained. Both conditions share convergent pathophysiology rooted in metabolic dysregulation, impaired epithelial barrier function, immune dysregulation, and altered microbial metabolite profiles, all of which are modifiable through dietary and behavioral interventions.\nMETHODS: This minireview synthesizes current evidence from clinical, epidemiological, and mechanistic studies to evaluate the bidirectional relationship between gut microbial ecology and disease pathogenesis in urolithiasis and ASD, with emphasis on dietary compounds, fermented foods, probiotics, and lifestyle behaviors as modulatory factors.\nRESULTS: In urolithiasis, evidence implicates reduced abundance of oxalate-degrading taxa (notably Oxalobacter formigenes), dysbiotic short-chain fatty acid (SCFA) profiles, and urinary microbiome perturbations in stone formation and recurrence. In ASD, microbial alterations in gastrointestinal-symptomatic individuals converge on reduced butyrate-producing taxa, elevated pro-inflammatory species, and altered serotonin and gamma-aminobutyric acid (GABA) biosynthetic pathways.\nCONCLUSION: Dietary interventions-particularly high-fiber regimens, polyphenol-rich foods, fermented products, and targeted probiotic formulations-show mechanistic plausibility for microbiome restoration in both conditions. However, clinical translation is constrained by methodological heterogeneity, confounding lifestyle variables, and a paucity of longitudinal, mechanistically anchored trials. We outline a research agenda prioritizing standardized multi-omics, paired gut-urine sampling protocols, and rigorously controlled dietary interventions to bridge this gap.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42840990/",
+    "doi_url": "https://doi.org/10.3389/frmbi.2026.1901989",
+    "created_at": "2026-10-08T00:58:00.403944+00:00"
+  },
+  {
+    "pmid": "42842056",
+    "doi": "10.1007/s10143-026-04523-3",
+    "category": "カテーテル新技術",
+    "title_en": "Impact of initial disease severity and metabolic stress on mortality in patients with suspected external ventricular drain-associated infection.",
+    "title_ja": "",
+    "authors": "Demirci Melis, Senger Süheyla Serin, Karabulut Sevim Selen, İşeri Sevgül, Çamlar Mahmut, Bozoklar Abdullah, Türk Çağlar",
+    "journal": "Neurosurgical review",
+    "publication_date": "2026-10-07",
+    "entry_date": "2026-10-07",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "External ventricular drainage (EVD) remains indispensable for managing intracranial pressure and cerebrospinal fluid (CSF) disorders. Despite advances in neurosurgical care and infection prevention, EVD-related infections still contribute substantially to morbidity and mortality. This study aimed to identify predictors of mortality and evaluate the clinical relevance of infection-related and metabolic parameters in patients with suspected EVD-associated infection undergoing EVD placement. We retrospectively analyzed all adult patients who underwent EVD insertion and were clinically suspected of having an EVD-associated infection at a tertiary hospital over an 18-month period. Data from electronic medical records included demographics, neurological diagnosis, comorbidities, catheter characteristics, laboratory results, and antimicrobial therapy. EVD-associated infection was defined according to Centers for Disease Control and Prevention (CDC) criteria. Statistical analyses were conducted using IBM SPSS Statistics 26. A total of 102 patients with clinically suspected EVD-associated infection were evaluated. CSF cultures were positive in 33 (32%) cases, most frequently yielding Staphylococcus epidermidis and Acinetobacter baumannii . Intensive care unit (ICU) admission was associated with higher crude mortality rates, likely reflecting greater baseline neurological severity. Initial Glasgow Coma Scale (GCS) score (aOR = 0.85, p = 0.005) was found to be an independent predictor of mortality. Neither sex nor comorbidities predicted death. Hyperglycemia (> 140 mg/dL) and elevated lactate (> 1.2 mmol/L) independently associated with 30-day mortality. Shorter catheterization duration (≤ 5 days) also predicted death, likely reflecting greater neurological compromise. In our selected cohort of patients with clinically suspected EVD-associated infection, CSF culture positivity was not independently associated with mortality, although patients with culture-confirmed infection exhibited higher CSF pleocytosis and Cell Index (CI) values. Among patients with clinically suspected EVD-associated infection, initial neurological severity, together with markers of systemic metabolic stress, were independently associated with 30-day mortality. Hyperglycemia and elevated lactate emerged as key prognostic markers. While elevated CI values may support the diagnosis of culture-confirmed infection, CI did not demonstrate independent prognostic value for mortality. These findings should be interpreted within the context of this selected cohort and should not be generalized to the overall EVD population. Larger prospective studies including a greater number of culture-confirmed infections are needed to confirm these results.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "102 patients",
+        "source": "A total of 102 patients with clinically suspected EVD-associated infection were evaluated."
+      },
+      {
+        "item": "割合",
+        "value": "32%",
+        "source": "CSF cultures were positive in 33 (32%) cases, most frequently yielding Staphylococcus epidermidis and Acinetobacter baumannii ."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.005",
+        "source": "Initial Glasgow Coma Scale (GCS) score (aOR = 0.85, p = 0.005) was found to be an independent predictor of mortality."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42842056/",
+    "doi_url": "https://doi.org/10.1007/s10143-026-04523-3",
+    "created_at": "2026-10-08T00:58:03.786532+00:00"
+  },
+  {
     "pmid": "42836951",
     "doi": "10.1007/s40121-026-01450-0",
     "category": "カテーテル新技術",
@@ -72,6 +147,36 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42836951/",
     "doi_url": "https://doi.org/10.1007/s40121-026-01450-0",
     "created_at": "2026-10-07T00:39:55.913733+00:00"
+  },
+  {
+    "pmid": "42837752",
+    "doi": "10.1016/j.bioadv.2026.215207",
+    "category": "カテーテル新技術",
+    "title_en": "Magnesium oxide-containing radiopaque polyurethane for infection-resistant catheter applications.",
+    "title_ja": "",
+    "authors": "Padrão Tatiana, Ribeiro Tiago P, Pinto Marta T, Monteiro Fernando J, Dias Juliana R, Sousa Susana R",
+    "journal": "Biomaterials advances",
+    "publication_date": "2026-09-28",
+    "entry_date": "2026-10-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "The increasing prevalence of antibiotic resistance highlights the urgent need for advanced antimicrobial materials preventing device-associated infections. This growing threat has spurred intensive research into alternative approaches to prevent bacterial colonisation, particularly in medical devices such as catheters highly susceptible to microbial contamination and biofilm formation. The incorporation of magnesium oxide (MgO) nanoparticles on polymeric matrices offers a promising approach to developing antibacterial materials for biomedical applications. In this study, thermoplastic polyurethane filled with barium sulfate (TPU/BaSO₄), was modified with MgO nanoparticles, either as surface coating or as bulk composite. SEM and X-ray analyses confirmed the uniform MgO distribution within the TPU/BaSO₄ matrix and surface. Degradation studies revealed a gradual Mg2+ release from composites over time, whereas MgO-coated films exhibited faster ion release and early generation of reactive oxygen species (ROS). Antibacterial testing revealed that MgO coatings achieved complete elimination of planktonic Methicillin-resistant Staphylococcus aureus (MRSA) and strong growth inhibition of Pseudomonas aeruginosa (P. aeruginosa), particularly at higher MgO content. Sessile MRSA and P. aeruginosa biofilms were also significantly reduced after 24 h, while composites showed no significant antibacterial effect due to limited MgO surface exposure and absence of ROS formation. ROS quantification confirmed that MgO coatings induced oxidative stress within 2 h, showing also initial antibacterial effect, supporting a ROS-mediated antibacterial mechanism in addition to Mg2+ release and direct particle-bacteria interactions. All coating formulations displayed excellent cytocompatibility with endothelial cells, and in vivo biocompatibility without signs of inflammatory or vascular adverse responses. MgO inclusion also preserved the structural integrity and radiopacity of TPU/BaSO4 matrix. Overall, MgO-coated TPU/BaSO₄ structures combine antibacterial efficacy while maintaining biocompatibility, and functional performance, offering a scalable pathway toward antibiotic-free, infection-resistant catheter materials applications.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42837752/",
+    "doi_url": "https://doi.org/10.1016/j.bioadv.2026.215207",
+    "created_at": "2026-10-08T00:58:06.944990+00:00"
   },
   {
     "pmid": "42831013",
