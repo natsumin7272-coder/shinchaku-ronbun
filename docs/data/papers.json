@@ -1,5 +1,345 @@
 [
   {
+    "pmid": "42846117",
+    "doi": "10.3389/fendo.2026.1944962",
+    "category": "PICRUSt2・機能予測",
+    "title_en": "Integrated untargeted and targeted metabolomics identifies and validates urinary bile acid biomarkers for the diagnosis of intrahepatic cholestasis of pregnancy.",
+    "title_ja": "",
+    "authors": "You Haiyue, Gao Jingyi, Ning Xin, Zhang Feng, Wang Yida, Yang Xinfeng, Zhang Yan, Lu Jianfeng, Jiang Jingying",
+    "journal": "Frontiers in endocrinology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-08",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "PICRUSt2・機能予測に関連し、特に「metabolomics、kegg」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "metabolomics",
+      "kegg"
+    ],
+    "abstract_en": "BACKGROUND: Intrahepatic cholestasis of pregnancy (ICP) is the most common pregnancy-specific liver disorder and is characterized by unexplained pruritus and elevated serum bile acid levels, typically in the third trimester. Excessive bile acid accumulation is associated with maternal discomfort and adverse fetal outcomes, underscoring the need for timely and accurate diagnosis.\nMETHODS: We enrolled 76 pregnant women. In the discovery cohort, untargeted metabolomics was performed on paired serum and urine samples from 8 patients with ICP and 8 healthy controls to identify co-differentially expressed metabolites (co-DEMs). In the validation cohort, targeted metabolomics was used to quantify urinary bile acid co-DEMs in 30 patients with ICP and 30 controls.\nRESULTS: Untargeted metabolomics identified 76 and 64 differentially expressed metabolites (DEMs) in serum and urine, respectively. Seven co-DEMs were detected in both sample types, five of which were bile acid species. Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analysis highlighted primary bile acid biosynthesis as a key pathway associated with ICP. Targeted metabolomics showed marked increases in urinary glycocholic acid (GCA) and taurocholic acid (TCA), both of which remained significant after false discovery rate (FDR) correction, whereas cholic acid (CA) showed a more modest difference in the candidate-focused analysis. Urinary concentrations of these metabolites were positively correlated with serum total bile acid levels. Receiver operating characteristic (ROC) curve analysis showed strong diagnostic performance for GCA (AUC = 0.95) and TCA (AUC = 0.86), whereas CA showed modest performance (AUC = 0.65).\nCONCLUSION: Primary bile acid biosynthesis is closely associated with ICP. Urinary GCA and TCA may serve as promising non-invasive biomarkers for the diagnosis of ICP. These findings require confirmation in larger, independent multicenter cohorts before clinical implementation.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "8 patients",
+        "source": "In the discovery cohort, untargeted metabolomics was performed on paired serum and urine samples from 8 patients with ICP and 8 healthy controls to identify co-differentially expressed metabolites (co-DEMs)."
+      },
+      {
+        "item": "対象数",
+        "value": "30 patients",
+        "source": "In the validation cohort, targeted metabolomics was used to quantify urinary bile acid co-DEMs in 30 patients with ICP and 30 controls."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846117/",
+    "doi_url": "https://doi.org/10.3389/fendo.2026.1944962",
+    "created_at": "2026-10-09T01:12:03.244503+00:00"
+  },
+  {
+    "pmid": "42848771",
+    "doi": "10.1371/journal.pgph.0005638",
+    "category": "カテーテル新技術",
+    "title_en": "Multidrug resistance in bacteria causing community-acquired urinary tract infections among adult outpatients attending primary healthcare facilities in Mwanza, Tanzania.",
+    "title_ja": "",
+    "authors": "Emmanuel Eunice G, Khamis Ashura, Michael Elikana, Muhizi Dorina, Thomas James, Okamo Bernard, Mkassy Farida I, Konje Eveline T, Silago Vitus, Mushi Martha F, Mshana Stephen E",
+    "journal": "PLOS global public health",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-08",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Urinary tract infections (UTIs) are a common indication for antibiotic use among adult outpatients in low- and middle-income countries, yet data on community-acquired UTIs (CA-UTIs) and antimicrobial resistance at primary healthcare facilities remain limited. A facility-based cross-sectional study was conducted from May to August 2024 at Igoma and Buzuruga Health Centres in Mwanza, Tanzania. Symptomatic adults without hospitalization within the preceding 30 days or urinary catheterization were enrolled. Clinical and demographic data were collected, and midstream urine specimens were cultured, followed by antimicrobial susceptibility testing using the disc diffusion method. Of 1,005 participants, the median age was 32 years [IQR: 23-49], 727 (72.3%) were female, and 64.3% reported to have been diagnosed with UTI within the previous six months. The median symptom duration before presentation was 8 days [IQR: 5-15]. Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens. Only 35.7% of culture-confirmed cases are presented with classic urinary symptoms of dysuria, frequency, or urgency. E. coli showed high resistance to ampicillin (93.4%), ciprofloxacin (62.3%), trimethoprim-sulfamethoxazole (60.7%), amoxicillin-clavulanic acid (57.4%), and tetracycline (55.7%); 82.8% were multidrug-resistant and 20.3% exhibited extended-spectrum beta-lactamase phenotypes. Among S. aureus isolates, 64.6% were cefoxitin-resistant, indicating methicillin resistance. CA-UTIs therefore constitutes a substantial burden among adult primary-care outpatients, accompanied by high antimicrobial resistance and frequent atypical clinical presentations. Improved access to UTI diagnostics, strengthened antimicrobial stewardship, and locally informed treatment guidelines are needed, particularly given the high resistance to commonly used empirical antibiotics.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "005 participants",
+        "source": "Of 1,005 participants, the median age was 32 years [IQR: 23-49], 727 (72.3%) were female, and 64.3% reported to have been diagnosed with UTI within the previous six months."
+      },
+      {
+        "item": "対象数",
+        "value": "221 participants",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "72.3%",
+        "source": "Of 1,005 participants, the median age was 32 years [IQR: 23-49], 727 (72.3%) were female, and 64.3% reported to have been diagnosed with UTI within the previous six months."
+      },
+      {
+        "item": "割合",
+        "value": "64.3%",
+        "source": "Of 1,005 participants, the median age was 32 years [IQR: 23-49], 727 (72.3%) were female, and 64.3% reported to have been diagnosed with UTI within the previous six months."
+      },
+      {
+        "item": "割合",
+        "value": "22.0%",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "32.9%",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "24.7%",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      },
+      {
+        "item": "割合",
+        "value": "35.7%",
+        "source": "Only 35.7% of culture-confirmed cases are presented with classic urinary symptoms of dysuria, frequency, or urgency."
+      },
+      {
+        "item": "割合",
+        "value": "93.4%",
+        "source": "coli showed high resistance to ampicillin (93.4%), ciprofloxacin (62.3%), trimethoprim-sulfamethoxazole (60.7%), amoxicillin-clavulanic acid (57.4%), and tetracycline (55.7%); 82.8% were multidrug-resistant and 20.3% exhibited extended-spectrum beta-lactamase phenotypes."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 19",
+        "source": "Culture-confirmed UTI was detected in 221 participants (22.0%; 95% CI: 19.5-24.7), with Escherichia coli (32.9%) and Staphylococcus aureus (24.7%) being the most frequently isolated pathogens."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42848771/",
+    "doi_url": "https://doi.org/10.1371/journal.pgph.0005638",
+    "created_at": "2026-10-09T01:12:07.601827+00:00"
+  },
+  {
+    "pmid": "42847538",
+    "doi": "10.1177/08968608261493212",
+    "category": "カテーテル新技術",
+    "title_en": "Stenotrophomonas maltophilia peritoneal dialysis-related peritonitis: A 20-year single-centre retrospective review.",
+    "title_ja": "",
+    "authors": "Pak Wai Lun Will, Yap Desmond Yat Hin, Cheng Shui Kuen, Chau Sandy Ka Yee, Lam Chi Kwan, Wong Sze Ho Sunny",
+    "journal": "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+    "publication_date": "2026-10-08",
+    "entry_date": "2026-10-08",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BackgroundPeritoneal dialysis (PD)-related peritonitis due to Stenotrophomonas maltophilia presents significant challenges in clinical management due to its multi-drug resistance and tendency to form biofilms. Published data on its clinical epidemiology and outcomes remain limited.MethodsWe retrospectively reviewed all S. maltophilia PD-peritonitis at a regional PD centre in Hong Kong from April 2005 to March 2025. Patient characteristics, antimicrobial sensitivity and resistance patterns, treatments, and outcomes were analysed.ResultsWe identified 28 S. maltophilia peritonitis episodes in 27 patients during the study period, accounting for 0.96% of all peritonitis episodes. Nineteen (70.4%) patients had medical comorbidities suggesting immunocompromised states in addition to chronic kidney disease; most episodes occurred after hospitalization (64.3%) or antibiotic use (57.1%). While most initial isolates were susceptible to trimethoprim-sulfamethoxazole (100%), levofloxacin (96.3%), and minocycline (100%), later emergence of less susceptible isolates was common (42.9%). Six episodes (21.4%) achieved medical cure but 9 (32.1%) showed relapsing peritonitis. Fifteen (53.6%) experienced PD catheter removal while 12 (42.9%) required transfer to haemodialysis. Eight (28.6%) had peritonitis-associated death.ConclusionThis is the largest case series of S. maltophilia PD-peritonitis to date. S. maltophilia was an uncommon cause of PD-peritonitis but conferred substantial adverse outcomes. Early identification of S. maltophilia and sufficient duration of appropriate antimicrobials may help achieve better outlook.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "27 patients",
+        "source": "maltophilia peritonitis episodes in 27 patients during the study period, accounting for 0.96% of all peritonitis episodes."
+      },
+      {
+        "item": "割合",
+        "value": "0.96%",
+        "source": "maltophilia peritonitis episodes in 27 patients during the study period, accounting for 0.96% of all peritonitis episodes."
+      },
+      {
+        "item": "割合",
+        "value": "70.4%",
+        "source": "Nineteen (70.4%) patients had medical comorbidities suggesting immunocompromised states in addition to chronic kidney disease; most episodes occurred after hospitalization (64.3%) or antibiotic use (57.1%)."
+      },
+      {
+        "item": "割合",
+        "value": "64.3%",
+        "source": "Nineteen (70.4%) patients had medical comorbidities suggesting immunocompromised states in addition to chronic kidney disease; most episodes occurred after hospitalization (64.3%) or antibiotic use (57.1%)."
+      },
+      {
+        "item": "割合",
+        "value": "57.1%",
+        "source": "Nineteen (70.4%) patients had medical comorbidities suggesting immunocompromised states in addition to chronic kidney disease; most episodes occurred after hospitalization (64.3%) or antibiotic use (57.1%)."
+      },
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "While most initial isolates were susceptible to trimethoprim-sulfamethoxazole (100%), levofloxacin (96.3%), and minocycline (100%), later emergence of less susceptible isolates was common (42.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "96.3%",
+        "source": "While most initial isolates were susceptible to trimethoprim-sulfamethoxazole (100%), levofloxacin (96.3%), and minocycline (100%), later emergence of less susceptible isolates was common (42.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "42.9%",
+        "source": "While most initial isolates were susceptible to trimethoprim-sulfamethoxazole (100%), levofloxacin (96.3%), and minocycline (100%), later emergence of less susceptible isolates was common (42.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "21.4%",
+        "source": "Six episodes (21.4%) achieved medical cure but 9 (32.1%) showed relapsing peritonitis."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42847538/",
+    "doi_url": "https://doi.org/10.1177/08968608261493212",
+    "created_at": "2026-10-09T01:12:11.182421+00:00"
+  },
+  {
+    "pmid": "42845245",
+    "doi": "10.1021/acsami.6c14023",
+    "category": "カテーテル新技術",
+    "title_en": "Gas Delivery from Extruded MOF-Polymer Composites for Mitigation of Complications Associated with Catheters Used in Interventional Cardiology.",
+    "title_ja": "",
+    "authors": "Duncan Morven J, Warrender Stewart J, Millar Bronagh, Douglas Paula, Garrett Graham S, Clarke Alan H, Menary Gary, Coghill Emma M, Treweeke Andrew, Rutter Alison, Morillo Paula Amores, Swann Marcus J, Watson Fergus J, Percival Steven L, Alvarez-Borges Fernando, Rankin Kathryn E, Leslie Stephen J, Megson Ian L, Morris Russell E",
+    "journal": "ACS applied materials & interfaces",
+    "publication_date": "2026-10-08",
+    "entry_date": "2026-10-08",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "The large internal surface areas and porosities of metal-organic frameworks (MOFs) promise a wide variety of applications in gas capture, storage, and delivery. To realize their potential, MOFs need to be processed into suitable forms for the target function. Here, we demonstrate the preparation and functional assessment of extruded MOF-polymer composite tubing comprising 1 and 5 wt % Zn-MOF-74 incorporated into a medical-grade polyamide/polyether block copolymer for the delivery of the biological signaling molecule, nitric oxide (NO). Solutions to the challenges associated with water evolution during extrusion, which can severely affect the composite properties, are presented. We employ X-ray computed tomography to provide evidence for uniform dispersion of the MOF within the tubing, and we show that the mechanical properties of the polymer tubing are not negatively impacted by MOF incorporation. We demonstrate using in vitro experiments that the gas-loaded tubing is non-toxic and that the MOF-polymer composite delivers NO at amounts relevant for the prevention of three of the most common complications in different types of catheterizations: arterial vasospasm, catheter-related thrombosis, and microbial infection.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42845245/",
+    "doi_url": "https://doi.org/10.1021/acsami.6c14023",
+    "created_at": "2026-10-09T01:12:13.797319+00:00"
+  },
+  {
+    "pmid": "42846451",
+    "doi": "10.3389/fphar.2026.1955253",
+    "category": "カテーテル新技術",
+    "title_en": "The ratio of propylene glycol to glycerol modulates nicotine taste and reward: more glycerol, more reward.",
+    "title_ja": "",
+    "authors": "Nelson Tyler, Gutierrez Alexxis, Minanov Karina, Seferge Merve, Addy Nii A, Bagdas Deniz",
+    "journal": "Frontiers in pharmacology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-08",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Propylene glycol (PG) and glycerol (Gly) are odorless tobacco product constituents that act as solvents in electronic cigarette e-liquids and as humectants in oral nicotine products. Little is known about how PG/Gly ratio may affect nicotine's sensory and rewarding properties. To address this gap, we utilized the taste reactivity test and four-bottle choice test to investigate the impact of PG/Gly ratio on nicotine's taste and reward.\nMETHODS: A taste reactivity test was performed using young adult rats that received oral infusions of water, nicotine (10 μg/mL) and various PG/Gly ratios in the absence and presence of nicotine via intraoral catheters. Facial responses to each infusion were video recorded and the ingestive and aversive taste responses to each solution were scored and analyzed. In a separate cohort of rats, a four-bottle choice test was utilized to assess preference for various PG/Gly ratios with or without nicotine.\nRESULTS: Young adult rats exhibited higher aversive reactions to PG100/Gly0 alone. Higher Gly content (PG0/Gly100 with nicotine) increased ingestive responses compared to nicotine alone. Higher Gly content (PG20/Gly80 with nicotine and PG0/Gly100 with nicotine) decreased aversive reactions compared to nicotine alone. Young adult rats also displayed greater preference for PG0/Gly100 alone and PG0/Gly100 with nicotine compared to vehicle water and nicotine, respectively.\nCONCLUSION: Overall, nicotine's ingestive and aversive taste was altered by PG and Gly depending on the ratio. Specifically, higher Gly enhanced nicotine's hedonic value and reduced nicotine's aversive properties in both sexes. Higher Gly content was also preferred during the four-bottle choice test alone and in the presence of nicotine. Together, our results suggests that PG/Gly ratio, particularly high Gly content, influences nicotine's abuse liability.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846451/",
+    "doi_url": "https://doi.org/10.3389/fphar.2026.1955253",
+    "created_at": "2026-10-09T01:12:17.616252+00:00"
+  },
+  {
+    "pmid": "42846320",
+    "doi": "10.3389/fnins.2026.1933040",
+    "category": "カテーテル新技術",
+    "title_en": "Endovascular approaches to neural interfacing: lessons from cardiovascular technologies.",
+    "title_ja": "",
+    "authors": "Landeira-Suquia Leire, Lee Aaron, Cuttaz Estelle A, Goding Josef, John Sam E, Green Rylie A",
+    "journal": "Frontiers in neuroscience",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-08",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Endovascular neural interfaces (ENIs) have emerged as a minimally invasive alternative to traditional neural interfaces. These devices are implanted within blood vessels adjacent to neural tissue to record or stimulate neural activity across the vessel wall. This enables minimally invasive implantation through angiographic procedures and reduces the risk of neural tissue damage. As they are deployed in the intravascular space, ENIs have a similar technological evolution to cardiovascular devices and share many features and constraints. First-generation ENIs borrowed guide wires and catheters employed in cardiovascular procedures for endovascular neural recording but were limited to acute settings. Concurrently, the cardiovascular field explored the possibility of integrating electronics onto endovascular devices. Catheters have been used for endovascular stimulation as a treatment for cardiovascular conditions. Cardiovascular stents have been integrated with wireless sensors, enabling self-reporting stents to monitor implant health. In 2016, a breakthrough in the field of ENIs was achieved by leveraging the chronic stability of stents to support an electrode array. Exemplified by Synchron's Stentrode™, stent electrode arrays have been successfully employed as a brain-computer interface for chronic motor cortex recording. Subsequent research in the field has focused on expanding applications and improving spatial resolution. Incorporating valuable lessons from the field of interventional cardiology will be key to accelerate ENI development, especially in the areas of device miniaturisation, enhancement of stimulation capabilities, and wireless communication. Addressing these limitations could revolutionise the treatment of neurological disorders, enabling high spatial resolution recording and stimulation possible through minimally invasive, accessible procedures.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846320/",
+    "doi_url": "https://doi.org/10.3389/fnins.2026.1933040",
+    "created_at": "2026-10-09T01:12:19.346043+00:00"
+  },
+  {
+    "pmid": "42846634",
+    "doi": "10.7759/cureus.115913",
+    "category": "カテーテル新技術",
+    "title_en": "Rotational Thromboelastometry (ROTEM)-Guided Assessment of Hemorrhagic Disseminated Intravascular Coagulation in Septic Shock: A Case Report of Purpura Fulminans and Multiorgan Failure.",
+    "title_ja": "",
+    "authors": "Ruiz Barrera Maria Dioselina, Galvan Merlos Maria Alaciel, Madera Maldonado Cristina Elizabeth, Ponce Baños Liliana, Guerrero Navarrete Leticia, Villalobos Guerrero Fernando, Castro Meza Jorge Omar",
+    "journal": "Cureus",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-08",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Sepsis-associated coagulopathy may progress rapidly from early thromboinflammation to overt disseminated intravascular coagulation (DIC) with mixed thrombotic and hemorrhagic manifestations. We report the case of a 30-year-old man with a history of methamphetamine use who presented after generalized tonic-clonic seizure activity, severe neurological impairment, hypoxemia, shock, and suspected sepsis. Initial evaluation showed severe metabolic derangement, acute kidney injury, aspiration risk during airway management, and suspected central nervous system infection. During intensive care unit evolution, the patient developed refractory septic shock, severe hypoxemic respiratory failure, rhabdomyolysis, recurrent hypoglycemia, profound mixed acidosis, anuric acute kidney injury requiring continuous renal replacement therapy, progressive thrombocytopenia, gastrointestinal bleeding, airway bleeding, catheter-site bleeding, and rapidly progressive violaceous bullous and necrotic skin lesions compatible with purpura fulminans. Clinical and laboratory findings were consistent with overt DIC with a prominent hemorrhagic phenotype. Serial rotational thromboelastometry (ROTEM) assessment demonstrated progressive coagulation failure, with late fibrin-based thromboelastometry (FIBTEM) findings showing severely reduced fibrin-based clot firmness consistent with fibrinogen-dependent clot failure. Hemostatic management included fibrinogen replacement, blood component therapy, tranexamic acid, and local hemostatic measures. Despite invasive mechanical ventilation, dual vasopressor therapy, corticosteroids, antimicrobial therapy, bicarbonate therapy, continuous renal replacement therapy, and targeted hemostatic resuscitation, the patient progressed to irreversible shock and cardiac arrest without return of spontaneous circulation. This case highlights the value of integrating clinical bleeding phenotype, conventional coagulation testing, DIC scoring, and viscoelastic assessment in critically ill septic patients with rapidly evolving coagulopathy.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846634/",
+    "doi_url": "https://doi.org/10.7759/cureus.115913",
+    "created_at": "2026-10-09T01:12:23.322630+00:00"
+  },
+  {
+    "pmid": "42846946",
+    "doi": "10.1016/j.fmre.2026.03.014",
+    "category": "カテーテル新技術",
+    "title_en": "Magnetic catheter robot with dynamic force feedback for stiffness identification and abnormality detection.",
+    "title_ja": "",
+    "authors": "Shen Haolan, Li Zhengwei, Fu Shixiong, Jiang Mingguo, Cai Mingxue, Chen Zhiqiang, Wang Hongwei, Cheng Long, Xu Tiantian",
+    "journal": "Fundamental research",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-08",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Magnetic continuum robots offer unique advantages for minimally invasive surgery owing to their flexibility, miniaturization, and remote actuation. However, the absence of reliable real-time force feedback in existing magnetically actuated catheters severely constrains safe interaction, and quantitative identification of tissue mechanical properties. To address this limitation, this work presents a magnetic catheter robot with integrated dynamic force feedback. The proposed system integrates an axial optical force sensor, a miniaturized endoscope, and annular permanent magnets within a compact distal architecture. This design achieves sub-0.01 N force resolution while remaining robust under large bending deformations and varying deflection angles. System performance is quantitatively evaluated through force-controlled planar writing, 3D curved-surface palpation with shape perception and stiffness mapping, and endoscope-guided bronchial palpation, demonstrating reliable stiffness-based abnormality detection in complex luminal environments. These results demonstrate the feasibility of force-aware magnetic catheterization for quantitative assessment of local tissue mechanics, providing a clinically relevant platform for minimally invasive diagnostics.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42846946/",
+    "doi_url": "https://doi.org/10.1016/j.fmre.2026.03.014",
+    "created_at": "2026-10-09T01:12:26.043409+00:00"
+  },
+  {
     "pmid": "42840990",
     "doi": "10.3389/frmbi.2026.1901989",
     "category": "尿路結石・細菌叢",
