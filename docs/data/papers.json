@@ -1,5 +1,49 @@
 [
   {
+    "pmid": "42861090",
+    "doi": "10.1177/17571774261493081",
+    "category": "カテーテル新技術",
+    "title_en": "Catheter-related bloodstream infection reduction using systematic training in a Portuguese tertiary care hospital.",
+    "title_ja": "",
+    "authors": "Carolino Gomes Inês, Carvas Feliciano Filipa, Carvalho Clara, Conceição Catarina",
+    "journal": "Journal of infection prevention",
+    "publication_date": "2026-10-10",
+    "entry_date": "2026-10-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Catheter-related bloodstream infections (CRBSI) are a major cause of morbidity, mortality, and increased healthcare costs among hospital-acquired infections. To reduce CRBSI, the Infection Prevention and Control and Antimicrobial Resistance Program (UL-PPCIRA) reviewed current guidelines and implemented an intensive training project for healthcare professionals. Following the publication of care bundles, cascade training was conducted for staff involved in central line insertion and maintenance. This study aimed to evaluate the impact of this continuous quality improvement project on CRBSI incidence in a tertiary hospital. Three consecutive periods of 2 years were analyzed: two before and one after implementation. CRBSI rates were 1.84, 1.68, and 0.65 per 1000 catheter-days in periods 1, 2, and 3, respectively. No significant difference was observed between periods 1 and 2 (IRR 0.92, 95% CI 0.52-1.63). In contrast, period 3 showed a significant reduction compared to period 2 (IRR 0.35, 95% CI 0.14-0.78; p = .02). The implementation of standardized care bundles, supported by structured training, was associated with a significant reduction in CRBSI. Ongoing monitoring and reinforcement strategies are essential to ensure long-term sustainability.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "No significant difference was observed between periods 1 and 2 (IRR 0.92, 95% CI 0.52-1.63)."
+      },
+      {
+        "item": "P値",
+        "value": "p = .02",
+        "source": "In contrast, period 3 showed a significant reduction compared to period 2 (IRR 0.35, 95% CI 0.14-0.78; p = .02)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 0",
+        "source": "No significant difference was observed between periods 1 and 2 (IRR 0.92, 95% CI 0.52-1.63)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42861090/",
+    "doi_url": "https://doi.org/10.1177/17571774261493081",
+    "created_at": "2026-10-13T02:33:51.827103+00:00"
+  },
+  {
     "pmid": "42859540",
     "doi": "10.3934/microbiol.2026026",
     "category": "尿路結石・細菌叢",
