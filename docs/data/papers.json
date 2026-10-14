@@ -44,6 +44,50 @@
     "created_at": "2026-10-13T02:33:51.827103+00:00"
   },
   {
+    "pmid": "42864356",
+    "doi": "10.1038/s41522-026-01137-x",
+    "category": "カテーテル新技術",
+    "title_en": "Eradication of catheter-associated MDR Acinetobacter baumannii biofilms mediated by novel phage encoded depolymerase activity.",
+    "title_ja": "",
+    "authors": "Vashisth Medhavi, Kumar Pawan, Kapoor Prexha, Rani Indu, Sharma Priya, Bhutani Karan, Bansal Dheeraj, Virmani Nitin, Bera Bidhan Chand, Vaid Rajesh Kumar, Sharma Meenakshi, Anand Taruna",
+    "journal": "NPJ biofilms and microbiomes",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Bacteriophage-derived depolymerases provide promising scaffolds for the rational design of next-generation anti-biofilm peptides. We report two novel lytic Caudoviricetes phages φAB440 and φAB441, targeting multidrug-resistant hypermucoviscous Acinetobacter baumannii, encoding tail-associated depolymerases with pectate lyase domains and endolysins featuring glycoside hydrolase motifs. Depolymerases and endolysins demonstrated high binding affinity towards capsular polysaccharide K15 (-9.2 kcal/mol) and NAG-NAM tetramers (-7.86 kcal/mol). Synteny analysis revealed significant genome rearrangement and divergence in both phages, more strongly in φAB441. Phage φAB441's rare codon bias enables efficient depolymerase expression with altered tRNA availability in biofilms. Phages φAB440 and φAB441 suppressed bacterial growth over 24 h at low MOIs (10⁻¹ and 10⁻³), without evidence of resistance development. Four-day-old biofilms formed on urinary catheters were completely eradicated at 10⁹-108 PFU/ml, with ~7.2-7.4 log₁₀ CFU reductions. Phage φAB441, when tested against A. baumannii infection in Caenorhabditis elegans, increased survival of nematodes to 75.97%, 73.97%, and 73.7% at MOIs 1000, 100, and 10, respectively. Our findings highlight the importance of structural validation and in silico analysis towards determining the therapeutic potential of phage lytic proteins.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "75.97%",
+        "source": "baumannii infection in Caenorhabditis elegans, increased survival of nematodes to 75.97%, 73.97%, and 73.7% at MOIs 1000, 100, and 10, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "73.97%",
+        "source": "baumannii infection in Caenorhabditis elegans, increased survival of nematodes to 75.97%, 73.97%, and 73.7% at MOIs 1000, 100, and 10, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "73.7%",
+        "source": "baumannii infection in Caenorhabditis elegans, increased survival of nematodes to 75.97%, 73.97%, and 73.7% at MOIs 1000, 100, and 10, respectively."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42864356/",
+    "doi_url": "https://doi.org/10.1038/s41522-026-01137-x",
+    "created_at": "2026-10-14T00:16:33.267749+00:00"
+  },
+  {
     "pmid": "42859540",
     "doi": "10.3934/microbiol.2026026",
     "category": "尿路結石・細菌叢",
