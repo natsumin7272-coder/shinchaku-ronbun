@@ -1,5 +1,515 @@
 [
   {
+    "pmid": "42875918",
+    "doi": "10.1111/ans.71015",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Conservative Versus Operative Management of Small Bowel Obstruction in Pregnancy: An Updated Review of the Current Literature.",
+    "title_ja": "",
+    "authors": "Baxter Nesta Emily, Brewis Lucy, Kumar Anjana, Albinyana-Siergert Eric, Anastasi Georgios, Arkle Tom, Shaikh Irshad",
+    "journal": "ANZ journal of surgery",
+    "publication_date": "2026-10-14",
+    "entry_date": "2026-10-15",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Small bowel obstruction (SBO) in pregnancy is rare but associated with high maternal and foetal morbidity. The incidence of this is rising with increasing rates of stoma formation in women of reproductive age.\nMETHODS: A stratified systematic search of MEDLINE, EMBASE and PubMed was conducted for cases published between 01/01/2015 and 31/12/2023. Cases were evaluated following PRISMA guidelines. Management strategies (operative, successful conservative, failed conservative) and outcomes including mortality and preterm delivery were analysed. A case of novel stomal decompression is presented.\nRESULTS: This study reports a case of successful conservative management in late pregnancy SBO alongside an updated review of the literature. A 27-year-old woman with recurrent SBO was successfully managed conservatively with stomal Foley catheter decompression, avoiding surgery. Our systematic review identified 44 cases: 32/44 (72.7%) managed operatively and 12/44 (27.3%) had an initial trial of conservative management, 8/44 (18.2%) successful and 4/44 (9.1%) failed. Adhesions were the primary aetiology (19/44, 43.2%). Preterm delivery was 0/8 (0%) in the successful conservative group compared to 17/32 (53.1%) in the operative group and 3/4 (75.0%) in the failed conservative group. Overall maternal mortality was 3/44 (6.8%) and foetal mortality 5/44 (11.4%). MRI utilisation increased to 17/44 (38.6%) cases.\nCONCLUSION: A trial of conservative management appeared feasible in carefully selected, stable patients and was associated with fewer preterm deliveries. Early MRI, multidisciplinary care and minimally invasive decompression techniques may help optimise outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "72.7%",
+        "source": "Our systematic review identified 44 cases: 32/44 (72.7%) managed operatively and 12/44 (27.3%) had an initial trial of conservative management, 8/44 (18.2%) successful and 4/44 (9.1%) failed."
+      },
+      {
+        "item": "割合",
+        "value": "27.3%",
+        "source": "Our systematic review identified 44 cases: 32/44 (72.7%) managed operatively and 12/44 (27.3%) had an initial trial of conservative management, 8/44 (18.2%) successful and 4/44 (9.1%) failed."
+      },
+      {
+        "item": "割合",
+        "value": "18.2%",
+        "source": "Our systematic review identified 44 cases: 32/44 (72.7%) managed operatively and 12/44 (27.3%) had an initial trial of conservative management, 8/44 (18.2%) successful and 4/44 (9.1%) failed."
+      },
+      {
+        "item": "割合",
+        "value": "9.1%",
+        "source": "Our systematic review identified 44 cases: 32/44 (72.7%) managed operatively and 12/44 (27.3%) had an initial trial of conservative management, 8/44 (18.2%) successful and 4/44 (9.1%) failed."
+      },
+      {
+        "item": "割合",
+        "value": "43.2%",
+        "source": "Adhesions were the primary aetiology (19/44, 43.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "0%",
+        "source": "Preterm delivery was 0/8 (0%) in the successful conservative group compared to 17/32 (53.1%) in the operative group and 3/4 (75.0%) in the failed conservative group."
+      },
+      {
+        "item": "割合",
+        "value": "53.1%",
+        "source": "Preterm delivery was 0/8 (0%) in the successful conservative group compared to 17/32 (53.1%) in the operative group and 3/4 (75.0%) in the failed conservative group."
+      },
+      {
+        "item": "割合",
+        "value": "75.0%",
+        "source": "Preterm delivery was 0/8 (0%) in the successful conservative group compared to 17/32 (53.1%) in the operative group and 3/4 (75.0%) in the failed conservative group."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42875918/",
+    "doi_url": "https://doi.org/10.1111/ans.71015",
+    "created_at": "2026-10-15T23:40:48.822009+00:00"
+  },
+  {
+    "pmid": "42876447",
+    "doi": "10.3389/fmed.2026.1939120",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Safe and unsafe urinary catheter use in long-term care homes: a human factors-informed scoping review protocol.",
+    "title_ja": "",
+    "authors": "Mohan Sai Prashanti, Negi Sneha, Patel Om, Pot Maya, Aliyeva Khadija, Qudrat Adeena, Qudrat Rayyan, Scarvelis Lucas, MacDonald Heather, Boulerice Samantha, Robert Benoît, Trudel Chantal, Chan Adrian D C, Jaiswal Atul",
+    "journal": "Frontiers in medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-15",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Transurethral catheters are a type of urinary catheters that are commonly used in long-term care (LTC) settings to provide wound healing assistance, manage urinary retention and acute urinary obstruction. However, inappropriate and prolonged catheter use increases the risk of complications such as catheter-associated urinary tract infections (CAUTIs), blockages, leakage, trauma and discomfort, which negatively affects resident outcomes. In the LTC context, CAUTIs lead to increased morbidity, prolonged stay in hospitals and overall higher healthcare costs. Although clinical practice guidelines exist to support transurethral catheter management, evidence specific to LTC settings remains limited and has largely focused on clinical outcomes, with less attention given to the human factors and work system conditions that influence catheter-related care. Guided by the Systems Engineering Initiative for Patient Safety (SEIPS) framework, this scoping review aims to map and synthesize the existing evidence on transurethral catheter use in LTC homes, identify evidence-informed management practices, and examine the work system factors that influence safe and appropriate catheter use.\nMETHODS: The Joanna Briggs Institute (JBI) methodology will be followed for the scoping review in adherence to the PRISMA-ScR guidelines. A preliminary search was conducted in PROSPERO, MEDLINE and Cochrane Databases of Systematic review to refine and review terms, followed by comprehensive and final searches across multiple databases, including PubMed, CINAHL, Embase, MEDLINE, Web of Science and SCOPUS. Study selection will be completed using the Covidence systematic review software and eligible studies will focus on urinary catheter use and management in LTC globally with no date restriction. Studies will be included if full texts are available in English or French. The extracted and synthesized data will then be characterized thematically to identify themes and knowledge gaps.\nDISCUSSION: This scoping review will provide an extensive literature synthesis while identifying gaps in practices to enhance catheter management in LTC settings. Guided by the SEIPS framework, this review will examine how interactions among people, tasks, technology, the physical environment, and organizational factors influence transurethral catheter management.\nETHICS AND DISSEMINATION: This review acts as a knowledge synthesis tool based on existing literature and thus does not require any ethics approval. Summaries and findings can be used to guide future policies, guidelines, and healthcare reforms.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42876447/",
+    "doi_url": "https://doi.org/10.3389/fmed.2026.1939120",
+    "created_at": "2026-10-15T23:40:52.116660+00:00"
+  },
+  {
+    "pmid": "42876254",
+    "doi": "10.1080/02688697.2026.2743512",
+    "category": "カテーテル新技術",
+    "title_en": "Ventriculostomy-associated infection rates and routine EVD replacement: a systematic review and meta-analysis.",
+    "title_ja": "",
+    "authors": "Salah Safi Saleh, Metwally Ramadan Said Elbadway Menatalla, Mancha Mariah, Abdelgadir Ibtihal, Pople Ian, Al-Kharazi Khalid",
+    "journal": "British journal of neurosurgery",
+    "publication_date": "2026-10-15",
+    "entry_date": "2026-10-15",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: External ventricular drainage (EVD) is associated with a significant risk of ventriculostomy-associated infection (VAI), which can lead to severe complications. The relationship between catheterization duration, routine catheter exchange, and infection risk remains debated. This meta-analysis aimed to estimate the contemporary pooled VAI rate and evaluate the effect of catheter type and management strategy on infection risk.\nMETHODS: PROSPERO-registered (CRD42025632997) systematic review and meta-analysis. MEDLINE, Cochrane, Embase, Scopus, and CINAHL were searched through February 2024. Studies reporting EVD infection counts with catheter-days were included. Random-effects (DerSimonian-Laird) meta-analysis pooled log-transformed infection rates. Subgroup analyses compared impregnated versus plain catheters and pre-/post-2010 era. Two RCTs were qualitatively synthesized. Risk of bias was assessed using the Newcastle-Ottawa Scale and Cochrane RoB2.\nRESULTS: Nineteen cohort studies and two RCTs were included. Critically, neither RCT demonstrated benefit from routine replacement (Wong 2002: RR = 1.80, 95% CI 0.33-9.81, p = 0.50; Keong 2012: RR = 0.58, 95% CI 0.33-0.99, favouring silver-impregnated catheters over standard catheters rather than supporting exchange). All 19 observational cohort studies confirmed that routine fixed-interval EVD replacement was not practiced at any included institution, precluding direct observational comparison. Eight cohort studies contributed 167 infections across 22,839 catheter-days to quantitative synthesis. The pooled VAI rate was 7.87 per 1,000 catheter-days (95% CI 4.67-13.25; I2=91%, τ2=0.506). The 95% prediction interval was 1.78-34.85/1,000 catheter-days, reflecting wide variation across settings. Antimicrobial-impregnated catheters had a pooled rate of 4.85 versus 17.03/1,000 catheter-days for plain catheters.\nCONCLUSION: Routine fixed-interval EVD replacement is not supported by current evidence, independently confirming IDSA 2017 Recommendation 78. Antimicrobial-impregnated catheters and infection prevention bundles appear more effective at reducing VAI rates than scheduled catheter exchange alone. Further adequately powered RCTs are needed and research should standardize reporting of institutional replacement practices and evaluate broader-spectrum antimicrobial catheter technologies targeting both gram-positive and gram-negative organisms.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Critically, neither RCT demonstrated benefit from routine replacement (Wong 2002: RR = 1.80, 95% CI 0.33-9.81, p = 0.50; Keong 2012: RR = 0.58, 95% CI 0.33-0.99, favouring silver-impregnated catheters over standard catheters rather than supporting exchange)."
+      },
+      {
+        "item": "割合",
+        "value": "91%",
+        "source": "The pooled VAI rate was 7.87 per 1,000 catheter-days (95% CI 4.67-13.25; I2=91%, τ2=0.506)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.50",
+        "source": "Critically, neither RCT demonstrated benefit from routine replacement (Wong 2002: RR = 1.80, 95% CI 0.33-9.81, p = 0.50; Keong 2012: RR = 0.58, 95% CI 0.33-0.99, favouring silver-impregnated catheters over standard catheters rather than supporting exchange)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 0",
+        "source": "Critically, neither RCT demonstrated benefit from routine replacement (Wong 2002: RR = 1.80, 95% CI 0.33-9.81, p = 0.50; Keong 2012: RR = 0.58, 95% CI 0.33-0.99, favouring silver-impregnated catheters over standard catheters rather than supporting exchange)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 4",
+        "source": "The pooled VAI rate was 7.87 per 1,000 catheter-days (95% CI 4.67-13.25; I2=91%, τ2=0.506)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42876254/",
+    "doi_url": "https://doi.org/10.1080/02688697.2026.2743512",
+    "created_at": "2026-10-15T23:41:00.231985+00:00"
+  },
+  {
+    "pmid": "42875813",
+    "doi": "10.1186/s42836-026-00440-4",
+    "category": "カテーテル新技術",
+    "title_en": "Intra-articular antibiotic delivery combined with one-stage revision for periprosthetic joint infection: a systematic review.",
+    "title_ja": "",
+    "authors": "Chang Xinyue, Luk Michelle Hilda, Cheung Amy, Lau Lawrence Chun Man, Leung Thomas Ka Chun, Fu Henry",
+    "journal": "Arthroplasty (London, England)",
+    "publication_date": "2026-10-15",
+    "entry_date": "2026-10-15",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Periprosthetic joint infection (PJI) is a serious complication after joint arthroplasty requiring surgical and antibiotic management. One-stage revision has gained attention because it reduces the number of procedures while yielding acceptable outcomes. Intra-articular (IA) antibiotic delivery has been investigated to enhance local antimicrobial exposure and address biofilm-related challenges. However, a focused systematic review of IA antibiotic delivery combined with one-stage revision for PJI is lacking. This systematic review evaluated the techniques, safety, and outcomes of this strategy.\nMETHODS: A literature search was conducted up to 30 November 2025 across PubMed (including MEDLINE), Web of Science, Embase, and the Cochrane Library. Studies enrolling adults with PJI treated by one-stage revision combined with IA antibiotic delivery and reporting clinical outcomes with at least 12 months of follow-up were included. Study characteristics, treatment protocols, outcomes, and safety data were extracted and descriptively synthesized.\nRESULTS: Ten studies were identified. IA antibiotic delivery combined with one-stage revision showed satisfactory infection-control outcomes across individual studies. Antibiotics were selected according to microbiological findings and administered via catheter infusion or direct intra-articular injection for 14-42 days. Reported complications were descriptively summarized and included catheter-related, local, surgical, and systemic adverse events. Renal-related adverse events were reported, with no documented long-term renal impairment in the included studies. Heterogeneity in treatment protocols and study designs was noted across studies.\nCONCLUSION: Intra-articular antibiotic delivery combined with one-stage revision for PJI was associated with satisfactory reported infection-control outcomes and safety findings. While the current evidence is largely retrospective and heterogeneous, further prospective comparative studies with standardized protocols would help clarify its clinical role.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42875813/",
+    "doi_url": "https://doi.org/10.1186/s42836-026-00440-4",
+    "created_at": "2026-10-15T23:41:03.780125+00:00"
+  },
+  {
+    "pmid": "42875927",
+    "doi": "10.1111/pace.70472",
+    "category": "カテーテル新技術",
+    "title_en": "Pulsed Field Versus Radiofrequency Ablation of Atrial Fibrillation: Esophageal Lesions and Suspected Gastroparesis.",
+    "title_ja": "",
+    "authors": "Murakami Atsushi, Fukuzawa Koji, Takami Mitsuru, Imamura Kimitake, Abe Hirofumi, Iwai Hidehiro, Shoda Mitsuhiko, Yonehara Shogo, Asada Hiroyuki, Kunigita Takahiro, Yamamoto Mari, Takahashi Ryosuke, Tsuboi Takafumi, Nakano Takahito, Suehiro Wako, Hirata Ken-Ichi, Otake Hiromasa",
+    "journal": "Pacing and clinical electrophysiology : PACE",
+    "publication_date": "2026-10-14",
+    "entry_date": "2026-10-15",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Esophageal mucosal injury and gastroparesis are clinically important complications of radiofrequency ablation (RFA) of atrial fibrillation (AF). Pulsed-field ablation (PFA) is a non-thermal modality that may spare these complications due to its myocardial tissue selectivity.\nOBJECTIVES: We aimed to compare the incidence of endoscopically detected esophageal lesions (EDELs) and suspected gastroparesis between RFA and PFA as the primary endpoints. Secondary endpoints included perioperative complications, procedural parameters, and 365-day clinical outcomes.\nMETHODS: Between July 2023 and July 2025, patients undergoing a first-time AF ablation with RFA or PFA were enrolled. RFA was performed using either a QDOT MICRO catheter (Biosense Webster, Inc., Irvine, CA, USA) or a TactiFlex Ablation Catheter, Sensor Enabled (Abbott, Abbott Park, IL, USA), while PFA was performed using the FARAPULSE system or the PulseSelect system. All patients underwent upper gastrointestinal endoscopy on the day after ablation. An EDEL was defined as esophageal erythema, erosion, ulcer, or atrio-esophageal fistula. Suspected gastroparesis was defined as gastric food residue after > 12 h of overnight fasting. Clinical follow-up was performed with 12-lead or Holter electrocardiography.\nRESULTS: A total of 84 patients were included (RFA: n = 43; PFA: n = 41). Esophageal erosion was observed in 2 patients in the RFA group (4.7%) and in none in the PFA group (p = 0.49). Suspected gastroparesis occurred in 15 patients treated with RFA (34.9%) and in none treated with PFA (P<0.001). All patients were asymptomatic during endoscopy. No other procedural complications were observed in either group. The total procedure time was significantly shorter with PFA (158.5 ± 40.8 vs. 193.8 ± 38.3 min, p < 0.001), while the fluoroscopy time was longer. At 365 days, atrial arrhythmia recurrence rates were comparable between the two groups (p = 0.47).\nCONCLUSIONS: In this single-center cohort, PFA was associated with a significantly lower incidence of suspected gastroparesis than RFA, and no EDELs were observed in the PFA group. PFA may reduce gastrointestinal injury associated with AF ablation. Further studies are needed to confirm these findings and clarify their clinical significance.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "84 patients",
+        "source": "RESULTS: A total of 84 patients were included (RFA: n = 43; PFA: n = 41)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 43",
+        "source": "RESULTS: A total of 84 patients were included (RFA: n = 43; PFA: n = 41)."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 41",
+        "source": "RESULTS: A total of 84 patients were included (RFA: n = 43; PFA: n = 41)."
+      },
+      {
+        "item": "対象数",
+        "value": "2 patients",
+        "source": "Esophageal erosion was observed in 2 patients in the RFA group (4.7%) and in none in the PFA group (p = 0.49)."
+      },
+      {
+        "item": "対象数",
+        "value": "15 patients",
+        "source": "Suspected gastroparesis occurred in 15 patients treated with RFA (34.9%) and in none treated with PFA (P<0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "4.7%",
+        "source": "Esophageal erosion was observed in 2 patients in the RFA group (4.7%) and in none in the PFA group (p = 0.49)."
+      },
+      {
+        "item": "割合",
+        "value": "34.9%",
+        "source": "Suspected gastroparesis occurred in 15 patients treated with RFA (34.9%) and in none treated with PFA (P<0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.49",
+        "source": "Esophageal erosion was observed in 2 patients in the RFA group (4.7%) and in none in the PFA group (p = 0.49)."
+      },
+      {
+        "item": "P値",
+        "value": "P<0.001",
+        "source": "Suspected gastroparesis occurred in 15 patients treated with RFA (34.9%) and in none treated with PFA (P<0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "193.8 ± 38.3 min, p < 0.001), while the fluoroscopy time was longer."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.47",
+        "source": "At 365 days, atrial arrhythmia recurrence rates were comparable between the two groups (p = 0.47)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42875927/",
+    "doi_url": "https://doi.org/10.1111/pace.70472",
+    "created_at": "2026-10-15T23:41:07.372772+00:00"
+  },
+  {
+    "pmid": "42877776",
+    "doi": "10.2478/jvetres-2026-0053",
+    "category": "カテーテル新技術",
+    "title_en": "Bacterial isolates and antimicrobial susceptibility patterns in tracheal wash samples from horses with equine asthma in Poland.",
+    "title_ja": "",
+    "authors": "Siwińska Natalia, Długopolska Dorota, Żak-Bochenek Agnieszka, Paszkowska Marzena, Rudzki Paweł, Kumiega Ewa, Bogucka Anna",
+    "journal": "Journal of veterinary research",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-15",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Equine asthma (EA) is a chronic inflammatory lower-airway disease. Bacterial growth from tracheal wash (TW) may occur in samples from horses with EA, but may represent colonisation rather than active infection. This study described cultivable bacterial isolates recovered from TW samples from horses with EA in Poland and assessed their antimicrobial susceptibility patterns and association with month/season of sampling and airway neutrophil percentage.\nMATERIAL AND METHODS: In total, 165 adult horses diagnosed with EA according to American College of Veterinary Internal Medicine-based criteria underwent endoscopy, TW sampling with a double-guarded catheter and bronchoalveolar lavage fluid cytology. The samples were cultured conventionally and their bacterial content identified with MALDI-TOF MS; bacteria were tested for antimicrobial susceptibility. Associations between culture results and categorical variables were analysed using chi-squared/Fisher-type tests with Monte Carlo simulation where appropriate; effect size was reported as Cramer's V.\nRESULTS: Culture results were positive in 117/165 horses' samples (70.9%), and bacteria were isolated from 116/165 (70.3%). The most frequently recovered bacteria were Streptococcus equi subsp. zooepidemicus, Pseudomonas aeruginosa and Klebsiella pneumoniae. Culture positivity was not associated with month or season of sampling, whereas analysis of bacterial genus by month suggested a modest association (χ2 = 100.72, degrees of freedom = 77, P-value = 0.036; Cramer's V = 0.305). No clear association was observed with airway neutrophil percentage. Antimicrobial susceptibility patterns varied by organism.\nCONCLUSION: Cultivable bacteria are frequently recovered from TW samples of horses with EA. Positive culture results should not be interpreted as evidence of bacterial infection without supporting clinical and cytological findings. Antimicrobial treatment, when clinically justified, should be guided by culture and susceptibility testing.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "70.9%",
+        "source": "RESULTS: Culture results were positive in 117/165 horses' samples (70.9%), and bacteria were isolated from 116/165 (70.3%)."
+      },
+      {
+        "item": "割合",
+        "value": "70.3%",
+        "source": "RESULTS: Culture results were positive in 117/165 horses' samples (70.9%), and bacteria were isolated from 116/165 (70.3%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42877776/",
+    "doi_url": "https://doi.org/10.2478/jvetres-2026-0053",
+    "created_at": "2026-10-15T23:41:13.825845+00:00"
+  },
+  {
+    "pmid": "42874560",
+    "doi": "10.1016/j.chom.2026.09.006",
+    "category": "尿路結石・細菌叢",
+    "title_en": "When microbial biofilms build kidney stones.",
+    "title_ja": "",
+    "authors": "Suryavanshi Mangesh V, Miller Aaron W",
+    "journal": "Cell host & microbe",
+    "publication_date": "2026-10-14",
+    "entry_date": "2026-10-14",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "microbiome"
+    ],
+    "abstract_en": "Qi et al.1 identify Corynebacterium glucuronolyticum-like bacteria as urinary pathobionts that promote calcium oxalate crystallization through two complementary mechanisms: degradation of the crystallization inhibitor hippuric acid and biofilm-mediated crystal aggregation. The work reframes microbiome contributions to stones as discrete, targetable microbial functions rather than generalized dysbiosis.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874560/",
+    "doi_url": "https://doi.org/10.1016/j.chom.2026.09.006",
+    "created_at": "2026-10-15T23:40:53.677966+00:00"
+  },
+  {
+    "pmid": "42874724",
+    "doi": "10.1016/j.bbadis.2026.168500",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Purine and citrate metabolism in urolithiasis and bladder cancer: An integrated genetic, gene-expression, and targeted metabolite analysis.",
+    "title_ja": "",
+    "authors": "Wigner-Jeziorska Paulina, Grębowski Radosław, Tokarz Paweł, Plażuk Damian, Szemraj Janusz",
+    "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+    "publication_date": "2026-10-14",
+    "entry_date": "2026-10-14",
+    "study_design": "症例対照研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis"
+    ],
+    "abstract_en": "BACKGROUND: Metabolic reprogramming is a hallmark of bladder cancer (BC), but the contribution of inherited variation in purine and citrate metabolism remains incompletely understood. Because urolithiasis shares selected metabolic and epidemiological features with BC, we compared both disorders to identify shared and disease-specific molecular patterns.\nMETHODS: We analysed polymorphisms in ACLY, XDH, PNP, HPRT1, and GART together with targeted gene expression in peripheral blood-derived RNA and urinary citrate, hypoxanthine, and glycine measured by 1H NMR in a Polish case-control cohort. Genetic associations were assessed using multivariable models adjusted for age, sex, smoking, and BMI, with BH-FDR correction. Genotype-expression, genotype-metabolite, and expression-metabolite relationships were evaluated, and peripheral findings were compared with GSE13507 and TCGA-BLCA bladder-tissue data.\nRESULTS: ACLY rs2304497 was associated with both diseases, whereas PNP rs1713420 showed a BC-specific association after multivariable adjustment and BH-FDR correction. XDH rs2295475 associations did not remain significant after multiple-testing correction, and formal interaction analyses provided no BH-FDR-significant evidence of effect modification. Peripheral ACLY and GART transcript abundance was lower in both disease groups, while PNP was additionally lower in urolithiasis. Urinary citrate and hypoxanthine were reduced only in urolithiasis. No cross-layer associations remained significant after adjustment and BH-FDR correction. In external bladder tissue, GART was increased in both datasets, while ACLY and HPRT1 were increased in paired TCGA-BLCA tumours.\nCONCLUSIONS: The findings indicate shared and disease-specific molecular patterns but do not support a simple linear relationship between inherited variation, peripheral transcript abundance, and urinary metabolites. Direct functional and tissue-specific validation is required.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874724/",
+    "doi_url": "https://doi.org/10.1016/j.bbadis.2026.168500",
+    "created_at": "2026-10-15T23:40:56.966933+00:00"
+  },
+  {
+    "pmid": "42874531",
+    "doi": "10.1016/j.ijoa.2026.105299",
+    "category": "カテーテル新技術",
+    "title_en": "Management of breakthrough pain during advanced labor with epidural alkalinized lidocaine 0.3%-epinephrine: a single-center retrospective study (2022-2026).",
+    "title_ja": "",
+    "authors": "Hyuga Shunsuke, Okutomi Toshiyuki, Fujita Tomoe, Kondo Hiroaki",
+    "journal": "International journal of obstetric anesthesia",
+    "publication_date": "2026-10-09",
+    "entry_date": "2026-10-14",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Breakthrough pain during advanced labor requires rapid analgesia while limiting motor block. We describe responses to epidural alkalinized lidocaine 0.3% with epinephrine 10 µg/mL.\nMETHODS: This single-center retrospective cohort included women receiving epidural alkalinized lidocaine 0.3%-epinephrine for breakthrough pain at cervical dilation of at least 7 cm after satisfactory neuraxial analgesia. Women with recurrent epidural boluses suggesting catheter dysfunction were excluded. Median bolus volume was 3 mL [interquartile range, 3-5]. The primary outcome was contraction-pain visual analog scale change from baseline to 5-15 min. Secondary outcomes included sensory and motor changes. Brackets indicate interquartile ranges. Paired assessments preceded delivery.\nRESULTS: Of 153 women, 143 were analyzed. Median visual analog scale decreased from 50 [30-60] to 0 [0-0] mm (mean reduction, 45.2; 95% confidence interval, 41.9-48.4); 126 (88.1%) scored 10 mm or less. Median rescue-to-delivery interval was 52 min [31-88]. Median cephalad cold-loss extension was one dermatome [1-2]. Modified Bromage scores were unchanged in 138 (96.5%) and worsened in five (3.5%). Maternal hypotension and new fetal heart rate abnormalities each affected six women (4.2%). Among vaginal deliveries, operative delivery rates were 9.3 and 0.6 percentage points higher in nulliparous and parous women, respectively, than in same-period deliveries with neuraxial analgesia without the study rescue.\nDISCUSSION: Epidural alkalinized lidocaine 0.3%-epinephrine (3-8 mL) was followed by early pain reduction with infrequent motor block increase, supporting clinical application of prior laboratory findings. Prospective comparisons should assess motor function and delivery outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "0.3%",
+        "source": "We describe responses to epidural alkalinized lidocaine 0.3% with epinephrine 10 µg/mL."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Median visual analog scale decreased from 50 [30-60] to 0 [0-0] mm (mean reduction, 45.2; 95% confidence interval, 41.9-48.4); 126 (88.1%) scored 10 mm or less."
+      },
+      {
+        "item": "割合",
+        "value": "88.1%",
+        "source": "Median visual analog scale decreased from 50 [30-60] to 0 [0-0] mm (mean reduction, 45.2; 95% confidence interval, 41.9-48.4); 126 (88.1%) scored 10 mm or less."
+      },
+      {
+        "item": "割合",
+        "value": "96.5%",
+        "source": "Modified Bromage scores were unchanged in 138 (96.5%) and worsened in five (3.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "3.5%",
+        "source": "Modified Bromage scores were unchanged in 138 (96.5%) and worsened in five (3.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "4.2%",
+        "source": "Maternal hypotension and new fetal heart rate abnormalities each affected six women (4.2%)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42874531/",
+    "doi_url": "https://doi.org/10.1016/j.ijoa.2026.105299",
+    "created_at": "2026-10-15T23:41:10.251724+00:00"
+  },
+  {
+    "pmid": "42875236",
+    "doi": "10.3760/cma.j.cn121430-20260605-00271",
+    "category": "カテーテル新技術",
+    "title_en": "[Impact of active surveillance for carbapenem-resistant organisms on healthcare-associated infections and clinical prognosis of patients in intensive care unit: a propensity score-matching historical cohort study].",
+    "title_ja": "",
+    "authors": "Kou Huawei, Li Xiaoyu, Geng Yuhui, Wang Hui, Liu Qinfu, Zhang Danmei, Yang Baozhong",
+    "journal": "Zhonghua wei zhong bing ji jiu yi xue",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-14",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVE: To evaluate the impact of active surveillance for carbapenem-resistant organisms (CRO) on healthcare-associated infections and clinical prognosis of patients in intensive care unit (ICU), and to provide real-world clinical evidence for developing scientific CRO active surveillance protocols in medical institutions.\nMETHODS: A prospective intervention study with a post-hoc retrospective historical control cohort design was conducted. ICU inpatients at the General Hospital of Ningxia Medical University from January 1, 2024 to December 31, 2025 were enrolled. The routine testing group comprised patients hospitalized from January 1 to December 31, 2024, who underwent routine microbiological testing with only retrospective chart review (690 cases). The CRO active surveillance group comprised patients hospitalized from January 1 to December 31, 2025, who received active CRO surveillance within 24 hours of ICU admission (608 cases). The active surveillance protocol involved collecting nasal swabs, rectal swabs, sputum specimens, and secretions or drainage fluids from existing wounds or drainage sites, which were inoculated onto chromogenic media. Patients with positive CRO results were considered colonized or infected with CRO and placed under contact precautions; those with negative results continued to receive standard precautions. Propensity score matching (PSM) at a 1 : 1 ratio was used to control for confounding factors including age, sex, acute physiology and chronic health evaluation II(APACHE II), severity of surgical insult (surgical grade×number of surgeries), and durations of mechanical ventilation, central venous catheterization, and urinary catheterization, with a caliper value of 0.02. After matching, the two groups were compared for CRO healthcare-associated infection incidence and clinical outcomes (in-ICU mortality, treatment abandonment rate, and improvement-to-discharge rate).\nRESULTS: A total of 634 patients in the CRO active surveillance group underwent active surveillance (608 of whom met inclusion criteria), with a CRO positivity rate of 22.4% (142/634). A total of 1 298 patients were enrolled, including 690 in the routine testing group and 608 in the CRO active surveillance group. After PSM, 477 pairs were successfully matched, with 477 cases in the routine testing group and 477 cases in the CRO active surveillance group. After matching, baseline characteristics were well balanced and comparable between the two groups [all standardized mean differences (SMD)<0.1, all P>0.05]. After PSM, there was no statistically significant difference in CRO nosocomial infection incidence between the CRO active surveillance group and the routine testing group [2.3% (11/477) vs. 2.5% (12/477), both P>0.05]. However, the CRO active surveillance group had significantly lower in-ICU mortality [2.1% (10/477) vs. 4.6% (22/477)] and treatment abandonment rate [8.6% (41/477) vs. 18.0% (86/477)] compared with the routine testing group (both P<0.05), and a significantly higher improvement-to-discharge rate [89.3% (426/477) vs. 77.4% (369/477), both P<0.05].\nCONCLUSIONS: In ICUs with well-established basic infection prevention and control measures, implementation of CRO active surveillance combined with contact isolation did not further reduce the incidence of CRO healthcare-associated infections. However, it significantly improved patient outcomes by enabling early warning and guiding precise antimicrobial therapy.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "634 patients",
+        "source": "RESULTS: A total of 634 patients in the CRO active surveillance group underwent active surveillance (608 of whom met inclusion criteria), with a CRO positivity rate of 22.4% (142/634)."
+      },
+      {
+        "item": "対象数",
+        "value": "298 patients",
+        "source": "A total of 1 298 patients were enrolled, including 690 in the routine testing group and 608 in the CRO active surveillance group."
+      },
+      {
+        "item": "割合",
+        "value": "22.4%",
+        "source": "RESULTS: A total of 634 patients in the CRO active surveillance group underwent active surveillance (608 of whom met inclusion criteria), with a CRO positivity rate of 22.4% (142/634)."
+      },
+      {
+        "item": "割合",
+        "value": "2.3%",
+        "source": "After PSM, there was no statistically significant difference in CRO nosocomial infection incidence between the CRO active surveillance group and the routine testing group [2.3% (11/477) vs."
+      },
+      {
+        "item": "割合",
+        "value": "2.5%",
+        "source": "2.5% (12/477), both P>0.05]."
+      },
+      {
+        "item": "割合",
+        "value": "2.1%",
+        "source": "However, the CRO active surveillance group had significantly lower in-ICU mortality [2.1% (10/477) vs."
+      },
+      {
+        "item": "割合",
+        "value": "4.6%",
+        "source": "4.6% (22/477)] and treatment abandonment rate [8.6% (41/477) vs."
+      },
+      {
+        "item": "割合",
+        "value": "8.6%",
+        "source": "4.6% (22/477)] and treatment abandonment rate [8.6% (41/477) vs."
+      },
+      {
+        "item": "割合",
+        "value": "18.0%",
+        "source": "18.0% (86/477)] compared with the routine testing group (both P<0.05), and a significantly higher improvement-to-discharge rate [89.3% (426/477) vs."
+      },
+      {
+        "item": "割合",
+        "value": "89.3%",
+        "source": "18.0% (86/477)] compared with the routine testing group (both P<0.05), and a significantly higher improvement-to-discharge rate [89.3% (426/477) vs."
+      },
+      {
+        "item": "P値",
+        "value": "P>0.05",
+        "source": "After matching, baseline characteristics were well balanced and comparable between the two groups [all standardized mean differences (SMD)<0.1, all P>0.05]."
+      },
+      {
+        "item": "P値",
+        "value": "P<0.05",
+        "source": "18.0% (86/477)] compared with the routine testing group (both P<0.05), and a significantly higher improvement-to-discharge rate [89.3% (426/477) vs."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42875236/",
+    "doi_url": "https://doi.org/10.3760/cma.j.cn121430-20260605-00271",
+    "created_at": "2026-10-15T23:41:16.753281+00:00"
+  },
+  {
     "pmid": "42867592",
     "doi": "10.1186/s42155-026-00783-8",
     "category": "カテーテル新技術",
