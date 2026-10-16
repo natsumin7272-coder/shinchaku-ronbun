@@ -1,5 +1,61 @@
 [
   {
+    "pmid": "42886149",
+    "doi": "10.1016/j.jaccas.2026.110771",
+    "category": "カテーテル新技術",
+    "title_en": "IVUS-Guided Tip Detection and Distal Anchor Assisted Stent Push for a Protruding Ostial Stent.",
+    "title_ja": "",
+    "authors": "Tsutsui Yoshitomo, Tanaka Kota, Yamasaki Tomohiro, Sudo Kiwamu, Nishimura Yuta, Watanabe Satoshi, Iwamoto Mutsumi, Iwanaga Yoshitaka, Watanabe Heitaro, Okamura Atsunori",
+    "journal": "JACC. Case reports",
+    "publication_date": "2026-10-16",
+    "entry_date": "2026-10-16",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: Excessive aorto-ostial stent protrusion requires appropriate adjustment to achieve an optimal landing zone. We report a successful resolution using intravascular ultrasound (IVUS)-guided tip detection (TD) and the stent push technique under distal anchor balloon support.\nKEY STEPS: A drug-eluting stent deployed at the right coronary artery ostium protruded excessively into the aorta, causing guiding catheter dislodgment. Using the IVUS-guided TD method, a guidewire was successfully advanced into the stent lumen. Under distal anchor balloon support, the stent push technique was performed to correct the protruding stent to an optimal position.\nPOTENTIAL PITFALLS: IVUS-guided TD enables real-time visualization of the proximal stent edge and wire tip, facilitating accurate rewiring. Distal anchor balloon support provides sufficient backup for effective longitudinal stent deformation.\nTAKE-HOME MESSAGE: The IVUS-guided TD method combined with a distal anchor balloon-supported stent push technique is an effective strategy for managing excessive aorto-ostial stent protrusion.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42886149/",
+    "doi_url": "https://doi.org/10.1016/j.jaccas.2026.110771",
+    "created_at": "2026-10-16T23:33:39.912607+00:00"
+  },
+  {
+    "pmid": "42881850",
+    "doi": "10.3390/jcm15197388",
+    "category": "カテーテル新技術",
+    "title_en": "Biofilm Formation on Invasive Medical Devices in Adult Intensive Care Units: A Scoping Review of Biomedical and Clinical Evidence.",
+    "title_ja": "",
+    "authors": "Apolo-Aguilar Valeria Lizbeth, Berutti-Suarez Lennys Beatriz, Carrillo José Luis Muñoz",
+    "journal": "Journal of clinical medicine",
+    "publication_date": "2026-09-23",
+    "entry_date": "2026-10-16",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background/Objectives: Biofilm formation on invasive medical devices represents a major challenge in intensive care units (ICUs), contributing to device-associated infections, antimicrobial resistance, and adverse clinical outcomes. Despite its clinical relevance, the extent and characteristics of the available evidence on biofilm formation in invasive medical devices used in adult ICUs remain heterogeneous and incompletely mapped. The objective was to map and characterize the available evidence on biofilm formation in invasive medical devices used in adult ICUs. Methods: A scoping review was conducted following PRISMA-ScR guidelines. The review was structured using the Population-Concept-Context (PCC) framework. A comprehensive search was performed in PubMed, Scopus, Web of Science, Embase, and ScienceDirect. Primary studies evaluating biofilm formation on invasive medical devices in adult ICUs were included. Data were extracted on study characteristics, device type, microorganisms, biofilm detection methods, and clinical outcomes. Results were synthesized descriptively and presented through tables and an evidence map. Results: Sixteen studies met the inclusion criteria. Evidence was primarily focused on endotracheal tubes, vascular catheters, and urinary catheters. Biofilm formation was consistently documented across these devices, involving Gram-negative bacteria, Gram-positive cocci, and fungal pathogens. Detection methods were heterogeneous, with early reliance on electron microscopy and increasing use of quantitative phenotypic assays, while molecular approaches remained limited. The evidence map revealed a concentration of studies in vascular devices and significant methodological variability across studies. Conclusions: Biofilm formation on invasive medical devices in adult ICUs is a clinically significant and microbiologically complex phenomenon. The available evidence highlights key device categories and pathogen profiles but is limited by methodological heterogeneity and gaps in molecular characterization and translational research. Future studies should prioritize standardized, multimodal approaches and clinically oriented designs to improve prevention and management of device-associated biofilm infections in critical care settings.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42881850/",
+    "doi_url": "https://doi.org/10.3390/jcm15197388",
+    "created_at": "2026-10-16T23:33:51.799540+00:00"
+  },
+  {
     "pmid": "42875918",
     "doi": "10.1111/ans.71015",
     "category": "尿道カテーテル閉塞",
@@ -300,6 +356,105 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42877776/",
     "doi_url": "https://doi.org/10.2478/jvetres-2026-0053",
     "created_at": "2026-10-15T23:41:13.825845+00:00"
+  },
+  {
+    "pmid": "42880696",
+    "doi": "10.1016/j.wneu.2026.125418",
+    "category": "カテーテル新技術",
+    "title_en": "A Modular Cranial Phantom for External Ventricular Drain Placement Simulation: Design and Evaluation.",
+    "title_ja": "",
+    "authors": "Iop Alessandro, Matviienko Andrii, Markström Ingemar, Van Frankenhuyzen Jan, Van Den Dobbelsteen John, Bottini Massimo, Staartjes Victor E, El-Hajj Victor Gabriel, Edström Erik, Elmi-Terander Adrian, Romero Mario",
+    "journal": "World neurosurgery",
+    "publication_date": "2026-10-15",
+    "entry_date": "2026-10-15",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel"
+    ],
+    "abstract_en": "BACKGROUND: Simulation-based training is a key component of modern neurosurgical education, providing a repeatable environment for procedural practice. External ventricular drain (EVD) placement is a common emergency procedure performed in the early stages of neurosurgical training. This study presents the design, fabrication, and evaluation of a modular phantom targeting a specific brain subregion, intended to replicate the mechanical and procedural aspects of EVD insertion with improved material efficiency and reusability compared to existing full-brain approaches.\nMETHODS: A human cranium model was generated from medical imaging data and 3D-printed in two configurations. Both housed a replaceable polyvinyl alcohol (PVA) hydrogel brain sample containing a ventricular cavity. Mechanical tests compared three hydrogel variants for stability and haptic fidelity during controlled catheter advancement. A user study with seven experienced neurosurgeons provided a preliminary qualitative assessment of realism, ergonomics, and simulation fidelity through questionnaires and semi-structured interviews.\nRESULTS: Modified hydrogel designs with enlarged or reinforced ventricles demonstrated greater mechanical stability and higher insertion resistance (∼0.6 N) compared to the standard configuration (∼0.4 N), with force-displacement profiles suggesting more consistent haptic feedback during ventricular entry. Surgeons rated cranial realism highly (visual M = 4.43, tactile M = 4.00), though brain visual realism scored lower (M = 2.71), likely reflecting the absence of meninges and cortical surface detail.\nCONCLUSIONS: The proposed phantom represents an early-stage platform for EVD simulation, offering reproducibility, low cost, and modularity supporting repeated use and anatomical customization. Further validation with larger and more diverse cohorts is needed to substantiate its educational value.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880696/",
+    "doi_url": "https://doi.org/10.1016/j.wneu.2026.125418",
+    "created_at": "2026-10-16T23:33:43.833959+00:00"
+  },
+  {
+    "pmid": "42880235",
+    "doi": "10.4269/ajtmh.25-0419",
+    "category": "カテーテル新技術",
+    "title_en": "Bacteria Pathogen Distribution in Late-Onset Neonatal Sepsis: Trends from a South African Neonatal Intensive Care Unit.",
+    "title_ja": "",
+    "authors": "Ajayi Oluseyi, Ramdin Tanusha, Chirwa Tobias, Ballot Daynia",
+    "journal": "The American journal of tropical medicine and hygiene",
+    "publication_date": "2026-10-15",
+    "entry_date": "2026-10-15",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Late-onset sepsis (LOS) in neonates is defined as a bloodstream infection occurring after 72 hours of life and is primarily caused by bacterial pathogens, often associated with catheter use and prolonged hospitalization. Despite its clinical and policy relevance, limited data exist on the etiology of neonatal infections in sub-Saharan Africa. This 8-year retrospective study investigated microbial patterns and antibiotic trends of LOS in a South African neonatal unit to inform infection control and antibiotic stewardship strategies. Data from neonates weighing 500 to 2,500 g admitted to the neonatal unit of a public tertiary hospital in Johannesburg (2013-2020) were analyzed for culture-confirmed LOS. Microbial prevalence was stratified by birth weight and year, and temporal shifts were assessed using Joinpoint regression. Among 7,468 neonates, 1,454 LOS episodes occurred (194 per 1,000 live births), with males accounting for 51.1%. Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%). A marked decline in CoNS incidence was observed in 2016 (annual percentage change: -17.6%). Meropenem (35%) and vancomycin (30.5%) were most frequently used, with extreme-low-birth-weight (ELBW) neonates disproportionately affected. Late-onset sepsis remains a persistent challenge, with CoNS as the leading pathogen and increasing multidrug-resistant Gram-negative infections, particularly in ELBW and very-low-birth-weight infants. The observed decline in CoNS may signal improved infection control, whereas reliance on last-line antibiotics underscores an urgent need for enhanced surveillance, prevention, and antimicrobial stewardship.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "51.1%",
+        "source": "Among 7,468 neonates, 1,454 LOS episodes occurred (194 per 1,000 live births), with males accounting for 51.1%."
+      },
+      {
+        "item": "割合",
+        "value": "55.4%",
+        "source": "Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "37%",
+        "source": "Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "44.4%",
+        "source": "Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "13.2%",
+        "source": "Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "12.8%",
+        "source": "Gram-positive bacteria predominated (55.4%), mainly coagulase-negative staphylococci (CoNS; 37%), followed by Gram-negative bacteria (44.4%), notably extended-spectrum beta lactamase-producing Klebsiella (13.2%) and Acinetobacter baumannii (12.8%)."
+      },
+      {
+        "item": "割合",
+        "value": "17.6%",
+        "source": "A marked decline in CoNS incidence was observed in 2016 (annual percentage change: -17.6%)."
+      },
+      {
+        "item": "割合",
+        "value": "35%",
+        "source": "Meropenem (35%) and vancomycin (30.5%) were most frequently used, with extreme-low-birth-weight (ELBW) neonates disproportionately affected."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42880235/",
+    "doi_url": "https://doi.org/10.4269/ajtmh.25-0419",
+    "created_at": "2026-10-16T23:33:47.922200+00:00"
   },
   {
     "pmid": "42874560",
