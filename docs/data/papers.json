@@ -56,6 +56,115 @@
     "created_at": "2026-10-16T23:33:51.799540+00:00"
   },
   {
+    "pmid": "42887751",
+    "doi": "10.1016/j.envres.2026.125957",
+    "category": "尿路結石・メタボローム",
+    "title_en": "Facilitating non-radical peroxymonosulfate oxidation of tetracyclines driven by struvite crystallization.",
+    "title_ja": "",
+    "authors": "Yu Qiuyue, Huang Xuewei, Ye Zhi-Long, Lin Aiqiu, Liao Wenqian",
+    "journal": "Environmental research",
+    "publication_date": "2026-10-16",
+    "entry_date": "2026-10-16",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・メタボロームに関連し、特に「struvite」の観点から確認価値があります。",
+    "relevance_score": 4,
+    "keywords": [
+      "struvite"
+    ],
+    "abstract_en": "Eliminating residual antibiotics during struvite recovery from livestock wastewater is essential to prevent the spread of antibiotic resistance. In this work, the effects of in-situ struvite crystallization on the degradation of typical veterinary antibiotics, tetracyclines (TCs), by non-radical peroxymonosulfate (PMS) oxidation were investigated. Results revealed that the process of struvite crystallization enhanced PMS oxidation of TCs with kobs values reaching 1.95-2.15 times those of PMS alone. 1O2 and electron transfer processes were identified as the dominant non-radical pathways. Electrochemical analyses indicated that electron transfer processes would be more active through crystallization than pre-formed crystals in PMS oxidation due to the higher interfacial reactivity. Mg:P molar ratio and pH affected TCs degradation through regulating struvite crystallization and altering the speciation of TCs and PMS, with Mg:P ratio of 1.0 and pH 9.2-9.8 being optimal for facilitating 1O2 generation and PMS oxidation. In the presence of humic acid (HA), HA-TCs complexes caused an inhibitory effect on TCs degradation, and excess Mg2+ mitigated this inhibition by reducing the direct association between TCs and HA. Fourier transform ion cyclotron resonance mass spectrometry (FT-ICR-MS) and fluorescence spectroscopy analyses revealed that HA underwent selective molecular restructuring, with nitrogen-containing and highly condensed aromatic components being converted into more oxygenated and less aromatic products through oxygenation, which could further favor electron transfer pathways. This study highlights that struvite crystallization enhances non-radical oxidation and provides new insights into antibiotic removal with simultaneous phosphorus recovery in livestock wastewater.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42887751/",
+    "doi_url": "https://doi.org/10.1016/j.envres.2026.125957",
+    "created_at": "2026-10-17T23:06:38.172516+00:00"
+  },
+  {
+    "pmid": "42888396",
+    "doi": "10.1186/s12879-026-14605-8",
+    "category": "カテーテル新技術",
+    "title_en": "Infection or contamination - Clinical attribution of blood culture-positive episodes in neonatal intensive care: an 11-year retrospective single-center study.",
+    "title_ja": "",
+    "authors": "Schnee Sarah V, Lohrmann Florens, Matheisl Daniel, Schneider Hendryk, Hufnagel Markus, Fuchs Hans, Kuntz Martin",
+    "journal": "BMC infectious diseases",
+    "publication_date": "2026-10-15",
+    "entry_date": "2026-10-16",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Positive blood cultures in neonatal intensive care do not necessarily indicate clinically relevant bloodstream infection. Interpretation is particularly challenging for coagulase-negative staphylococci (CoNS), which may represent either contamination or clinically relevant infection depending on the clinical context. We aimed to describe how treating teams attributed culture-positive episodes as infection or contamination in routine neonatal care and to examine which clinical, laboratory, and microbiological features were associated with this original clinical attribution. As a secondary aim, we characterized the local epidemiology of culture-positive episodes.\nMETHODS: We conducted a retrospective single-center study of all culture-positive episodes occurring between 2014 and 2024 in neonates hospitalized in a German tertiary NICU at the time of blood culture sampling. Original clinical attribution was extracted from documentation recorded during the index episode. Descriptive analyses and exploratory logistic regression were performed.\nRESULTS: Among 3246 blood cultures, 232 (7.1%) were positive. After accounting for additional follow-up and parallel cultures and other exclusions, 189 unique culture-positive episodes remained for analysis; 125 (66.1%) were attributed as infection and 64 (33.9%) as contamination. Thirty-five episodes (18.5%) occurred during the early-onset period and 154 (81.5%) during the late-onset period. Coagulase-negative staphylococci (CoNS) were detected in 114 episodes (60.3%) and showed the greatest variability in attribution. All 13 CoNS-positive early-onset episodes were attributed as contamination, whereas 64 of 101 CoNS-positive late-onset episodes (63.4%) were attributed as infection. Enterobacterales, Enterococcus faecalis, Staphylococcus aureus, and Candida spp. were almost uniformly attributed as infection, whereas Bacillus spp. and environmental organisms were predominantly attributed as contamination. In late-onset episodes, maximum CRP showed the strongest association with attribution as infection in univariable and multivariable analyses (adjusted OR 4.41, 95% CI 2.59-7.51). Associations with time-to-positivity, CoNS detection, and central vascular catheter presence were weaker and imprecisely estimated after adjustment.\nCONCLUSIONS: Clinical attribution of culture-positive episodes was associated with the combined consideration of organism plausibility, inflammatory response, time-to-positivity, and clinical context. CoNS-positive late-onset episodes represented the greatest diagnostic uncertainty. These findings describe real-world clinical attribution rather than diagnostic accuracy and underline the need for more reproducible criteria to support antimicrobial stewardship without compromising the treatment of vulnerable neonates.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "7.1%",
+        "source": "RESULTS: Among 3246 blood cultures, 232 (7.1%) were positive."
+      },
+      {
+        "item": "割合",
+        "value": "66.1%",
+        "source": "After accounting for additional follow-up and parallel cultures and other exclusions, 189 unique culture-positive episodes remained for analysis; 125 (66.1%) were attributed as infection and 64 (33.9%) as contamination."
+      },
+      {
+        "item": "割合",
+        "value": "33.9%",
+        "source": "After accounting for additional follow-up and parallel cultures and other exclusions, 189 unique culture-positive episodes remained for analysis; 125 (66.1%) were attributed as infection and 64 (33.9%) as contamination."
+      },
+      {
+        "item": "割合",
+        "value": "18.5%",
+        "source": "Thirty-five episodes (18.5%) occurred during the early-onset period and 154 (81.5%) during the late-onset period."
+      },
+      {
+        "item": "割合",
+        "value": "81.5%",
+        "source": "Thirty-five episodes (18.5%) occurred during the early-onset period and 154 (81.5%) during the late-onset period."
+      },
+      {
+        "item": "割合",
+        "value": "60.3%",
+        "source": "Coagulase-negative staphylococci (CoNS) were detected in 114 episodes (60.3%) and showed the greatest variability in attribution."
+      },
+      {
+        "item": "割合",
+        "value": "63.4%",
+        "source": "All 13 CoNS-positive early-onset episodes were attributed as contamination, whereas 64 of 101 CoNS-positive late-onset episodes (63.4%) were attributed as infection."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In late-onset episodes, maximum CRP showed the strongest association with attribution as infection in univariable and multivariable analyses (adjusted OR 4.41, 95% CI 2.59-7.51)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 2",
+        "source": "In late-onset episodes, maximum CRP showed the strongest association with attribution as infection in univariable and multivariable analyses (adjusted OR 4.41, 95% CI 2.59-7.51)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 4.41",
+        "source": "In late-onset episodes, maximum CRP showed the strongest association with attribution as infection in univariable and multivariable analyses (adjusted OR 4.41, 95% CI 2.59-7.51)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42888396/",
+    "doi_url": "https://doi.org/10.1186/s12879-026-14605-8",
+    "created_at": "2026-10-17T23:06:42.604597+00:00"
+  },
+  {
     "pmid": "42875918",
     "doi": "10.1111/ans.71015",
     "category": "尿道カテーテル閉塞",
