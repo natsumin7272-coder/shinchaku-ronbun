@@ -1,5 +1,203 @@
 [
   {
+    "pmid": "42900262",
+    "doi": "10.1007/s00383-026-06686-y",
+    "category": "尿路結石・細菌叢",
+    "title_en": "The urinary microbiome after paediatric bladder augmentation: a scoping review with comparative insights from adult urinary diversion surgeries.",
+    "title_ja": "",
+    "authors": "Low Jeen Liang, Nyo Yoke Lin, Chan Ming, Koh Zong Jie",
+    "journal": "Pediatric surgery international",
+    "publication_date": "2026-10-20",
+    "entry_date": "2026-10-20",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiome、metabolomics」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urolithiasis",
+      "microbiome",
+      "metabolomics"
+    ],
+    "abstract_en": "Bladder augmentation is a lifelong reconstructive procedure for children with severe lower urinary tract dysfunction, but recurrent urinary tract infection, urolithiasis and mucus-related complications remain incompletely understood. This scoping review mapped evidence on the urinary microbiome after paediatric bladder augmentation and assessed transferable insights from adult bowel-derived urinary diversion. A PRISMA-ScR-guided search of PubMed, Embase and Web of Science identified peer-reviewed studies and conference abstracts published from January 2016 to April 2026 that used culture-independent sequencing. Seven studies were included: two paediatric and five adult, comprising three cross-sectional studies, two reports from one prospective cohort and two case reports. Paediatric studies reported contrasting enteric-dominant and native-bladder-like communities, with no consistent clinical associations. Adult studies more consistently suggested time-dependent restructuring, reservoir-specific microbial patterns and fungal involvement, although associations with urinary tract infection remained inconsistent. The paediatric evidence is insufficient to define microbiome composition, temporal behaviour or clinical significance after augmentation. Adult findings primarily provide a methodological template for future prospective, longitudinal, within-patient paediatric studies incorporating standardised urine and mucosal sampling, bacterial and fungal sequencing, metabolomics and predefined clinical outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42900262/",
+    "doi_url": "https://doi.org/10.1007/s00383-026-06686-y",
+    "created_at": "2026-10-20T23:50:54.880552+00:00"
+  },
+  {
+    "pmid": "42898838",
+    "doi": "10.1016/j.infpip.2026.100579",
+    "category": "カテーテル新技術",
+    "title_en": "Burden and risk factors of acquisition of multi-drug-resistant Gram-negative bacteria among intensive care patients at a tertiary care setting.",
+    "title_ja": "",
+    "authors": "Alshamrani Majid M, El-Saed Aiman, Al-Tawfiq Jaffar A, Othman Fatmah, AlAmeer Kholod M, Al-Fayez Sarah, Elkhawaga Ghada O, Al Zunitan Mohammed, Farahat Fayssal",
+    "journal": "Infection prevention in practice",
+    "publication_date": "2026-12-01",
+    "entry_date": "2026-10-20",
+    "study_design": "前向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Multi-drug-resistant Gram-negative bacteria (MDR-GNB) are a major healthcare challenge, particularly among patients admitted to intensive care units (ICUs). The objective of the current study was to assess the risk of acquisition of MDR-GNB in ICU patients and the associated risk factors and outcomes.\nMETHODS: A prospective cohort study among adult ICU patients was conducted in two tertiary care hospitals in Riyadh, Saudi Arabia, between 2021 and 2022. Specimens were examined at admission, during stay, and before discharge for all patients. Acquisition of MDR-GNB was confirmed by a positive culture/polymerase chain reaction before discharge among patients who were negative at admission.\nRESULTS: A total of 307 patients were included. The mean age was 56.7 ± 18.2 years and 62.2% were males. Out of 307, 82 (26.7%) patients acquired MDR-GNB during their ICU stay. The most common MDR-GNB pathogens were Klebsiella spp. (47.1%), Acinetobacter spp. (14.7%), Pseudomonas aeruginosa (12.7%), Enterobacter spp. (10.8%), and Escherichia coli (5.9%). Approximately 40.2% of MDR-GNB presented as infection and 59.8% as colonization. In multi-variate analysis, the following variables were independent predictors of MDR-GNB acquisition; pneumonia at admission, central line use, urinary catheter use, renal comorbidity, and prolonged hospitalization. Patients who acquired MDR-GNB had significantly higher mortality (34.1% vs 5.3%, P<0.001) and ICU length of stay (median of 26 vs 10 days, P<0.001).\nCONCLUSIONS: The findings underscore the high risk and burden of MDR-GNB acquisition in the ICU setting. There is an urgent need for enhanced infection control strategies and antimicrobial stewardship activities to reduce MDR-GNB acquisition and its negative impact.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "307 patients",
+        "source": "RESULTS: A total of 307 patients were included."
+      },
+      {
+        "item": "割合",
+        "value": "62.2%",
+        "source": "The mean age was 56.7 ± 18.2 years and 62.2% were males."
+      },
+      {
+        "item": "割合",
+        "value": "26.7%",
+        "source": "Out of 307, 82 (26.7%) patients acquired MDR-GNB during their ICU stay."
+      },
+      {
+        "item": "割合",
+        "value": "47.1%",
+        "source": "(47.1%), Acinetobacter spp."
+      },
+      {
+        "item": "割合",
+        "value": "14.7%",
+        "source": "(14.7%), Pseudomonas aeruginosa (12.7%), Enterobacter spp."
+      },
+      {
+        "item": "割合",
+        "value": "12.7%",
+        "source": "(14.7%), Pseudomonas aeruginosa (12.7%), Enterobacter spp."
+      },
+      {
+        "item": "割合",
+        "value": "10.8%",
+        "source": "(10.8%), and Escherichia coli (5.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "5.9%",
+        "source": "(10.8%), and Escherichia coli (5.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "40.2%",
+        "source": "Approximately 40.2% of MDR-GNB presented as infection and 59.8% as colonization."
+      },
+      {
+        "item": "P値",
+        "value": "P<0.001",
+        "source": "Patients who acquired MDR-GNB had significantly higher mortality (34.1% vs 5.3%, P<0.001) and ICU length of stay (median of 26 vs 10 days, P<0.001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898838/",
+    "doi_url": "https://doi.org/10.1016/j.infpip.2026.100579",
+    "created_at": "2026-10-20T23:50:58.493204+00:00"
+  },
+  {
+    "pmid": "42898821",
+    "doi": "10.3389/fmicb.2026.1915213",
+    "category": "カテーテル新技術",
+    "title_en": "Biofilm-associated genes in Staphylococcus aureus: role in chronic infections and therapeutic challenges.",
+    "title_ja": "",
+    "authors": "Azhar Mohammad Asim, Mir Tanveer Ahmad, Ahmed Sana, Assiri Abdullah M, Broering Dieter C",
+    "journal": "Frontiers in microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-20",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "One of the major contributors to persistent healthcare and community-associated infections is S. aureus, which has a remarkable ability to form biofilms that protect it against the host immune system and antimicrobial therapy. In recent years, it has become clear that biofilm development is a highly orchestrated and dynamic process, controlled by complex genetic networks, transcriptional regulators, two-component systems (TCSs), and environmental signals. The present review covers the molecular mechanisms involved in the initiation, maturation, maintenance, and dispersal of biofilms in general, and in particular, the coordinated functions of adhesins, the icaADBC operon, components of the extracellular matrix (ECM), global regulators (agr, sarA, and sigB), and two-component regulatory systems, as well as emerging insights from transcriptomic studies on biofilm adaptation. We then review the roles of these regulatory pathways in metabolic heterogeneity, antibiotic tolerance, immune evasion, and persistence in clinically relevant biofilm-associated infections, including infective endocarditis, osteomyelitis, prosthetic joint infection, catheter-associated infection, and diabetic foot infection. The review further outlines the latest developments in antibiofilm therapeutics, including matrix-degrading enzymes, quorum-sensing inhibitors, antimicrobial peptides, bacteriophage-based therapeutics, lysins, nitric oxide donors, nanoparticle-assisted therapeutics, and CRISPR-Cas-based antimicrobials. Incorporating molecular regulation into infection-specific pathogenesis and emerging therapeutic strategies, this review offers a new perspective on the biology of S. aureus biofilms and highlights opportunities to develop mechanism-based interventions to combat chronic biofilm-associated infections.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42898821/",
+    "doi_url": "https://doi.org/10.3389/fmicb.2026.1915213",
+    "created_at": "2026-10-20T23:51:01.407420+00:00"
+  },
+  {
+    "pmid": "42897507",
+    "doi": "10.1186/s12879-026-14028-5",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical characteristics and outcomes of Candida auris in a tertiary intensive care unit: a four-year retrospective case series.",
+    "title_ja": "",
+    "authors": "Köşker Cevdet Furkan, Taşkın Gürhan, Erdemir Mete, Bozdaş Şerife, Gümral Ramazan, Duyan Serhat, Özdemir Ömer Faruk, Yamanel Levent",
+    "journal": "BMC infectious diseases",
+    "publication_date": "2026-07-22",
+    "entry_date": "2026-10-20",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Candida auris is an emerging multidrug-resistant yeast associated with healthcare-associated transmission and severe outcomes in intensive care settings. Clinical ICU-based cohort data from Türkiye remain limited.\nMETHODS: We conducted a single-center retrospective case series in a tertiary adult intensive care unit in Türkiye, including patients with C. auris isolated from blood and/or urine cultures between January 1, 2021, and January 1, 2025. Species identification was performed by matrix-assisted laser desorption ionization-time of flight mass spectrometry (MALDI-TOF MS). Antifungal susceptibility testing (AST) for selected isolates was conducted using the Sensititre™ YeastOne™ colorimetric microdilution system. Continuous variables were presented as mean ± standard deviation or median (minimum-maximum) according to distribution, whereas categorical variables were presented as frequencies and percentages. Comparative statistical analyses were not performed because of the descriptive case-series design and limited sample size.\nRESULTS: Among 5,778 ICU patients evaluated during the study period, C. auris was identified in 36 patients. No cases were detected in 2021-2022; all cases occurred between September 18, 2023, and December 23, 2024, representing 2.37% of 1,517 ICU admissions during that interval. Isolation was most frequent in urine cultures (77.8%), followed by blood cultures (33.3%), with simultaneous urine and blood positivity in 11.1% of patients. The mean length of hospitalization before the first C. auris-positive culture was 44.9 days. All patients had urinary and central venous catheters and had received broad-spectrum antibiotics before C. auris detection. In the preceding month, MDR bacterial bloodstream infections were identified in 16 patients. AST data were available for four blood culture isolates from three patients; fluconazole MIC values were > 256 µg/mL in all tested isolates, whereas micafungin showed the lowest arithmetic mean MIC value (0.188 µg/mL).\nCONCLUSIONS: C. auris emerged in our ICU after 2023 and was mainly detected in patients with prolonged hospitalization, invasive devices, broad-spectrum antimicrobial exposure, and frequent MDR bacterial co-occurrence. These single-center data from Türkiye highlight the importance of reliable species-level identification, infection control awareness, and antimicrobial stewardship. Larger multicenter prospective studies using standardized surveillance and reference-method-based AST protocols are needed to better define transmission dynamics, resistance patterns, and clinical outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "36 patients",
+        "source": "auris was identified in 36 patients."
+      },
+      {
+        "item": "対象数",
+        "value": "16 patients",
+        "source": "In the preceding month, MDR bacterial bloodstream infections were identified in 16 patients."
+      },
+      {
+        "item": "割合",
+        "value": "2.37%",
+        "source": "No cases were detected in 2021-2022; all cases occurred between September 18, 2023, and December 23, 2024, representing 2.37% of 1,517 ICU admissions during that interval."
+      },
+      {
+        "item": "割合",
+        "value": "77.8%",
+        "source": "Isolation was most frequent in urine cultures (77.8%), followed by blood cultures (33.3%), with simultaneous urine and blood positivity in 11.1% of patients."
+      },
+      {
+        "item": "割合",
+        "value": "33.3%",
+        "source": "Isolation was most frequent in urine cultures (77.8%), followed by blood cultures (33.3%), with simultaneous urine and blood positivity in 11.1% of patients."
+      },
+      {
+        "item": "割合",
+        "value": "11.1%",
+        "source": "Isolation was most frequent in urine cultures (77.8%), followed by blood cultures (33.3%), with simultaneous urine and blood positivity in 11.1% of patients."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42897507/",
+    "doi_url": "https://doi.org/10.1186/s12879-026-14028-5",
+    "created_at": "2026-10-20T23:51:04.720688+00:00"
+  },
+  {
     "pmid": "42894088",
     "doi": "10.1186/s40981-026-00869-1",
     "category": "カテーテル新技術",
