@@ -1,5 +1,140 @@
 [
   {
+    "pmid": "42910458",
+    "doi": "10.1093/trstmh/trag129",
+    "category": "カテーテル新技術",
+    "title_en": "Mortality outcomes and their predictors in patients with carbapenem-resistant Acinetobacter baumannii bacteraemia: a prospective cohort study from South India.",
+    "title_ja": "",
+    "authors": "Tantry Manasa, Gupta Nitin, Shanbhag Vishal, Rao Shwethapriya, Varma Muralidhar, Mukhopadhyay Chiranjay, Eshwara Vandana Kalwaje",
+    "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+    "publication_date": "2026-10-22",
+    "entry_date": "2026-10-23",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Carbapenem-resistant Acinetobacter baumannii (CRAB) bloodstream infections (BSIs) are associated with high mortality, yet predictors of early mortality remain inadequately studied.\nMETHODS: We conducted a prospective observational study of patients with CRAB-BSI from July 2021 to December 2023. Patients ≥18 y of age with CRAB bacteraemia were included. Clinical, microbiological and treatment data were collected. Multivariable logistic regression was performed to identify independent predictors of 7-d mortality.\nRESULTS: A total of 154 patients were included. The 7- and 30-d mortality rates were 57.1% and 76.6%, respectively. Common BSI sources included hospital-acquired pneumonia (51.3%) and vascular catheters (29.2%). Only 37% received appropriate empirical therapy. On multivariable analysis, type 2 diabetes mellitus (adjusted odds ratio [aOR] 2.35, p=0.031), inotrope requirement at BSI onset (aOR 3.11 [95% confidence interval 1.28 to 7.56], p=0.013) and higher tigecycline minimum inhibitory concentration in Vitek-2 (aOR 2.50, p=0.040) were independent predictors of early mortality. Vascular catheter-related BSI (aOR 0.25, p=0.003) was associated with lower early mortality. The association between appropriate targeted therapy (aOR 0.21, p=0.001) and mortality was interpreted cautiously because of potential survivor bias.\nCONCLUSIONS: Early mortality in patients with CRAB-BSI is linked to host factors, severity of illness and antimicrobial resistance. Catheter-associated BSI, likely reflecting the feasibility of source control, was associated with improved outcomes. Appropriate targeted therapy was also associated with survival, which should be interpreted cautiously because of potential survivor bias.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "154 patients",
+        "source": "RESULTS: A total of 154 patients were included."
+      },
+      {
+        "item": "割合",
+        "value": "57.1%",
+        "source": "The 7- and 30-d mortality rates were 57.1% and 76.6%, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "76.6%",
+        "source": "The 7- and 30-d mortality rates were 57.1% and 76.6%, respectively."
+      },
+      {
+        "item": "割合",
+        "value": "51.3%",
+        "source": "Common BSI sources included hospital-acquired pneumonia (51.3%) and vascular catheters (29.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "29.2%",
+        "source": "Common BSI sources included hospital-acquired pneumonia (51.3%) and vascular catheters (29.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "37%",
+        "source": "Only 37% received appropriate empirical therapy."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "On multivariable analysis, type 2 diabetes mellitus (adjusted odds ratio [aOR] 2.35, p=0.031), inotrope requirement at BSI onset (aOR 3.11 [95% confidence interval 1.28 to 7.56], p=0.013) and higher tigecycline minimum inhibitory concentration in Vitek-2 (aOR 2.50, p=0.040) were independent predictors of early mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.031",
+        "source": "On multivariable analysis, type 2 diabetes mellitus (adjusted odds ratio [aOR] 2.35, p=0.031), inotrope requirement at BSI onset (aOR 3.11 [95% confidence interval 1.28 to 7.56], p=0.013) and higher tigecycline minimum inhibitory concentration in Vitek-2 (aOR 2.50, p=0.040) were independent predictors of early mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.013",
+        "source": "On multivariable analysis, type 2 diabetes mellitus (adjusted odds ratio [aOR] 2.35, p=0.031), inotrope requirement at BSI onset (aOR 3.11 [95% confidence interval 1.28 to 7.56], p=0.013) and higher tigecycline minimum inhibitory concentration in Vitek-2 (aOR 2.50, p=0.040) were independent predictors of early mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.040",
+        "source": "On multivariable analysis, type 2 diabetes mellitus (adjusted odds ratio [aOR] 2.35, p=0.031), inotrope requirement at BSI onset (aOR 3.11 [95% confidence interval 1.28 to 7.56], p=0.013) and higher tigecycline minimum inhibitory concentration in Vitek-2 (aOR 2.50, p=0.040) were independent predictors of early mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.003",
+        "source": "Vascular catheter-related BSI (aOR 0.25, p=0.003) was associated with lower early mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.001",
+        "source": "The association between appropriate targeted therapy (aOR 0.21, p=0.001) and mortality was interpreted cautiously because of potential survivor bias."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42910458/",
+    "doi_url": "https://doi.org/10.1093/trstmh/trag129",
+    "created_at": "2026-10-23T23:51:00.774660+00:00"
+  },
+  {
+    "pmid": "42908546",
+    "doi": "10.3389/fcvm.2026.1888798",
+    "category": "カテーテル新技術",
+    "title_en": "Paclitaxel retention of drug-coated balloons in veins and arteries under arteriovenous fistula hemodynamics.",
+    "title_ja": "",
+    "authors": "Liu Linda B, Lowry Kayla, Habermacher Brystol, Yazdani Saami K",
+    "journal": "Frontiers in cardiovascular medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-23",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "INTRODUCTION: Arteriovenous fistulas (AVFs) are the preferred vascular access for hemodialysis, but venous stenosis remains a major limitation to long-term patency. Drug-coated balloons (DCBs) have emerged as a promising therapy to inhibit neointimal hyperplasia and reduce restenosis. However, inconsistent clinical outcomes have limited their adoption for AVF stenosis. The unique AVF environment-characterized by high flow, turbulent shear stress, and alternating arterial and venous segments-may influence drug transfer and retention within the vessel wall. Despite its importance, the impact of tissue type under AVF-specific hemodynamics on DCB performance remains poorly understood. This study investigates paclitaxel retention in venous and arterial tissue under simulated AVF conditions using an ex vivo bioreactor system.\nMATERIALS AND METHODS: The IN.PACT™ AV paclitaxel-coated balloon was deployed for 2 min in porcine veins and arteries within an ex vivo AVF-simulating bioreactor. Treated vessel segments were collected at 1- and 24 h to quantify tissue paclitaxel concentration. Scanning electron microscopy (SEM) was performed at 1 h to assess coating deposition on the luminal surface.\nRESULTS: Hemodynamic conditions were comparable between venous and arterial groups, confirming physiologically relevant AVF flow and pressure. On log-transformed tissue paclitaxel concentrations, no statistically significant difference was detected between tissue types at either time point (two-way ANOVA, p = 0.163; adjusted geometric mean ratio [vein/artery] = 2.69, 95% CI: 0.65-11.18), and drug levels decreased from 1- to 24 h in both groups. Venous samples exhibited greater variability, particularly at 1 h. SEM analysis revealed heterogeneous coating transfer in both tissues, with clustered deposits in veins and more distributed coverage in arteries.\nCONCLUSION: This study establishes an ex vivo platform for mechanistic evaluation of catheter-based drug delivery in vascular access. Under AVF hemodynamics, no statistically significant difference in acute paclitaxel retention was observed between venous and arterial tissues despite structural differences (log-scale two-way ANOVA, adjusted geometric mean ratio [vein/artery] = 2.69, 95% CI: 0.65-11.18). This absence of detectable differences suggests that tissue type alone does not drive DCB performance in AVFs.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "On log-transformed tissue paclitaxel concentrations, no statistically significant difference was detected between tissue types at either time point (two-way ANOVA, p = 0.163; adjusted geometric mean ratio [vein/artery] = 2.69, 95% CI: 0.65-11.18), and drug levels decreased from 1- to 24 h in both groups."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.163",
+        "source": "On log-transformed tissue paclitaxel concentrations, no statistically significant difference was detected between tissue types at either time point (two-way ANOVA, p = 0.163; adjusted geometric mean ratio [vein/artery] = 2.69, 95% CI: 0.65-11.18), and drug levels decreased from 1- to 24 h in both groups."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 0",
+        "source": "On log-transformed tissue paclitaxel concentrations, no statistically significant difference was detected between tissue types at either time point (two-way ANOVA, p = 0.163; adjusted geometric mean ratio [vein/artery] = 2.69, 95% CI: 0.65-11.18), and drug levels decreased from 1- to 24 h in both groups."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42908546/",
+    "doi_url": "https://doi.org/10.3389/fcvm.2026.1888798",
+    "created_at": "2026-10-23T23:51:03.909383+00:00"
+  },
+  {
     "pmid": "42902928",
     "doi": "10.1002/jbm.b.70166",
     "category": "カテーテル新技術",
@@ -28,6 +163,75 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42902928/",
     "doi_url": "https://doi.org/10.1002/jbm.b.70166",
     "created_at": "2026-10-22T23:58:26.121122+00:00"
+  },
+  {
+    "pmid": "42907937",
+    "doi": "10.1186/s13756-026-01796-7",
+    "category": "カテーテル新技術",
+    "title_en": "Infection prevention and control procedures in nursing homes in the piedmont region of Italy: results from two regional surveys (2021-2024).",
+    "title_ja": "",
+    "authors": "Bordino Valerio, Nunziata Vittoria, Busca Anna Laura, Dassio Giuseppina, Granatiero Daniela, Ferrara Lorenza, Griglio Bartolomeo, Zotti Carla M, Vicentini Costanza",
+    "journal": "Antimicrobial resistance and infection control",
+    "publication_date": "2026-07-25",
+    "entry_date": "2026-10-22",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Infection prevention and control (IPC) in long-term care facilities (LTCFs) is essential to reduce the burden of healthcare-associated infections (HAI) and the spread of antimicrobial resistance (AMR). This paper describes the development of standardized IPC procedures through a stakeholder-informed approach, and integrates results from two regional surveys conducted in Piedmont (first survey 2021-2022; second survey 2024) which assessed the reported availability of written procedure documents in nursing homes and, subsequently, the uptake and perceived utility of the developed standardized procedures.\nMETHODS: Two anonymous cross-sectional surveys targeted all nursing homes registered in the Piedmont regional healthcare census. The first survey (December 2021-April 2022) assessed the reported inclusion of 16 IPC procedure domains in facility manuals and the date of last revision. Based on these findings, standardized IPC procedure documents were developed by the University of Turin in collaboration with DIRMEI, regional public health authorities and IPC stakeholders, and were made available online in 2023. A second survey (August 2024) assessed reported uptake, perceived adequacy, missing but useful procedures and overall satisfaction. Descriptive statistics were used.\nRESULTS: 436/780 facilities responded to the first survey (55.9%). High availability of written procedure documents was reported for hand hygiene (99.1%), isolation for COVID-19 (99.8%) and cleaning/sanitation (98.9%). Lower availability was reported for sterilization (46.2%), bloodstream infection prevention (45.9%), and management of colonized/infected patients for alert organisms (62.0%). Revision dates varied, with many critical procedures updated predominantly in 2020-2022. After dissemination of standardized procedures, 305 facilities (39.1%) participated in the second survey: 99.7% found them adequate, 31.1% reported possessing all procedures already, and 89% provided an overall positive judgment. The most frequently requested/adopted procedures were vaccination prophylaxis (33.8%), laboratory sample management (31.8%), TB control (26.2%) and catheter management (22.0%).\nCONCLUSIONS: This regional initiative identified heterogeneity in IPC procedural documentation in nursing homes and documented high perceived adequacy and usefulness of standardized procedure documents after dissemination. These findings support harmonized regional resources as a structural component of IPC governance in LTCFs. However, the surveys did not assess implementation fidelity, staff adherence, audits, HAI rates, antimicrobial use or AMR outcomes; future work should incorporate objective implementation and outcome indicators.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "55.9%",
+        "source": "RESULTS: 436/780 facilities responded to the first survey (55.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "99.1%",
+        "source": "High availability of written procedure documents was reported for hand hygiene (99.1%), isolation for COVID-19 (99.8%) and cleaning/sanitation (98.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "99.8%",
+        "source": "High availability of written procedure documents was reported for hand hygiene (99.1%), isolation for COVID-19 (99.8%) and cleaning/sanitation (98.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "98.9%",
+        "source": "High availability of written procedure documents was reported for hand hygiene (99.1%), isolation for COVID-19 (99.8%) and cleaning/sanitation (98.9%)."
+      },
+      {
+        "item": "割合",
+        "value": "46.2%",
+        "source": "Lower availability was reported for sterilization (46.2%), bloodstream infection prevention (45.9%), and management of colonized/infected patients for alert organisms (62.0%)."
+      },
+      {
+        "item": "割合",
+        "value": "45.9%",
+        "source": "Lower availability was reported for sterilization (46.2%), bloodstream infection prevention (45.9%), and management of colonized/infected patients for alert organisms (62.0%)."
+      },
+      {
+        "item": "割合",
+        "value": "62.0%",
+        "source": "Lower availability was reported for sterilization (46.2%), bloodstream infection prevention (45.9%), and management of colonized/infected patients for alert organisms (62.0%)."
+      },
+      {
+        "item": "割合",
+        "value": "39.1%",
+        "source": "After dissemination of standardized procedures, 305 facilities (39.1%) participated in the second survey: 99.7% found them adequate, 31.1% reported possessing all procedures already, and 89% provided an overall positive judgment."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42907937/",
+    "doi_url": "https://doi.org/10.1186/s13756-026-01796-7",
+    "created_at": "2026-10-23T23:51:07.059984+00:00"
   },
   {
     "pmid": "42900262",
