@@ -1,5 +1,39 @@
 [
   {
+    "pmid": "42927390",
+    "doi": "10.7759/cureus.116849",
+    "category": "カテーテル新技術",
+    "title_en": "Confirmed Myocarditis-Myositis Overlap Without Myasthenia Gravis: Evaluating for Triple M Syndrome Following Combined Enfortumab Vedotin and Pembrolizumab Therapy.",
+    "title_ja": "",
+    "authors": "Ashong Bryan, Ranga Yash",
+    "journal": "Cureus",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-25",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "A 64-year-old male with Stage III urothelial carcinoma of the right ureter presented to the emergency department 3 weeks after a single cycle of combined enfortumab vedotin and pembrolizumab with chest tightness, neck weakness, drop head, and myalgias. Laboratory findings included markedly elevated high-sensitivity troponin I, creatine phosphokinase, lactate dehydrogenase, and transaminases. Electrocardiography showed anterolateral ST depression and left anterior fascicular block, which was new as compared to a prior tracing. He was managed in the cardiovascular intensive care unit. Cardiac catheterization revealed concurrent 90% mid-left anterior descending artery stenosis, treated with drug-eluting stent placement. Endomyocardial biopsy confirmed focal moderate lymphocytic myocarditis. Cardiac MRI demonstrated mildly reduced biventricular function and a non-ischemic pattern of late gadolinium enhancement consistent with myocarditis sequelae. Given the overlapping multisystem presentation, a multidisciplinary team (cardiology, neurology, and oncology) elected to treat with high-dose methylprednisolone (1 g QOD x 5 days), the guideline-recommended first-line therapy for ICI-associated myocarditis, and intravenous immunoglobulin (400 mg/kg QOD x 5 days), with biochemical improvement. IVIG was added given clinical concern for possible neuromuscular junction involvement in the setting of concurrent myositis and possible overlap syndrome, reflecting a precautionary approach to a potentially rapidly progressive presentation. Myasthenia gravis was considered but not confirmed: repeated neurological examinations demonstrated no fatigable weakness, and serology was negative for acetylcholine receptor binding and muscle-specific kinase antibodies. Both implicated agents were permanently discontinued. This case illustrates the spectrum and severity of multisystem immune-related toxicity from combined antibody-drug conjugate and immune checkpoint inhibitor therapy.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "90%",
+        "source": "Cardiac catheterization revealed concurrent 90% mid-left anterior descending artery stenosis, treated with drug-eluting stent placement."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42927390/",
+    "doi_url": "https://doi.org/10.7759/cureus.116849",
+    "created_at": "2026-10-25T23:14:19.237601+00:00"
+  },
+  {
     "pmid": "42920369",
     "doi": "10.1002/adhm.71886",
     "category": "カテーテル新技術",
@@ -28,6 +62,342 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42920369/",
     "doi_url": "https://doi.org/10.1002/adhm.71886",
     "created_at": "2026-10-24T23:10:00.011317+00:00"
+  },
+  {
+    "pmid": "42923377",
+    "doi": "10.1021/acsomega.6c07621",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Zwitterionic Coatings for Urinary Catheters: Current Progress, Design Principles and Translational Challenges.",
+    "title_ja": "",
+    "authors": "Yao Chenghao, Wang Zhengda, Yan Sixu, Zhang Shuai",
+    "journal": "ACS omega",
+    "publication_date": "2026-10-20",
+    "entry_date": "2026-10-24",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「catheter blockage、encrustation、hydrogel、coating」の観点から確認価値があります。",
+    "relevance_score": 4,
+    "keywords": [
+      "catheter blockage",
+      "encrustation",
+      "hydrogel",
+      "coating"
+    ],
+    "abstract_en": "Catheter-associated urinary tract infection (CAUTI) is one of the most common healthcare-associated infections and remains a major cause of morbidity, catheter blockage, and repeated device replacement during long-term catheterization. This narrative review examines the interfacial processes that contribute to urinary catheter failure, including protein adsorption, microbial adhesion, biofilm formation, encrustation, and swarming-associated blockage, and evaluates how zwitterionic surface coatings may address these challenges. Drawing primarily on urinary catheter-specific studies, together with adjacent zwitterionic biomaterials literature where relevant to catheter design, this review synthesizes current coating strategies with emphasis on protein repellence, lubrication, biocompatibility, multifunctionalization, interface-specific design requirements, architectural trade-offs between hydrogel-like and brush-like coatings, and approaches to improve coating durability. The review also considers translation, including interim human evidence for zwitterion-treated urinary catheters, while recognizing that these data remain conference-reported and product-specific. Overall, zwitterionic coatings should be viewed not as a single antifouling solution, but as a versatile biomaterials platform for engineering multifunctional, durable, and clinically translatable urinary catheters. However, their long-term stability, resistance to complex biofilm and encrustation processes, and clinical efficacy require further validation. To define these remaining validation needs, the review compares PC-, SB-, and CB-based systems, stratifies evidence by model and duration, reports quantitative coating data where available, and identifies validation requirements across the product lifecycle.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923377/",
+    "doi_url": "https://doi.org/10.1021/acsomega.6c07621",
+    "created_at": "2026-10-25T23:14:00.999919+00:00"
+  },
+  {
+    "pmid": "42923805",
+    "doi": "10.4103/jehp.jehp_55_26",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Misoprostol monotherapy versus adjunctive mechanical cervical ripening with Foley catheter or Dilapan-S for second-trimester termination of pregnancy: A randomized controlled trial.",
+    "title_ja": "",
+    "authors": "Torabifar Neda, Yousefi Fatemeh, Siahkal Shahla Faal, Kord Sara, Moradinasab Salimeh",
+    "journal": "Journal of education and health promotion",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-24",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: In regions where mifepristone access is legally or logistically constrained, second-trimester pregnancy termination predominantly relies on misoprostol-only regimens. However, these protocols are often associated with a prolonged induction-to-abortion interval (IAI). This study evaluated whether integrating mechanical cervical ripening agents-specifically Foley catheters or Dilapan-S rods-could enhance the clinical efficiency of misoprostol-induced terminations in mifepristone-restricted settings.\nMATERIALS AND METHODS: In this single-center, open-label randomized controlled trial (February-October 2023), 90 women with singleton pregnancies between 13 + 0 and 20 + 6 weeks' gestation were randomly assigned (1:1:1 ratio) to one of three groups: (1) vaginal misoprostol monotherapy (400 µg every 3 h); (2) misoprostol plus a 24F Foley catheter (balloon inflated to 40 mL); or (3) misoprostol following a 4-h cervical preparation with a Dilapan-S osmotic dilator. Sample size was calculated to detect a 30% reduction in median IAI (α = 0.05, β = 0.20), requiring 75 participants; 90 were enrolled to account for 20% attrition. Randomization employed computer-generated blocks with allocation concealment via SNOSE (sequentially numbered, opaque, sealed envelopes). Primary outcomes were IAI and total procedure time. Secondary outcomes included 24-h success rate, cumulative misoprostol dose, adverse events, and patient-reported acceptability. Statistical analyses used Kruskal-Wallis, Chi-square, and Kaplan-Meier log-rank tests, with significance defined as P < 0.05.\nRESULTS: Median IAI did not differ significantly among groups (misoprostol: 600 min, Foley: 714 min, Dilapan-S: 698 min; P = 0.54). Total procedure time was significantly longer in the Dilapan-S group (938 min) compared with misoprostol alone (600 min) and Foley catheter (714 min; P = 0.02). The 24-h success rate was 67.5% overall, with no significant between-group differences (P = 0.26). No major complications occurred.\nCONCLUSION: Adjunctive use of Foley catheters or Dilapan-S does not accelerate the induction-to-abortion process in second-trimester terminations compared with misoprostol monotherapy in mifepristone-restricted settings. Given the significantly longer total procedure time of Dilapan-S and its 15-fold higher cost without clinical benefit, vaginal misoprostol monotherapy remains the most pragmatic and cost-effective strategy. Larger multicenter trials are warranted to detect potentially subtle differences in clinical efficacy.\nTRIAL REGISTRATION: Iranian Registry of Clinical Trials (IRCT20210516051312N2).",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "75 participants",
+        "source": "Sample size was calculated to detect a 30% reduction in median IAI (α = 0.05, β = 0.20), requiring 75 participants; 90 were enrolled to account for 20% attrition."
+      },
+      {
+        "item": "割合",
+        "value": "30%",
+        "source": "Sample size was calculated to detect a 30% reduction in median IAI (α = 0.05, β = 0.20), requiring 75 participants; 90 were enrolled to account for 20% attrition."
+      },
+      {
+        "item": "割合",
+        "value": "20%",
+        "source": "Sample size was calculated to detect a 30% reduction in median IAI (α = 0.05, β = 0.20), requiring 75 participants; 90 were enrolled to account for 20% attrition."
+      },
+      {
+        "item": "割合",
+        "value": "67.5%",
+        "source": "The 24-h success rate was 67.5% overall, with no significant between-group differences (P = 0.26)."
+      },
+      {
+        "item": "P値",
+        "value": "P < 0.05",
+        "source": "Statistical analyses used Kruskal-Wallis, Chi-square, and Kaplan-Meier log-rank tests, with significance defined as P < 0.05."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.54",
+        "source": "RESULTS: Median IAI did not differ significantly among groups (misoprostol: 600 min, Foley: 714 min, Dilapan-S: 698 min; P = 0.54)."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.02",
+        "source": "Total procedure time was significantly longer in the Dilapan-S group (938 min) compared with misoprostol alone (600 min) and Foley catheter (714 min; P = 0.02)."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.26",
+        "source": "The 24-h success rate was 67.5% overall, with no significant between-group differences (P = 0.26)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923805/",
+    "doi_url": "https://doi.org/10.4103/jehp.jehp_55_26",
+    "created_at": "2026-10-25T23:14:04.794113+00:00"
+  },
+  {
+    "pmid": "42921785",
+    "doi": "10.1177/00494755261503168",
+    "category": "カテーテル新技術",
+    "title_en": "Endogenous panophthalmitis in a patient with diabetic kidney disease on haemodialysis: A vision-threatening manifestation of systemic infection.",
+    "title_ja": "",
+    "authors": "Dhanshetty Abhijeet",
+    "journal": "Tropical doctor",
+    "publication_date": "2026-10-24",
+    "entry_date": "2026-10-24",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Endogenous endophthalmitis is a rare but devastating complication of haematogenous infection, with a higher risk in patients with diabetes mellitus and end-stage kidney disease receiving maintenance haemodialysis (MHD). We report a 40-year old man with diabetic kidney disease on MHD through a tunnelled dialysis catheter who presented with acute painful visual loss and was diagnosed with endogenous panophthalmitis. Blood, catheter blood and catheter-tip cultures grew methicillin-resistant Staphylococcus aureus, confirming a catheter-related bloodstream infection with ocular metastatic spread. Despite prompt intravitreal, systemic and topical antimicrobial therapy and removal of the infected catheter, the affected eye progressed to phthisis bulbi with permanent blindness. This case highlights the potential for vascular access-related bacteraemia to cause catastrophic ocular infection in patients receiving haemodialysis. Early recognition of endogenous endophthalmitis, prompt source control and coordinated ophthalmological, nephrological, and infectious disease management are essential to optimise outcomes.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42921785/",
+    "doi_url": "https://doi.org/10.1177/00494755261503168",
+    "created_at": "2026-10-25T23:14:07.691303+00:00"
+  },
+  {
+    "pmid": "42923101",
+    "doi": "10.3389/fcimb.2026.1965770",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical characteristics, molecular features and in vitro susceptibility to sulbactam-durlobactam, cefiderocol, and eravacycline in NDM-1-producing versus OXA-23-producing carbapenem-resistant Acinetobacter baumannii isolates from children in Guangxi, China.",
+    "title_ja": "",
+    "authors": "Liu Minxue, Li Mengjun, Yan Chenglan, Huang Liying, Zhang Huan",
+    "journal": "Frontiers in cellular and infection microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-24",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Carbapenem-resistant A. baumannii (CRAB) has been recognized as a critical priority pathogen responsible for a wide range of hospital-acquired infections.\nMETHODS: We included pediatric CRAB infection cases at a Maternal and Child Health Hospital in Guangxi, China, from January 2019 to December 2024. The bacterial isolates had previously undergone whole-genome sequencing (WGS). An NDM-1-producing CRAB strain isolated from a bloodstream infection was subjected to Nanopore sequencing to characterize the NDM-1-encoding plasmid. We then retrospectively analyzed the risk factors for NDM-1-producing CRAB infection in children. In addition, the NDM-1-producing and OXA-23-producing CRAB strains were subjected to antimicrobial susceptibility testing (AST) against sulbactam-durlobactam, cefiderocol, and eravacycline using the micro-broth dilution method, and their susceptibility profiles were compared. Associated resistance genes were analyzed.\nRESULTS: A total of 131 pediatric patients with CRAB infections were included in this study. Based on the WGS data, 33 CRAB strains harboring bla NDM-1 were classified into the NDM-1-producing group, while 98 CRAB strains harboring bla OXA-23 were classified into the OXA-23-producing group. On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05). WGS analysis revealed that 32 of the 33 (97.0%) NDM-1-producing CRAB isolates co-carried bla PER-1, which has been reported to be associated with cefiderocol resistance in A. baumannii. Plasmid mapping showed that the same plasmid co-harbored bla NDM-1 and bla PER-1, together with a type IV secretion system (T4SS). The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001). However, all 131 isolates demonstrated susceptibility to eravacycline in vitro.\nCONCLUSION: Clinical characteristics and antibiotic susceptibility differed significantly between NDM-1-producing and OXA-23-producing CRAB infections. Carbapenemase surveillance is critical for the management of CRAB infections among pediatric patients in Guangxi, China, and AST is essential to guide treatment.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "131 isolates",
+        "source": "However, all 131 isolates demonstrated susceptibility to eravacycline in vitro."
+      },
+      {
+        "item": "割合",
+        "value": "97.0%",
+        "source": "WGS analysis revealed that 32 of the 33 (97.0%) NDM-1-producing CRAB isolates co-carried bla PER-1, which has been reported to be associated with cefiderocol resistance in A."
+      },
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "66.7%",
+        "source": "The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "1.0%",
+        "source": "The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001)."
+      },
+      {
+        "item": "割合",
+        "value": "0.0%",
+        "source": "The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.009",
+        "source": "On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "P = 0.039",
+        "source": "On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "P < 0.05",
+        "source": "On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05)."
+      },
+      {
+        "item": "P値",
+        "value": "P < 0.001",
+        "source": "The resistance rate of NDM-1-producing CRAB isolates to sulbactam-durlobactam was 100%, and to cefiderocol was 66.7%-both rates being significantly higher than those observed in the OXA-23-producing group (1.0% and 0.0%, respectively; P < 0.001)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 0.293",
+        "source": "On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 0.896",
+        "source": "On multivariable analysis, indwelling urethral catheters (OR = 0.293; P = 0.009) and white blood cell (WBC) count (OR = 0.896; P = 0.039) were negatively associated with NDM-1-producing CRAB infection, yet positively associated with OXA-23-producing infections (P < 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923101/",
+    "doi_url": "https://doi.org/10.3389/fcimb.2026.1965770",
+    "created_at": "2026-10-25T23:14:11.779576+00:00"
+  },
+  {
+    "pmid": "42922972",
+    "doi": "10.3389/fmicb.2026.1872672",
+    "category": "カテーテル新技術",
+    "title_en": "Clinical factors associated with carbapenem resistance and in-hospital mortality in Klebsiella pneumoniae bloodstream infection: a 7-year retrospective cohort study.",
+    "title_ja": "",
+    "authors": "Xu Na, Liang Yi, Zhu Wen, Lin Feng, Zhang Yang, Li Jia",
+    "journal": "Frontiers in microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-24",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Carbapenem-resistant Klebsiella pneumoniae bloodstream infection (CRKP BSI) is associated with substantial mortality and limited therapeutic options, yet institutional epidemiology and risk profiles vary. We evaluated antimicrobial susceptibility, non-blood-site detection, factors associated with carbapenem resistance, and in-hospital all-cause mortality among patients with K. pneumoniae BSI at a secondary-care hospital over seven years.\nMETHODS: We retrospectively analyzed 141 adults with K. pneumoniae BSI hospitalized at Shidong Hospital, Shanghai, China, from January 2019 through December 2025, including 49 patients with CRKP BSI and 92 with carbapenem-susceptible K. pneumoniae BSI (CSKP BSI). Clinical and microbiological data were analyzed using univariable comparisons and multivariable logistic regression.\nRESULTS: Crude in-hospital mortality was higher among patients with CRKP BSI than among those with CSKP BSI (40.8% vs. 16.3%; p = 0.002). Among the tested CRKP isolates, high in vitro susceptibility to ceftazidime/avibactam and tigecycline was observed. In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance. Non-blood-site detection of K. pneumoniae was more frequent in CRKP BSI than in CSKP BSI (73.5% vs. 35.9%; p < 0.001). In the overall mortality model, sepsis or septic shock assessed at BSI onset or within 48 h thereafter was associated with higher odds of in-hospital mortality (aOR, 4.738; 95% CI, 1.916-11.720; p < 0.001), whereas the adjusted association of CRKP BSI status with mortality did not reach statistical significance.\nCONCLUSION: In multivariable analysis, pulmonary disease, urinary catheterization before BSI onset, prior carbapenem exposure, and prior cephalosporin exposure were associated with carbapenem resistance. Although crude mortality was higher among patients with CRKP BSI, sepsis or septic shock was associated with higher odds of mortality after adjustment for age and CRKP BSI status, whereas the adjusted association of CRKP BSI status with mortality did not reach statistical significance. These findings support targeted infection prevention, antimicrobial stewardship, appropriate urinary catheter use, and early recognition and management of sepsis.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "49 patients",
+        "source": "pneumoniae BSI hospitalized at Shidong Hospital, Shanghai, China, from January 2019 through December 2025, including 49 patients with CRKP BSI and 92 with carbapenem-susceptible K."
+      },
+      {
+        "item": "割合",
+        "value": "40.8%",
+        "source": "RESULTS: Crude in-hospital mortality was higher among patients with CRKP BSI than among those with CSKP BSI (40.8% vs."
+      },
+      {
+        "item": "割合",
+        "value": "16.3%",
+        "source": "16.3%; p = 0.002)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      },
+      {
+        "item": "割合",
+        "value": "73.5%",
+        "source": "pneumoniae was more frequent in CRKP BSI than in CSKP BSI (73.5% vs."
+      },
+      {
+        "item": "割合",
+        "value": "35.9%",
+        "source": "35.9%; p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.002",
+        "source": "16.3%; p = 0.002)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.018",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 2",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 3",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 1",
+        "source": "In multivariable analysis, pulmonary disease (aOR, 9.441; 95% CI, 2.958-30.136; p < 0.001), urinary catheterization before BSI onset (aOR, 13.821; 95% CI, 3.987-47.904; p < 0.001), prior carbapenem exposure (aOR, 3.982; 95% CI, 1.274-12.448; p = 0.018), and prior cephalosporin exposure (aOR, 11.341; 95% CI, 3.411-37.713; p < 0.001) were associated with carbapenem resistance."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42922972/",
+    "doi_url": "https://doi.org/10.3389/fmicb.2026.1872672",
+    "created_at": "2026-10-25T23:14:16.060698+00:00"
+  },
+  {
+    "pmid": "42923054",
+    "doi": "10.3205/dgkh000675",
+    "category": "カテーテル新技術",
+    "title_en": "Biofilm-associated healthcare-associated infections: mechanisms, clinical burden, and emerging therapeutic frontiers - a narrative review.",
+    "title_ja": "",
+    "authors": "Anand Gargee, Lahariya Rijhul",
+    "journal": "GMS hygiene and infection control",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-24",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Biofilms are highly organized microbial communities embedded within an extracellular polymeric matrix and represent a critical yet underappreciated driver of healthcare-associated infections (HAIs). Their ability to colonize medical devices and host tissues underlies major infections, including central line-associated bloodstream infections, catheter-associated urinary tract infections, ventilator-associated pneumonia, and surgical site infections. Biofilm formation is dynamic, multistage process involving attachment, maturation, and dispersal of microorganisms, each phase reinforcing persistence and therapeutic failure. The matrix impedes immune clearance and antimicrobial penetration, while quorum sensing, metabolic heterogeneity, and persister cell formation further enhance tolerance. Clinically important bacterial and fungal biofilms, particularly those formed by Staphylococcus aureus, Pseudomonas aeruginosa, and Candida species, exhibit resistance far exceeding planktonic cells. Diagnostic limitations obscure true disease burden, and current strategies relying on antimicrobials and device removal remain inadequate amid rising resistance. This manuscript provides comprehensive synthesis of existing and novel strategies to mitigate HAIs, with particular emphasis on translational relevance.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42923054/",
+    "doi_url": "https://doi.org/10.3205/dgkh000675",
+    "created_at": "2026-10-25T23:14:22.632834+00:00"
   },
   {
     "pmid": "42910458",
