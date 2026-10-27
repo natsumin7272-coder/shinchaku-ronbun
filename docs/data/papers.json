@@ -1,5 +1,102 @@
 [
   {
+    "pmid": "42928999",
+    "doi": "10.1111/head.70228",
+    "category": "カテーテル新技術",
+    "title_en": "Impact of sphenopalatine ganglion blocks on high-frequency episodic and chronic migraine: A retrospective study.",
+    "title_ja": "",
+    "authors": "Vinciguerra Luisa, Brusaferri Fabio, Zito Antonio, Saponara Riccardo, Paletta Rosina, Di Bartolomeo Francesco, Maffi Gabriele, Spinazzola Angelo, Caputi Luigi",
+    "journal": "Headache",
+    "publication_date": "2026-10-26",
+    "entry_date": "2026-10-26",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES/BACKGROUND: The aim of this study was to assess the effectiveness and safety of sphenopalatine ganglion block using a dedicated catheter device in a migraine population. Sphenopalatine ganglion block has been used by clinicians in the treatment of headache disorder. The sensory and autonomic fibers that travel through the sphenopalatine ganglion provided the rationale for symptoms associated with these syndromes. Among different devices, dedicated transnasal catheter devices enable targeted delivery of local anesthetics (e.g., lidocaine) to the sphenopalatine ganglion region. To date, there are no randomized controlled trials evaluating transnasal sphenopalatine ganglion block performed with a dedicated catheter device in treatment and prevention of migraine.\nMETHODS: We conducted an open label, uncontrolled, retrospective, single-center study to evaluate the characteristics and outcomes of patients affected by high-frequency episodic or chronic migraine with or without medication overuse, according to the criteria of the International Classification of Headache Disorders, 3rd edition. We assessed changes in the Migraine Disability Assessment Questionnaire, Numeric Pain Rating Scale, Monthly Migraine Days (MMDs), and Monthly Acute Migraine Medications (MAMMs). The questionnaires were administered at baseline and 1, 3, 6, and 13 months after treatment. Patients were treated from May 2022 to December 2023.\nRESULTS: A total of 76 participants were screened, and 30 were included. After 1 and 3 months of treatment, statistically significant reductions in MMDs (median baseline [T0] vs. 1 month [T1]: 19.5 vs. 11.5, p<0.001; median T0 vs. 3 months [T2]: 19.5 vs. 16.5, p=0.009), and MAMMs (median T0 vs. T1: 20 vs. 10, p<0.001; median T0 vs. T2: 20 vs. 16; p=0.007) were detected. Numeric Pain Rating Scale (median T0 vs. T1: 8 vs. 5.5, p=0.001) and Migraine Disability Assessment Questionnaire (mean T0 vs. T2: 161.9 vs. 121.9, p<0.001) significantly decreased at T1 and T2, respectively. A marked reduction in monthly triptan and nonsteroidal anti-inflammatory drug use was observed at T1 (median T0 vs T1: 7 vs. 3.5, p<0.001 and median T0 vs T1: 16 vs. 5, p<0.001, respectively) and T2 (median T0 vs. T2: 7 vs. 4, p<0.001 and median T0 vs. T2: 16 vs. 10.5, p=0.014, respectively). Half of the patients (15/30) reached a 50% reduction in MAMMs, and 40% (12/30) of participants reported 50% reduction in MMDs at 1-month follow-up. Seventeen nonsevere adverse events were observed, mostly local discomfort.\nCONCLUSION: Transnasal sphenopalatine ganglion block performed with a dedicated catheter device may represent a safe therapeutic option for patients with disabling migraine. Although the procedure was associated with improvements in migraine symptoms, these findings are preliminary. Prospective studies are needed to further confirm these findings.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "76 participants",
+        "source": "RESULTS: A total of 76 participants were screened, and 30 were included."
+      },
+      {
+        "item": "割合",
+        "value": "50%",
+        "source": "Half of the patients (15/30) reached a 50% reduction in MAMMs, and 40% (12/30) of participants reported 50% reduction in MMDs at 1-month follow-up."
+      },
+      {
+        "item": "割合",
+        "value": "40%",
+        "source": "Half of the patients (15/30) reached a 50% reduction in MAMMs, and 40% (12/30) of participants reported 50% reduction in MMDs at 1-month follow-up."
+      },
+      {
+        "item": "P値",
+        "value": "p<0.001",
+        "source": "11.5, p<0.001; median T0 vs."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.009",
+        "source": "16.5, p=0.009), and MAMMs (median T0 vs."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.007",
+        "source": "16; p=0.007) were detected."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.001",
+        "source": "5.5, p=0.001) and Migraine Disability Assessment Questionnaire (mean T0 vs."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.014",
+        "source": "10.5, p=0.014, respectively)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42928999/",
+    "doi_url": "https://doi.org/10.1111/head.70228",
+    "created_at": "2026-10-27T00:24:10.464588+00:00"
+  },
+  {
+    "pmid": "42931181",
+    "doi": "10.3390/pathogens15101030",
+    "category": "カテーテル新技術",
+    "title_en": "Global Evolution of Microbiological Patterns and Pharmacological Guidance in the Management of Peritoneal Dialysis-Associated Peritonitis: An Evolution of Epidemiology and Clinical Practice.",
+    "title_ja": "",
+    "authors": "Suliman Ola, Wu Henry H L, Lewis David, Kalra Philip A, Chinnadurai Rajkumar",
+    "journal": "Pathogens (Basel, Switzerland)",
+    "publication_date": "2026-09-30",
+    "entry_date": "2026-10-26",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Peritoneal dialysis (PD)-associated peritonitis remains a major cause of treatment failure, hospitalisation, catheter loss and transition to haemodialysis despite reductions in incidence over the decades. This narrative review examines the global evolution of microbiological epidemiology and pharmacological management of PD-associated peritonitis, looking at global trends in microbiological epidemiology and exploring how treatment recommendations have evolved in response to changing pathogen distribution, antibiotic resistance patterns and associated clinical outcomes. Although Gram-positive organisms remain the predominant pathogens in most PD programmes, recent evidence demonstrates marked geographical and centre-level heterogeneity with rising clinical importance of Gram-negative, polymicrobial, fungal and culture-negative infections in certain regions. Antibiotic resistance has emerged as an additional challenge, including methicillin-resistant staphylococci, vancomycin-resistant enterococci, extended-spectrum β-lactamase-producing Enterobacterales and multidrug-resistant non-fermenting Gram-negative organisms. These changes challenge conventional empirical regimens and emphasise the importance of programme-specific microbiological surveillance. In parallel, pharmacological management has evolved considerably from relatively standardised empirical antibiotic combinations towards an individualised approach incorporating intraperitoneal administration, local susceptibility profiles, organism-directed therapy, pharmacokinetic optimisation, therapeutic drug monitoring and antifungal prophylaxis. However, substantial evidence gaps remain, particularly regarding antibiotic resistance patterns globally, optimal dosing in automated PD, intraperitoneal stability and clinical efficacy of newer antimicrobial agents.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42931181/",
+    "doi_url": "https://doi.org/10.3390/pathogens15101030",
+    "created_at": "2026-10-27T00:24:14.969661+00:00"
+  },
+  {
     "pmid": "42927390",
     "doi": "10.7759/cureus.116849",
     "category": "カテーテル新技術",
