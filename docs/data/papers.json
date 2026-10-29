@@ -1,5 +1,147 @@
 [
   {
+    "pmid": "42947076",
+    "doi": "10.1186/s12894-026-02293-0",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Perioperative tranexamic acid and postoperative haematuria after transvesical prostatectomy: a prospective observational cohort study.",
+    "title_ja": "",
+    "authors": "Terzić Branka, Milojević Bogomir, Živković Marko, Jovanović Vesna, Petrović Nataša, Lađević Nikola, Bumbaširević Uroš, Aćimović Miodrag, Lađević Nebojša, Bukumirić Zoran",
+    "journal": "BMC urology",
+    "publication_date": "2026-07-31",
+    "entry_date": "2026-10-28",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Bleeding and postoperative haematuria remain clinically relevant after open simple prostatectomy. Tranexamic acid (TXA) may reduce bleeding through antifibrinolytic activity, but evidence in open prostate surgery for benign prostatic obstruction is limited. This study evaluated perioperative bleeding-related outcomes and observed thromboembolic events associated with TXA exposure in patients undergoing transvesical prostatectomy.\nMETHODS: This prospective, non-randomised, comparative cohort study included 72 patients undergoing transvesical prostatectomy between August 2020 and December 2021. Thirty-one patients received perioperative intravenous TXA and 41 were managed without TXA. Outcomes included intraoperative blood loss, postoperative drain output, quantified perioperative blood loss, blood product transfusion, postoperative haematuria requiring continued or re-initiated bladder irrigation, and clinically apparent thromboembolic events within 30 days. Logistic regression and quantile median regression were used for exploratory adjusted analyses.\nRESULTS: TXA exposure was not associated with statistically significant reductions in intraoperative blood loss, postoperative drain output, quantified perioperative blood loss, or blood product transfusion. Postoperative haematuria grade ≥ 1 occurred less frequently in the TXA group than in controls in unadjusted analysis (38.7% vs. 63.4%; p = 0.038). However, this association was attenuated and was no longer statistically significant after adjustment for prostate specimen weight, operative time, pre-existing urinary catheter status, and 5-alpha-reductase inhibitor therapy (adjusted OR 0.482, 95% CI 0.163-1.420; p = 0.186). Longer operative time remained associated with postoperative haematuria (adjusted OR 1.030 per minute, 95% CI 1.006-1.054; p = 0.013). Prostate specimen weight remained associated with blood product transfusion after adjustment. No clinically apparent thromboembolic events were recorded during hospitalisation or within 30 days postoperatively.\nCONCLUSIONS: TXA exposure was associated with lower observed postoperative haematuria in unadjusted analysis, but this association did not persist after adjustment. TXA was not associated with significant reductions in quantified perioperative blood loss or blood product transfusion. These findings are exploratory and require confirmation in adequately powered randomised studies.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "72 patients",
+        "source": "METHODS: This prospective, non-randomised, comparative cohort study included 72 patients undergoing transvesical prostatectomy between August 2020 and December 2021."
+      },
+      {
+        "item": "割合",
+        "value": "38.7%",
+        "source": "Postoperative haematuria grade ≥ 1 occurred less frequently in the TXA group than in controls in unadjusted analysis (38.7% vs."
+      },
+      {
+        "item": "割合",
+        "value": "63.4%",
+        "source": "63.4%; p = 0.038)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "However, this association was attenuated and was no longer statistically significant after adjustment for prostate specimen weight, operative time, pre-existing urinary catheter status, and 5-alpha-reductase inhibitor therapy (adjusted OR 0.482, 95% CI 0.163-1.420; p = 0.186)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.038",
+        "source": "63.4%; p = 0.038)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.186",
+        "source": "However, this association was attenuated and was no longer statistically significant after adjustment for prostate specimen weight, operative time, pre-existing urinary catheter status, and 5-alpha-reductase inhibitor therapy (adjusted OR 0.482, 95% CI 0.163-1.420; p = 0.186)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.013",
+        "source": "Longer operative time remained associated with postoperative haematuria (adjusted OR 1.030 per minute, 95% CI 1.006-1.054; p = 0.013)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 0",
+        "source": "However, this association was attenuated and was no longer statistically significant after adjustment for prostate specimen weight, operative time, pre-existing urinary catheter status, and 5-alpha-reductase inhibitor therapy (adjusted OR 0.482, 95% CI 0.163-1.420; p = 0.186)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 1",
+        "source": "Longer operative time remained associated with postoperative haematuria (adjusted OR 1.030 per minute, 95% CI 1.006-1.054; p = 0.013)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 0.482",
+        "source": "However, this association was attenuated and was no longer statistically significant after adjustment for prostate specimen weight, operative time, pre-existing urinary catheter status, and 5-alpha-reductase inhibitor therapy (adjusted OR 0.482, 95% CI 0.163-1.420; p = 0.186)."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR 1.030",
+        "source": "Longer operative time remained associated with postoperative haematuria (adjusted OR 1.030 per minute, 95% CI 1.006-1.054; p = 0.013)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42947076/",
+    "doi_url": "https://doi.org/10.1186/s12894-026-02293-0",
+    "created_at": "2026-10-29T00:52:56.983050+00:00"
+  },
+  {
+    "pmid": "42948205",
+    "doi": "10.3389/fphar.2026.1969534",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Plant-derived nanovesicles in kidney disease: emerging preclinical evidence and translational challenges.",
+    "title_ja": "",
+    "authors": "Liu Haicheng, Zhao Jingyi, Cheng Xin, Lou Kecheng, Zhong Yuwei",
+    "journal": "Frontiers in pharmacology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-28",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Plant-derived nanovesicles (PDNVs) are lipid-bilayer nanoparticles isolated from plant extracellular fluids, juices, or tissues. Preparations obtained from disrupted tissues may contain both extracellular vesicles and membrane particles formed during processing, making product identity central to interpretation. Seven direct renal studies have examined native or engineered PDNVs in cisplatin- and sepsis-associated acute kidney injury, diabetic kidney disease, hyperuricemia-associated renal injury, and calcium oxalate nephrolithiasis. Current evidence supports three overlapping modes of use: renal cellular protection, oral modulation of intestinal and metabolic pathways, and engineered cargo delivery. Reported effects involve mitochondrial function, endoplasmic reticulum stress, ferroptosis, inflammation, microbiota, and host metabolism, but mechanistic support is uneven. SLC7A11 perturbation provides functional evidence for ferroptosis in one model, whereas most microbiota-metabolite-kidney relationships remain associative. Fluorescent tissue signals also do not establish intact-vesicle delivery or cell-specific kidney targeting. This review distinguishes direct renal PDNV evidence from adjacent plant-bioactive nanomedicines and phytochemical-modified mammalian extracellular vesicles, and critically examines product identity, preparation, dose, biodistribution, mechanism, safety, and clinical translation. No registered renal PDNV trial was identified; existing human studies concern nonrenal mucosal or intestinal applications and plant-vesicle-assisted cargo delivery. Progress toward renal translation will depend on reproducible manufacturing, mechanism-linked potency, quantitative biodistribution, causal validation, and repeated-dose safety.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42948205/",
+    "doi_url": "https://doi.org/10.3389/fphar.2026.1969534",
+    "created_at": "2026-10-29T00:53:00.612217+00:00"
+  },
+  {
+    "pmid": "42947442",
+    "doi": "10.1080/02656736.2026.2732523",
+    "category": "カテーテル新技術",
+    "title_en": "Numerical and experimental assessment of the influence of thermocouple orientation on temperature measurements for radiative superficial hyperthermia.",
+    "title_ja": "",
+    "authors": "Di Cristofano Marco, Fuerstner Markus, Frauchiger Daniel, Manser Peter, Cavagnaro Marta",
+    "journal": "International journal of hyperthermia : the official journal of European Society for Hyperthermic Oncology, North American Hyperthermia Group",
+    "publication_date": "2026-12-01",
+    "entry_date": "2026-10-28",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Radiative oncological hyperthermia (HT) is a medical therapy for cancer treatment aimed at inducing temperatures up to 40-44 °C for 1h in pathological tissues. This aim is achieved through the application of an electromagnetic (EM) field radiated by antennas located on the body surface. According to tumor location, hyperthermia is typically classified in deep or superficial HT. In both cases, temperature measurements are typically performed during treatment for verification purposes and in validation procedures to assess HT device performance. Temperature monitoring is typically carried out using thermocouples or thermistors, both of which transmit the information through a signal along metallic wires; when thermocouples are used, their readings are performed while discontinuing EM radiation to avoid electromagnetic interference.\nPURPOSE: This work aims to study the effect that temperature sensors systems have on the EM field and temperature distributions produced by the HT device. In particular, the effect of the orientation of the metallic wires was analyzed.\nMETHODS: Experimental measurements and a numerical analysis were performed using two different setups, based on a phantom equipped with catheters for temperature probe insertion and a commercial hyperthermia antenna.\nRESULTS AND CONCLUSION: Results showed that wires oriented orthogonally to the electric field do not induce a significant change in the EM-temperature distributions. Instead, the presence of wires oriented parallel to the main electric field component induces a significant perturbation of the EM field and temperature distributions, with a reduction of the penetration depth. These results evidence that care must be taken when placing temperature sensors in HT procedures.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42947442/",
+    "doi_url": "https://doi.org/10.1080/02656736.2026.2732523",
+    "created_at": "2026-10-29T00:53:04.626253+00:00"
+  },
+  {
     "pmid": "42937014",
     "doi": "10.1097/MCP.0000000000001320",
     "category": "尿道カテーテル閉塞",
@@ -307,6 +449,50 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42936038/",
     "doi_url": "https://doi.org/10.3389/fmicb.2026.1953743",
     "created_at": "2026-10-28T00:29:29.907967+00:00"
+  },
+  {
+    "pmid": "42946270",
+    "doi": "10.1016/j.ijpharm.2026.127611",
+    "category": "カテーテル新技術",
+    "title_en": "Liquid crystalline nanoparticle-mediated co-delivery of gentamicin and rhDNase against mature Escherichia coli ATCC 25922 biofilms.",
+    "title_ja": "",
+    "authors": "Ahsan Anam, Barnes Timothy J, Thomas Nicky, Prestidge Clive A",
+    "journal": "International journal of pharmaceutics",
+    "publication_date": "2026-10-27",
+    "entry_date": "2026-10-27",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Biofilm-associated infections remain a major clinical challenge due to restricted antibiotic penetration, matrix-mediated antimicrobial tolerance, and rapid degradation of biofilm-disruptive therapeutics in protease-rich environments. Here, liquid crystalline nanoparticles (LCNPs) were developed as a nanostructured co-delivery platform for gentamicin (GEN) and recombinant human DNase I (rhDNase), integrating antibiotic delivery with enzymatic disruption of the biofilm extracellular matrix. LCNPs exhibited favourable physicochemical properties, including nanoscale particle size, low polydispersity, and preservation of cubosome-like internal morphology following enzyme incorporation. High encapsulation efficiencies were achieved for GEN (∼95%) and rhDNase (∼94%). Compared with conventional liposomes, LCNPs demonstrated sustained GEN release, prolonged rhDNase retention, and improved protection of rhDNase against proteolytic degradation, highlighting the role of the liquid crystalline matrix in therapeutic retention and enzyme stability. Antibiofilm studies against mature Escherichia coli biofilms showed concentration-dependent potentiation of GEN activity by rhDNase, with further enhancement through LCNP-mediated co-delivery. While unformulated GEN produced modest biofilm reduction (∼20-30%), optimised GEN + rhDNase-LCNPs reduced residual biofilm biomass to ∼25-30% of untreated controls and produced ∼5-6 log reductions in recoverable biofilm-associated bacteria in MBEC assays. Confocal imaging showed a broader distribution of membrane-compromised bacteria across the imaged biofilm field following LCNP-mediated co-delivery, without directly resolving penetration depth. LCNP formulations also maintained favourable cytocompatibility at therapeutically relevant concentrations. Overall, these findings provide proof-of-concept that LCNP-mediated co-delivery can improve GEN activity against mature E. coli ATCC 25922 biofilms while protecting rhDNase; validation across additional strains, clinical isolates, and bacterial species is required before broader antibiofilm generalisation.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "High encapsulation efficiencies were achieved for GEN (∼95%) and rhDNase (∼94%)."
+      },
+      {
+        "item": "割合",
+        "value": "94%",
+        "source": "High encapsulation efficiencies were achieved for GEN (∼95%) and rhDNase (∼94%)."
+      },
+      {
+        "item": "割合",
+        "value": "30%",
+        "source": "While unformulated GEN produced modest biofilm reduction (∼20-30%), optimised GEN + rhDNase-LCNPs reduced residual biofilm biomass to ∼25-30% of untreated controls and produced ∼5-6 log reductions in recoverable biofilm-associated bacteria in MBEC assays."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42946270/",
+    "doi_url": "https://doi.org/10.1016/j.ijpharm.2026.127611",
+    "created_at": "2026-10-29T00:53:08.107481+00:00"
   },
   {
     "pmid": "42928999",
