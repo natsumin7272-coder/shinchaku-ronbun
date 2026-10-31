@@ -1,5 +1,311 @@
 [
   {
+    "pmid": "42959843",
+    "doi": "10.1016/j.eucr.2026.103647",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Beyond the bowel: Computed tomography (CT) Scan identification of intraperitoneal bladder perforation causing mechanical small bowel obstruction.",
+    "title_ja": "",
+    "authors": "Samuels Greg, Tshimbidi Gloria, Aclavio Peter, Pothas Catharina, Mukendi Alain Mwamba",
+    "journal": "Urology case reports",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-10-30",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Intraperitoneal bladder perforation can rarely cause mechanical small-bowel obstruction. A man with benign prostatic hyperplasia and longstanding transurethral catheterisation presented with abdominal pain, distension, obstipation and vomiting. Computed tomography demonstrated small-bowel obstruction with an ileal transition point adjacent to the catheter tip traversing the bladder dome. Surgical exploration revealed an ileal loop adherent to the perforated bladder. Adhesiolysis relieved the obstruction, and the bladder defect was debrided and repaired in two layers. This case highlights the importance of assessing catheter position and bladder integrity on computed tomography in chronically catheterised patients presenting with bowel obstruction, enabling recognition and multidisciplinary management.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42959843/",
+    "doi_url": "https://doi.org/10.1016/j.eucr.2026.103647",
+    "created_at": "2026-10-31T00:45:07.273155+00:00"
+  },
+  {
+    "pmid": "42959349",
+    "doi": "10.1016/j.mtbio.2026.103764",
+    "category": "カテーテル新技術",
+    "title_en": "A stretchable liquid-metal bioelectric catheter for active management of catheter-associated urinary tract infections.",
+    "title_ja": "",
+    "authors": "Zhao Jianyou, Zhang Jizheng, Zhang Longfei, Wang Xinyu, Sun Yuchao, Guo Dongyue, Li Jianzhe, Chu Zhenming, Li Yan, Li Guoqiang, Shi Benkang",
+    "journal": "Materials today. Bio",
+    "publication_date": "2026-12-01",
+    "entry_date": "2026-10-30",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Catheter-associated urinary tract infections (CAUTIs) continue to be a major clinical complication of indwelling catheterization, sustained by persistent bacterial colonization and dysregulated local immune responses. Most antimicrobial coatings provide passive protection and have limited capacity to address both bacterial persistence and the host response at the catheter-tissue interface. This study presents a stretchable urological catheter for electrical stimulation (SUCES) based on a liquid metal composite. SUCES consists of a stable gallium-10 vol% silver (Ga-Ag) circuit encapsulated within a silver-doped (5 vol%) polydimethylsiloxane (PDMS-Ag) layer. SUCES delivers low-voltage electrical stimulation (1.5 V for 5 min) in combination with sustained Ag release, resulting in effective combined antibacterial activity. In vitro testing demonstrates bacterial killing efficiencies of approximately 95% for E. coli and 94% for S. aureus. The same electrical input also promoted an M1-associated macrophage response. In a rabbit CAUTI model, seven days of treatment reduced the viable urinary bacterial burden by 93% (>1-log reduction). SUCES-treated tissues also showed less infection-associated inflammation and better-preserved urothelial barrier integrity. These findings support SUCES as an active bioelectric catheter interface that integrates antibacterial treatment with macrophage-associated immune modulation for catheter-associated infection management.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In vitro testing demonstrates bacterial killing efficiencies of approximately 95% for E."
+      },
+      {
+        "item": "割合",
+        "value": "94%",
+        "source": "coli and 94% for S."
+      },
+      {
+        "item": "割合",
+        "value": "93%",
+        "source": "In a rabbit CAUTI model, seven days of treatment reduced the viable urinary bacterial burden by 93% (>1-log reduction)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42959349/",
+    "doi_url": "https://doi.org/10.1016/j.mtbio.2026.103764",
+    "created_at": "2026-10-31T00:45:10.640535+00:00"
+  },
+  {
+    "pmid": "42961986",
+    "doi": "10.1371/journal.pone.0356391",
+    "category": "カテーテル新技術",
+    "title_en": "Variation in urobiome composition over time in asymptomatic individuals with spinal cord injury and disease using intermittent catheterization.",
+    "title_ja": "",
+    "authors": "Tractenberg Rochelle E, Groah Suzanne L, Newcomb Ethan, Khemmani Mark, Joyce Cara, Wolfe Alan J, Riegner Christopher R",
+    "journal": "PloS one",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-10-30",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "microbiome"
+    ],
+    "abstract_en": "Urinary tract infection (UTI) remains the most common infectious complication among individuals with neurogenic lower urinary tract dysfunction (NLUTD) due to spinal cord injury or disease (SCI/D). Despite widespread reliance on microbiological and symptom-based criteria for UTI diagnosis, significant ambiguity persists-especially in distinguishing clinically meaningful change from normal variability in urinary analysis results. This uncertainty contributes to overdiagnosis, inappropriate antibiotic use, and antimicrobial resistance. The present study sought to operationalize \"normal variability\" of the urinary microbiome (urobiome) among adults with NLUTD due to SCI/D. Using repeated samples collected from asymptomatic individuals over time, we analyzed inter- and intra-individual microbial composition to determine stability and fluctuation under baseline conditions. We observed wide intra- and inter-individual variability, substantial overlap between asymptomatic and pre-symptomatic states, and a consistent predominance of genera conventionally labeled as \"uropathogens\" including Escherichia/Shigella, Klebsiella, Enterococcus, Staphylococcus, and Streptococcus, even in the absence of symptoms. Bray-Curtis dissimilarities between paired samples ranged from 0 to 1, confirming substantial within-person compositional change over time. These findings suggest that assumptions drawn from cross-sectional studies-linking particular taxa or diversity values to health or disease-are not supported within individuals over time, at least in people with NLUTD due to SCI/D. Empirically characterizing normal within-person variability is a prerequisite both for interpreting urobiome results in this high-risk population and for improving the accuracy and stewardship of UTI diagnosis and treatment.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961986/",
+    "doi_url": "https://doi.org/10.1371/journal.pone.0356391",
+    "created_at": "2026-10-31T00:45:14.224993+00:00"
+  },
+  {
+    "pmid": "42961522",
+    "doi": "10.1007/s11033-026-12907-3",
+    "category": "カテーテル新技術",
+    "title_en": "A comprehensive review of mixed-species biofilm infections and innovative therapeutic strategies.",
+    "title_ja": "",
+    "authors": "Nazari Mohsen, Kardan Romina, Ahmadi Amjad, Abolhasani Fatemeh Sadat, Hemmati Jaber",
+    "journal": "Molecular biology reports",
+    "publication_date": "2026-10-30",
+    "entry_date": "2026-10-30",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Mixed-species biofilm infections are important causes of persistent and difficult-to-treat infections. Compared with monospecies biofilms, mixed-species communities contain microorganisms with different physiological and genetic characteristics that interact through metabolic cooperation, chemical signaling, competition, and modification of the local environment. These interactions, together with the EPS matrix, physiological heterogeneity, and HGT, can increase antimicrobial tolerance, contributing to treatment failure and infection recurrence. Polymicrobial biofilms are associated with chronic wounds, respiratory infections, catheter- and device-associated infections, and other persistent infections. However, treatment of polymicrobial biofilms remains challenging because their complex structure and interspecies interactions can reduce antimicrobial efficacy. This review summarizes the clinical significance, formation, and persistence of mixed-species biofilms and discusses recent therapeutic strategies for their control. We also discuss recent approaches for controlling polymicrobial biofilms, including natural compounds, QS inhibition, CRISPR-Cas-based approaches, biofilm matrix targeting, metabolic and nutrient disruption, nanotechnology, and phage therapy. Recent studies show that these approaches can inhibit biofilm formation, disrupt established biofilms, enhance antimicrobial activity, and selectively target specific microbial populations. However, their effectiveness varies with microbial composition, biofilm maturity, matrix characteristics, and treatment conditions. Overall, current evidence supports the development of targeted and combination-based strategies for mixed-species biofilms. Further studies using clinically relevant models are needed to exactly define treatment efficacy and support the translation of these approaches into clinical practice.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42961522/",
+    "doi_url": "https://doi.org/10.1007/s11033-026-12907-3",
+    "created_at": "2026-10-31T00:45:16.557786+00:00"
+  },
+  {
+    "pmid": "42957971",
+    "doi": "10.1177/08850666261500074",
+    "category": "カテーテル新技術",
+    "title_en": "A Decade Long Retrospective Cohort Study on Risk Factors and Clinical Outcomes of Carbapenem Resistant Gram-Negative Infections in A Pediatric Intensive Care Unit.",
+    "title_ja": "",
+    "authors": "Aşık Ayşe, Duyu Muhterem, Yabancı Erten Elif Selcen, Dündar Tansu, Pehlivan Pelin, Özkavaklı Ayberk",
+    "journal": "Journal of intensive care medicine",
+    "publication_date": "2026-10-29",
+    "entry_date": "2026-10-30",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BackgroundCarbapenem-resistant Gram-negative (CRGN) infections are a critical global health threat, particularly in pediatric intensive care units (PICUs). This study aimed to identify independent risk factors and clinical outcomes associated with CRGN infections in critically ill children.MethodsA 10-year (2015-2024) retrospective cohort study was conducted in a tertiary PICU, including 380 patients (aged 1 month-18 years) with Gram-negative infections. Patients were stratified into CRGN (n = 106) and carbapenem-susceptible (CSGN, n = 274) groups. Primary outcomes were independent risk factors for CRGN and 30-day all-cause mortality.ResultsThe overall CRGN prevalence was 27.9% (106/380), with an estimated absolute increase of 1.10 percentage points per year; however, the temporal trend was not statistically significant (p = .204). Predominant pathogens were Klebsiella spp. (31.1%) and E. coli (24.1%). Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection. The 30-day mortality was significantly higher in the CRGN group (27.4% vs 8.8%, p < .001). CRGN infection was the strongest independent predictor of mortality (OR = 2.49, p = .043), alongside PRISM III score and multiple comorbidities. The rate of appropriate empirical therapy was critically low in the CRGN group (36.8% vs 73.4%, p < .001).ConclusionsCRGN infections in the PICU are driven by invasive procedures and immunosuppression, associated with 2.48-fold higher odds of mortality. Early identification, tailored antimicrobial stewardship, and optimization of empirical therapy are urgently required to improve survival.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "380 patients",
+        "source": "This study aimed to identify independent risk factors and clinical outcomes associated with CRGN infections in critically ill children.MethodsA 10-year (2015-2024) retrospective cohort study was conducted in a tertiary PICU, including 380 patients (aged 1 month-18 years) with Gram-negative infections."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 106",
+        "source": "Patients were stratified into CRGN (n = 106) and carbapenem-susceptible (CSGN, n = 274) groups."
+      },
+      {
+        "item": "対象数",
+        "value": "n = 274",
+        "source": "Patients were stratified into CRGN (n = 106) and carbapenem-susceptible (CSGN, n = 274) groups."
+      },
+      {
+        "item": "割合",
+        "value": "27.9%",
+        "source": "Primary outcomes were independent risk factors for CRGN and 30-day all-cause mortality.ResultsThe overall CRGN prevalence was 27.9% (106/380), with an estimated absolute increase of 1.10 percentage points per year; however, the temporal trend was not statistically significant (p = .204)."
+      },
+      {
+        "item": "割合",
+        "value": "31.1%",
+        "source": "(31.1%) and E."
+      },
+      {
+        "item": "割合",
+        "value": "24.1%",
+        "source": "coli (24.1%)."
+      },
+      {
+        "item": "割合",
+        "value": "27.4%",
+        "source": "The 30-day mortality was significantly higher in the CRGN group (27.4% vs 8.8%, p < .001)."
+      },
+      {
+        "item": "割合",
+        "value": "8.8%",
+        "source": "The 30-day mortality was significantly higher in the CRGN group (27.4% vs 8.8%, p < .001)."
+      },
+      {
+        "item": "割合",
+        "value": "36.8%",
+        "source": "The rate of appropriate empirical therapy was critically low in the CRGN group (36.8% vs 73.4%, p < .001).ConclusionsCRGN infections in the PICU are driven by invasive procedures and immunosuppression, associated with 2.48-fold higher odds of mortality."
+      },
+      {
+        "item": "割合",
+        "value": "73.4%",
+        "source": "The rate of appropriate empirical therapy was critically low in the CRGN group (36.8% vs 73.4%, p < .001).ConclusionsCRGN infections in the PICU are driven by invasive procedures and immunosuppression, associated with 2.48-fold higher odds of mortality."
+      },
+      {
+        "item": "P値",
+        "value": "p = .204",
+        "source": "Primary outcomes were independent risk factors for CRGN and 30-day all-cause mortality.ResultsThe overall CRGN prevalence was 27.9% (106/380), with an estimated absolute increase of 1.10 percentage points per year; however, the temporal trend was not statistically significant (p = .204)."
+      },
+      {
+        "item": "P値",
+        "value": "p < .001",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "P値",
+        "value": "p = .025",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "P値",
+        "value": "p = .012",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "P値",
+        "value": "p = .022",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "P値",
+        "value": "p = .030",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "P値",
+        "value": "p = .043",
+        "source": "CRGN infection was the strongest independent predictor of mortality (OR = 2.49, p = .043), alongside PRISM III score and multiple comorbidities."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 6.981",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 2.124",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 2.072",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 1.873",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 1.906",
+        "source": "Multivariate analysis identified polymicrobial infection (OR = 6.981, p < .001), mechanical ventilation (OR = 2.124, p = .025), systemic corticosteroid use (OR = 2.072, p = .012), underlying comorbidities (OR = 1.873, p = .022), and central venous catheters (OR = 1.906, p = .030) as independent risk factors for CRGN infection."
+      },
+      {
+        "item": "オッズ比",
+        "value": "OR = 2.49",
+        "source": "CRGN infection was the strongest independent predictor of mortality (OR = 2.49, p = .043), alongside PRISM III score and multiple comorbidities."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42957971/",
+    "doi_url": "https://doi.org/10.1177/08850666261500074",
+    "created_at": "2026-10-31T00:45:20.273857+00:00"
+  },
+  {
+    "pmid": "42960657",
+    "doi": "10.47665/tb.43.3.017",
+    "category": "カテーテル新技術",
+    "title_en": "First fatal central line-associated bloodstream infection caused by Alistipes onderdonkii.",
+    "title_ja": "",
+    "authors": "Ab-Karim S N, Lee K S, Zainol-Abidin N Z",
+    "journal": "Tropical biomedicine",
+    "publication_date": "2026-09-01",
+    "entry_date": "2026-10-30",
+    "study_design": "Abstractから明確に判定できません",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Alistipes onderdonkii (A. onderdonkii) is a rare anaerobic Gram-negative bacillus that forms part of the normal gastrointestinal microbiota but has recently emerged as an opportunistic pathogen in immunocompromised individuals. We report a fatal bacteremia due to A. onderdonkii in a 61-year-old man with end-stage renal disease on hemodialysis via a right internal jugular catheter and multiple comorbidities. He presented with septic shock; catheter cuff infection was evident. Anaerobic catheter blood cultures yielded a slow-growing Gram-negative bacillus identified as A. onderdonkii by MALDI-TOF MS. Susceptibility showed activity to amoxicillin-clavulanate, ampicillin-sulbactam, and metronidazole, with penicillin and ceftriaxone resistance. Therapy was de-escalated to ampicillin-sulbactam. Despite source control and ICU support, the patient developed gastrointestinal bleeding and multiorgan failure, culminating in death. This case highlights the pathogenic potential of A. onderdonkii as a cause of severe bloodstream infection in vulnerable patients with multiple comorbidities and chronic hemodialysis catheters. Increased awareness of this emerging Alistipes species may facilitate timely recognition, appropriate antimicrobial management, and further understanding of its clinical significance.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42960657/",
+    "doi_url": "https://doi.org/10.47665/tb.43.3.017",
+    "created_at": "2026-10-31T00:45:24.317685+00:00"
+  },
+  {
     "pmid": "42955365",
     "doi": "10.1007/s00383-026-06688-w",
     "category": "尿道カテーテル閉塞",
