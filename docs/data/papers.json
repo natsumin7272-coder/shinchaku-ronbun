@@ -1,5 +1,153 @@
 [
   {
+    "pmid": "42969153",
+    "doi": "10.1039/d6tb00442c",
+    "category": "カテーテル新技術",
+    "title_en": "Glyco-engineered mannose-graphene oxide/PVA/CD hybrid coatings: a smart surface functionalization strategy for antibacterial catheter applications.",
+    "title_ja": "",
+    "authors": "Archana P K, Jyothika K, Vasudevan Suni, Panicker Unnikrishnan Gopalakrishna",
+    "journal": "Journal of materials chemistry. B",
+    "publication_date": "2026-11-02",
+    "entry_date": "2026-11-02",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Catheter-associated infections are a major clinical concern, emphasizing the need for durable antibacterial coatings on medical device surfaces. In this study, a glyco-engineered hybrid coating based on mannose-functionalized graphene oxide (MAN-GO), polyvinyl alcohol (PVA), and carbon dots (CDs) was developed to improve surface functionality and infection resistance. The mannose modification of GO enhanced surface hydrophilicity and biological recognition, while the incorporation of carbon dots improved coating uniformity, dispersion, and stability. The composite coatings were applied onto polyurethane, PVC, and rubber substrates and characterized using FTIR, XRD, and FESEM, and detailed wettability studies, confirming successful hybrid formation and smooth surface morphology. Antibacterial studies demonstrated strong activity, with a pronounced inhibitory effect against Gram-negative Escherichia coli and substantial reduction of Staphylococcus aureus growth. Furthermore, the coatings exhibited 77.57% antibiofilm inhibition, indicating excellent resistance to bacterial colonization. The results highlight the potential of glyco-engineered MAN-GO/PVA/CD composites as promising antibacterial coatings for urinary catheters, offering a simple and effective strategy to prevent device-associated infections.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "77.57%",
+        "source": "Furthermore, the coatings exhibited 77.57% antibiofilm inhibition, indicating excellent resistance to bacterial colonization."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969153/",
+    "doi_url": "https://doi.org/10.1039/d6tb00442c",
+    "created_at": "2026-11-03T02:53:37.484307+00:00"
+  },
+  {
+    "pmid": "42969476",
+    "doi": "10.1002/clc.70515",
+    "category": "カテーテル新技術",
+    "title_en": "Welcoming Novelty in the Treatment of Coronary Artery Disease: FDA Approves the Use of Drug-Coated Balloon for Angioplasty.",
+    "title_ja": "",
+    "authors": "Hasan Abdul Haseeb, Abid Muhammad Ali, Nazir Abubakar",
+    "journal": "Clinical cardiology",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-02",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Coronary artery disease (CAD) remains a leading cause of morbidity and mortality in the United States, with in-stent restenosis (ISR) posing a significant challenge following percutaneous coronary intervention (PCI). Drug-eluting stents (DES) have been widely used to mitigate ISR; however, until recently, no drug-coated balloon (DCB) catheter had been approved for use in the United States. The US Food and Drug Administration (FDA) has now approved AGENT DCB, a paclitaxel-coated balloon catheter, offering a novel approach to treating ISR.\nHYPOTHESIS: The approval of AGENT DCB represents a pivotal advancement in PCI, providing an effective alternative to traditional balloon angioplasty for ISR.\nMETHODS: This article is an editorial review and does not involve original research, statistical analysis, or software-based evaluations. The findings and discussion are based on the results of the AGENT IDE trial and related literature on the efficacy of DCB catheters in the treatment of ISR.\nRESULTS: The AGENT IDE trial, a randomized, multicenter study involving 600 participants across 40 US sites, demonstrated that the paclitaxel-coated balloon group had a significantly lower target lesion failure rate at 12 months compared to the uncoated balloon group (17.9% vs. 28.6%, p = 0.003). The reduction was primarily driven by a lower incidence of target lesion revascularization (13.0% vs. 24.7%, p = 0.001) and myocardial infarction related to the target vessel (5.8% vs. 11.1%, p = 0.02). Additionally, no cases of stent thrombosis were observed in the DCB group compared to 3.2% in the control group (p = 0.001), reinforcing the device's safety and efficacy.\nCONCLUSIONS: The FDA approval of AGENT DCB marks a significant milestone in the management of ISR, offering a promising alternative to conventional interventions. With its ability to deliver antiproliferative therapy while avoiding the complications associated with permanent stents, DCB may revolutionize PCI strategies in the United States. Further studies assessing the long-term impact of this technology, as well as its application in broader patient populations, will be essential to solidify its role in clinical practice.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "600 participants",
+        "source": "RESULTS: The AGENT IDE trial, a randomized, multicenter study involving 600 participants across 40 US sites, demonstrated that the paclitaxel-coated balloon group had a significantly lower target lesion failure rate at 12 months compared to the uncoated balloon group (17.9% vs."
+      },
+      {
+        "item": "割合",
+        "value": "17.9%",
+        "source": "RESULTS: The AGENT IDE trial, a randomized, multicenter study involving 600 participants across 40 US sites, demonstrated that the paclitaxel-coated balloon group had a significantly lower target lesion failure rate at 12 months compared to the uncoated balloon group (17.9% vs."
+      },
+      {
+        "item": "割合",
+        "value": "28.6%",
+        "source": "28.6%, p = 0.003)."
+      },
+      {
+        "item": "割合",
+        "value": "13.0%",
+        "source": "The reduction was primarily driven by a lower incidence of target lesion revascularization (13.0% vs."
+      },
+      {
+        "item": "割合",
+        "value": "24.7%",
+        "source": "24.7%, p = 0.001) and myocardial infarction related to the target vessel (5.8% vs."
+      },
+      {
+        "item": "割合",
+        "value": "5.8%",
+        "source": "24.7%, p = 0.001) and myocardial infarction related to the target vessel (5.8% vs."
+      },
+      {
+        "item": "割合",
+        "value": "11.1%",
+        "source": "11.1%, p = 0.02)."
+      },
+      {
+        "item": "割合",
+        "value": "3.2%",
+        "source": "Additionally, no cases of stent thrombosis were observed in the DCB group compared to 3.2% in the control group (p = 0.001), reinforcing the device's safety and efficacy."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.003",
+        "source": "28.6%, p = 0.003)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.001",
+        "source": "24.7%, p = 0.001) and myocardial infarction related to the target vessel (5.8% vs."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.02",
+        "source": "11.1%, p = 0.02)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42969476/",
+    "doi_url": "https://doi.org/10.1002/clc.70515",
+    "created_at": "2026-11-03T02:53:41.984509+00:00"
+  },
+  {
+    "pmid": "42968017",
+    "doi": "10.1186/s12879-026-14146-0",
+    "category": "カテーテル新技術",
+    "title_en": "Actinotignum-associated prosthetic aortic valve endocarditis complicated by postoperative circulatory collapse and dialysis-requiring acute kidney injury: a case report.",
+    "title_ja": "",
+    "authors": "Sakai Norihiro, Seki Aya, Michino Tomohiro",
+    "journal": "BMC infectious diseases",
+    "publication_date": "2026-08-03",
+    "entry_date": "2026-11-01",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Actinotignum species are fastidious genitourinary organisms increasingly recognized in urinary tract and bloodstream infections, but infective endocarditis remains exceptionally uncommon and may be overlooked when a plausible extracardiac infectious focus is present.\nCASE PRESENTATION: A 71-year-old man with recurrent urinary retention requiring clean intermittent self-catheterization presented 7 months after bioprosthetic aortic valve replacement with fever, severe back pain, and dialysis-requiring acute kidney injury. Magnetic resonance imaging showed T12/L1 spondylodiscitis, providing a plausible extracardiac infectious focus. Echocardiography subsequently revealed a large, highly mobile prosthetic-valve vegetation with outflow obstruction. Urgent surgery was undertaken before definitive microbiological identification because of progressive organ dysfunction and concern that further deterioration would reduce operability. Dense periprosthetic induration made redo valve replacement prohibitively hazardous, and extensive debridement with prosthesis retention was used as a nonstandard, survival-prioritizing fallback. The anaerobic bottle from each of two blood culture sets became positive after 92 h, and Actinotignum spp. were also recovered from urine. Together with the patient's urologic risk factors, these findings supported a probable urogenital source. A. sanguinis was the highest-ranking matrix-assisted laser desorption/ionization time-of-flight mass spectrometry (MALDI-TOF MS) match for the blood and urinary isolates, but species identity and strain relatedness were not confirmed by molecular or genomic analysis. Empirical ceftriaxone and linezolid were narrowed to intravenous ampicillin after identification and susceptibility review. Later broad-spectrum therapy treated a secondary Pseudomonas aeruginosa respiratory infection, and intravenous antibacterial therapy was completed on Day 40. Postoperatively, the pre-existing acute kidney injury progressed to anuria, with recurrent renal replacement therapy circuit clotting and circulatory collapse characterized by predominant low-output physiology. After staged multiorgan support, the patient achieved partial renal recovery with sustained dialysis independence and independent ambulation.\nCONCLUSIONS: A plausible extracardiac infectious focus should not preclude evaluation for prosthetic valve endocarditis, and urgent source control may need to precede definitive microbiological characterization. Redo valve replacement remains standard; prosthesis-preserving debridement should be regarded only as an individualized, nonstandard fallback when standard surgery becomes prohibitively hazardous. Species-level interpretation of Actinotignum identified by MALDI-TOF MS requires caution without confirmatory molecular or genomic analysis.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42968017/",
+    "doi_url": "https://doi.org/10.1186/s12879-026-14146-0",
+    "created_at": "2026-11-03T02:53:45.109949+00:00"
+  },
+  {
     "pmid": "42959843",
     "doi": "10.1016/j.eucr.2026.103647",
     "category": "尿道カテーテル閉塞",
