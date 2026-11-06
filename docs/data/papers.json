@@ -1,5 +1,302 @@
 [
   {
+    "pmid": "42985006",
+    "doi": "10.3389/fvets.2026.1914947",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Precision nutrition in companion animals: a response-based framework linking dietary strategies, metabolic function, and measurable clinical outcomes.",
+    "title_ja": "",
+    "authors": "Du Xinfang, Zhang Han, Tian Weipeng, Chen Jinfa, Wen Min, Fan Wenlu",
+    "journal": "Frontiers in veterinary science",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiome」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urolithiasis",
+      "microbiome"
+    ],
+    "abstract_en": "Population-level nutrient recommendations provide the foundation for complete and balanced diets in dogs and cats, but they do not fully account for inter-individual variation in nutritional requirements, metabolic phenotypes, and dietary responses. Precision nutrition provides a response-guided framework that integrates individual characteristics with monitored dietary responses to refine nutritional management through repeated reassessment. This review examines the conceptual framework, host determinants, clinical applications, and translational challenges of precision nutrition in companion animals. Obesity, chronic enteropathy, chronic kidney disease, and urolithiasis are discussed as representative clinical models in which dietary interventions can be linked to measurable outcomes and adjusted according to individual response. Current clinical implementation is informed primarily by phenotypic assessment, dietary history, routine clinical and biochemical measures, and longitudinal monitoring, with biomarkers such as serum phosphate providing direct guidance in specific clinical contexts. Microbiome and metabolomic profiles, selected molecular biomarkers, and digital monitoring tools, such as smart feeders and activity monitors, may provide complementary information, whereas multi-omics integration and AI-assisted prediction remain largely exploratory. Further progress will require standardized species-specific datasets, prospective validation of predictive biomarkers, reliable digital measurements, and externally validated, interpretable models that demonstrate added value beyond established clinical assessment. Overall, precision nutrition represents an iterative, response-guided framework in which individual characteristics and monitored outcomes inform dietary selection and adjustment over time.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985006/",
+    "doi_url": "https://doi.org/10.3389/fvets.2026.1914947",
+    "created_at": "2026-11-06T01:31:15.270616+00:00"
+  },
+  {
+    "pmid": "42986608",
+    "doi": "10.1080/07391102.2026.2751178",
+    "category": "カテーテル新技術",
+    "title_en": "Lid dynamics and catalytic loop closure in isocitrate lyase inhibitory mechanism.",
+    "title_ja": "",
+    "authors": "Gul Fouzia, Gul Kainat, Sikander Azam Syed",
+    "journal": "Journal of biomolecular structure & dynamics",
+    "publication_date": "2026-11-05",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Hafnia alvei, a gram-negative facultative anaerobe under Enterobacteriaceae, is commonly present in the gastrointestinal tract but occasionally isolated from urine, tissue, and catheters. Its morbidity and mortality largely arise from multidrug resistance. This study investigated the proteomics of H. alvei to identify novel drug targets, with isocitrate lyase (ICL) emerging as a promising candidate through subtractive proteomics. ICL, a key enzyme in the glyoxylate cycle, catalyzes the first step and is essential for microorganisms relying on this pathway when the TCA cycle is downregulated. A library of antibacterial compounds, FDA-approved drugs, and reported inhibitors was virtually screened against ICL using molecular docking. Although Lapatinib achieved the highest initial docking score, MD simulations revealed that IBMI-3 and Asinex displayed more favorable predicted binding energies, stronger loop closure, and more favorable binding free energies across all three independent replicates. Three independent 500-ns molecular dynamics simulations were performed for each Apo and ligand-bound system, providing a cumulative sampling time of 1.5 μs per system. This comprises an altogether span of 7.5 μs across all five systems. All complexes remained stable, while significant conformational changes, particularly in the catalytic loop (Lys192, Lys193, Gly195, His196), were observed. These residues facilitated closure of the active site and anchoring of inhibitors. Additionally, terminal residues from the adjacent subunit contributed to lid dynamics, covering the active pocket and blocking ligand release, a phenomenon absent in the ligand-free enzyme. Overall, this research provides an ample opportunity for future clinical and translational studies in circumventing infections caused by H. alvei. provided insights into molecular determinants of binding affinity.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42986608/",
+    "doi_url": "https://doi.org/10.1080/07391102.2026.2751178",
+    "created_at": "2026-11-06T01:31:19.174260+00:00"
+  },
+  {
+    "pmid": "42985854",
+    "doi": "10.1093/ajhp/zxag378",
+    "category": "カテーテル新技術",
+    "title_en": "Evaluating the Impact of Urine Reflex Testing on Antibiotic Prescribing for Urinary Tract Infections.",
+    "title_ja": "",
+    "authors": "Khachatryan Tigran, San Judy, Pontoppidan Kimi, Ekmekdjian Hasmig",
+    "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+    "publication_date": "2026-11-05",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: Urinary tract infections (UTIs) are among the most common indications for outpatient antibiotic prescribing. Despite clinical guidelines promoting appropriate antibiotic use, unnecessary urine cultures and treatment of asymptomatic bacteriuria continue to contribute to adverse drug reactions and antimicrobial resistance. To improve diagnostic stewardship, Kaiser Permanente Southern California (KPSC) region implemented urinalysis (UA) with reflex to microscopy and urine culture (UC), in which microscopy and culture are automatically performed when predefined UA parameters are positive. This strategy aims to improve diagnostic accuracy and reduce inappropriate antibiotic use.\nMETHODS: This retrospective, pre- and post-implementation observational study evaluated the impact of urine reflex testing on outpatient antibiotic prescribing for suspected UTI across KPSC. Patients were included if they were KPSC members aged 2 years with either a UA or UC collected between July 1, 2021 and June 30, 2025. Patients who were pregnant, immunocompromised, had an indwelling catheter, or were hospitalized were excluded.\nRESULTS: Over 3.7 million outpatient encounters were analyzed. Overall antibiotic prescribing within 7 days remained similar (23.2% vs. 23.4%; p<0.0001). However, prescribing was more aligned with culture results, with decreased antibiotic use following negative cultures (25.0% to 23.3%; p<0.0001) and increased use following positive cultures (75.9% to 77.6%; p<0.0001). Antibiotic switched within 7 days of index encounter increased (9.1% to 10.4%; p<0.0001). Diagnostic testing patterns shifted with UA, stand-alone UC, and positive UC decreased, while urine reflex testing increased.\nCONCLUSION: Implementation of UA with reflex testing standardized diagnostic workflows and improved alignment of antibiotic prescribing with microbiologic findings.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "23.2%",
+        "source": "Overall antibiotic prescribing within 7 days remained similar (23.2% vs."
+      },
+      {
+        "item": "割合",
+        "value": "23.4%",
+        "source": "23.4%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "25.0%",
+        "source": "However, prescribing was more aligned with culture results, with decreased antibiotic use following negative cultures (25.0% to 23.3%; p<0.0001) and increased use following positive cultures (75.9% to 77.6%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "23.3%",
+        "source": "However, prescribing was more aligned with culture results, with decreased antibiotic use following negative cultures (25.0% to 23.3%; p<0.0001) and increased use following positive cultures (75.9% to 77.6%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "75.9%",
+        "source": "However, prescribing was more aligned with culture results, with decreased antibiotic use following negative cultures (25.0% to 23.3%; p<0.0001) and increased use following positive cultures (75.9% to 77.6%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "77.6%",
+        "source": "However, prescribing was more aligned with culture results, with decreased antibiotic use following negative cultures (25.0% to 23.3%; p<0.0001) and increased use following positive cultures (75.9% to 77.6%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "9.1%",
+        "source": "Antibiotic switched within 7 days of index encounter increased (9.1% to 10.4%; p<0.0001)."
+      },
+      {
+        "item": "割合",
+        "value": "10.4%",
+        "source": "Antibiotic switched within 7 days of index encounter increased (9.1% to 10.4%; p<0.0001)."
+      },
+      {
+        "item": "P値",
+        "value": "p<0.0001",
+        "source": "23.4%; p<0.0001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985854/",
+    "doi_url": "https://doi.org/10.1093/ajhp/zxag378",
+    "created_at": "2026-11-06T01:31:23.298544+00:00"
+  },
+  {
+    "pmid": "42984169",
+    "doi": "10.12659/AJCR.954556",
+    "category": "カテーテル新技術",
+    "title_en": "Spontaneous Colonic Migration of a Ventriculoperitoneal Shunt Catheter.",
+    "title_ja": "",
+    "authors": "Hsu Che-Lun, Li Chuan-Ru, Fang Shao-Chi, Hsu Jui-Sheng",
+    "journal": "The American journal of case reports",
+    "publication_date": "2026-11-05",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND Silent and spontaneous colonic migration of a ventriculoperitoneal (VP) shunt is an extremely rare, life-threatening long-term complication, driven by chronic foreign-body erosion. It can precipitate severe retrograde central nervous system (CNS) infection insidiously, even in the complete absence of typical abdominal symptoms or peritonitis. CASE REPORT A 63-year-old man with a history of VP shunt placement presented 2.5 years after the procedure with fever, somnolence, and elevated inflammatory markers. Brain computed tomography (CT) and contrast-enhanced magnetic resonance imaging (MRI) revealed progressive hydrocephalus and prominent peri-catheter cerebral edema. Subsequent abdominal CT demonstrated spontaneous distal shunt catheter perforation into the colon, with retrospective imaging ruling out iatrogenic injury. Although cerebrospinal fluid and blood cultures were negative, a diagnosis of retrograde CNS infection secondary to colonic perforation was clinically established based on direct anatomical continuity and localized neuroimaging abnormalities. The patient successfully underwent emergency shunt externalization and removal, external ventricular drainage placement, and broad-spectrum antibiotic therapy covering enteric flora, resulting in complete resolution of neurological symptoms without long-term sequelae. CONCLUSIONS Transmural colonic migration of a VP shunt is a critical late-onset complication that can present solely as a retrograde CNS infection without abdominal manifestations or positive cultures. High clinical vigilance for occult intra-abdominal shunt displacement, correlated neuroimaging and abdominal imaging, prompt surgical intervention, and targeted antimicrobial therapy are essential to prevent severe infectious morbidity and optimize neurological recovery.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42984169/",
+    "doi_url": "https://doi.org/10.12659/AJCR.954556",
+    "created_at": "2026-11-06T01:31:27.573225+00:00"
+  },
+  {
+    "pmid": "42985811",
+    "doi": "10.1093/jac/dkag382",
+    "category": "カテーテル新技術",
+    "title_en": "Antimicrobial-resistant Pseudomonas aeruginosa in the USA: implications of a national surveillance gap.",
+    "title_ja": "",
+    "authors": "Watkins Richard R, Lemonovich Tracy L, Bonomo Robert A",
+    "journal": "The Journal of antimicrobial chemotherapy",
+    "publication_date": "2026-11-03",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Surveillance data for Pseudomonas aeruginosa in the USA are distributed across systems designed for different purposes, potentially limiting standardized national surveillance of high-priority resistant phenotypes. We evaluated whether the Centers for Disease Control and Prevention (CDC) National Notifiable Diseases Surveillance System (NNDSS) can support surveillance of multidrug-resistant (MDR) P. aeruginosa and synthesized available CDC surveillance data to characterize the residual surveillance gap.\nMETHODS: We reviewed the 2026 NNDSS list of nationally notifiable conditions for P. aeruginosa. Because neither P. aeruginosa infection nor a resistant phenotype was present, NNDSS case counts were unable to be analysed. We therefore conducted a descriptive secondary analysis of CDC National Healthcare Safety Network (NHSN) reports for 2018-21 and the 2022 NHSN Antimicrobial Resistance (AR) Option report.\nRESULTS: In 2018-21 adult NHSN data, 11.9% of tested P. aeruginosa isolates from device-associated infections were MDR, compared with 3.9% from surgical-site infections. Among central-line-associated bloodstream infection isolates, MDR proportions were highest in long-term acute-care hospitals (LTACHs, 25.3%), followed by hospital intensive-care units (14.2%), hospital wards (11.9%) and oncology units (8.5%). Among catheter-associated urinary tract infection isolates, MDR phenotype was observed in 20.8% of LTACH isolates. In the 2022 AR Option report, carbapenem non-susceptibility exceeded 10% among community-onset isolates and approached 20% among hospital-onset isolates.\nCONCLUSIONS: NNDSS cannot currently quantify the burden of MDR P. aeruginosa, but substantial resistance surveillance is available through NHSN and the CDC AR Laboratory Network. The principal gap is not an absence of surveillance data but fragmentation across systems with different populations, denominators, objectives and reporting mechanisms.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "11.9%",
+        "source": "RESULTS: In 2018-21 adult NHSN data, 11.9% of tested P."
+      },
+      {
+        "item": "割合",
+        "value": "3.9%",
+        "source": "aeruginosa isolates from device-associated infections were MDR, compared with 3.9% from surgical-site infections."
+      },
+      {
+        "item": "割合",
+        "value": "25.3%",
+        "source": "Among central-line-associated bloodstream infection isolates, MDR proportions were highest in long-term acute-care hospitals (LTACHs, 25.3%), followed by hospital intensive-care units (14.2%), hospital wards (11.9%) and oncology units (8.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "14.2%",
+        "source": "Among central-line-associated bloodstream infection isolates, MDR proportions were highest in long-term acute-care hospitals (LTACHs, 25.3%), followed by hospital intensive-care units (14.2%), hospital wards (11.9%) and oncology units (8.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "8.5%",
+        "source": "Among central-line-associated bloodstream infection isolates, MDR proportions were highest in long-term acute-care hospitals (LTACHs, 25.3%), followed by hospital intensive-care units (14.2%), hospital wards (11.9%) and oncology units (8.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "20.8%",
+        "source": "Among catheter-associated urinary tract infection isolates, MDR phenotype was observed in 20.8% of LTACH isolates."
+      },
+      {
+        "item": "割合",
+        "value": "10%",
+        "source": "In the 2022 AR Option report, carbapenem non-susceptibility exceeded 10% among community-onset isolates and approached 20% among hospital-onset isolates."
+      },
+      {
+        "item": "割合",
+        "value": "20%",
+        "source": "In the 2022 AR Option report, carbapenem non-susceptibility exceeded 10% among community-onset isolates and approached 20% among hospital-onset isolates."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985811/",
+    "doi_url": "https://doi.org/10.1093/jac/dkag382",
+    "created_at": "2026-11-06T01:31:31.463180+00:00"
+  },
+  {
+    "pmid": "42985152",
+    "doi": "10.3389/fcvm.2026.1951936",
+    "category": "カテーテル新技術",
+    "title_en": "Case Report: Impella CP-protected percutaneous coronary intervention of the last remaining vessel-a LIMA-to-LAD graft-complicated by no-reflow and rescued with a drug-coated balloon.",
+    "title_ja": "",
+    "authors": "Toulgaridis Fotios, Tzortzis Stavros, Tsiamis Nikolaos, Sassalos Konstantinos, Karanikolas Nikolaos, Mavrogenis Ioannis, Kitsiou Anastasia, Triantis Georgios",
+    "journal": "Frontiers in cardiovascular medicine",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Percutaneous coronary intervention (PCI) of the last remaining conduit in a patient with severely impaired left ventricular function is among the most hazardous procedures in contemporary interventional cardiology, as any interruption of flow essentially constitutes a global ischemic insult. We describe a 77-year-old man, a former heavy smoker with an 80-pack-year smoking history, who had undergone three-vessel coronary artery bypass grafting (CABG) 22 years previously. His medical history also included chronic obstructive pulmonary disease, severe heart failure with a left ventricular ejection fraction of 25-30%, and severe mitral regurgitation (MR). At presentation, he had Canadian Cardiovascular Society class III angina and New York Heart Association class III symptoms. The most recent coronary angiogram, performed 6 months earlier, demonstrated chronic total occlusion (CTO) of both saphenous vein grafts, in addition to CTO of all three native epicardial coronary arteries. Thus, the left internal mammary artery (LIMA) graft to the left anterior descending artery (LAD) represented the sole functional conduit, directly perfusing the LAD territory and supplying the right coronary and circumflex territories through primarily septal and epicardial collaterals, respectively. The LAD displayed two sequential severe stenoses (≥80% each), one at the distal LIMA-LAD anastomosis and another further distally in the native vessel. In accordance with current coronary revascularization guidelines, the Heart Team recommended evaluation by cardiac surgeons. Two independent cardiothoracic surgeons declined redo CABG as a viable therapeutic option. Complex and high-risk indicated PCI (CHIP) was therefore considered the only feasible revascularization strategy. Additional hemodynamic support with percutaneous mechanical circulatory support (pMCS) was deemed necessary. Residual MR and arrhythmic risk, including the potential indication for an implantable cardioverter-defibrillator (ICD), were planned to be reassessed 3 months after successful percutaneous revascularization. CHIP was performed under full hemodynamic support with a continuous-flow microaxial pump (Impella CP with SmartAssist) inserted via the left femoral artery, while coronary intervention was performed through the ipsilateral radial artery using a 6-F IMA guiding catheter. The lesions were successfully crossed with a workhorse wire, despite substantial technical difficulty and with the aid of a microcatheter; however, distal flow was immediately lost, and intracoronary nitroglycerin failed to restore it. Balloon angioplasty restored flow only partially, and a decision was made to proceed with stent implantation. However, stent delivery proved challenging, requiring a guide-extension catheter to be advanced deep into the LIMA body using the so-called 'inchworming technique.' Despite successful implantation of the first drug-eluting stent (DES) at the distal anastomotic lesion, a second DES could not be advanced to the more distal native LAD lesion, despite the use of multiple guidewires and supportive guiding-catheter strategies. Therefore, a drug-coated balloon (DCB) was used as a bailout strategy, immediately restoring TIMI grade 3 flow and leaving only a minor, non-flow-limiting type B dissection. Impella support was discontinued early because of access-related left lower-limb ischemia, and successful percutaneous hemostasis was achieved using a suture-based closure technique. Peak high-sensitivity troponin I, measured the following evening, was 10,800 pg/mL. The patient was discharged ambulatory on day 2 and remained asymptomatic at 3-month follow-up, when an ICD was implanted for primary prevention. This case illustrates the critical role of pMCS in maintaining hemodynamic stability when native coronary flow is lost during PCI of the last remaining conduit and highlights the value of DCB angioplasty as a bailout strategy when stent delivery is not feasible.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "30%",
+        "source": "His medical history also included chronic obstructive pulmonary disease, severe heart failure with a left ventricular ejection fraction of 25-30%, and severe mitral regurgitation (MR)."
+      },
+      {
+        "item": "割合",
+        "value": "80%",
+        "source": "The LAD displayed two sequential severe stenoses (≥80% each), one at the distal LIMA-LAD anastomosis and another further distally in the native vessel."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42985152/",
+    "doi_url": "https://doi.org/10.3389/fcvm.2026.1951936",
+    "created_at": "2026-11-06T01:31:35.593101+00:00"
+  },
+  {
+    "pmid": "42984754",
+    "doi": "10.3389/fped.2026.1900708",
+    "category": "カテーテル新技術",
+    "title_en": "Prolonged fever as a harbinger: the diagnostic and therapeutic challenge of recurrent complicated urinary tract infection following congenital dermal sinus excision in an infant: a case report.",
+    "title_ja": "",
+    "authors": "Liao Lihui, Peng Wentao",
+    "journal": "Frontiers in pediatrics",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-05",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Congenital dermal sinus (CDS) is a rare form of occult spinal dysraphism. Although neurological deterioration is well recognized, postoperative neurogenic bladder and subsequent recurrent complicated urinary tract infection (rcUTI) in infants are less well described.\nCASE PRESENTATION: A 9-month-and-26-day-old girl presented with 4 weeks of intermittent fever followed by acute paraplegia. MRI revealed a CDS with an infected intradural epidermoid cyst, which was resected. Postoperatively, she developed a neurogenic bladder requiring catheterization. Sequential urine cultures revealed Klebsiella aerogenes, fluconazole-resistant Candida glabrata (evolving from dose-dependent susceptibility), and multidrug-resistant Enterococcus faecium, accompanied by bladder stones and hydronephrosis. Blood cultures were negative on multiple occasions, with no bacterial growth for 5 consecutive days. A prolonged, susceptibility-guided antimicrobial regimen plus stone removal achieved sterilization. However, several positive urine cultures represented colonization rather than true infection; this is discussed as a cautionary antimicrobial-stewardship narrative.\nCONCLUSIONS: Three key conclusions emerged. First, prolonged fever without neurological signs may be an early indication of CDS. Second, neurogenic bladder following lumbosacral CDS can drive recurrent complicated UTI involving sequential bacterial and fungal pathogens. Third, successful rescue requires a multidisciplinary, prolonged, source-control-based strategy. This report adds to the limited literature by documenting detailed serial microbiological follow-up after CDS surgery. The emergence of fluconazole resistance in C. glabrata may have been promoted by treating colonization, highlighting the need for strict UTI definitions in catheterized infants.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42984754/",
+    "doi_url": "https://doi.org/10.3389/fped.2026.1900708",
+    "created_at": "2026-11-06T01:31:37.777490+00:00"
+  },
+  {
     "pmid": "42980369",
     "doi": "10.1039/d6ay01718e",
     "category": "尿路結石・メタボローム",
