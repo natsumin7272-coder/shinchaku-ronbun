@@ -1,5 +1,264 @@
 [
   {
+    "pmid": "42992571",
+    "doi": "10.3892/ijmm.2026.6043",
+    "category": "尿路結石・細菌叢",
+    "title_en": "From crystals to damage: The emerging role of ferroptosis in calcium oxalate nephropathy (Review).",
+    "title_ja": "",
+    "authors": "Wang Zhu, Xu Changzhi, Deng Qiong, Zhang Yin, Liang Hui",
+    "journal": "International journal of molecular medicine",
+    "publication_date": "2026-12-01",
+    "entry_date": "2026-11-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Nephrolithiasis is a major public health concern associated with high morbidity and recurrence rates, placing an immense burden on healthcare systems worldwide. Given that ferroptosis, an iron‑dependent, lipid peroxidation‑driven form of regulated cell death, has emerged as a key pathological mechanism in oxalate‑induced renal injury, it has gained increasing attention in nephrolithiasis research. It has been clearly demonstrated that ferroptosis actively promotes calcium oxalate (CaOx) crystal nucleation and adhesion, while CaOx deposition in turn exacerbates ferroptosis, forming a bidirectional positive feedback loop that amplifies renal damage. However, the molecular mechanisms regulating ferroptosis in kidney stone disease, including the roles of gut microbiota metabolites, sex hormone signaling, and epigenetic pathways, have not yet been fully elucidated. The present review presents a comprehensive summary of the existing literature on the mechanisms of ferroptosis in nephrolithiasis, including the SOX4/EZH2/SLC7A11 axis, inflammatory pathways (NF‑κB and JAK‑STAT3), oxidative/endoplasmic reticulum stress pathways, as well as ferroptosis‑targeted therapies (ferrostatin analogs, natural products and repurposed drugs). The present review aimed to advance the current understanding of ferroptosis regulation and its potential therapeutic applications in human kidney stone disease.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42992571/",
+    "doi_url": "https://doi.org/10.3892/ijmm.2026.6043",
+    "created_at": "2026-11-07T00:53:55.337156+00:00"
+  },
+  {
+    "pmid": "42993880",
+    "doi": "10.1177/00368504261506690",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Bacterial signals and mechanisms linked to the microbiota in calcium oxalate urolithiasis: Evidence boundaries and translational implications.",
+    "title_ja": "",
+    "authors": "Ding Xijie, Du Qingchen, Ji Chaoyue, Chen Guojun, Li Jianxing, Hu Weiguo",
+    "journal": "Science progress",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-06",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "urolithiasis",
+      "microbiota"
+    ],
+    "abstract_en": "Calcium oxalate (CaOx) urolithiasis is traditionally interpreted through urinary supersaturation and metabolic risk, but emerging evidence suggests that bacterial signals and microbiota-derived metabolites may also influence crystal behavior, tubular epithelial injury, and stone-related host responses. This narrative review examines evidence from stone, urine, gut, and experimental studies, with emphasis on mechanistic evidence, compartment-specific findings, and the limits of current evidence. Human studies have detected bacterial signatures and cultivable organisms in CaOx-associated samples, but reported taxa and functional patterns vary across stone material, bladder urine, renal pelvis urine, voided urine, and stool, precluding a reproducible microbial profile. Experimental studies indicate that intact bacteria and bacterial products can modulate CaOx crystallization, crystal growth, aggregation, crystal-cell adhesion, epithelial injury, inflammation, and regulated cell-death pathways. Studies of the gut microbiota further implicate Oxalobacter formigenes-associated oxalate handling and microbiota-derived metabolites. However, direct pure-CaOx human evidence remains limited, and many mechanistic claims rely on mixed-calcium or preclinical contexts. Current evidence supports biological plausibility but not human causality, a universal microbial signature, or validated microbiota-targeted therapy. Future studies should prioritize standardized sampling, well-characterized CaOx cohorts, longitudinal validation, and clinically relevant recurrence endpoints.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42993880/",
+    "doi_url": "https://doi.org/10.1177/00368504261506690",
+    "created_at": "2026-11-07T00:53:58.875080+00:00"
+  },
+  {
+    "pmid": "42990041",
+    "doi": "10.4111/icu.20260108",
+    "category": "カテーテル新技術",
+    "title_en": "Postoperative febrile urinary tract infections after anti-reflux surgery in children with vesicoureteral reflux: Uropathogen distribution and antimicrobial resistance.",
+    "title_ja": "",
+    "authors": "Lee Sang Don, Yoo Se Yi, Chung Jae Min",
+    "journal": "Investigative and clinical urology",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: Vesicoureteral reflux (VUR) is a common cause of recurrent urinary tract infections (UTIs) in children. Although anti-reflux surgery corrects reflux, postoperative febrile UTIs may still occur. We evaluated postoperative febrile UTIs, focusing on uropathogen distribution, antimicrobial resistance, and radiographic outcomes.\nMATERIALS AND METHODS: We retrospectively reviewed 177 children who underwent anti-reflux surgery from 2014 to 2022. Surgical procedures included endoscopic injection, open ureteroneocystostomy, and laparoscopic intravesical ureteroneocystostomy. Postoperative febrile UTI was defined as infection requiring hospitalization with fever ≥38.0℃ and significant growth on catheterized urine culture. Preoperative and postoperative cultures were compared for pathogen distribution and antimicrobial susceptibility. Radiographic success was defined as absence of VUR on voiding cystourethrography at 6 months.\nRESULTS: The mean age was 45.5±42.2 months. Postoperative febrile UTIs occurred in 31 patients (17.5%). Median time to first infection was 52.5 days. Overall radiographic resolution rate was 83.3%. Patients with postoperative UTIs demonstrated lower rates of VUR improvement (p=0.037). No significant differences were observed in uropathogen distribution or antimicrobial resistance between preoperative and postoperative infections (p>0.05). History of CAP was not associated with postoperative UTI.\nCONCLUSIONS: Postoperative febrile UTIs occurred in a subset of children, most frequently early after surgery. No statistically significant differences in uropathogen distribution or antimicrobial resistance were observed before and after surgery. These findings should be interpreted with caution, given the limited number of events and the potential influence of postoperative antibiotic prophylaxis. Importantly, the absence of statistically significant differences should not be interpreted as evidence of equivalence in microbiological profiles.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "31 patients",
+        "source": "Postoperative febrile UTIs occurred in 31 patients (17.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "17.5%",
+        "source": "Postoperative febrile UTIs occurred in 31 patients (17.5%)."
+      },
+      {
+        "item": "割合",
+        "value": "83.3%",
+        "source": "Overall radiographic resolution rate was 83.3%."
+      },
+      {
+        "item": "P値",
+        "value": "p=0.037",
+        "source": "Patients with postoperative UTIs demonstrated lower rates of VUR improvement (p=0.037)."
+      },
+      {
+        "item": "P値",
+        "value": "p>0.05",
+        "source": "No significant differences were observed in uropathogen distribution or antimicrobial resistance between preoperative and postoperative infections (p>0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42990041/",
+    "doi_url": "https://doi.org/10.4111/icu.20260108",
+    "created_at": "2026-11-07T00:54:02.594179+00:00"
+  },
+  {
+    "pmid": "42989776",
+    "doi": "10.1002/nop2.70966",
+    "category": "カテーテル新技術",
+    "title_en": "Nosocomial Infections in Hospitalised Haematological Patients: A Retrospective Observational Record-Based Study.",
+    "title_ja": "",
+    "authors": "Cabrera-Jaime Laura, Cabrera-Jaime Sandra, Feijoo-Cid Maria, Limón Enric",
+    "journal": "Nursing open",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "AIM: To estimate the prevalence of nosocomial infections in haematological patients hospitalised between 2020 and 2022, identify associated risk factors, and describe antibiotic use before and during hospitalisation.\nBACKGROUND: Studies integrating clinical, environmental, microbiological and pharmacological data in this population remain limited.\nDESIGN AND METHOD: Retrospective observational record-based study of haematology admissions from 2020 to 2022. Analyses distinguished patient, admission, clinical-sample and microorganism-isolate levels. Generalised estimating equations (GEE) accounted for repeated samples within patients and adjusted for clinically relevant covariates.\nRESULTS: Among 645 hospitalised haematological patients, 225 (34.9%) had at least one eligible positive microbiological sample. Of the total source population, 206 (31.9%) had at least one microbiologically documented infection meeting the study criteria during 2020-2022 and 60 (9.3%) had at least one colonisation episode, with 41 patients experiencing both. The 225 included patients contributed 285 admissions, 475 positive clinical samples and 572 microorganism isolates. In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016).\nCONCLUSIONS: Prior antibiotic burden, shared-room exposure and cumulative device-days were associated with selected infection-related outcomes. Causal inference is limited by the observational single-centre design.\nRELEVANCE TO CLINICAL PRACTICE: Nursing priorities include daily assessment of device necessity, standardised catheter maintenance, hand hygiene, infection surveillance, patient education, and multidisciplinary antimicrobial stewardship.\nPATIENT OR PUBLIC CONTRIBUTION: None. The study used routinely collected retrospective clinical data.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "41 patients",
+        "source": "Of the total source population, 206 (31.9%) had at least one microbiologically documented infection meeting the study criteria during 2020-2022 and 60 (9.3%) had at least one colonisation episode, with 41 patients experiencing both."
+      },
+      {
+        "item": "割合",
+        "value": "34.9%",
+        "source": "RESULTS: Among 645 hospitalised haematological patients, 225 (34.9%) had at least one eligible positive microbiological sample."
+      },
+      {
+        "item": "割合",
+        "value": "31.9%",
+        "source": "Of the total source population, 206 (31.9%) had at least one microbiologically documented infection meeting the study criteria during 2020-2022 and 60 (9.3%) had at least one colonisation episode, with 41 patients experiencing both."
+      },
+      {
+        "item": "割合",
+        "value": "9.3%",
+        "source": "Of the total source population, 206 (31.9%) had at least one microbiologically documented infection meeting the study criteria during 2020-2022 and 60 (9.3%) had at least one colonisation episode, with 41 patients experiencing both."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.007",
+        "source": "In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.016",
+        "source": "In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI 1",
+        "source": "In adjusted GEE models, the number of antibiotics received during the previous 90 days was associated with relapse (adjusted odds ratio [aOR] 1.23 per additional antibiotic, 95% CI 1.11-1.36; p < 0.001) and colonisation (aOR 1.14, 95% CI 1.04-1.25; p = 0.007); shared-room exposure was associated with colonisation (aOR 3.58, 95% CI 1.79-7.15; p < 0.001), and cumulative device-days with sample-level co-infection (aOR 1.10 per 10 device-days, 95% CI 1.02-1.19; p = 0.016)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42989776/",
+    "doi_url": "https://doi.org/10.1002/nop2.70966",
+    "created_at": "2026-11-07T00:54:05.789626+00:00"
+  },
+  {
+    "pmid": "42991163",
+    "doi": "10.3389/fsysb.2026.1923468",
+    "category": "カテーテル新技術",
+    "title_en": "HydroGuard: a controlled release hydrogel-phage delivery system to combat catheter-associated urinary tract infections.",
+    "title_ja": "",
+    "authors": "Rao Shilpa, McLean Rhyan, Zakir Hussain Aadila",
+    "journal": "Frontiers in systems biology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel"
+    ],
+    "abstract_en": "Catheter-associated urinary tract infections (CAUTIs) rank as the fourth-most significant nosocomial infection globally. CAUTIs account for approximately 80% of hospital-acquired urinary tract infections and represent nearly one-third of all device-associated infections. Urinary catheters serve as a hub for bacteria to form highly resistant biofilms containing pathogens, like Enterococcus (E.) faecalis that reduce effectiveness of the immune system and antibiotic treatments. Therefore, tackling biofilm formation at the catheter surface becomes a crucial step in mitigating CAUTIs. We aim to address E. faecalis biofilm formation by engineering HydroGuard: a Gelatin Methacryloyl (Gel-MA)-based hydrogel injected with bacteriophages, to provide targeted, enzyme-triggered antimicrobial activity. Enterococcus faecalis expresses gelatinase (GelE), a zinc metalloprotease that enhances biofilm formation. GelMA is susceptible to GelE-mediated degradation, enabling enzyme-triggered release of bacteriophages that specifically lyse E. faecalis. For a Biosafety Level 1 proof-of-concept experiment with a well-studied host and phage system, we heterologously expressed GelE in Escherichia (E.) coli DH5α to emulate native E. faecalis expression. This system was tested on dynamically grown biofilms, to simulate similar conditions to the urinary tract. Currently, the E. coli system has shown preliminary inhibition when tested against the hydrogel product, however testing of different phage combinations is needed. Mathematical modelling identified hydrogel crosslinking density as a critical tuneable parameter governing therapeutic availability and predicted nonlinear, degradation-dependent phage release profiles. Sensitivity analyses revealed design trade-offs between structural stability and antimicrobial responsiveness. Together, the biofilm, hydrogel, phage-bacteria, and protein design models form a multiscale computational framework that links biofilm development and environmental conditions to enzyme-mediated hydrogel degradation, phage release, and bacterial suppression. Agent-based biofilm simulations captured emergent spatial dynamics under nutrient, flow, and pH constraints, while a coupled predator-prey model investigated phage-bacteria population dynamics within the degrading GelMA matrix. Computational protein design further explored collagen-like peptide motifs with enhanced folding stability and preserved gelatinase cleavage sites, providing a molecular-level approach to tuneable degradation kinetics. This multiscale framework provides predictive insight into how biofilm conditions, hydrogel degradation, and phage availability interact within the proposed system, while the preliminary experimental observations provide supporting evidence for its feasibility. By integrating synthetic biology, tissue engineering, and modelling, HydroGuard offers a novel, non-antibiotic strategy for CAUTI prevention.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "80%",
+        "source": "CAUTIs account for approximately 80% of hospital-acquired urinary tract infections and represent nearly one-third of all device-associated infections."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42991163/",
+    "doi_url": "https://doi.org/10.3389/fsysb.2026.1923468",
+    "created_at": "2026-11-07T00:54:09.777192+00:00"
+  },
+  {
+    "pmid": "42992164",
+    "doi": "10.18502/ijm.v18i5.22866",
+    "category": "カテーテル新技術",
+    "title_en": "Genomic insight into Enterococcus faecium biofilm formation isolated from catheter associated urinary tract infection.",
+    "title_ja": "",
+    "authors": "Rahayu Ayu, Aminy Sayyidah Auliany, Umaroh Dian Asti, Gusnaniar Niar, Atikana Akhirta, Lisdiyanti Puspita, Perraud Estelle, Imbert Christine, Nuryastuti Titik",
+    "journal": "Iranian journal of microbiology",
+    "publication_date": "2026-10-01",
+    "entry_date": "2026-11-06",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND AND OBJECTIVES: Enterococcus faecium is a major nosocomial pathogen frequently associated with catheter-related infections and biofilm-mediated antimicrobial resistance. This study aimed to investigate the genomic determinants and structural characteristics underlying biofilm formation in a clinical E. faecium isolate recovered from a catheter-associated urinary tract infection (CAUTI).\nMATERIALS AND METHODS: A clinical isolate, E. faecium MFKCC-BF.UR33, was subjected to whole-genome sequencing and comprehensive genome annotation to identify biofilm-associated and antimicrobial resistance genes. Phylogenetic analysis was performed to determine its relatedness to reference clinical strains. Structural modeling of selected biofilm-associated proteins was conducted using AlphaFold2 to assess their three-dimensional conformations and potential as therapeutic targets.\nRESULTS: Whole-genome sequencing revealed a 3.32 Mb genome with a G+C content of 37.35%, comprising 2,321 predicted coding sequences and no detectable plasmids. Genome annotation identified several biofilm-associated genes, including sgrA, acm, fss3, scm, and efbA, as well as antimicrobial resistance genes (antA/B, tetM, tetL, efmA, and liaFSR). Phylogenetic analysis placed the isolate within the E. faecium clade, closely related to other clinical reference strains. Structural modeling demonstrated high-confidence 3D structures for Fss3 and EfbA proteins.\nCONCLUSION: The integration of genomic and structural analyses provides insights into the genetic and structural basis of biofilm formation in E. faecium and establishes a foundation for future functional and structure-based investigations.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "37.35%",
+        "source": "RESULTS: Whole-genome sequencing revealed a 3.32 Mb genome with a G+C content of 37.35%, comprising 2,321 predicted coding sequences and no detectable plasmids."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42992164/",
+    "doi_url": "https://doi.org/10.18502/ijm.v18i5.22866",
+    "created_at": "2026-11-07T00:54:17.367801+00:00"
+  },
+  {
     "pmid": "42985006",
     "doi": "10.3389/fvets.2026.1914947",
     "category": "尿路結石・細菌叢",
@@ -295,6 +554,90 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42984754/",
     "doi_url": "https://doi.org/10.3389/fped.2026.1900708",
     "created_at": "2026-11-06T01:31:37.777490+00:00"
+  },
+  {
+    "pmid": "42987577",
+    "doi": "10.1016/j.jpurol.2026.106337",
+    "category": "カテーテル新技術",
+    "title_en": "Symptomatic breakthrough urinary tract infection and antimicrobial resistance in children with Double-J ureteral stents receiving continuous prophylaxis.",
+    "title_ja": "",
+    "authors": "Dereli Dilşad",
+    "journal": "Journal of pediatric urology",
+    "publication_date": "2026-10-22",
+    "entry_date": "2026-11-05",
+    "study_design": "コホート研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "UNLABELLED: Double-J (DJ) ureteral stents are essential tools in pediatric urology; however, infectious complications remain a major clinical challenge. Although clinicians frequently administer continuous antibiotic prophylaxis (CAP), data on breakthrough symptomatic urinary tract infections (UTIs) and the burden of antimicrobial resistance across diverse pediatric cohorts remain scarce. We aimed to evaluate the incidence, risk factors, and microbiological profiles of symptomatic UTIs in children with DJ stents who received routine CAP.\nMATERIALS AND METHODS: We retrospectively reviewed 124 pediatric patients (72 males, 52 females; mean age 4.8 ± 3.6 years) who underwent DJ stent placement for various upper urinary tract pathologies between February 2020 and February 2026. All patients received continuous antibiotic prophylaxis throughout the indwelling period. Symptomatic UTI was defined as fever (≥38.0 °C) or acute urinary symptoms combined with a positive urine culture yielding ≥105 CFU/mL of a predominant uropathogen. Clinical risk factors, including underlying pathology, surgical approach, stent indwelling duration, age category, and preoperative UTI history, were analyzed.\nRESULTS: Symptomatic breakthrough UTI occurred in 34 of 124 patients (27.4%) during the indwelling period. Prolonged stent indwelling duration (>4 weeks) was significantly associated with a higher UTI rate compared to ≤4 weeks (38.1% vs. 16.4%; p = 0.006). Similarly, a history of preoperative UTI significantly increased the risk of stent-associated UTI (40.4% vs. 19.5%; p = 0.010). While infants demonstrated the highest crude infection rate (36.4%), age category and surgical approach (open vs. minimally invasive) were not statistically significant predictors. Microbiological analysis revealed Escherichia coli (47.1%), Klebsiella pneumoniae (20.6%), and Enterococcus species (14.7%) as the predominant isolates. Notably, multidrug-resistant (MDR) was identified in 32.4% of breakthrough episodes, with 26.5% displaying extended-spectrum beta-lactamase (ESBL) production.\nCONCLUSIONS: Breakthrough symptomatic UTI occurs in more than one-quarter of pediatric patients with DJ stents despite continuous antibiotic prophylaxis. Prolonged stent dwell time (>4 weeks) and prior UTI history were significantly associated with symptomatic UTI in this cohort. The notable prevalence of MDR pathogens underscores the need for strict limitation of stent duration and tailored, culture-directed management rather than reliance on empirical antimicrobial coverage.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "124 patients",
+        "source": "RESULTS: Symptomatic breakthrough UTI occurred in 34 of 124 patients (27.4%) during the indwelling period."
+      },
+      {
+        "item": "割合",
+        "value": "27.4%",
+        "source": "RESULTS: Symptomatic breakthrough UTI occurred in 34 of 124 patients (27.4%) during the indwelling period."
+      },
+      {
+        "item": "割合",
+        "value": "38.1%",
+        "source": "Prolonged stent indwelling duration (>4 weeks) was significantly associated with a higher UTI rate compared to ≤4 weeks (38.1% vs."
+      },
+      {
+        "item": "割合",
+        "value": "16.4%",
+        "source": "16.4%; p = 0.006)."
+      },
+      {
+        "item": "割合",
+        "value": "40.4%",
+        "source": "Similarly, a history of preoperative UTI significantly increased the risk of stent-associated UTI (40.4% vs."
+      },
+      {
+        "item": "割合",
+        "value": "19.5%",
+        "source": "19.5%; p = 0.010)."
+      },
+      {
+        "item": "割合",
+        "value": "36.4%",
+        "source": "While infants demonstrated the highest crude infection rate (36.4%), age category and surgical approach (open vs."
+      },
+      {
+        "item": "割合",
+        "value": "47.1%",
+        "source": "Microbiological analysis revealed Escherichia coli (47.1%), Klebsiella pneumoniae (20.6%), and Enterococcus species (14.7%) as the predominant isolates."
+      },
+      {
+        "item": "割合",
+        "value": "20.6%",
+        "source": "Microbiological analysis revealed Escherichia coli (47.1%), Klebsiella pneumoniae (20.6%), and Enterococcus species (14.7%) as the predominant isolates."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.006",
+        "source": "16.4%; p = 0.006)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.010",
+        "source": "19.5%; p = 0.010)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42987577/",
+    "doi_url": "https://doi.org/10.1016/j.jpurol.2026.106337",
+    "created_at": "2026-11-07T00:54:13.747439+00:00"
   },
   {
     "pmid": "42980369",
