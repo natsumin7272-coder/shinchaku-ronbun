@@ -131,6 +131,85 @@
     "created_at": "2026-11-11T01:13:43.035182+00:00"
   },
   {
+    "pmid": "43009017",
+    "doi": "10.1016/j.accpm.2026.101989",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Sugammadex versus Neostigmine-Glycopyrrolate for Reducing the Risk of Postoperative Urinary Retention in High-Risk Patients Undergoing Otolaryngologic Surgery: A Randomised Controlled Trial.",
+    "title_ja": "",
+    "authors": "Lin Yueh-Juh, Chan Kuang-Cheng, Lin Pei-Lin",
+    "journal": "Anaesthesia, critical care & pain medicine",
+    "publication_date": "2026-11-10",
+    "entry_date": "2026-11-10",
+    "study_design": "ランダム化比較試験／臨床試験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Postoperative urinary retention (POUR) is a clinically important postoperative complication, particularly in patients at high risk for voiding dysfunction. Sugammadex reverses aminosteroid neuromuscular blockade without requiring concomitant antimuscarinic administration and may therefore reduce the risk of POUR compared with neostigmine-glycopyrrolate.\nMETHODS: In this prospective randomised trial, 124 adults at high risk for POUR undergoing elective otolaryngologic surgery were randomly assigned (1:1) to receive neostigmine-glycopyrrolate or sugammadex for neuromuscular block reversal. The primary outcome was confirmed POUR, defined as inability to void requiring urinary catheterisation with an ultrasound-confirmed bladder volume ≥400 mL. Secondary outcomes included postoperative nausea and vomiting, haemodynamic events, patient-reported thirst intensity, and hospital length of stay.\nRESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6). Exploratory analysis showed that symptomatic urinary retention was also more frequent with neostigmine-glycopyrrolate than with sugammadex (40.3% vs. 4.8%; P <  0.001). No statistically significant between-group differences were observed in postoperative nausea and vomiting, haemodynamic events, thirst intensity, or hospital length of stay; secondary-outcome comparisons were not powered to detect between-group differences.\nCONCLUSIONS: Among patients at high risk for POUR undergoing elective otolaryngologic surgery, sugammadex reduced the risk of confirmed POUR compared with neostigmine-glycopyrrolate. Comparisons of secondary outcomes were underpowered and should be interpreted cautiously.\nREGISTRATION: ClinicalTrials.gov (NCT06398899; principal investigator: Pei-Lin Lin; registered on 5 March 2024).",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "62 patients",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "19.4%",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "0%",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "9.5%",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "30.9%",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "割合",
+        "value": "40.3%",
+        "source": "Exploratory analysis showed that symptomatic urinary retention was also more frequent with neostigmine-glycopyrrolate than with sugammadex (40.3% vs."
+      },
+      {
+        "item": "割合",
+        "value": "4.8%",
+        "source": "4.8%; P <  0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "P <  0.001",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 9",
+        "source": "RESULTS: Confirmed POUR occurred in 12 of 62 patients (19.4%) in the neostigmine-glycopyrrolate group and in none of the 62 patients (0%) in the sugammadex group (risk difference, 19.4%; 95% CI, 9.5%-30.9%; P <  0.001; NNT = 6)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43009017/",
+    "doi_url": "https://doi.org/10.1016/j.accpm.2026.101989",
+    "created_at": "2026-11-12T02:14:23.705898+00:00"
+  },
+  {
     "pmid": "43003839",
     "doi": "10.1038/s41467-026-78123-6",
     "category": "カテーテル新技術",
