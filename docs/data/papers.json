@@ -1,5 +1,169 @@
 [
   {
+    "pmid": "43019189",
+    "doi": "10.1038/s41598-026-65013-6",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Alterations along the gut-urinary axis in dogs with calcium oxalate urolithiasis.",
+    "title_ja": "",
+    "authors": "Coffey Emily L, Gomez Andres M, Granick Jennifer L, Burton Erin N, Lulich Jody P, Furrow Eva",
+    "journal": "Scientific reports",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urolithiasis、microbiome、microbiota、metabolomics」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urolithiasis",
+      "microbiome",
+      "microbiota",
+      "metabolomics"
+    ],
+    "abstract_en": "UNLABELLED: Calcium oxalate (CaOx) is a common type of urinary stone affecting humans and animals. Mechanisms underlying CaOx stone formation are incompletely understood, but growing evidence has linked disturbances in the gut and urinary microbiomes to stone formation. Dogs naturally develop CaOx stones and represent a powerful translational model for studying microbiome-stone interactions. In this study, fecal and urine samples were collected from 20 dogs with CaOx urolithiasis and 20 age-, breed-, and sex-matched controls. Gut and urinary microbiota were profiled using 16 S rRNA sequencing and urinary metabolomics using ultrahigh performance liquid chromatography-tandem mass spectroscopy. Dogs with CaOx stones exhibited reduced gut microbial diversity, including deficiencies in bacteria associated with short chain fatty acid and bile acid metabolism, such as Peptacetobacter hiranonis (q-value < 0.05). Urinary microbiota and metabolomic profiles markedly differed between groups. Stone formers had higher abundances of Lachnoclostridium, Fusobacterium, and Pseudomonas (q-values < 0.05) and lower abundances of 4'-hydroxypropiophenone sulfate and N, N-dimethyl-5-aminovalerate (q-values < 0.01). Overall dietary protein and fiber intake were similar between groups (P > 0.05). However, the majority of dogs with stones consumed therapeutic stone prevention diets, whereas controls consumed a wider variety of diets, representing an important potential confounding factor. Together, these findings provide new insights into disturbances in gut and urinary microbial and metabolomic profiles in a canine model of CaOx urolithiasis.\nSUPPLEMENTARY INFORMATION: The online version contains supplementary material available at https://doi.org/10.1038/s41598-026-65013-6.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "P値",
+        "value": "P > 0.05",
+        "source": "Overall dietary protein and fiber intake were similar between groups (P > 0.05)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43019189/",
+    "doi_url": "https://doi.org/10.1038/s41598-026-65013-6",
+    "created_at": "2026-11-13T01:47:57.539187+00:00"
+  },
+  {
+    "pmid": "43018925",
+    "doi": "10.1007/s15010-026-03044-x",
+    "category": "カテーテル新技術",
+    "title_en": "Pathogen-specific salvage of totally implantable ports and the role of antibiotic lock therapy.",
+    "title_ja": "",
+    "authors": "Rothe Kathrin, Feder Vincent, Corredor Nancy Carolina, Querbach Christiane, Bogner Christian, Herhaus Peter, Erber Johanna, Schneider Jochen, Feihl Susanne, Bassermann Florian, Spinner Christoph D, Braitsch Krischan",
+    "journal": "Infection",
+    "publication_date": "2026-11-12",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: Totally implantable venous-access ports (TIPs) are central to cancer therapy, but bloodstream infection (BSI) frequently ends in device loss. Device retention rests on systemic antibiotic therapy, to which antibiotic lock therapy (ALT) can be added, yet the determinants of successful salvage in adults are poorly defined. This study examined which TIP infections can be salvaged.\nMETHODS: 233 consecutive episodes of TIP-related BSI at a tertiary cancer centre (2017-2020) were analysed retrospectively. The primary outcome was successful TIP salvage: retention of a functioning device with clinical cure. Determinants were assessed by logistic regression and salvage across protocol-defined pathogen categories was tested for trend.\nRESULTS: Isolates were Gram-positive in 58%, Gram-negative in 38% and fungal in 4%; 19% polymicrobial. The TIP was salvaged in 68/225 episodes (30%); primary explantation commonest (53%). Salvage fell across the protocol categories: coagulase-negative staphylococci 41%, Gram-negative bacilli/enterococci/other Gram-positives 35%, S. aureus/P. aeruginosa/Candida 2% (P for trend < 0.001). Independent predictors were a high-virulence pathogen (adjusted odds ratio 0.04, 0.01-0.30) and a peripheral arm port (0.29, 0.13-0.65); no comorbidity or severity factor was robustly associated with salvage. ALT, attempted in 79/221 episodes (36%), was not associated with higher salvage among retention attempts (55% vs. 68% with systemic antibiotics alone, odds ratio 0.57, 0.25-1.29).\nCONCLUSION: TIP salvage was associated with the infecting organism. The pathogen gradient mirrored guideline-based removal recommendations. About 60% of attempted retentions succeeded, without detectable benefit of ALT. With a pathogen-stratified protocol, salvage can be attempted in selected patients.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "58%",
+        "source": "RESULTS: Isolates were Gram-positive in 58%, Gram-negative in 38% and fungal in 4%; 19% polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "38%",
+        "source": "RESULTS: Isolates were Gram-positive in 58%, Gram-negative in 38% and fungal in 4%; 19% polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "4%",
+        "source": "RESULTS: Isolates were Gram-positive in 58%, Gram-negative in 38% and fungal in 4%; 19% polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "19%",
+        "source": "RESULTS: Isolates were Gram-positive in 58%, Gram-negative in 38% and fungal in 4%; 19% polymicrobial."
+      },
+      {
+        "item": "割合",
+        "value": "30%",
+        "source": "The TIP was salvaged in 68/225 episodes (30%); primary explantation commonest (53%)."
+      },
+      {
+        "item": "割合",
+        "value": "53%",
+        "source": "The TIP was salvaged in 68/225 episodes (30%); primary explantation commonest (53%)."
+      },
+      {
+        "item": "割合",
+        "value": "41%",
+        "source": "Salvage fell across the protocol categories: coagulase-negative staphylococci 41%, Gram-negative bacilli/enterococci/other Gram-positives 35%, S."
+      },
+      {
+        "item": "割合",
+        "value": "35%",
+        "source": "Salvage fell across the protocol categories: coagulase-negative staphylococci 41%, Gram-negative bacilli/enterococci/other Gram-positives 35%, S."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018925/",
+    "doi_url": "https://doi.org/10.1007/s15010-026-03044-x",
+    "created_at": "2026-11-13T01:48:01.063250+00:00"
+  },
+  {
+    "pmid": "43018523",
+    "doi": "10.1016/j.jaccas.2026.111005",
+    "category": "カテーテル新技術",
+    "title_en": "Unraveling Severe Myocardial Dysfunction in Streptococcal Toxic Shock Syndrome: Beyond Septic Shock.",
+    "title_ja": "",
+    "authors": "Dod Rohan, Drury Jeffrey Kyle, Nguyen Catherine, Santos Jillianne, Smallfield Melissa, Li Pengyang",
+    "journal": "JACC. Case reports",
+    "publication_date": "2026-11-12",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Group A Streptococcus is a clinically important yet underrecognized cause of inflammatory myocardial dysfunction, capable of triggering shock through toxin-mediated injury and inflammation.\nCASE SUMMARY: A 19-year-old woman presented with progressive fatigue, severe hypotension, and a purpuric chest rash. Laboratory investigation showed rising troponin, leukocytosis, and lactic acidosis. Echocardiography and right heart catheterization revealed significant biventricular dysfunction. She developed shock requiring mechanical circulatory support with an Impella CP and extracorporeal membrane oxygenation. Corticosteroids and intravenous immunoglobulin were initiated empirically for presumed inflammatory myocarditis. Chest wall biopsy grew Group A Streptococcus, supporting the diagnosis of streptococcal toxic shock syndrome (STSS). Ultimately, she recovered cardiac function with mechanical circulatory support and targeted antimicrobial therapy.\nDISCUSSION: This case highlights severe, reversible myocardial dysfunction because of STSS.\nTAKE-HOME MESSAGE: STSS can precipitate severe, reversible myocardial dysfunction representing a mixed septic-cardiogenic phenotype that may mimic fulminant myocarditis.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43018523/",
+    "doi_url": "https://doi.org/10.1016/j.jaccas.2026.111005",
+    "created_at": "2026-11-13T01:48:03.303644+00:00"
+  },
+  {
+    "pmid": "43017595",
+    "doi": "10.7759/cureus.117815",
+    "category": "カテーテル新技術",
+    "title_en": "Hyperbaric Oxygen Therapy as an Adjunctive Treatment for Pediatric Fournier's Gangrene.",
+    "title_ja": "",
+    "authors": "Elkhanfari Zineb, Ait Hmadouche Soukaina, Babour Sara, Radi Abdelilah, Abilkassem Rachid",
+    "journal": "Cureus",
+    "publication_date": "2026-10-01",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Fournier's gangrene (FG) is a rapidly progressive necrotizing soft-tissue infection involving the perineal and genital regions. Although predominantly described in adults, it is rare in children and may be associated with substantial morbidity and mortality. Early recognition, prompt broad-spectrum antimicrobial therapy, and urgent surgical debridement remain the cornerstone of treatment. Hyperbaric oxygen therapy (HBOT) has been proposed as an adjunctive treatment because of its ability to increase tissue oxygenation and potentially promote wound healing in ischemic and infected tissues. However, evidence supporting its use in pediatric FG remains limited. We report the case of a 14-year-old boy with a neurogenic bladder, bilateral ureterohydronephrosis, and chronic kidney disease who developed Fournier's gangrene associated with a chronic urinary catheter and infection with ceftriaxone-resistant Klebsiella pneumoniae (K. pneumoniae). The patient presented with fever and acute scrotal inflammatory changes. Computed tomography demonstrated extensive inflammatory changes of the peripenile and periscrotal soft tissues with multiple intratissue gas foci, consistent with FG. Emergency surgical exploration and extensive debridement were performed, followed by targeted antimicrobial therapy with imipenem and amikacin. HBOT was subsequently administered as an adjunctive treatment, with a total of 10 sessions, in addition to intensive local wound care. Clinical improvement was observed, allowing subsequent surgical revision and closure of the scrotal wound. This case highlights the importance of early recognition and multidisciplinary management of pediatric FG and illustrates the potential role of HBOT as an adjunct to surgical and antimicrobial treatment in selected pediatric patients.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43017595/",
+    "doi_url": "https://doi.org/10.7759/cureus.117815",
+    "created_at": "2026-11-13T01:48:06.162031+00:00"
+  },
+  {
     "pmid": "43006982",
     "doi": "10.1080/17843286.2026.2761462",
     "category": "尿道カテーテル閉塞",
