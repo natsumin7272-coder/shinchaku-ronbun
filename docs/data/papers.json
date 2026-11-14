@@ -1,5 +1,161 @@
 [
   {
+    "pmid": "43022758",
+    "doi": "10.1016/j.infpip.2026.100611",
+    "category": "カテーテル新技術",
+    "title_en": "Urinary tract infections in children with medical complexity at paediatric postacute care facilities: variability in diagnosis and treatment.",
+    "title_ja": "",
+    "authors": "Al-Zubeidi Duha, Hogan Patrick G, Choi Sue, Massinello Bency, Gallagher Heather, Huntsman Kristina, Mosiello Linda, Neu Natalie",
+    "journal": "Infection prevention in practice",
+    "publication_date": "2026-12-01",
+    "entry_date": "2026-11-13",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: This study aimed to describe current practices in diagnosing and treating urinary tract infections (UTIs) and antimicrobial stewardship policies (ASPs) related to UTI management in children with medical complexity admitted to paediatric postacute care facilities (PPACFs).\nMETHODS: We performed a retrospective, descriptive, multi-centre study involving 12 PPACFs from January 2021 to December 2022. Data collected included general facility demographics, patient characteristics of those with UTIs, UTI diagnostic criteria, symptoms, microbiology, and treatment. We also collected ASPs and nursing education related to UTI prevention and urinary catheter practices.\nRESULTS: A total of 206 and 243 UTI events were reported in 2021 and 2022, respectively, for an overall rate of 0.73 UTIs per 1000 patient-days (95% confidence interval = 0.67-0.80), with significant variability in frequency and diagnostic criteria across facilities. Most urine cultures (92%) were obtained by straight catheterization, and almost all UTI events (96%) were symptomatic. The most common pathogens included Escherichia coli (49%) and Klebsiella species (20%); 27% of pathogens were multi-drug-resistant organisms. ASPs were present in 92% of facilities, with variable implementation of Centers for Disease Control and Prevention-recommended policies. Recurrent UTIs accounted for 40% of all UTI events; among recurrent events, the median interval from the preceding UTI was 53 days.\nCONCLUSIONS: Our study highlights the need for standardized diagnostic criteria and treatment strategies for UTIs in medically complex inpatients in PPACFs.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: A total of 206 and 243 UTI events were reported in 2021 and 2022, respectively, for an overall rate of 0.73 UTIs per 1000 patient-days (95% confidence interval = 0.67-0.80), with significant variability in frequency and diagnostic criteria across facilities."
+      },
+      {
+        "item": "割合",
+        "value": "92%",
+        "source": "Most urine cultures (92%) were obtained by straight catheterization, and almost all UTI events (96%) were symptomatic."
+      },
+      {
+        "item": "割合",
+        "value": "96%",
+        "source": "Most urine cultures (92%) were obtained by straight catheterization, and almost all UTI events (96%) were symptomatic."
+      },
+      {
+        "item": "割合",
+        "value": "49%",
+        "source": "The most common pathogens included Escherichia coli (49%) and Klebsiella species (20%); 27% of pathogens were multi-drug-resistant organisms."
+      },
+      {
+        "item": "割合",
+        "value": "20%",
+        "source": "The most common pathogens included Escherichia coli (49%) and Klebsiella species (20%); 27% of pathogens were multi-drug-resistant organisms."
+      },
+      {
+        "item": "割合",
+        "value": "27%",
+        "source": "The most common pathogens included Escherichia coli (49%) and Klebsiella species (20%); 27% of pathogens were multi-drug-resistant organisms."
+      },
+      {
+        "item": "割合",
+        "value": "40%",
+        "source": "Recurrent UTIs accounted for 40% of all UTI events; among recurrent events, the median interval from the preceding UTI was 53 days."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43022758/",
+    "doi_url": "https://doi.org/10.1016/j.infpip.2026.100611",
+    "created_at": "2026-11-14T01:25:48.120448+00:00"
+  },
+  {
+    "pmid": "43024356",
+    "doi": "10.1093/lambio/ovag099",
+    "category": "カテーテル新技術",
+    "title_en": "Bloodstream Infection Pathogen Profiles in ICU and Non-ICU Patients in a Tertiary Hospital in Southern Anhui, China.",
+    "title_ja": "",
+    "authors": "Li Yingying, Li Beibei, Chen Jing, Xu Siyue, Wang Ziheng, Xu Guangping, Yan Kun, Li Jie, Che Zhixin, Zhang Peng",
+    "journal": "Letters in applied microbiology",
+    "publication_date": "2026-11-13",
+    "entry_date": "2026-11-13",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Bloodstream infection (BSI) is associated with substantial morbidity and mortality, particularly in intensive care unit (ICU) patients. We retrospectively analyzed 723 adults with blood culture-confirmed BSI from January 2025 to March 2026, including 253 ICU and 470 non-ICU patients, and compared clinical characteristics, infection sources, invasive procedures, pathogen distribution, antimicrobial use, resistance phenotypes, and antimicrobial susceptibility. ICU patients had higher rates of septic shock and in-hospital mortality and more frequent catheter-related and lower respiratory tract infections and invasive procedures. Gram-negative bacteria predominated in both groups, with Escherichia coli ranking first. Coagulase-negative staphylococci, Klebsiella pneumoniae, and Enterococcus spp. accounted for larger proportions in ICU patients. Special-use antimicrobial use, particularly carbapenem use, was higher in the ICU. Carbapenem-resistant Acinetobacter baumannii and Pseudomonas aeruginosa were significantly more frequent in ICU patients, whose major Gram-negative isolates also showed broader resistance profiles. These findings support care-setting-specific pathogen and resistance surveillance to inform empirical antimicrobial therapy, antimicrobial stewardship, and infection-control strategies.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024356/",
+    "doi_url": "https://doi.org/10.1093/lambio/ovag099",
+    "created_at": "2026-11-14T01:25:51.977026+00:00"
+  },
+  {
+    "pmid": "43023537",
+    "doi": "10.1039/d6tb01273f",
+    "category": "カテーテル新技術",
+    "title_en": "S-Nitrosoglutathione nanosuspension in alkanediols for controlled release of nitric oxide.",
+    "title_ja": "",
+    "authors": "More Sayaji, Li Wuwei, Budhathoki Sujan, Wang Xuewei",
+    "journal": "Journal of materials chemistry. B",
+    "publication_date": "2026-11-13",
+    "entry_date": "2026-11-13",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Nitric oxide (NO) donors are commonly formulated either by direct dissolution in aqueous media or by incorporation into suspended nanocarriers. However, these conventional approaches often suffer from rapid donor decomposition and low drug loading. Herein, we report a new class of liquid formulations based on S-nitrosoglutathione (GSNO) nanocrystals dispersed in alkanediols, a family of biocompatible and low-toxicity nonsolvents. GSNO crystals with sizes of a few hundred nanometers are prepared from microparticles by wet media milling in alkanediols spanning a range of viscosities. Because no carrier matrix, surfactant, or inactive additive is required, the dispersed nanocrystals are composed entirely of the active NO donor, providing a theoretical drug loading of 100% and a high drug concentration of ∼50 mg mL-1. GSNO nanocrystals in alkanediols are substantially more stable than NO donors dissolved in aqueous solutions or incorporated into nanocarriers. These GSNO nanosuspensions exhibit lifetimes exceeding two months at 37 °C. This unique behavior enables sustained long-term NO release at high payload without the pronounced initial burst commonly observed in many NO releasing systems. Based on this highly stable parent formulation, the release profile can be accelerated when desired by introducing aqueous solutions into alkanediols. The NO-releasing nanosuspensions display broad-spectrum antibacterial activity in inhibition zone assays and reduce bacterial biofilm formation by 1.7-4.7 orders of magnitude in venous catheters. With further evaluation of their in vivo efficacy and safety, these non-aqueous NO donor formulations may have potential as antimicrobial lock media for catheters and topical antimicrobial coatings.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "Because no carrier matrix, surfactant, or inactive additive is required, the dispersed nanocrystals are composed entirely of the active NO donor, providing a theoretical drug loading of 100% and a high drug concentration of ∼50 mg mL-1."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43023537/",
+    "doi_url": "https://doi.org/10.1039/d6tb01273f",
+    "created_at": "2026-11-14T01:25:56.935030+00:00"
+  },
+  {
+    "pmid": "43022737",
+    "doi": "10.1080/14686996.2026.2751772",
+    "category": "カテーテル新技術",
+    "title_en": "Effect of surface roughness and nano-asperities on bacterial-substrate interactions of PHF-PDMS‑modified substrate through nanoarchitectonics.",
+    "title_ja": "",
+    "authors": "Anbu Sorna Lakshmi, Velu Karthick, Rini Novi Dwi Widya, Mohapatra Harapriya, Hazra Subhenjit, Ariga Katsuhiko, Shrestha Lok Kumar",
+    "journal": "Science and technology of advanced materials",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-13",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "In the present study, we have investigated the role of surface roughness influencing bacterial adhesion as a key to inhibit catheter‑associated infections. Polydimethylsiloxane (PDMS) substrate was fabricated through the incorporation of polyhydroxy fullerenes (PHF) to induce nanoscale roughness. Surface characteristics of developed PHF-PDMS surfaces were carried out using bio-Atomic Force Microscopy (Bio-AFM), along with fluorescent staining-based adhesion analysis for Staphylococcus (cocci) and Klebsiella (rod-shaped) bacteria. PHF-PDMS exhibited significant nanoscale heterogeneity, reflecting through its altered roughness, and asymmetric height profiles influencing bacterial morphology. Bacteria grown on the PHF-PDMS substrate showed characteristic protruding and membrane morphological changes. Fluorescence imaging corroborated with other findings, showing reduction in bacterial growth, and spatially fragmented adhesion over PHF-PDMS compared to the control surface. Collectively, this study highlights that surface nanoarchitectonics offers antibiotic-free strategies for preventing biofilm formation on biomedical devices.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43022737/",
+    "doi_url": "https://doi.org/10.1080/14686996.2026.2751772",
+    "created_at": "2026-11-14T01:26:11.476962+00:00"
+  },
+  {
     "pmid": "43019189",
     "doi": "10.1038/s41598-026-65013-6",
     "category": "尿路結石・細菌叢",
@@ -162,6 +318,141 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43017595/",
     "doi_url": "https://doi.org/10.7759/cureus.117815",
     "created_at": "2026-11-13T01:48:06.162031+00:00"
+  },
+  {
+    "pmid": "43020276",
+    "doi": "10.1016/j.jhin.2026.11.002",
+    "category": "カテーテル新技術",
+    "title_en": "Chlorhexidine Gluconate Significantly Reduces Central Line-Associated Bloodstream Infections:A Systematic Review and Meta-Analysis.",
+    "title_ja": "",
+    "authors": "Zhang Qiaomei, Tang Jing, Dong Wenzhu, Deng Qin, Xiao Guibao",
+    "journal": "The Journal of hospital infection",
+    "publication_date": "2026-11-12",
+    "entry_date": "2026-11-12",
+    "study_design": "系統的レビュー／メタ解析",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "BACKGROUND AND AIMS: Central line-associated bloodstream infections (CLABSI) represent a major clinical concern due to their impact on morbidity, mortality, and healthcare costs. This meta-analysis aimed to evaluate the effectiveness of chlorhexidine gluconate (CHG) in preventing CLABSI.\nMETHODS: We systematically searched PubMed, Embase, Web of Science, and the Cochrane Central Register of Controlled Trials (CENTRAL) database, supplemented by manual complementary searches, with the search period covering from inception to September 2026. Statistical analyses were performed using Review Manager 5.3 and Stata 18.0 software. For dichotomous outcomes, relative risk (RR) with its 95% confidence interval (CI) was used as the effect measure, and the choice between fixed-effect and random-effects models was determined based on the I2 statistic for heterogeneity. Quality assessment and robustness testing were conducted through risk of bias (RoB) evaluation, funnel plots, and leave-one-out sensitivity analyses. All analyses were considered statistically significant at a two-sided P value < 0.05.\nRESULTS: A total of 15 studies were ultimately included, comprising 139,251 subjects, with 64,979 in the observation group (OG; CHG intervention) and 74,272 in the control group (CG). The OG group accumulated 324,983 catheter-days with 273 CLABSI cases, while the CG accumulated 243,413 catheter-days with 436 cases. Pooled analysis showed that CHG significantly reduced the risk of CLABSI (RR=0.57, 95% CI: 0.38-0.86, P=0.008). Subgroup analysis showed that catheter coating/impregnation (RR=0.207, P<0.001) and dressing (RR=0.566, P=0.044) interventions were effective, whereas daily bathing was not (RR=0.998); intervention type explained part of the heterogeneity (P<0.001 between subgroups). Sensitivity analysis confirmed that the conclusions were robust; the Egger's test suggested possible publication bias (P=0.041).\nCONCLUSION: CHG intervention can significantly reduce the risk of CLABSI, and the protective effect varies by intervention type: catheter coating/impregnation interventions have the strongest protective effect, dressing interventions have a moderate protective effect, while daily bathing showed no significant effect. Although there was high heterogeneity among studies and possible publication bias, sensitivity analysis confirmed that the pooled conclusions were robust. In clinical practice, CHG-coated/impregnated catheters and CHG dressings can be prioritized as CLABSI prevention strategies, while more high-quality, large-sample randomized controlled trials (RCTs) are still needed to further verify the effect of bathing interventions and correct for potential publication bias.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "251 subjects",
+        "source": "RESULTS: A total of 15 studies were ultimately included, comprising 139,251 subjects, with 64,979 in the observation group (OG; CHG intervention) and 74,272 in the control group (CG)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "For dichotomous outcomes, relative risk (RR) with its 95% confidence interval (CI) was used as the effect measure, and the choice between fixed-effect and random-effects models was determined based on the I2 statistic for heterogeneity."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.008",
+        "source": "Pooled analysis showed that CHG significantly reduced the risk of CLABSI (RR=0.57, 95% CI: 0.38-0.86, P=0.008)."
+      },
+      {
+        "item": "P値",
+        "value": "P<0.001",
+        "source": "Subgroup analysis showed that catheter coating/impregnation (RR=0.207, P<0.001) and dressing (RR=0.566, P=0.044) interventions were effective, whereas daily bathing was not (RR=0.998); intervention type explained part of the heterogeneity (P<0.001 between subgroups)."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.044",
+        "source": "Subgroup analysis showed that catheter coating/impregnation (RR=0.207, P<0.001) and dressing (RR=0.566, P=0.044) interventions were effective, whereas daily bathing was not (RR=0.998); intervention type explained part of the heterogeneity (P<0.001 between subgroups)."
+      },
+      {
+        "item": "P値",
+        "value": "P=0.041",
+        "source": "Sensitivity analysis confirmed that the conclusions were robust; the Egger's test suggested possible publication bias (P=0.041)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI: 0",
+        "source": "Pooled analysis showed that CHG significantly reduced the risk of CLABSI (RR=0.57, 95% CI: 0.38-0.86, P=0.008)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43020276/",
+    "doi_url": "https://doi.org/10.1016/j.jhin.2026.11.002",
+    "created_at": "2026-11-14T01:26:01.012473+00:00"
+  },
+  {
+    "pmid": "43020275",
+    "doi": "10.1016/j.jhin.2026.10.027",
+    "category": "カテーテル新技術",
+    "title_en": "Genomic Insights into Early Catheter-Associated UTIs in a Clinical Setting: High-Risk Clones, Hidden Diversity and Limited Catheter-Urine Genomic Divergence.",
+    "title_ja": "",
+    "authors": "Nunes Alexandra, Henriques Sara, Gomes João Paulo, Almeida Elsa, Romero Manuel, Coutinho Paula",
+    "journal": "The Journal of hospital infection",
+    "publication_date": "2026-11-12",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「proteus mirabilis」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "proteus mirabilis"
+    ],
+    "abstract_en": "Catheter-associated urinary tract infections (CAUTIs) are major contributor to healthcare-associated morbidity and are increasingly associated with multidrug-resistant (MDR) pathogens. We performed whole-genome sequencing of paired catheter and urine-derived isolates from five CAUTI cases identified prospectively in a Portuguese hospital (February-July 2024) to characterize species diversity, resistomes, virulence, strain relatedness and genomic variation. Substantial heterogeneity was observed in bacterial species and genomic profiles. Escherichia coli predominated in catheter (57%) and urine (67%) samples, consistent with its recognized role in early colonization under the short dwell times observed (median: 5 days). Klebsiella pneumoniae, Pseudomonas aeruginosa and Proteus mirabilis occurred sporadically, mainly in catheter associated samples. Four patients harboured isogenic or near-isogenic catheter-urine pairs, consistent with closely related strains across compartments, whereas ondistinct E. coli lineages (ST12 vs. ST131) were identified in one patient. AMR profiles ranged from limited repertoires to extensive MDR. High-risk E. coli ST131 isolated carried characteristic ESBL and fluoroquinolone-resistance determinants but were genomically distinct. Virulence repertoires encompassed factors associated with adhesion, biofilm formation, iron acquisition, immune evasion and epithelial injury (including colibactin in one catheter isolate), alongside biocide- and stress-response determinants. Matched catheter-urine pairs showed limited genomic divergence, with few or no detected variants and no predicted variant-associated changes in antimicrobial susceptibility. These findings illustrate that early CAUTI cases may involve MDR high-risk clones and heterogeneous catheter-urine genomic profiles. Genomic characterization may complement conventional microbiology in the investigation of CAUTI, supporting future studies of pathogen-source assessment, antimicrobial management and infection-control strategies.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "57%",
+        "source": "Escherichia coli predominated in catheter (57%) and urine (67%) samples, consistent with its recognized role in early colonization under the short dwell times observed (median: 5 days)."
+      },
+      {
+        "item": "割合",
+        "value": "67%",
+        "source": "Escherichia coli predominated in catheter (57%) and urine (67%) samples, consistent with its recognized role in early colonization under the short dwell times observed (median: 5 days)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43020275/",
+    "doi_url": "https://doi.org/10.1016/j.jhin.2026.10.027",
+    "created_at": "2026-11-14T01:26:04.699662+00:00"
+  },
+  {
+    "pmid": "43019561",
+    "doi": "10.2106/JBJS.RVW.26.00178",
+    "category": "カテーテル新技術",
+    "title_en": "Urinary Tract Infection, Asymptomatic Bacteriuria, and Perioperative Decision-Making in Spine Surgery.",
+    "title_ja": "",
+    "authors": "Lazkani Abdullrahim, Batrash Firas, Jasti Siddharth, Mahmoud Tasif, Warzecha Haley, Reiad Timothy, Belanger James, Nassar Joseph E, Achilova Feyza, Czerwein John, Kuris Eren O, Basques Bryce A, Diebo Bassel G, Daniels Alan H",
+    "journal": "JBJS reviews",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-12",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Preoperative urinary screening should focus on symptom-based treatment, delaying surgery until symptoms have resolved. Do not screen for or treat asymptomatic bacteriuria and do not cancel surgery for a positive dipstick or urine culture alone because treatment adds antimicrobial harm without lowering surgical site infection. Spinal instrumentation raises the consequences of a postoperative infection but does not definitively lower the preoperative treatment threshold because the reported association between urinary and surgical site infection is inconsistent. Reserve targeted screening and individualized perioperative planning (catheter strategy, selective urology or infectious disease input, and closer postoperative surveillance) for high-risk patients such as those with neurogenic bladder, chronic catheterization, recurrent urinary tract infection, resistant organisms, or prolonged hospitalization. Prevent postoperative urinary tract infection through catheter stewardship with early removal and daily review of necessity, proactive recognition of postoperative urinary retention, antibiotic prophylaxis limited to no more than 24 hours after wound closure, and treatment of symptomatic infection only.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43019561/",
+    "doi_url": "https://doi.org/10.2106/JBJS.RVW.26.00178",
+    "created_at": "2026-11-14T01:26:07.789963+00:00"
   },
   {
     "pmid": "43006982",
