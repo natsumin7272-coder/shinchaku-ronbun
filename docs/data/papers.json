@@ -1,5 +1,190 @@
 [
   {
+    "pmid": "43029249",
+    "doi": "10.3390/molecules31213934",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Urease Inhibitory Activity of Tilia rubra subsp. caucasica V.Engl.: Activity-Guided Fractionation of a Folk Medicine.",
+    "title_ja": "",
+    "authors": "Dilmaç Elif, Gürbüz İlhan, Eren Gökçen, Bedir Erdal",
+    "journal": "Molecules (Basel, Switzerland)",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-14",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「urease、urolithiasis」の観点から確認価値があります。",
+    "relevance_score": 3,
+    "keywords": [
+      "urease",
+      "urolithiasis"
+    ],
+    "abstract_en": "Bacterial ureases play a key role in the pathogenesis of various diseases, including gastritis, peptic ulcers, urolithiasis, and gastric cancer. Concerns regarding the toxicity and stability of urease inhibitors have prompted the search for safer alternatives from natural sources. Therefore, this study aimed to identify the bioactive compounds responsible for the urease inhibitory activity of Tilia rubra subsp. caucasica V.Engl. [synonym of Tilia dasystyla subsp. caucasica (V.Engl.) Pigott] using activity-guided fractionation. The plant material was subjected to liquid-liquid partitioning followed by chromatographic techniques, with in vitro urease inhibitory activity against jack bean urease evaluated at each step. The structures of the isolated compounds were elucidated by LC-HRMS and NMR spectroscopy. The 80% ethanol extract exhibited notable in vitro urease inhibitory activity (47.14 ± 2.59%). The ethyl acetate subextract was the most active fraction (61.38 ± 0.64% inhibition; IC50 = 71.35 ± 3.48 µg/mL), yielding several compounds, including guaijaverin, trans-tiliroside, isoquercitrin, protocatechuic acid, and a new dimeric flavonoid glycoside (methylenebisastragalin). Guaijaverin (71.86 ± 3.55% inhibition; IC50 = 119.63 ± 3.64 μM) and isoquercitrin (48.04 ± 2.28%) showed the strongest urease inhibitory activity at 100 μg/mL. HPLC quantification showed that guaijaverin and isoquercitrin contribute to the activity of the ethylacetate subextract; however, the compounds responsible for the observed activity could not be fully identified. Molecular docking studies revealed XP GScores of -8.64 and -8.47 kcal/mol for these compounds, respectively. These findings indicate that T. rubra subsp. caucasica is a promising natural source of urease inhibitors, warranting further experimental validation, particularly against bacterial ureases, including that of Helicobacter pylori, to evaluate its therapeutic potential.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "80%",
+        "source": "The 80% ethanol extract exhibited notable in vitro urease inhibitory activity (47.14 ± 2.59%)."
+      },
+      {
+        "item": "割合",
+        "value": "2.59%",
+        "source": "The 80% ethanol extract exhibited notable in vitro urease inhibitory activity (47.14 ± 2.59%)."
+      },
+      {
+        "item": "割合",
+        "value": "0.64%",
+        "source": "The ethyl acetate subextract was the most active fraction (61.38 ± 0.64% inhibition; IC50 = 71.35 ± 3.48 µg/mL), yielding several compounds, including guaijaverin, trans-tiliroside, isoquercitrin, protocatechuic acid, and a new dimeric flavonoid glycoside (methylenebisastragalin)."
+      },
+      {
+        "item": "割合",
+        "value": "3.55%",
+        "source": "Guaijaverin (71.86 ± 3.55% inhibition; IC50 = 119.63 ± 3.64 μM) and isoquercitrin (48.04 ± 2.28%) showed the strongest urease inhibitory activity at 100 μg/mL."
+      },
+      {
+        "item": "割合",
+        "value": "2.28%",
+        "source": "Guaijaverin (71.86 ± 3.55% inhibition; IC50 = 119.63 ± 3.64 μM) and isoquercitrin (48.04 ± 2.28%) showed the strongest urease inhibitory activity at 100 μg/mL."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43029249/",
+    "doi_url": "https://doi.org/10.3390/molecules31213934",
+    "created_at": "2026-11-15T01:00:18.541188+00:00"
+  },
+  {
+    "pmid": "43028838",
+    "doi": "10.3390/healthcare14213818",
+    "category": "カテーテル新技術",
+    "title_en": "Mind the Midstream: Nurse and Patient Perspectives on Diagnostic, Infection Prevention, and Antimicrobial Stewardship for Urinary Tract Infections in Oman.",
+    "title_ja": "",
+    "authors": "Al Shizawi Nawal, Jabri Zaaima Al, Khan Maria, Siddiqui Areena Hoda, Al Malehi Amal, Al Muharrmi Zakariya, Balkhair Abdullah, Amur Al Riyami Nihal Mohamed, Rizvi Meher",
+    "journal": "Healthcare (Basel, Switzerland)",
+    "publication_date": "2026-11-09",
+    "entry_date": "2026-11-14",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Background: Urinary tract infections (UTIs) are a major driver of laboratory testing and antimicrobial prescribing, yet inappropriate urine collection and specimen handling, due to limited patient and nursing engagement, can compromise diagnostic accuracy and contribute to unnecessary or inappropriate antibiotic use. This study evaluated knowledge, attitudes, and practices (KAPs) related to pre-analytical diagnostic stewardship (DS), infection prevention and control (IPC), and antimicrobial stewardship (AMS) amongst nurses and hospitalized patients evaluated for urinary tract infection or undergoing urine culture workup. Methods: A cross-sectional study was conducted at two tertiary hospitals in Oman between September 2022 and August 2023. Three structured, internally validated questionnaires assessed pre-analytical DS, IPC, and AMS amongst nurses and patients. A total of 172 nurses were approached, with 165 completing the pre-analytical DS questionnaire and 162 completing the IPC/AMS questionnaire (with overlapping respondents across modules); 77 hospitalized patients evaluated for urinary tract infection or undergoing urine culture workup completed the patient questionnaire (out of 79 initially assessed, with two excluded due to incomplete clinical data). KAP domain scores were standardized to a 0-100 scale and summarized as mean ± SD. MANOVA assessed the effects of covariates on combined KAP outcomes. Mann-Whitney U, Kruskal-Wallis tests compared KAP scores across demographic and professional groups. Results: Patients demonstrated strong awareness of the importance of correct urine collection (91%); however, only 7.9% reported receiving midstream urine instructions, contrasting with 86.1% of nurses who reported providing them, pointing to a discordance between nurse-reported practice and patient-reported experience. Patients demonstrated high IPC engagement with 88.3% willing to prompt hand hygiene/glove use among doctors and nurses, and 74% would question antibiotic necessity. Amongst nurses, gaps persisted in inserting new catheters before culture (66.7%) and refrigeration of specimens if delay was expected (36.4%). Work experience significantly influenced nurses' pre-analytical diagnostic stewardship knowledge and practice scores (p = 0.002 for MANOVA global effect; univariate practice score p < 0.001). Knowledge amongst nurses was high for hand hygiene, IPC prevention and antibiotic resistance drivers; however, 56.3% incorrectly associated antibiotics with pain/inflammation. Institutional affiliation significantly influenced overall KAP outcomes (p = 0.004 for MANOVA global effect, with univariate practice scores showing p < 0.001). Overall, findings revealed motivated stakeholders alongside discrete, actionable weaknesses in diagnostic and antimicrobial stewardship workflows. Conclusions: This study identifies a critical but modifiable gap between perceived and patient-experienced pre-analytical DS practices in UTIs. Strengthening microbiology and nursing collaborative diagnostic stewardship, standardizing patient instructions, improving specimen-handling infrastructure, and actively engaging patients represent practical, high-impact strategies to enhance diagnostic accuracy, infection prevention, and antimicrobial stewardship in Oman.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "91%",
+        "source": "Results: Patients demonstrated strong awareness of the importance of correct urine collection (91%); however, only 7.9% reported receiving midstream urine instructions, contrasting with 86.1% of nurses who reported providing them, pointing to a discordance between nurse-reported practice and patient-reported experience."
+      },
+      {
+        "item": "割合",
+        "value": "7.9%",
+        "source": "Results: Patients demonstrated strong awareness of the importance of correct urine collection (91%); however, only 7.9% reported receiving midstream urine instructions, contrasting with 86.1% of nurses who reported providing them, pointing to a discordance between nurse-reported practice and patient-reported experience."
+      },
+      {
+        "item": "割合",
+        "value": "86.1%",
+        "source": "Results: Patients demonstrated strong awareness of the importance of correct urine collection (91%); however, only 7.9% reported receiving midstream urine instructions, contrasting with 86.1% of nurses who reported providing them, pointing to a discordance between nurse-reported practice and patient-reported experience."
+      },
+      {
+        "item": "割合",
+        "value": "88.3%",
+        "source": "Patients demonstrated high IPC engagement with 88.3% willing to prompt hand hygiene/glove use among doctors and nurses, and 74% would question antibiotic necessity."
+      },
+      {
+        "item": "割合",
+        "value": "74%",
+        "source": "Patients demonstrated high IPC engagement with 88.3% willing to prompt hand hygiene/glove use among doctors and nurses, and 74% would question antibiotic necessity."
+      },
+      {
+        "item": "割合",
+        "value": "66.7%",
+        "source": "Amongst nurses, gaps persisted in inserting new catheters before culture (66.7%) and refrigeration of specimens if delay was expected (36.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "36.4%",
+        "source": "Amongst nurses, gaps persisted in inserting new catheters before culture (66.7%) and refrigeration of specimens if delay was expected (36.4%)."
+      },
+      {
+        "item": "割合",
+        "value": "56.3%",
+        "source": "Knowledge amongst nurses was high for hand hygiene, IPC prevention and antibiotic resistance drivers; however, 56.3% incorrectly associated antibiotics with pain/inflammation."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.002",
+        "source": "Work experience significantly influenced nurses' pre-analytical diagnostic stewardship knowledge and practice scores (p = 0.002 for MANOVA global effect; univariate practice score p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p < 0.001",
+        "source": "Work experience significantly influenced nurses' pre-analytical diagnostic stewardship knowledge and practice scores (p = 0.002 for MANOVA global effect; univariate practice score p < 0.001)."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.004",
+        "source": "Institutional affiliation significantly influenced overall KAP outcomes (p = 0.004 for MANOVA global effect, with univariate practice scores showing p < 0.001)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43028838/",
+    "doi_url": "https://doi.org/10.3390/healthcare14213818",
+    "created_at": "2026-11-15T01:00:24.412323+00:00"
+  },
+  {
+    "pmid": "43031611",
+    "doi": "10.3389/fpubh.2026.1979471",
+    "category": "カテーテル新技術",
+    "title_en": "Epidemiology, microbiological characteristics, and antimicrobial resistance of device-associated healthcare-associated infections in a neonatal intensive care unit: a six-year surveillance study.",
+    "title_ja": "",
+    "authors": "Zhang Haiqiao, Zou Mingyan, Guo Xiaoming, Cai Jiayu, Liang Zidong",
+    "journal": "Frontiers in public health",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-14",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Device-associated healthcare-associated infections (DA-HAIs) remain an important concern in neonatal intensive care units (NICUs). This study describes six-year surveillance data on the epidemiology, device utilization, pathogen distribution, and antimicrobial resistance of DA-HAIs.\nMETHODS: We conducted a retrospective descriptive surveillance study from 2020 to 2025. Ventilator-associated pneumonia (VAP), central line-associated bloodstream infection (CLABSI), and catheter-associated urinary tract infection (CAUTI) were classified using a standardized CDC/NHSN surveillance framework. Annual infection rates per 1,000 device-days, exact 95% confidence intervals (CIs), device utilization ratios, and isolate-level microbiological data were summarized.\nRESULTS: Twenty-four CLABSI episodes occurred during 17,033 central-line days (1.41 per 1,000 line-days; 95% CI, 0.90-2.10), and 46 VAP episodes occurred during 21,628 ventilator-days (2.13 per 1,000 ventilator-days; 95% CI, 1.56-2.84). No CAUTI episodes occurred during 2,294 urinary catheter-days (95% CI, 0.00-1.61 per 1,000 catheter-days). Coagulase-negative staphylococci predominated among CLABSI isolates. Gram-negative organisms accounted for 25 of 42 recorded VAP isolates, while Staphylococcus haemolyticus was the single most common VAP isolate. MDR classifications varied by organism.\nCONCLUSION: These surveillance data characterize local DA-HAI patterns and support continued attention to device stewardship, microbiological surveillance, and antimicrobial stewardship.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "Annual infection rates per 1,000 device-days, exact 95% confidence intervals (CIs), device utilization ratios, and isolate-level microbiological data were summarized."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 0",
+        "source": "RESULTS: Twenty-four CLABSI episodes occurred during 17,033 central-line days (1.41 per 1,000 line-days; 95% CI, 0.90-2.10), and 46 VAP episodes occurred during 21,628 ventilator-days (2.13 per 1,000 ventilator-days; 95% CI, 1.56-2.84)."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 1",
+        "source": "RESULTS: Twenty-four CLABSI episodes occurred during 17,033 central-line days (1.41 per 1,000 line-days; 95% CI, 0.90-2.10), and 46 VAP episodes occurred during 21,628 ventilator-days (2.13 per 1,000 ventilator-days; 95% CI, 1.56-2.84)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43031611/",
+    "doi_url": "https://doi.org/10.3389/fpubh.2026.1979471",
+    "created_at": "2026-11-15T01:00:28.382239+00:00"
+  },
+  {
     "pmid": "43022758",
     "doi": "10.1016/j.infpip.2026.100611",
     "category": "カテーテル新技術",
@@ -154,6 +339,63 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43022737/",
     "doi_url": "https://doi.org/10.1080/14686996.2026.2751772",
     "created_at": "2026-11-14T01:26:11.476962+00:00"
+  },
+  {
+    "pmid": "43024937",
+    "doi": "10.1021/acsami.6c19486",
+    "category": "カテーテル新技術",
+    "title_en": "Binary-Crosslinked Alginate/Zwitterionic Interpenetrating Polymer Network Coatings for Lubricious and Antifouling Urinary Catheters.",
+    "title_ja": "",
+    "authors": "Seo Young Ho, Lee Dong Uk, Choi Ji Ho, Son Jeong Sang, Kim Kang Bin, Kim Woojin, Lee Dong Yun, Choi Dong Yun",
+    "journal": "ACS applied materials & interfaces",
+    "publication_date": "2026-11-16",
+    "entry_date": "2026-11-13",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel、coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel",
+      "coating"
+    ],
+    "abstract_en": "Hydrophilic hydrogel coatings can mitigate catheter-associated infections and friction-induced mucosal trauma during urinary catheterization by providing hydration-driven lubrication and antifouling surfaces. Here, we report an alginate/sulfobetaine methacrylate-based zwitterionic interpenetrating polymer network (Alg-ZW IPN) that integrates a binary crosslinker system into the IPN architecture by pairing a short-chain crosslinker, N,N'-methylenebisacrylamide (MbAm), with a long-chain crosslinker, poly(ethylene glycol) dimethacrylate (PEGDMA). In the binary crosslinked IPN (Alg-ZW BIPN), MbAm establishes dense local junctions for structural integrity, while PEGDMA spans the interjunction domains to mechanically bridge the network, confine alginate chains, and stabilize Ca2+-alginate coordination. This architecture redistributes mechanical stress across length scales, thereby improving coating durability. The Alg-ZW BIPN coating exhibited ultralow friction, with a friction coefficient of 0.01-0.02, and maintained 49% lower friction than MbAm single crosslinker coatings. In catheter insertion tests using a standard vascular phantom, the coating reduced insertion force by up to 75% compared with uncoated catheters. The coating also inhibited Escherichia coli adhesion by 97.4% relative to uncoated substrates and showed excellent biocompatibility, with a hemolysis ratio of 0.17% and >95% endothelial cell viability after 24 h. Overall, the Alg-ZW BIPN design provides a general and scalable route to mechanically robust, lubricious, and antifouling hydrogel interfaces for indwelling medical devices.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "49%",
+        "source": "The Alg-ZW BIPN coating exhibited ultralow friction, with a friction coefficient of 0.01-0.02, and maintained 49% lower friction than MbAm single crosslinker coatings."
+      },
+      {
+        "item": "割合",
+        "value": "75%",
+        "source": "In catheter insertion tests using a standard vascular phantom, the coating reduced insertion force by up to 75% compared with uncoated catheters."
+      },
+      {
+        "item": "割合",
+        "value": "97.4%",
+        "source": "The coating also inhibited Escherichia coli adhesion by 97.4% relative to uncoated substrates and showed excellent biocompatibility, with a hemolysis ratio of 0.17% and >95% endothelial cell viability after 24 h."
+      },
+      {
+        "item": "割合",
+        "value": "0.17%",
+        "source": "The coating also inhibited Escherichia coli adhesion by 97.4% relative to uncoated substrates and showed excellent biocompatibility, with a hemolysis ratio of 0.17% and >95% endothelial cell viability after 24 h."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "The coating also inhibited Escherichia coli adhesion by 97.4% relative to uncoated substrates and showed excellent biocompatibility, with a hemolysis ratio of 0.17% and >95% endothelial cell viability after 24 h."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43024937/",
+    "doi_url": "https://doi.org/10.1021/acsami.6c19486",
+    "created_at": "2026-11-15T01:00:21.271779+00:00"
   },
   {
     "pmid": "43019189",
