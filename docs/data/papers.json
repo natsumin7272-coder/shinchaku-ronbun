@@ -185,6 +185,185 @@
     "created_at": "2026-11-15T01:00:28.382239+00:00"
   },
   {
+    "pmid": "43034014",
+    "doi": "10.1016/j.ijid.2026.109258",
+    "category": "カテーテル新技術",
+    "title_en": "Natural History and Clinical Outcomes of New Delhi metallo-β-lactamase-Producing Carbapenem-Resistant Pseudomonas aeruginosa Bacteriuria.",
+    "title_ja": "",
+    "authors": "Hong Kyung-Wook, Byun Jung-Hyun, Shin Min-Kyoung, Bae In-Gyu",
+    "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+    "publication_date": "2026-11-14",
+    "entry_date": "2026-11-14",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: To describe the natural history of New Delhi metallo-β-lactamase-producing carbapenem-resistant Pseudomonas aeruginosa (NDM-CRPA) bacteriuria and predictors of progression from asymptomatic bacteriuria (ASB) to symptomatic urinary tract infection (sUTI).\nMETHODS: We retrospectively included adults with NDM-CRPA bacteriuria at a South Korean tertiary-care hospital (2021-2024). Progression was analyzed using a prespecified two-covariate Firth penalized logistic regression and competing-risk methods.\nRESULTS: Of 271 patients, 220 initially had ASB and 51 had sUTI; of the 220 with ASB, 15 (6.8%) progressed to sUTI (10 within 30 days) and 205 remained asymptomatic. With death as a competing event, the 1-year cumulative incidence of progression was 7.8% (95% confidence interval [CI], 4.5-12.2%). Younger age (adjusted odds ratio [aOR] 0.94 per year; 95% CI, 0.91-0.97) and complicated urologic history (aOR 4.77; 95% CI, 1.51-18.60) were associated with progression. Among 66 patients with sUTI, 50.0% had catheter-associated infection and 9.1% died within 30 days. Sequence type (ST) 773 predominated (83.2%) and was more often aztreonam-susceptible than other clones (84.0% vs. 13.0%).\nCONCLUSIONS: Most NDM-CRPA bacteriuria remained asymptomatic; progression was uncommon, occurred early, and was associated with younger age and complicated urologic history. These single-center findings from an ST773-dominant setting support avoiding routine treatment of NDM-CRPA ASB but require multicenter confirmation.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "271 patients",
+        "source": "RESULTS: Of 271 patients, 220 initially had ASB and 51 had sUTI; of the 220 with ASB, 15 (6.8%) progressed to sUTI (10 within 30 days) and 205 remained asymptomatic."
+      },
+      {
+        "item": "対象数",
+        "value": "66 patients",
+        "source": "Among 66 patients with sUTI, 50.0% had catheter-associated infection and 9.1% died within 30 days."
+      },
+      {
+        "item": "割合",
+        "value": "6.8%",
+        "source": "RESULTS: Of 271 patients, 220 initially had ASB and 51 had sUTI; of the 220 with ASB, 15 (6.8%) progressed to sUTI (10 within 30 days) and 205 remained asymptomatic."
+      },
+      {
+        "item": "割合",
+        "value": "7.8%",
+        "source": "With death as a competing event, the 1-year cumulative incidence of progression was 7.8% (95% confidence interval [CI], 4.5-12.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "With death as a competing event, the 1-year cumulative incidence of progression was 7.8% (95% confidence interval [CI], 4.5-12.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "12.2%",
+        "source": "With death as a competing event, the 1-year cumulative incidence of progression was 7.8% (95% confidence interval [CI], 4.5-12.2%)."
+      },
+      {
+        "item": "割合",
+        "value": "50.0%",
+        "source": "Among 66 patients with sUTI, 50.0% had catheter-associated infection and 9.1% died within 30 days."
+      },
+      {
+        "item": "割合",
+        "value": "9.1%",
+        "source": "Among 66 patients with sUTI, 50.0% had catheter-associated infection and 9.1% died within 30 days."
+      },
+      {
+        "item": "割合",
+        "value": "83.2%",
+        "source": "Sequence type (ST) 773 predominated (83.2%) and was more often aztreonam-susceptible than other clones (84.0% vs."
+      },
+      {
+        "item": "割合",
+        "value": "84.0%",
+        "source": "Sequence type (ST) 773 predominated (83.2%) and was more often aztreonam-susceptible than other clones (84.0% vs."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 0",
+        "source": "Younger age (adjusted odds ratio [aOR] 0.94 per year; 95% CI, 0.91-0.97) and complicated urologic history (aOR 4.77; 95% CI, 1.51-18.60) were associated with progression."
+      },
+      {
+        "item": "95%信頼区間",
+        "value": "95% CI, 1",
+        "source": "Younger age (adjusted odds ratio [aOR] 0.94 per year; 95% CI, 0.91-0.97) and complicated urologic history (aOR 4.77; 95% CI, 1.51-18.60) were associated with progression."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43034014/",
+    "doi_url": "https://doi.org/10.1016/j.ijid.2026.109258",
+    "created_at": "2026-11-16T00:59:14.320047+00:00"
+  },
+  {
+    "pmid": "43032820",
+    "doi": "10.3389/fmicb.2026.1990693",
+    "category": "カテーテル新技術",
+    "title_en": "Phage cocktail-loaded hydrogel coating prevents the biofilm formation of MDR Acinetobacter baumannii on indwelling medical devices.",
+    "title_ja": "",
+    "authors": "Rai Nisha K, Suchithra Kokkarambath Vannadil, Mohan Raj Juliet Roshini, Patil Prakash, Mohana Kumar B, Shetty Veena A",
+    "journal": "Frontiers in microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-14",
+    "study_design": "in vitro研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel、coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel",
+      "coating"
+    ],
+    "abstract_en": "INTRODUCTION: Indwelling catheters and implantable medical devices are vital in clinical care, but are often complicated by device-associated infections, especially caused by Acinetobacter baumannii. This pathogen readily colonizes device surfaces and forms biofilms, limiting the efficacy of current preventive strategies such as antimicrobial coatings and surface modifications.\nMETHODS: To address this, we developed a sodium alginate and polyvinyl alcohol-based hydrogel loaded with a bacteriophage cocktail against MDR Acinetobacter baumannii. Physicochemical characterisation of the hydrogel was tested, and the gel was coated onto the medical devices, including urinary catheter and Endotracheal tube.\nRESULTS & DISCUSSION: The system exhibited good biostability of the encapsulated phages and its sustained release behaviour, supporting the biomedical potential. The in vitro antibacterial assay demonstrated a clear zone of bacterial inhibition on the tested agar plates, and the antibiofilm assay showed a 4-5 log reduction in bacterial count in the Foley's urinary catheter and a 4-7 log reduction on endotracheal tube surfaces at their respective physiological pH. In summary, the developed SA-PVA bacteriophage cocktail-loaded hydrogel exhibited strong antibacterial and antibiofilm efficacy along with sustained phage release, highlighting its potential as a translational strategy for preventing MDR A. baumannii-associated device-related infections.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43032820/",
+    "doi_url": "https://doi.org/10.3389/fmicb.2026.1990693",
+    "created_at": "2026-11-16T00:59:17.762587+00:00"
+  },
+  {
+    "pmid": "43031936",
+    "doi": "10.1017/ash.2026.10815",
+    "category": "カテーテル新技術",
+    "title_en": "Rapid containment of a hospital outbreak of Ralstonia mannitolilytica bloodstream infection linked to contaminated pre-filled 0.9% saline vials.",
+    "title_ja": "",
+    "authors": "Al-Busaidi Ibrahim, Al-Lawati Hawra, Al-Siyabi Turkiya, Al-Balushi Asma, Deodhar Divya, Al-Rawahi Ghada, Al-Rashdi Azza, Al-Balushi Iman, Al-Rawahi Abdullah, Al-Yahmadi Intisar, Al-Jabri Mansour, Al-Yahyai Hazza, Al-Siyabi Amani, Al-Quraini Manawr, Al-Hattali Maya, Al-Shuaili Maryam, Al-Hinai Zeid, Al-Yazidi Laila, Al-Rawas Abdulhakim, Al-Busaidi Thuraya, Al-Riyami Salama",
+    "journal": "Antimicrobial stewardship & healthcare epidemiology : ASHE",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-14",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Ralstonia species are environmental Gram-negative bacilli increasingly linked to healthcare-associated bloodstream infection (BSI) outbreaks from contaminated medical solutions. We describe an outbreak of Ralstonia mannitolilytica BSI in which the source was identified and withdrawn within 24 hours.\nMETHODS: Following an unusual cluster of R. mannitolilytica blood cultures on 29 September 2024 at a 700-bed tertiary-care hospital in Oman, we conducted a multidisciplinary investigation including chart review, hospitalwide surveillance, environmental and product sampling, antimicrobial susceptibility testing, and pulsed-field gel electrophoresis (PFGE) of clinical and product isolates.\nRESULTS: Between 29 September and 8 October 2024, 21 patients met the case definition (median age 9 yr; 62% pediatric; 62% male; 95% immunocompromised; 86% with central venous access). Newly introduced pre-filled 10 mL 0.9% sodium chloride vials from a single manufacturer yielded R. mannitolilytica with concordant clinical and product antimicrobial susceptibility profiles. PFGE of 18 clinical isolates and one product isolate demonstrated 100% genetic relatedness, confirming a single-clone outbreak. The implicated product was withdrawn within 24 hours of cluster recognition. Thirteen of 21 patients had their central catheters removed; all received intravenous trimethoprim-sulfamethoxazole. Two patients experienced bacteremia recurrence after initial line retention; no outbreak-related deaths occurred.\nCONCLUSIONS: Prefilled saline vials can serve as the source of clonal R. mannitolilytica BSI outbreaks in immunocompromised patients. Laboratory-driven cluster detection, multidisciplinary coordination, and rapid product suspension enabled source identification within 24 hours and limited outbreak size and severity. Vigilance after introduction of new pharmaceutical products and prompt catheter removal in catheter-associated Ralstonia BSI are essential.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "21 patients",
+        "source": "RESULTS: Between 29 September and 8 October 2024, 21 patients met the case definition (median age 9 yr; 62% pediatric; 62% male; 95% immunocompromised; 86% with central venous access)."
+      },
+      {
+        "item": "割合",
+        "value": "62%",
+        "source": "RESULTS: Between 29 September and 8 October 2024, 21 patients met the case definition (median age 9 yr; 62% pediatric; 62% male; 95% immunocompromised; 86% with central venous access)."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: Between 29 September and 8 October 2024, 21 patients met the case definition (median age 9 yr; 62% pediatric; 62% male; 95% immunocompromised; 86% with central venous access)."
+      },
+      {
+        "item": "割合",
+        "value": "86%",
+        "source": "RESULTS: Between 29 September and 8 October 2024, 21 patients met the case definition (median age 9 yr; 62% pediatric; 62% male; 95% immunocompromised; 86% with central venous access)."
+      },
+      {
+        "item": "割合",
+        "value": "0.9%",
+        "source": "Newly introduced pre-filled 10 mL 0.9% sodium chloride vials from a single manufacturer yielded R."
+      },
+      {
+        "item": "割合",
+        "value": "100%",
+        "source": "PFGE of 18 clinical isolates and one product isolate demonstrated 100% genetic relatedness, confirming a single-clone outbreak."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43031936/",
+    "doi_url": "https://doi.org/10.1017/ash.2026.10815",
+    "created_at": "2026-11-16T00:59:20.967927+00:00"
+  },
+  {
     "pmid": "43022758",
     "doi": "10.1016/j.infpip.2026.100611",
     "category": "カテーテル新技術",
