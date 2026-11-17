@@ -1,5 +1,79 @@
 [
   {
+    "pmid": "43036563",
+    "doi": "10.2147/IDR.S655404",
+    "category": "カテーテル新技術",
+    "title_en": "Antimicrobial Resistance Patterns and Independent Predictors of ESBL Production in Community-Onset Urinary Tract Infections.",
+    "title_ja": "",
+    "authors": "Usanmaz Mustafa, Görgün Selim, Karslıoğlu Meltem, Sivrikaya Bahar Büşra, Günal Özgür",
+    "journal": "Infection and drug resistance",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-16",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "PURPOSE: Antimicrobial resistance among pathogens causing community-onset urinary tract infections (CO-UTIs) increasingly compromises empirical treatment strategies worldwide.\nPATIENTS AND METHODS: This retrospective cohort study evaluated antimicrobial susceptibility patterns and risk factors for resistance among 205 adults with culture-confirmed community-onset urinary tract infections (CO-UTIs), including both community-acquired and healthcare-associated infections. Multivariable logistic regression models included seven prespecified clinical predictors-age, sex, diabetes mellitus, hypertension, chronic kidney disease, hospitalization within the preceding 90 days, and urinary catheterization-to identify independent predictors of ESBL production and ciprofloxacin resistance. The mean age was 70.5 ± 15.1 years, and 55.1% of patients were male.\nRESULTS: Escherichia coli was the predominant pathogen, accounting for 58.5% of isolates. ESBL production was detected in 29.3% of isolates. Resistance rates were highest for ampicillin (57.1%) and third-generation cephalosporins (36.6%), whereas carbapenem resistance remained below 8%. Fluoroquinolone resistance was observed in 16.6% of isolates. In multivariable analysis, hospitalisation within the preceding 90 days was the only independent predictor of ESBL positivity (odds ratio 5.23, 95% confidence interval 1.60-17.18; p = 0.006), while no statistically significant independent associations with ciprofloxacin resistance were detected.\nCONCLUSION: These findings demonstrate a substantial burden of ESBL-producing pathogens among CO-UTIs, and emphasize the importance of recent healthcare exposure in resistance risk stratification. Risk-adapted empirical therapy and continuous local antimicrobial resistance surveillance are therefore essential components of effective antimicrobial stewardship.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "55.1%",
+        "source": "The mean age was 70.5 ± 15.1 years, and 55.1% of patients were male."
+      },
+      {
+        "item": "割合",
+        "value": "58.5%",
+        "source": "RESULTS: Escherichia coli was the predominant pathogen, accounting for 58.5% of isolates."
+      },
+      {
+        "item": "割合",
+        "value": "29.3%",
+        "source": "ESBL production was detected in 29.3% of isolates."
+      },
+      {
+        "item": "割合",
+        "value": "57.1%",
+        "source": "Resistance rates were highest for ampicillin (57.1%) and third-generation cephalosporins (36.6%), whereas carbapenem resistance remained below 8%."
+      },
+      {
+        "item": "割合",
+        "value": "36.6%",
+        "source": "Resistance rates were highest for ampicillin (57.1%) and third-generation cephalosporins (36.6%), whereas carbapenem resistance remained below 8%."
+      },
+      {
+        "item": "割合",
+        "value": "8%",
+        "source": "Resistance rates were highest for ampicillin (57.1%) and third-generation cephalosporins (36.6%), whereas carbapenem resistance remained below 8%."
+      },
+      {
+        "item": "割合",
+        "value": "16.6%",
+        "source": "Fluoroquinolone resistance was observed in 16.6% of isolates."
+      },
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "In multivariable analysis, hospitalisation within the preceding 90 days was the only independent predictor of ESBL positivity (odds ratio 5.23, 95% confidence interval 1.60-17.18; p = 0.006), while no statistically significant independent associations with ciprofloxacin resistance were detected."
+      },
+      {
+        "item": "P値",
+        "value": "p = 0.006",
+        "source": "In multivariable analysis, hospitalisation within the preceding 90 days was the only independent predictor of ESBL positivity (odds ratio 5.23, 95% confidence interval 1.60-17.18; p = 0.006), while no statistically significant independent associations with ciprofloxacin resistance were detected."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43036563/",
+    "doi_url": "https://doi.org/10.2147/IDR.S655404",
+    "created_at": "2026-11-17T03:48:47.414731+00:00"
+  },
+  {
     "pmid": "43029249",
     "doi": "10.3390/molecules31213934",
     "category": "尿路結石・細菌叢",
