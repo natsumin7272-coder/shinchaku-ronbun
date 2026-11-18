@@ -1,5 +1,130 @@
 [
   {
+    "pmid": "43042043",
+    "doi": "10.2147/IMCRJ.S655305",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "A Uro-Obstetric Emergency in Obstructed Labour: A Case Report of Concurrent Uterine and Bladder Rupture in a Woman with Two Previous Caesarean Section Scars in a Low-Resource Setting.",
+    "title_ja": "",
+    "authors": "Muwonge Mathias, Mujuni Emanuel, Grant Kato Hussein, Kaniina Cosmas Kibikyo, Robert Tom, Inzama Wilfred, Tumwesige Kenneth, Xaviour Okedi Francis, Nankwatsa Bronia, Pitua Ivaan, Odong Patrick Olwedo, Oryem Denis Amuku, Nakato Priscilla",
+    "journal": "International medical case reports journal",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-17",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: Combined uterine and urinary bladder rupture is a rare uro-obstetric emergency that can complicate obstructed labour in a scarred uterus.\nCASE PRESENTATION: We report a 41-year-old woman, gravida 5 para 2+2, at 36 weeks gestation with two previous caesarean scars that came in as a referral in active obstructed labour. Shortly before arrival she developed sudden severe abdominal pain, fresh vaginal bleeding and loss of uterine contractions. She was pale, diaphoretic and in mild respiratory distress, with a severely tender abdomen, an inaudible fetal heart, and haematuria draining through an indwelling urethral catheter. Emergency laparotomy revealed dense adhesions binding the bladder to the anterior abdominal wall and lower uterine segment and there was a partial uterine rupture on the right lateral side extending to but not involving the round ligament and tubo-ovarian complex, with an impending rupture of the previous scar. A live male neonate weighing 2.6 kg was delivered via an incision at the site of the impending rapture, with Apgar scores of 3, 5 and 7 who was admitted to NICU. Total abdominal hysterectomy was performed, ureteric stents were placed, and the bladder was repaired in layers. The mother required blood transfusion intraoperatively and close monitoring in a non-pneumatic anti-shock garment, but recovered and was discharged well on the sixteenth postoperative day.\nCONCLUSION: Combined uterine and bladder rupture demands early recognition, aggressive resuscitation and a timely multidisciplinary surgical approach to optimise maternal and perinatal outcomes. Prompt laparotomy with hysterectomy and layered bladder repair, supported by ureteric stenting, can be lifesaving particularly in resource-limited settings.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43042043/",
+    "doi_url": "https://doi.org/10.2147/IMCRJ.S655305",
+    "created_at": "2026-11-18T02:52:35.672386+00:00"
+  },
+  {
+    "pmid": "43042338",
+    "doi": "10.4103/ija.ija_1000_26",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Combined thoracic segmental spinal anaesthesia and erector spinae plane block with indwelling catheters for breast tumour surgery in selected high-risk patients: A case series.",
+    "title_ja": "",
+    "authors": "Kundal Raksha, Hansa Anu, Khanna Paras, Shankar Ajay",
+    "journal": "Indian journal of anaesthesia",
+    "publication_date": "2026-10-01",
+    "entry_date": "2026-11-17",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "Breast tumour surgeries are conventionally performed under general anaesthesia (GA). However, in high-risk patients with significant comorbidities, GA may increase perioperative morbidity. Thoracic segmental spinal anaesthesia (TSSA) combined with erector spinae plane (ESP) block may provide effective surgical anaesthesia and prolonged postoperative analgesia. We present a case series of five female patients undergoing breast tumour surgeries under combined TSSA and ultrasound-guided ESP block with indwelling catheter placement. Procedures included modified radical mastectomy, breast-conserving surgery, lumpectomy, and mastectomy. TSSA was administered at the T4-T5 level using low-dose isobaric levobupivacaine, while ESP catheters were inserted under ultrasound guidance at the same thoracic level. Adequate surgical anaesthesia was achieved in all patients without need for conversion to GA. The combination of TSSA and ESP block with continuous catheter analgesia appears to be a feasible and effective regional anaesthesia technique for breast tumour surgery in selected high-risk patients.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43042338/",
+    "doi_url": "https://doi.org/10.4103/ija.ija_1000_26",
+    "created_at": "2026-11-18T02:52:38.880147+00:00"
+  },
+  {
+    "pmid": "43044098",
+    "doi": "10.2196/105057",
+    "category": "カテーテル新技術",
+    "title_en": "Blood Pressure Estimation for Hemodynamic Monitoring Using Reduced Photoplethysmography Features in Intensive Care Units: Prospective Machine Learning Study.",
+    "title_ja": "",
+    "authors": "Lee Jieun, Sujanyal Saurabh Ashok, Dadwal Surbhi, Omercikoglu Elcin, Alazab Heba M, Handral Megha Shashidhar, Shariff Mohammed Naveed, Nechooli Muhammed Asil, Chandrasekar Saravanabhavan, Shivaram Suganti, C M Vidhya, Arunachalam Shivaram P, Helgeson Scott A",
+    "journal": "JMIR AI",
+    "publication_date": "2026-11-17",
+    "entry_date": "2026-11-17",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "BACKGROUND: Continuous, noninvasive blood pressure (BP) monitoring is clinically important for managing hemodynamic instability in the intensive care unit (ICU). However, current ICU practice primarily relies on invasive arterial catheterization. While this is the clinical gold standard for continuous measurement, it carries risks such as infection and thrombosis and is typically limited to select critical care settings.\nOBJECTIVE: To reduce reliance on invasive arterial lines, we developed an interpretable estimation framework for systolic blood pressure (SBP), mean arterial pressure (MAP), and diastolic blood pressure (DBP) from single-sensor photoplethysmography (PPG).\nMETHODS: Synchronized PPG and arterial line 10-minute recordings from 100 patients in the ICU were analyzed. Using a hybrid feature selection strategy (RReliefF and intrinsic model-specific rankings), we reduced 201 initial features to an optimized subset of 30 core features. Model development and evaluation were designed to minimize information leakage and overfitting, incorporating nested cross-validation and patient-wise testing to assess generalizability across heterogeneous ICU populations. We developed and validated predictive models using machine learning techniques, specifically XGBoost (XGB), random forest, and support vector regression, with XGB serving as our primary model.\nRESULTS: Among the evaluated models, the Hybrid Top 30 XGB configuration provided the best balance between estimation performance, model compactness, and computational efficiency. The model achieved mean absolute errors of 8.61 mm Hg (SBP), 3.50 mm Hg (MAP), and 2.62 mm Hg (DBP). For MAP and DBP, mean difference (SD) values of -0.09 (4.54) mm Hg and -1.07 (3.51) mm Hg, respectively, satisfied the Association for the Advancement of Medical Instrumentation numerical criteria, while performance corresponded to Grade A according to the British Hypertension Society grading criteria. Although SBP exhibited greater variability, estimation performance was largely preserved using a physiologically informed subset of 30 features (approximately 15% of the original feature set). Feature importance analysis revealed distinct physiological feature patterns across SBP, MAP, and DBP estimation.\nCONCLUSIONS: Interpretability analysis identified key predictors associated with wave reflection, systolic timing, low-frequency vasomotor activity, and autonomic regulation. By explicitly linking predictive features to underlying cardiovascular physiology, the proposed framework addresses a key limitation of existing black-box cuffless BP models. Ultimately, this study demonstrates that an optimized XGB framework using physiologically informed PPG features can provide accurate and computationally efficient BP estimation in ICU settings and may support the assessment of clinically relevant hemodynamic states using a single-sensor PPG platform. These findings provide a foundation for future development of more robust and generalizable interpretable BP estimation models and cuffless monitoring technologies.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "100 patients",
+        "source": "METHODS: Synchronized PPG and arterial line 10-minute recordings from 100 patients in the ICU were analyzed."
+      },
+      {
+        "item": "割合",
+        "value": "15%",
+        "source": "Although SBP exhibited greater variability, estimation performance was largely preserved using a physiologically informed subset of 30 features (approximately 15% of the original feature set)."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43044098/",
+    "doi_url": "https://doi.org/10.2196/105057",
+    "created_at": "2026-11-18T02:52:42.924818+00:00"
+  },
+  {
+    "pmid": "43042848",
+    "doi": "10.1002/adma.75738",
+    "category": "カテーテル新技術",
+    "title_en": "An Implantable In-Tube System for Quantitative Precision Vagus Neuromodulation and Feedback of Intestinal Motility.",
+    "title_ja": "",
+    "authors": "Wu Haoyu, Du Zhijian, Li La, Chen Zhongming, Liu Weijia, Duan Zhongyi, Liu Haiqing, Wu Lifeng, Sheng Xiangyu, Zhou Lihao, Yang Kaiwen, Chen Di, Shen Guozhen, Jiang Kai",
+    "journal": "Advanced materials (Deerfield Beach, Fla.)",
+    "publication_date": "2026-11-17",
+    "entry_date": "2026-11-17",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「hydrogel」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "hydrogel"
+    ],
+    "abstract_en": "Electrical vagus neuromodulation of intestinal motility has demonstrated significant clinical utility in the field, where targeting the brain-gut axis can serve as an adjunct in treating intestinal diseases. However, quantitatively understanding vagus-intestine interoceptive information about real-time and in situ feedback on intestinal motility under the influence of electrical stimulation parameters is one of the most urgent challenges. Here we propose an implantable closed-loop system that combines a scalable catheter-type ionic piezoelectric (in-tube) sensor as diverse as the gut, a microelectronic chip, an electrical vagus stimulation electrode, and a display interface to realize point-of-care precision vagus neuromodulation and feedback of intestinal motility. Owing to the radial gradient hydrogel structure design and stress concentration effect, the in-tube sensor can simultaneously quantitatively detect and display four key parameters of intestinal motility, including intensity, frequency, duration, and local compression rate, with a high sensitivity of 7.0 mV mmHg-1 and unique pressure-time integral behavior with a time sensitivity of 24.1 mV s-1, making up for the deficiency of traditional sensors that cannot obtain pressure duration. After implanting the in-tube sensor in the anatomically challenging intestinal lumen of rabbits, we intuitively show how electrical vagus stimulation affects intestinal motility, which guides the optimal frequency window of 5 ∼ 10 Hz.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43042848/",
+    "doi_url": "https://doi.org/10.1002/adma.75738",
+    "created_at": "2026-11-18T02:52:45.445532+00:00"
+  },
+  {
     "pmid": "43036563",
     "doi": "10.2147/IDR.S655404",
     "category": "カテーテル新技術",
@@ -72,6 +197,70 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43036563/",
     "doi_url": "https://doi.org/10.2147/IDR.S655404",
     "created_at": "2026-11-17T03:48:47.414731+00:00"
+  },
+  {
+    "pmid": "43040363",
+    "doi": "10.1186/s12913-026-15412-2",
+    "category": "カテーテル新技術",
+    "title_en": "Evaluation of the educational quality and reliability of YouTube videos on outpatient parenteral antimicrobial therapy.",
+    "title_ja": "",
+    "authors": "Bayrak Edip, Okyay Ramazan Azim, Yayla Muhteşem Erol, Suntur Bedia Mutay, Kocyiğit Burhan Fatih",
+    "journal": "BMC health services research",
+    "publication_date": "2026-08-20",
+    "entry_date": "2026-11-16",
+    "study_design": "横断研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "INTRODUCTION: OPAT allows clinically stable patients to receive prolonged intravenous antimicrobial therapy outside the hospital, improving efficiency and reducing costs while maintaining outcomes. As patients increasingly turn to YouTube for health information, concerns arise regarding the accuracy of its unregulated content, especially for therapies requiring proper self-management like OPAT.\nAIM: This study aimed to evaluate the educational quality, informational reliability, transparency and thematic coverage of YouTube videos related to outpatient parenteral antimicrobial therapy (OPAT), and to examine whether user engagement or source category act as reliable proxies for video quality.\nMETHODS: In this cross-sectional study, a total of 200 videos were initially identified on March 15, 2026, using OPAT-related search terms. After applying exclusion criteria (e.g., duplicates, non-English language, duration under 60 s), 107 videos were included for full assessment. Content quality was evaluated using the Global Quality Scale (GQS), informational reliability with the modified DISCERN (mDISCERN) tool and transparency with the four JAMA benchmark criteria. Video source, engagement metrics (views, likes, comments), and thematic content were also analyzed.\nRESULTS: The vast majority of the analyzed videos (90.7%; n = 97) were classified as low quality according to the GQS, while only two videos (1.9%) achieved a high-quality rating. The median mDISCERN score was 0, indicating poor overall reliability. Institutional provenance did not confer quality: 28 of 29 university-affiliated videos and 20 of 22 videos from healthcare institutions or professional associations were rated low quality, and the only two high-quality videos originated from commercial home-infusion providers. Transparency was also limited: authorship was identifiable in 66.4% of videos, but the sources of the clinical information were attributed in only 15.0%, and no video in the commercial category carried a disclosure statement. JAMA scores correlated positively with GQS and mDISCERN scores but inversely with daily user engagement, which did not differ significantly across quality categories. Crucially, the topics most relevant to patient safety-antibiotic side effects (5.6%) and catheter-related complications (3.7%)-were the least represented themes.\nCONCLUSION: YouTube currently offers a predominantly sparse, low-quality, and poorly attributed body of educational content regarding OPAT. Neither academic nor institutional provenance predicted quality, and critical safety topics are significantly underrepresented. There is a clear need for academic medical centers, professional societies and OPAT services to actively develop high-quality, safety-focused and transparently sourced informational content to address this gap, and for the commercial providers currently producing the most complete material to disclose their commercial interests.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "対象数",
+        "value": "n = 97",
+        "source": "RESULTS: The vast majority of the analyzed videos (90.7%; n = 97) were classified as low quality according to the GQS, while only two videos (1.9%) achieved a high-quality rating."
+      },
+      {
+        "item": "割合",
+        "value": "90.7%",
+        "source": "RESULTS: The vast majority of the analyzed videos (90.7%; n = 97) were classified as low quality according to the GQS, while only two videos (1.9%) achieved a high-quality rating."
+      },
+      {
+        "item": "割合",
+        "value": "1.9%",
+        "source": "RESULTS: The vast majority of the analyzed videos (90.7%; n = 97) were classified as low quality according to the GQS, while only two videos (1.9%) achieved a high-quality rating."
+      },
+      {
+        "item": "割合",
+        "value": "66.4%",
+        "source": "Transparency was also limited: authorship was identifiable in 66.4% of videos, but the sources of the clinical information were attributed in only 15.0%, and no video in the commercial category carried a disclosure statement."
+      },
+      {
+        "item": "割合",
+        "value": "15.0%",
+        "source": "Transparency was also limited: authorship was identifiable in 66.4% of videos, but the sources of the clinical information were attributed in only 15.0%, and no video in the commercial category carried a disclosure statement."
+      },
+      {
+        "item": "割合",
+        "value": "5.6%",
+        "source": "Crucially, the topics most relevant to patient safety-antibiotic side effects (5.6%) and catheter-related complications (3.7%)-were the least represented themes."
+      },
+      {
+        "item": "割合",
+        "value": "3.7%",
+        "source": "Crucially, the topics most relevant to patient safety-antibiotic side effects (5.6%) and catheter-related complications (3.7%)-were the least represented themes."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43040363/",
+    "doi_url": "https://doi.org/10.1186/s12913-026-15412-2",
+    "created_at": "2026-11-18T02:52:49.386870+00:00"
   },
   {
     "pmid": "43029249",
