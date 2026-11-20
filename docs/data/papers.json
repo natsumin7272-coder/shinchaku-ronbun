@@ -1,5 +1,105 @@
 [
   {
+    "pmid": "43055719",
+    "doi": "10.1177/03915603261498967",
+    "category": "尿道カテーテル閉塞",
+    "title_en": "Wire-assisted trans-urethral exchange of uReteral stent (WATERS): A cost-effective alternative to the snare-loop technique in gynecological malignancies.",
+    "title_ja": "",
+    "authors": "Barbieri Pierluigi, Posa Alessandro, Scrofani Anna Rita, De Filippis Alessandra, Cina Alessandro, Maresca Alessandro, Contegiacomo Andrea, Iezzi Roberto",
+    "journal": "Urologia",
+    "publication_date": "2026-11-19",
+    "entry_date": "2026-11-19",
+    "study_design": "後ろ向き研究",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿道カテーテル閉塞に関連し、特に「関連テーマ」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [],
+    "abstract_en": "OBJECTIVES: To retrospectively evaluate the feasibility and safety of wire-assisted trans-urethral exchange of double-J ureteral stents as a cost-effective and easy to learn alternative to the traditional snare-loop technique in patients with gynecological malignancies.\nMATERIALS AND METHODS: Between December 2021 and March 2025, all female patients undergoing trans-urethral stent replacement or removal were retrospectively reviewed; among them, 76 female patients (mean age 60 years, range 33-86 years) underwent retrograde trans-urethral encircling of double-J ureteral stents using a wire-assisted technique. Stents were mostly placed in case of primary or secondary neoplastic urinary tract obstruction. A 14-F Foley catheter was firstly inserted in the bladder and then exchanged on a hydrophilic guide-wire with a 7-F × 10 cm angiographic sheath; a 0.018\" hydrophilic guide-wire was folded into a U-shape and inserted into the bladder through the sheath, making it an adjustable-in-size loop, fit for stent retrieval. Procedural time (time between the start and the end of the procedure), radiation dose (in terms of Dose-Area-Product, DAP), and complication rates were examined. Data were compared to the ones from a retrospective cohort of patients who underwent ureteral stent replacement with the snare-loop technique during the same time period.\nRESULTS: Technical success was achieved in 95% of cases, without major complications. Radiation dose and mean fluoroscopy were similar to the snare-loop technique for all the subgroups taken in considerations. Total cost of the used materials were lower for the wire-assisted technique than the snare-loop one.\nCONCLUSION: Double-J stent replacement can be easily performed using this wire-loop technique, lowering procedural costs without hindering patient safety regarding radiation dose and procedural complications.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "95%",
+        "source": "RESULTS: Technical success was achieved in 95% of cases, without major complications."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43055719/",
+    "doi_url": "https://doi.org/10.1177/03915603261498967",
+    "created_at": "2026-11-20T02:17:18.553649+00:00"
+  },
+  {
+    "pmid": "43054323",
+    "doi": "10.1002/fsn3.72600",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Garcinia cambogia Extract Alleviates Calcium Oxalate Kidney Stones and Is Associated With Gut Microbiota Short Chain Fatty Acid Modulation in Rats.",
+    "title_ja": "",
+    "authors": "Liu Shiyong, Lu Yi, Li Chan, Zheng Xue'er, Zhang Fujian, Chao Zhi",
+    "journal": "Food science & nutrition",
+    "publication_date": "2026-11-01",
+    "entry_date": "2026-11-19",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "Calcium oxalate (CaOx) kidney stones represent a prevalent urological disorder with high recurrence rates. Garcinia cambogia extract (GCE), a botanical extract abundant in hydroxycitric acid, possesses antioxidant and metabolic regulatory properties, although its potential effects on CaOx nephrolithiasis have not been fully clarified. In this investigation, fifty male Sprague-Dawley rats were randomly allocated into five groups: control, CaOx model, CaOx plus low-dose GCE (100 mg/kg/day), CaOx plus medium-dose GCE (300 mg/kg/day), and CaOx plus high-dose GCE (900 mg/kg/day). Following predefined exclusions and quality control screening, eight rats from each group were retained for final analysis. The CaOx nephrolithiasis model was established by administering 5% L-hydroxyproline over 28 days, and GCE or vehicle was delivered via oral gavage under a preventive and early-intervention strategy. We assessed renal histology, ultrasound-quantified stone burden, renal biochemical indices, oxidative stress markers, gut microbiota profiles, and short-chain fatty acid (SCFA) concentrations. Relative to the CaOx model group, GCE intervention improved renal biochemical parameters, alleviated oxidative stress, and decreased stone burden identified by ultrasound. The mean ultrasound stone area declined from 5.67 ± 0.69 mm2 in the model group to 4.12 ± 0.56 mm2, 3.02 ± 0.46 mm2, and 1.98 ± 0.34 mm2 in the low-, medium-, and high-dose GCE groups, respectively. Histological examination revealed decreased microscopic crystal deposition in the low- and medium-dose groups; nevertheless, the high-dose group showed a numerically greater microscopic crystal area than the CaOx model group, even though it had the lowest macroscopic stone burden on ultrasound. GCE also partially restored microbial diversity, reshaped gut microbiota composition, and elevated fecal SCFA levels. Collectively, in this rat model, GCE lowered ultrasound-detected CaOx stone burden, preserved renal function, and attenuated oxidative stress. Concurrent changes in gut microbiota and SCFA production were correlated with these renoprotective effects, yet a causal role of the gut microbiota could not be confirmed. Notably, the conflicting ultrasound and histological results observed in the high-dose group indicate that these beneficial effects do not follow a consistent, monotonic dose-dependent response. These results warrant further mechanistic and dose-response studies to evaluate GCE as a promising agent for the prevention of kidney stones.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "5%",
+        "source": "The CaOx nephrolithiasis model was established by administering 5% L-hydroxyproline over 28 days, and GCE or vehicle was delivered via oral gavage under a preventive and early-intervention strategy."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43054323/",
+    "doi_url": "https://doi.org/10.1002/fsn3.72600",
+    "created_at": "2026-11-20T02:17:22.099959+00:00"
+  },
+  {
+    "pmid": "43054478",
+    "doi": "10.3389/fmicb.2026.1862451",
+    "category": "尿路結石・細菌叢",
+    "title_en": "Gut dysbiosis-derived reduction in predicted short-chain fatty acid-producing capacity is associated with oxalate-induced renal oxidative stress involving the Sp3/SOD2 regulatory axis.",
+    "title_ja": "",
+    "authors": "Liu Jianlei, He Chunmei, Ran Jiangfan, Zheng Bin, Lu Jun, Zhuang Xiwei, Zeng Chijia",
+    "journal": "Frontiers in microbiology",
+    "publication_date": "2026-01-01",
+    "entry_date": "2026-11-19",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "尿路結石・細菌叢に関連し、特に「microbiota」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "microbiota"
+    ],
+    "abstract_en": "The gut microbiota and its metabolites, particularly short-chain fatty acids (SCFAs), have been linked to kidney stones, but the specific molecular mechanisms by which they regulate kidney injury remain unclear. This study aimed to investigate these underlying molecular mechanisms. We analyzed gut microbiota diversity in a population, examined the expression of target genes and constructed dynamic expression profiles using a publicly available single-cell RNA sequencing (scRNA-seq) dataset, and investigated the interrelationships among the transcription factors Sp1, Sp3, and SOD2. Proximal tubular (PT) epithelial cells were treated with a combination of oxalate and SCFAs to assess the effects on cell viability and SOD2 expression. In the stone formers (SF) group, gut microbiota diversity and predicted SCFA-producing capacity were reduced, while predicted oxidative stress responses were enhanced. scRNA-seq revealed that during the transition of PT cells from a healthy to a stone-damaged state, SOD2, Sp1, Sp3, and SLC16A3 exhibited similar change trajectories. Sp3 expression was significantly positively correlated with SOD2, and in silico knockdown prediction indicated that Sp3 depletion may induce a significant downregulation of SOD2 expression. Preliminary cell experiments demonstrated that SCFAs may inhibit oxalate-induced damage to renal tubular epithelial cells by regulating SOD2 protein expression. This study suggests that in SF patients, the reduction in predicted SCFA-producing capacity caused by gut dysbiosis is associated with upregulation of SOD2 expression through Sp3-mediated transcriptional activation, a compensatory antioxidant response to oxalate-induced oxidative stress in PT cells. We therefore propose the following working hypothesis: the SCFA-Sp3-SOD2 axis may be involved in the \"gut-kidney axis\" mechanism underlying kidney stone formation; however, this requires direct measurement of SCFAs, verification of Sp3 binding to the SOD2 promoter, and confirmation in in vivo experiments.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43054478/",
+    "doi_url": "https://doi.org/10.3389/fmicb.2026.1862451",
+    "created_at": "2026-11-20T02:17:25.126182+00:00"
+  },
+  {
     "pmid": "43048429",
     "doi": "10.7759/cureus.118128",
     "category": "尿道カテーテル閉塞",
@@ -72,6 +172,42 @@
     "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43048570/",
     "doi_url": "https://doi.org/10.1002/jpr3.70308",
     "created_at": "2026-11-19T02:31:55.581085+00:00"
+  },
+  {
+    "pmid": "43051301",
+    "doi": "10.1080/08927014.2026.2763376",
+    "category": "カテーテル新技術",
+    "title_en": "Fluvoxamine disrupts Enterococcus faecalis biofilms by downregulating adhesion genes and binding biofilm proteins: a promising strategy for antimicrobial urinary catheter coatings.",
+    "title_ja": "",
+    "authors": "Poyil Muhammad Musthafa, AlFaki Mamoun Abdel Wahab, Hassan Md Imtaiyaz",
+    "journal": "Biofouling",
+    "publication_date": "2026-11-18",
+    "entry_date": "2026-11-18",
+    "study_design": "動物実験",
+    "purpose": "",
+    "methods": "",
+    "results": "",
+    "conclusion": "",
+    "limitations": "無料版ではAbstractに明記された内容のみ確認できます。本文にのみ記載された限界は反映されません。",
+    "research_relevance": "カテーテル新技術に関連し、特に「coating」の観点から確認価値があります。",
+    "relevance_score": 2,
+    "keywords": [
+      "coating"
+    ],
+    "abstract_en": "Catheter-associated urinary tract infections (CAUTI) are predominantly driven by biofilm formation on indwelling devices, which significantly complicates treatment and contributes to high morbidity and mortality. The increasing antimicrobial resistance has intensified the need for novel therapeutic and preventive strategies. In this study, we investigated fluvoxamine, a selective serotonin-norepinephrine reuptake inhibitor, for its antibacterial and antibiofilm potential against Enterococcus faecalis, a common CAUTI pathogen. Fluvoxamine exhibited potent antibacterial activity with a minimum inhibitory concentration (MIC) of 12.5 µg/mL. Time-kill kinetics revealed rapid bactericidal activity within 1 h, and combination studies demonstrated synergistic effects with conventional antibiotics. Fluvoxamine significantly inhibited biofilm formation and eradicated up to 89% of preformed mature E. faecalis biofilms. Scanning electron microscopy (SEM) corroborated these findings, revealing substantial disruption of biofilm architecture and morphological damage to bacterial cells. In an in vitro catheter model, fluvoxamine-coated catheter tubes effectively reduced bacterial colonization and maintained antibacterial efficacy for up to 48 h. Confocal laser scanning microscopy (CLSM) combined with FDA/PI staining confirmed reduced biofilm thickness and increased proportion of dead cells. Molecular docking analysis indicated a strong binding affinity of fluvoxamine to key E. faecalis biofilm-associated adhesion proteins. Furthermore, quantitative RT-PCR analysis showed significant downregulation of biofilm-related genes, including GelE, EbpA, AS, and EfaA. Collectively, our findings demonstrate that fluvoxamine possesses promising antibacterial and antibiofilm properties and highlight its potential as a novel catheter-coating agent for the prevention and management of E. faecalis-associated CAUTI.",
+    "abstract_ja": "",
+    "detail_methods": "",
+    "detail_results": "",
+    "result_table": [
+      {
+        "item": "割合",
+        "value": "89%",
+        "source": "Fluvoxamine significantly inhibited biofilm formation and eradicated up to 89% of preformed mature E."
+      }
+    ],
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43051301/",
+    "doi_url": "https://doi.org/10.1080/08927014.2026.2763376",
+    "created_at": "2026-11-20T02:17:28.383061+00:00"
   },
   {
     "pmid": "43042043",
